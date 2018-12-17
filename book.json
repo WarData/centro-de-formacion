@@ -1,0 +1,46 @@
+{
+  " nombre " : " gitbook-plugin-asciitree " ,
+  " version " : " 1.0.9 " ,
+  " motores " : {
+    " gitbook " : " > = 2.5.0 "
+  }
+  " gitbook " : {
+    " propiedades " : {
+      " leadingChar " : {
+        " tipo " : " cadena " ,
+        "por defecto " : " - " ,
+        " description " : " carácter de sangría " .
+      }
+      " trimRight " : {
+        " tipo " : " booleano " ,
+        "por defecto " : falso ,
+        " description " : " trimRight "
+      }
+    }
+  }
+  " description " : " complemento de gitbook para convertir líneas sangradas en un árbol de directorios ascii " ,
+  " main " : " index.js " ,
+  " scripts " : {
+    " prueba " : " eco \" Error: no se especificó la prueba \ " && salida 1 "
+  }
+  " repositorio " : {
+    " tipo " : " git " ,
+    " url " : " git + https: //github.com/jianglibo/gitbook-plugin-asciitree.git "
+  }
+  " palabras clave " : [
+    " gitbook " ,
+    " plugin "
+  ]
+  " autor " : " jianglibo <jianglibo@gmail.com> (http://www.m3958.com/) " ,
+  " licencia " : " ISC " ,
+  " errores " : {
+    " url " : " https://github.com/jianglibo/gitbook-plugin-asciitree/issues "
+  }
+  " página de inicio " : " https://github.com/jianglibo/gitbook-plugin-asciitree#readme " ,
+  " dependencias " : {
+    " my-ascii-tree " : " ^ 1.0.14 "
+  }
+  " devDependencies " : {
+    " mocha " : " ^ 2.3.4 "
+  }
+}
