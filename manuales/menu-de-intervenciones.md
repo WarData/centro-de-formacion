@@ -2,16 +2,7 @@
 
 
 
-|  |
-| :--- |
-| ![](Menú%20intervenciones_archivos/image002.gif) |
-|  |
 
-|  |
-| :--- |
-
-
-Menú de Intervenciones.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
