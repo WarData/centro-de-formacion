@@ -41,3 +41,11 @@ describe('GitBook', function() {
     });
   });
 });
+{% asciitree %}
+app
+-main.js
+-helper.js
+-others
+--Brocfile.js
+package.json
+{% endasciitree %}
