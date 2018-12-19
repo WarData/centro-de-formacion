@@ -1,6 +1,18 @@
----
-description: Manuales - FAQs - Tutoriales
----
+# GitBook Plugin
 
-# Centro de Ayuda - Winmotor V7
+Hide the element that you don't want to see.
 
+## Usage
+
+```
+{
+    "plugins": [
+        "hide-element"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    }
+}
+```
