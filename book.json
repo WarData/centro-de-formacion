@@ -15,3 +15,21 @@ app
 --Brocfile.js
 package.json
 {% endasciitree %}
+{
+	    " gitbook " : " 2.xx " ,
+	    " plugins " : [],
+	    " enlaces " : {
+	        " barra lateral " : {
+	            " Contáctenos / Soporte " : " https://www.gitbook.com/contact "
+	        }
+	    }
+	    " pluginsConfig " : {}
+	} 
+{ %  asciitree  % }
+	aplicación
+	-main.js
+	-helper.js
+	-otros
+	--Brocfile.js
+	paquete.json
+	{ %  endasciitree  % }
