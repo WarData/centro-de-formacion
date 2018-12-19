@@ -7,3 +7,7 @@
 * [Estadísticas de producción de vehículos](manuales/estadisticas-de-produccion-de-vehiculos.md)
 * [Menú de Intervenciones](manuales/menu-de-intervenciones.md)
 
+## FAQ
+
+## Tutoriales
+
