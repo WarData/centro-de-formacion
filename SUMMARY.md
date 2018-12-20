@@ -11,6 +11,8 @@
 
 ## FAQ
 
+* [¿Es posible borrar cualquier factura?](faq/es-posible-borrar-cualquier-factura.md)
+
 ## Tutoriales
 
 * [Factura: cambio de la serie / número](tutoriales/factura-cambio-de-la-serie-numero.md)
