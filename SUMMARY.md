@@ -11,7 +11,7 @@
 
 ## FAQ
 
-* [¿Es posible borrar cualquier factura?](faq/es-posible-borrar-cualquier-factura.md)
+* [¿Es posible borrar cualquier factura?](faq/es-posible-borrar-cualquier-factura-1.md)
 
 ## Tutoriales
 
