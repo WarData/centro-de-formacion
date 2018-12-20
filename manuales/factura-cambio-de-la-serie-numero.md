@@ -12,7 +12,7 @@ Procedimiento:
 
 Pulsamos dicho botón y se nos abrirá un formulario de modificación donde podremos, o bien cambiar el número, o bien cambiar la serie poniendo la que queramos.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
                 Lógicamente se controlará que el número serie resultante tras el cambio no exista, en cuyo caso no se permitirá dicho cambio.
 
