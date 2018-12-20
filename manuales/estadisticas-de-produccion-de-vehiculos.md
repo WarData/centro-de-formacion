@@ -40,8 +40,6 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
-
 -          Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
 ![](../.gitbook/assets/image%20%2825%29.png)
