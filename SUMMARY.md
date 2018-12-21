@@ -4,6 +4,10 @@
 
 ## Manuales
 
+* [Gestión de la rotación de consumos y el stock mínimo de artículos](manuales/gestion-de-la-rotacion-de-consumos-y-el-stock-minimo-de-articulos.md)
+* [Series de Documentos](manuales/series-de-documentos.md)
+* [Permisos de Usuario](manuales/permisos-de-usuario.md)
+* [Configuración de Almacenes](manuales/configuracion-de-almacenes.md)
 * [Estadísticas de producción de vehículos](manuales/estadisticas-de-produccion-de-vehiculos.md)
 * [Cobros y Pagos en Tanda / Gestión de la Compensación](manuales/cobros-y-pagos-en-tanda-gestion-de-la-compensacion.md)
 * [Gestión de Anticipos](manuales/gestion-de-anticipos.md)
