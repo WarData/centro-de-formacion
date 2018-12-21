@@ -6,6 +6,7 @@
 
 * [Estadísticas de producción de vehículos](manuales/estadisticas-de-produccion-de-vehiculos.md)
 * [Cobros y Pagos en Tanda / Gestión de la Compensación](manuales/cobros-y-pagos-en-tanda-gestion-de-la-compensacion.md)
+* [Gestión de Anticipos](manuales/gestion-de-anticipos.md)
 * [Gestión de precios](manuales/gestion-de-precios.md)
 * [Control Presencial](manuales/control-presencial-fichaje-operarios.md)
 * [Menú de Intervenciones](manuales/menu-de-intervenciones.md)
