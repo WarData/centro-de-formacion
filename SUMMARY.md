@@ -4,6 +4,7 @@
 
 ## Manuales
 
+* [Declaración de importación](manuales/declaracion-de-importacion.md)
 * [Contabilización de Servicios Honda ARE](manuales/contabilizacion-de-servicios-honda-are.md)
 * [Campos Especiales en las Fichas de Servicios](manuales/campos-especiales-en-las-fichas-de-servicios.md)
 * [Gestión de la rotación de consumos y el stock mínimo de artículos](manuales/gestion-de-la-rotacion-de-consumos-y-el-stock-minimo-de-articulos.md)

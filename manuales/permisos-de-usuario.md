@@ -8,7 +8,7 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ·         Permisos específicos
 
@@ -30,5 +30,5 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
