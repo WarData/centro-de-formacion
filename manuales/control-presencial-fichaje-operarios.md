@@ -1,15 +1,15 @@
-# Control Presencial / Fichaje Operarios
+# Control Presencial
 
   
 Objetivo
 
-Se gestiona en este panel las entradas y salidas del personal de la empresa a su puesto de trabajo y/o fichaje de los operarios de taller. El control se realiza mediante la lectura del carné de cada trabajador en un panel \(panel de intervenciones\).
+Se gestiona en este panel las entradas y salidas del personal de la empresa a su puesto de trabajo. El control se realiza mediante la lectura del carné de cada trabajador en un panel \(panel de intervenciones\).
 
 Funcionamiento
 
 ·         **Impresión del carné**      
 
-Lo primero que hay que realizar, es la impresión del carné de cada trabajador. Lo podemos hacer desde la ficha de cada usuario u operario, en cualquiera de los formularios disponibles:
+Lo primero que hay que realizar, es la impresión del carné de cada trabajador. Lo podemos hacer desde la ficha de cada usuario, en cualquiera de los formularios disponibles:
 
 o   Barra opciones / opciones / mi configuración
 
