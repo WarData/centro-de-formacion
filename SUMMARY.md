@@ -23,6 +23,7 @@
 
 ## FAQ
 
+* [Flujo de Pedidos \(Ventas / Compras\)](faq/flujo-de-pedidos-ventas-compras.md)
 * [¿Es posible borrar cualquier factura?](faq/es-posible-borrar-cualquier-factura-1.md)
 
 ## Tutoriales
