@@ -5,6 +5,7 @@
 ## Manuales
 
 * [Estadísticas de producción de vehículos](manuales/estadisticas-de-produccion-de-vehiculos.md)
+* [Manual de Usuario de Contabilidad](manuales/manual-de-usuario-de-contabilidad.md)
 * [Cobros y Pagos en Tanda / Gestión de la Compensación](manuales/cobros-y-pagos-en-tanda-gestion-de-la-compensacion.md)
 * [Gestión de Anticipos](manuales/gestion-de-anticipos.md)
 * [Gestión de precios](manuales/gestion-de-precios.md)
