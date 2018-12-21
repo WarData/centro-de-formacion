@@ -9,7 +9,7 @@ o   Hay tres métodos para configurar la cuenta contable en un servicio \(se def
 
 ·         Se definen las cuentas en el formulario sin más
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 ·         Por serie de vehículo
 
@@ -25,11 +25,11 @@ o   Dentro de este tipo hay tres clases de servicios
 
 -          Ejemplo de ABONO POR MATRÍCULA
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 El programa tomará la cuenta contable de la serie relativa al vehículo:
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
                                Directa y analítica
 
@@ -37,13 +37,13 @@ El programa tomará la cuenta contable de la serie relativa al vehículo:
 
                 Trabajos externos – \(Pintura, tapizado, etc\)
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 Venta neumáticos
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 

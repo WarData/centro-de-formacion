@@ -4,6 +4,7 @@
 
 ## Manuales
 
+* [Gestión Integral de Stock y Flujo completo de Pedidos](manuales/gestion-integral-de-stock-y-flujo-completo-de-pedidos.md)
 * [Estadísticas de Producción de Vehículos](manuales/estadisticas-de-produccion-de-vehiculos-1.md)
 * [Declaración de importación](manuales/declaracion-de-importacion.md)
 * [Contabilización de Servicios Honda ARE](manuales/contabilizacion-de-servicios-honda-are.md)
