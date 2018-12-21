@@ -4,6 +4,7 @@
 
 ## Manuales
 
+* [Estadísticas de Producción de Vehículos](manuales/estadisticas-de-produccion-de-vehiculos-1.md)
 * [Declaración de importación](manuales/declaracion-de-importacion.md)
 * [Contabilización de Servicios Honda ARE](manuales/contabilizacion-de-servicios-honda-are.md)
 * [Campos Especiales en las Fichas de Servicios](manuales/campos-especiales-en-las-fichas-de-servicios.md)

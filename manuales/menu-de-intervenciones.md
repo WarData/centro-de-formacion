@@ -4,7 +4,7 @@
 
 
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 En el menú distinguimos 3 partes:
 
