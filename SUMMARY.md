@@ -4,6 +4,7 @@
 
 ## Manuales
 
+* [Campos Especiales en las Fichas de Servicios](manuales/campos-especiales-en-las-fichas-de-servicios.md)
 * [Gestión de la rotación de consumos y el stock mínimo de artículos](manuales/gestion-de-la-rotacion-de-consumos-y-el-stock-minimo-de-articulos.md)
 * [Series de Documentos](manuales/series-de-documentos.md)
 * [Permisos de Usuario](manuales/permisos-de-usuario.md)
