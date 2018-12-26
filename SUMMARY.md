@@ -134,8 +134,9 @@
 * [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
   * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
   * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
-* [Factura: cambio de la serie / número](tutoriales/factura-cambio-de-la-serie-numero.md)
-* [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
+* [Facturas](tutoriales/facturas/README.md)
+  * [Factura: cambio de la serie / número](tutoriales/facturas/factura-cambio-de-la-serie-numero.md)
+  * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas/factura-borrado-con-y-sin-cobro-asociado.md)
 
 ## FAQ
 
@@ -143,4 +144,8 @@
   * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
 * [Facturas](faq/facturas/README.md)
   * [¿Es posible borrar cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
+
+## Vídeos
+
+* [Métodos de Recepción de Pedidos](videos/metodos-de-recepcion-de-pedidos.md)
 
