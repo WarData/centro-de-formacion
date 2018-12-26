@@ -139,6 +139,8 @@
 
 ## FAQ
 
-* [Flujo de Pedidos \(Ventas / Compras\)](faq/flujo-de-pedidos-ventas-compras.md)
-* [¿Es posible borrar cualquier factura?](faq/es-posible-borrar-cualquier-factura.md)
+* [Pedidos](faq/pedidos/README.md)
+  * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
+* [Facturas](faq/facturas/README.md)
+  * [¿Es posible borrar cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
 
