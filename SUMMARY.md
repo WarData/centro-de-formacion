@@ -148,5 +148,12 @@
 ## Vídeos
 
 * [Exportar Listados a Excel](videos/exportar-listados-a-excel.md)
-* [Métodos de Recepción de Pedidos](videos/metodos-de-recepcion-de-pedidos.md)
+* [La orden de reparación \(OR\) - Todos los pasos y características principales](videos/la-orden-de-reparacion-or-todos-los-pasos-y-caracteristicas-principales.md)
+* [Alta de OR - Vídeo 1/3](videos/alta-de-or-video-1-3.md)
+* [Confirmación de OR - Vídeo 2/3](videos/confirmacion-de-or-video-2-3.md)
+* [Facturación de OR - Vídeo 3/3](videos/facturacion-de-or-video-3-3.md)
+* [Temparios Taller](videos/temparios-taller.md)
+* [Pedidos a Proveedor](videos/pedidos-a-proveedor.md)
+* [4 Métodos de Recepción de Pedidos](videos/metodos-de-recepcion-de-pedidos.md)
+* [Cómo aperturar / confirmar / cobrar y entregar operaciones comerciales](videos/como-aperturar-confirmar-cobrar-y-entregar-operaciones-comerciales.md)
 
