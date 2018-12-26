@@ -147,5 +147,6 @@
 
 ## Vídeos
 
+* [Exportar Listados a Excel](videos/exportar-listados-a-excel.md)
 * [Métodos de Recepción de Pedidos](videos/metodos-de-recepcion-de-pedidos.md)
 
