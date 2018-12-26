@@ -4,9 +4,10 @@
 
 ## Tutoriales
 
-* [Cómo crear un Importador de Tarifa por Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
-  * [Factura: cambio de la serie / número](tutoriales/como-crear-un-importador-de-tarifa-por-marca/factura-cambio-de-la-serie-numero.md)
-* [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
+* [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
+  * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
+  * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
+* [Factura: cambio de la serie / número](tutoriales/factura-cambio-de-la-serie-numero.md)
 * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
 
 ## Manuales
