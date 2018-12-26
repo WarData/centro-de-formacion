@@ -2,16 +2,32 @@
 
 * [Centro de Ayuda - Winmotor V7](README.md)
 
-## Tutoriales
+## Manual
 
-* [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
-  * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
-  * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
-* [Factura: cambio de la serie / número](tutoriales/factura-cambio-de-la-serie-numero.md)
-* [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
-
-## Manuales
-
+* [Presentación](manuales/presentacion.md)
+* [Configuración](manuales/configuracion/README.md)
+  * [Parámetros](manuales/configuracion/parametros.md)
+  * [Series de Documentos](manuales/configuracion/series-de-documentos.md)
+  * [Ejercicios](manuales/configuracion/ejercicios.md)
+  * [Opciones Especiales](manuales/configuracion/opciones-especiales.md)
+  * [Empresas](manuales/configuracion/empresas.md)
+  * [Usuarios](manuales/configuracion/usuarios.md)
+  * [Regímenes de IVA](manuales/configuracion/regimenes-de-iva.md)
+  * [Centros de Trabajo](manuales/configuracion/centros-de-trabajo.md)
+  * [Tipos AEAT](manuales/configuracion/tipos-aeat.md)
+* [Submaestros](manuales/submaestros.md)
+* [Maestros](manuales/maestros.md)
+* [Almacenes](manuales/almacenes.md)
+* [Compras](manuales/compras.md)
+* [Ventas](manuales/ventas.md)
+* [Taller](manuales/taller.md)
+* [Laboratorio](manuales/laboratorio.md)
+* [Comercial de Vehículos](manuales/comercial-de-vehiculos.md)
+* [Administración](manuales/administracion.md)
+* [Cuadro de Mandos](manuales/cuadro-de-mandos.md)
+* [Comunicaciones](manuales/comunicaciones.md)
+* [Web](manuales/web.md)
+* [Recursos Humanos](manuales/recursos-humanos.md)
 * [Operativa General Distribución Multicentro](manuales/operativa-general-distribucion-multicentro.md)
 * [Gestión Integral de Stock y Flujo completo de Pedidos](manuales/gestion-integral-de-stock-y-flujo-completo-de-pedidos.md)
 * [Estadísticas de Producción de Vehículos](manuales/estadisticas-de-produccion-de-vehiculos-1.md)
@@ -28,6 +44,14 @@
 * [Gestión de precios](manuales/gestion-de-precios.md)
 * [Control Presencial](manuales/control-presencial-fichaje-operarios.md)
 * [Menú de Intervenciones](manuales/menu-de-intervenciones.md)
+
+## Tutoriales
+
+* [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
+  * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
+  * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
+* [Factura: cambio de la serie / número](tutoriales/factura-cambio-de-la-serie-numero.md)
+* [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
 
 ## FAQ
 
