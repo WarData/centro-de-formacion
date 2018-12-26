@@ -1,0 +1,2 @@
+# Tipos de Relación
+
