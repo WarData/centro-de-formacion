@@ -6,7 +6,7 @@
 
 ## ¿Y si sólo quiero modificar los datos de la cabecera de la factura?
 
-En este enlace a manuales puedes encontrar [cómo cambiar los datos de cabecera](https://winmotor.gitbook.io/project/tutoriales/factura-cambio-de-la-serie-numero)
+En este enlace a manuales puedes encontrar [cómo cambiar los datos de cabecera](https://winmotor.gitbook.io/project/tutoriales/facturas/factura-cambio-de-la-serie-numero)
 
 
 
