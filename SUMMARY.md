@@ -64,7 +64,7 @@
   * [Tarifas de Ventas](manuales/maestros/tarifas-de-ventas.md)
   * [Tarifas de Compras](manuales/maestros/tarifas-de-compras.md)
 * [Almacenes](manuales/almacenes/README.md)
-  * [Configuración](manuales/almacenes/configuracion-1.md)
+  * [Configuración](manuales/almacenes/configuracion.md)
 * [Compras](manuales/compras/README.md)
   * [Propuesta](manuales/compras/propuesta.md)
   * [Pedidos](manuales/compras/pedidos/README.md)
