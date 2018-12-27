@@ -1,8 +1,6 @@
 # Cómo importar una Tarifa desde el Importador de la Marca
 
-**Una vez hayamos creado o tengamos creado desde inicio un importador de una marca según el enlace inferior al tutorial\*, ya sólo nos queda adaptar el archivo de la tarifa e importarlo según las siguientes instrucciones.**
-
-{% embed url="https://winmotor.gitbook.io/project/tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca" %}
+**Una vez hayamos creado o tengamos creado desde inicio un importador de una marca según el enlace en el pie de página \(izquierda\), ya sólo nos queda adaptar el archivo de la tarifa e importarlo según las siguientes instrucciones.**
 
 **Tenemos 2 tipos de ficheros posibles a importar:**
 
