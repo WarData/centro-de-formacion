@@ -2,7 +2,7 @@
 
 **Operativa general de pedidos**
 
-![](../../../.gitbook/assets/image%20%2873%29.png)
+![](../../../.gitbook/assets/image%20%2875%29.png)
 
 El diagrama refleja la siguiente operativa:
 

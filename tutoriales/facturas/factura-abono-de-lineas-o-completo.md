@@ -8,7 +8,7 @@ El proceso para abonar líneas de una factura es el siguiente:
 
 2.- Pulsamos en el botón inferior "ABONAR" que abrirá una nueva ventana con las líneas y cantidades abonables \(hay que tener en cuenta, que una factura puede tener líneas con cantidades ya abonadas que hay que volver a abonar\).
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
 3.- Si queremos abonar parte o el total de una línea pulsamos dos veces \(doble clic\) sobre la línea, abriéndose la siguiente ventana:
 
@@ -30,7 +30,7 @@ Aquí tenemos la factura de abono:
 
 6.- Para **abonar una factura completa** \(todo lo abonable\) iríamos al paso 2.- y **pulsaríamos en "Abonar todo" y luego en "Si":**
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 Aquí tenemos la factura de abono por el total de la factura \(en este caso no tenía cobro por lo que no genera factura de abono con cobro - devolución\):
 
