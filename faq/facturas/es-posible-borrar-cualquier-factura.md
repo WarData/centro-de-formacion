@@ -8,5 +8,7 @@
 
 Usa la búsqueda \(parte superior derecha\) e introduce: [cómo cambiar los datos de cabecera](https://winmotor.gitbook.io/project/tutoriales/facturas/factura-cambio-de-la-serie-numero)
 
+## ¿Puedo abonar parte de una línea de factura en lugar de la línea entera?
 
+Tenemos un tutorial al respecto. Localízalo en tutoriales o usa la búsqueda introduciendo: abono de líneas
 
