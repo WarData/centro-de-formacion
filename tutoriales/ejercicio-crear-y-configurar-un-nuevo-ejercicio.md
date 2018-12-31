@@ -10,7 +10,7 @@ Pulsamos en "Nuevo" dentro del apartado "Ejercicios" y nos aparece la siguiente 
 
 Ponemos el código que queramos según nuestro propio sistema \(nosotros usamos los dos últimos caracteres del año\), pulsamos en "Aceptar", proponiendo una fecha de inicio y fin de ejercicio. Posteriormente preguntará si crea los contadores, a lo que diremos "Si".
 
-La creación de contadores resuelve la duplicidad de series en V6, la cual obligaba a crear una serie nueva cada año. En la nueva versión Winmotor V7 se crear los contadores, con lo cual las mismas series aparecerán con el código nuevo \(FV19, AVR19...\).
+La creación de contadores resuelve la duplicidad de series en V6, la cual obligaba a crear una serie nueva cada año. En la nueva versión Winmotor V7 se crear los contadores, con lo cual las mismas series aparecerán con el número de documento / presentación de serie \(FV19, AVR19...\).
 
 ![](../.gitbook/assets/image%20%2844%29.png)
 
