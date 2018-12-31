@@ -1,4 +1,4 @@
-# ¿Es posible borrar cualquier factura?
+# ¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?
 
 ## ¿Puedo borrar cualquier factura en cualquier momento?
 
@@ -8,7 +8,11 @@
 
 Usa la búsqueda \(parte superior derecha\) e introduce: [cómo cambiar los datos de cabecera](https://winmotor.gitbook.io/project/tutoriales/facturas/factura-cambio-de-la-serie-numero)
 
-## ¿Puedo abonar parte de una línea de factura en lugar de la línea entera?
+## ¿Puedo abonar parte de una línea de factura en lugar de la línea entera o la factura completa?
 
-Tenemos un tutorial al respecto. Localízalo en tutoriales o usa la búsqueda introduciendo: abono de líneas
+Tenemos un tutorial al respecto. Localízalo en tutoriales o usa la búsqueda introduciendo: [abono de líneas](https://winmotor.gitbook.io/project/tutoriales/facturas/factura-abono-de-lineas-o-completo)
+
+## Quiero cambiar el contenido de la factura, ¿podría añadir o quitar una línea?
+
+Si, abriendo la factura, desfacturando para poder modificar el origen de la factura \(albarán u OR\) y modificando dicho origen. También podría servir abono de líneas.
 
