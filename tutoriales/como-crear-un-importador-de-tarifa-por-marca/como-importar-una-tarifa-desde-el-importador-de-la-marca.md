@@ -14,7 +14,7 @@
 
 ![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%2822%29.png)
 
-![Tarifa sin modificar](../../.gitbook/assets/image%20%28111%29.png)
+![Tarifa sin modificar](../../.gitbook/assets/image%20%28112%29.png)
 
 **En el archivo de la tarifa, debemos eliminar logos y las líneas superiores, dejando como primera filas los títulos de las columnas \(referencia, artículo, precio, descuento, etc...\), a fin de que quede como la siguiente imagen:**
 

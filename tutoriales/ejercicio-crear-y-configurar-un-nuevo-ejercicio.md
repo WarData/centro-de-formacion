@@ -1,6 +1,6 @@
 # Ejercicio - Crear y configurar un nuevo ejercicio
 
-En el cambio de ejercicio, debemos ir a Configuración &gt; Ejercicios:
+En el cambio de ejercicio, debemos ir a **Configuración &gt; Ejercicios**:
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
@@ -14,10 +14,11 @@ La creación de contadores resuelve la duplicidad de series en V6, la cual oblig
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
-Ahora en Configuración &gt; Parámetros debemos seleccionar el nuevo ejercicio añadido:
+Ahora en **Configuración &gt; Parámetros** debemos seleccionar el nuevo ejercicio añadido:
 
 ![Al guardar y reiniciar, aparecer&#xE1; tambi&#xE9;n sustituido el a&#xF1;o en la barra de herramientas de informaciones](../.gitbook/assets/image%20%2855%29.png)
 
-  
+**En Configuración &gt; Series** podremos entrar con doble clic en cualquiera de ellas, ir a la pestaña de "Contadores" y elegir en qué número empezar, si por 0 o continuar con la numeración del año anterior:
 
+![](../.gitbook/assets/image%20%28103%29.png)
 
