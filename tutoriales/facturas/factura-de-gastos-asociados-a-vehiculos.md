@@ -1,0 +1,22 @@
+# Factura: de gastos asociados a vehículos
+
+En toda Operación / Tráfico de venta de vehículo se generan una serie de gastos asociados como matriculación, que normalmente **los genera una entidad tipo acreedor.**
+
+Estas facturas de gastos se encuentran en **Administración &gt; Gastos**:
+
+![](../../.gitbook/assets/image%20%2870%29.png)
+
+Creamos un nuevo albarán de gastos para el **SERVICIO "Matriculación"** por un importe de 100 €uros:
+
+![](../../.gitbook/assets/image%20%2875%29.png)
+
+Una vez que añadamos la línea de gasto "Matriculación" nos aparece en la parte izquierda de la ventana emergente un + verde que nos permite indicar en qué bastidor irá asignado el gasto:
+
+![](../../.gitbook/assets/image%20%2873%29.png)
+
+Quedaría de la siguiente forma:
+
+![](../../.gitbook/assets/image%20%2830%29.png)
+
+![En la parte inferior del albar&#xE1;n nos aparece la opci&#xF3;n de &quot;Facturar&quot;](../../.gitbook/assets/image%20%2864%29.png)
+

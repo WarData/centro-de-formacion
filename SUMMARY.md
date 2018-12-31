@@ -124,6 +124,7 @@
   * [Factura: abono de líneas o completo](tutoriales/facturas/factura-abono-de-lineas-o-completo.md)
   * [Factura: cambiar contenido](tutoriales/facturas/factura-cambiar-contenido.md)
   * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas/factura-borrado-con-y-sin-cobro-asociado.md)
+  * [Factura: de gastos asociados a vehículos](tutoriales/facturas/factura-de-gastos-asociados-a-vehiculos.md)
 * [Ejercicio - Crear y configurar un nuevo ejercicio](tutoriales/ejercicio-crear-y-configurar-un-nuevo-ejercicio.md)
 
 ## FAQ
