@@ -4,11 +4,11 @@ En éste tutorial vamos a crear un importador para una marca en particular.
 
  De ésta forma habrá uno o varios importadores almacenados para las marcas que la empresa gestione y posteriormente ir actualizando las nuevas tarifas con sólo pulsar un botón y modificar el archivo para adecuarlo al importador creado.
 
-![Abrir &quot;Maestros&quot; &amp;gt; abrir &quot;Tarifa de art&#xED;culos&quot;](../../.gitbook/assets/image%20%2863%29.png)
+![Abrir &quot;Maestros&quot; &amp;gt; abrir &quot;Tarifa de art&#xED;culos&quot;](../../.gitbook/assets/image%20%2864%29.png)
 
-![Pulsar en F4 o en el bot&#xF3;n &quot;F4 Importador&quot;](../../.gitbook/assets/image%20%2882%29.png)
+![Pulsar en F4 o en el bot&#xF3;n &quot;F4 Importador&quot;](../../.gitbook/assets/image%20%2883%29.png)
 
-![En la nueva pesta&#xF1;a pulsar en F1 o bot&#xF3;n &quot;F1 Nuevo&quot;](../../.gitbook/assets/image%20%2869%29.png)
+![En la nueva pesta&#xF1;a pulsar en F1 o bot&#xF3;n &quot;F1 Nuevo&quot;](../../.gitbook/assets/image%20%2870%29.png)
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
@@ -24,17 +24,17 @@ Le damos un nombre al importador \(recomendamos relacionarlo con la marca de la 
 
 ![ARCHIVOS EXCEL: COLUMNA ORIGEN A \(ENUMERAR COLUMNAS CON LETRAS\)](../../.gitbook/assets/image%20%2851%29.png)
 
-![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%2887%29.png)
+![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%2888%29.png)
 
 ![Tarifa sin modificar](../../.gitbook/assets/image%20%286%29.png)
 
 **En el archivo de la tarifa, debemos eliminar logos y las líneas superiores, dejando como primera filas los títulos de las columnas \(referencia, artículo, precio, descuento, etc...\), a fin de que quede como la siguiente imagen:**
 
-![Tarifa modificada](../../.gitbook/assets/image%20%28116%29.png)
+![Tarifa modificada](../../.gitbook/assets/image%20%28117%29.png)
 
 En la pestaña "Líneas", pulsamos doble clic o botón derecho "Alta de línea" y procedemos a añadir las columnas que deseamos importar de la tarifa. **En este caso vamos a NO IMPORTAR la columna D que son los precios sin IVA por lo que añadiremos 4 altas de línea relacionadas con cada campo a importar \(referencia, nombre, tipo de artículo y precio de venta\)**
 
-![Una vez rellenos los datos, preparado el archivo de la tarifa seg&#xFA;n las instrucciones y a&#xF1;adidas las l&#xED;neas, pulsamos en el bot&#xF3;n &quot;IMPORTAR&quot;](../../.gitbook/assets/image%20%2865%29.png)
+![Una vez rellenos los datos, preparado el archivo de la tarifa seg&#xFA;n las instrucciones y a&#xF1;adidas las l&#xED;neas, pulsamos en el bot&#xF3;n &quot;IMPORTAR&quot;](../../.gitbook/assets/image%20%2866%29.png)
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 

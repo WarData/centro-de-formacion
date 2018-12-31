@@ -72,7 +72,7 @@ Las condiciones especiales de un cliente prevalecerán sobre su tarifa, por lo t
 
 **Ofertas**
 
-![](../../../.gitbook/assets/image%20%2892%29.png)
+![](../../../.gitbook/assets/image%20%2893%29.png)
 
 Una oferta es un documento especial con una fecha de caducidad. La oferta se define con el mismo formulario de líneas de tarifas que utilizamos en los documentos anteriores pero la oferta prevalece sobre cualquier condición definida para un producto o grupo de productos. Es decir, si en una tarifa hemos definido un descuento para una familia “X” y utilizamos esa misma familia en una oferta, las condiciones aquí definidas prevalecerán sobre la tarifa o las condiciones especiales de un cliente. Como excepción a esta norma hay que tener en cuenta que si un cliente tiene marcado en su ficha que su tarifa es “de exclusividad” no se tendrán en cuenta para él las condiciones definidas en ofertas.
 
@@ -116,7 +116,7 @@ Imaginemos que hemos definido para un artículo sus artículos dependientes que 
 
 **Consultas de condiciones de ventas**
 
-![](../../../.gitbook/assets/image%20%2897%29.png)
+![](../../../.gitbook/assets/image%20%2898%29.png)
 
 Para facilitar la consulta de los posibles precios de un artículo contamos con una utilidad en el formulario del artículo: la consulta de precios. Al pulsar ese botón el programa calculará según todas las condiciones de ventas que pueden afectar al artículo su precio final y las presentará en el orden en el que hemos indicado que se calculan en los documentos.
 
