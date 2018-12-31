@@ -1,0 +1,30 @@
+# Factura: abono de líneas o completo
+
+El proceso para abonar líneas de una factura es el siguiente:
+
+1.- Abrimos la factura sobre la que vayamos a abonar una línea o parte de la línea.
+
+![](../../.gitbook/assets/image%20%2847%29.png)
+
+Pulsamos en el botón inferior "ABONAR" que abrirá una nueva ventana con las líneas y cantidades abonables \(hay que tener en cuenta, que una factura puede tener líneas con cantidades ya abonadas que hay que volver a abonar\).
+
+![](../../.gitbook/assets/image%20%2879%29.png)
+
+Si queremos abonar parte o el total de una línea pulsamos dos veces \(doble clic\) sobre la línea, abriéndose la siguiente ventana:
+
+![](../../.gitbook/assets/image%20%288%29.png)
+
+En "Un. a abonar" \(unidades a abonar\), introducimos la cantidad a abonar, pudiendo elegir parte o el total de la línea. En este caso vamos a abonar el total de una línea que generará una factura de abono:
+
+![Vemos en la ventana como ha cambiado la situaci&#xF3;n de &quot;Ptes.abono&quot; \(pendientes de abono\) a las unidades seleccionadas](../../.gitbook/assets/image%20%2828%29.png)
+
+Pulsamos en "Crear abono selección" y al preguntarnos si lo realiza pulsamos en "Si":
+
+![](../../.gitbook/assets/image%20%2815%29.png)
+
+Aquí tenemos la factura de abono:
+
+![](../../.gitbook/assets/image%20%2840%29.png)
+
+**Los cobros son independientes. Una factura aún no cobrada puede crear factura/s de abono, las cuales no generarán cobros pendientes. Las cobradas como la de nuestro ejemplo, ha generado una factura de abono con un cobro pendiente \(negativo - devolución\) como se puede ver en el color verde de la máquina registradora "Cobrar".**
+

@@ -121,6 +121,7 @@
   * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
 * [Facturas](tutoriales/facturas/README.md)
   * [Factura: cambio de la serie / número](tutoriales/facturas/factura-cambio-de-la-serie-numero.md)
+  * [Factura: abono de líneas o completo](tutoriales/facturas/factura-abono-de-lineas-o-completo.md)
   * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas/factura-borrado-con-y-sin-cobro-asociado.md)
 
 ## FAQ
