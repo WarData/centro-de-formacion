@@ -6,7 +6,7 @@ Estas facturas de gastos se encuentran en **Administración &gt; Gastos**:
 
 ![](../../.gitbook/assets/image%20%2870%29.png)
 
-Creamos un nuevo albarán de gastos para el **SERVICIO "Matriculación"** por un importe de 100 €uros:
+Creamos un nuevo albarán de gastos para el **SERVICIO "Matriculación"** por un importe de 100 €uros, como ejemplo, que es lo que nos cobra la entidad acreedora "Gestoría Malagueña" por el servicio:
 
 ![](../../.gitbook/assets/image%20%2875%29.png)
 
