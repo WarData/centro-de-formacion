@@ -129,10 +129,10 @@
 
 ## FAQ
 
+* [Ordenes de Reparación \(ORs\)](faq/ordenes-de-reparacion-ors.md)
 * [Pedidos](faq/pedidos/README.md)
   * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
 * [Facturas](faq/facturas/README.md)
-  * [Ordenes de Reparación \(OR\)](faq/facturas/ordenes-de-reparacion-or.md)
   * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
 
 ## Vídeos

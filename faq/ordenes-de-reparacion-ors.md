@@ -1,4 +1,4 @@
-# Ordenes de Reparación \(OR\)
+# Ordenes de Reparación \(ORs\)
 
 ## Imprimo la OR para el taller, pero no me salen los códigos de barras de cada imputación o partida, ¿qué tengo que hacer?
 
