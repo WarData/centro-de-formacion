@@ -2,7 +2,7 @@
 
 **Una vez hayamos creado o tengamos creado desde inicio un importador de una marca según el enlace en el pie de página \(izquierda\), ya sólo nos queda adaptar el archivo de la tarifa e importarlo según las siguientes instrucciones.**
 
-**\*\*\* Si ha seguido los pasos de "Crear un Importador de Tarifa de Marca" habrá introducido en observaciones qué ha modificado en el archivo Excel o Texto de la tarifa. En caso de que no lo tenga incluido, recomendamos incorporar las modificaciones de la tarifa para poder importarla dentro del importador, en la pestaña "Observaciones".**
+**\*\*\* Si ha seguido los pasos de "Crear un Importador de Tarifa de Marca" habrá introducido en observaciones qué ha modificado en el archivo Excel o Texto de la tarifa. En caso de que no lo tenga incluido, recomendamos incorporar las modificaciones y características de importación de la tarifa \(columnas, qué se elimina, etc...\) para poder importarla dentro del importador, en la pestaña "Observaciones".**
 
 **Tenemos 2 tipos de ficheros posibles a importar:**
 
