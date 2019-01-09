@@ -4,7 +4,7 @@
 
 Para visualizar y poder imprimir los códigos de las partidas o imputaciones de las OR tenéis que instalar un programa llamado **ZINT**: 
 
-\(copiar y pegar en un navegador el siguiente\) [https://github.com/downloads/zint/zint/Setup\_Zint\_2.4.2.0.exe](https://github.com/downloads/zint/zint/Setup_Zint_2.4.2.0.exe)
+\(copiar y pegar en un navegador la siguiente URL\) [https://github.com/downloads/zint/zint/Setup\_Zint\_2.4.2.0.exe](https://github.com/downloads/zint/zint/Setup_Zint_2.4.2.0.exe)
 
 Al salir la ventana final de la instalación donde veréis un código de barras, podéis cerrar dicha ventana y listo, ya podréis ver los códigos de barras en las ORs impresas o PDF.
 
