@@ -20,5 +20,5 @@ Ahora en **Configuración &gt; Parámetros** debemos seleccionar el nuevo ejerci
 
 **En Configuración &gt; Series** podremos entrar con doble clic en cualquiera de ellas, ir a la pestaña de "Contadores" y elegir en qué número empezar, si por 0 o continuar con la numeración del año anterior:
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
