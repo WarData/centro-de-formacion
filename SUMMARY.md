@@ -116,6 +116,10 @@
 
 ## Tutoriales
 
+* [Partes de Almacén - Inventarios  y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
+  * [Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/traspasos.md)
+  * [Parte Libre](tutoriales/partes-de-almacen-inventarios-y-traspasos/parte-libre.md)
+  * [Inventarios](tutoriales/partes-de-almacen-inventarios-y-traspasos/inventarios.md)
 * [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
   * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
   * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
