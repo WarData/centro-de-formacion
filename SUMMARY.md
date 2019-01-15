@@ -85,7 +85,6 @@
     * [Proceso General de Pedidos](manuales/taller/ordenes-de-reparacion/proceso-general-de-pedidos.md)
   * [Secciones de Taller](manuales/taller/secciones-de-taller.md)
   * [Temparios](manuales/taller/temparios.md)
-* [Laboratorio](manuales/laboratorio.md)
 * [Comercial de Vehículos](manuales/comercial-de-vehiculos/README.md)
   * [Operaciones](manuales/comercial-de-vehiculos/operaciones.md)
   * [Tramitaciones](manuales/comercial-de-vehiculos/tramitaciones.md)

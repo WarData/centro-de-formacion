@@ -6,6 +6,8 @@ description: >-
 
 # Partes de Almacén - Inventarios  y Traspasos
 
+Creemos muy importante leer la documentación referida a **almacenes**  y su **configuración** en el manual: utilizar la búsqueda introduciendo "Configuración" en la parte superior derecha.
+
 Los partes de almacén son los documentos de entrada y salida de un almacén que no han sido generados por una compra o venta \(albarán\). 
 
 **Traspasos**: son debidos a cambios de localización entre ubicaciones o almacenes de la misma empresa.
