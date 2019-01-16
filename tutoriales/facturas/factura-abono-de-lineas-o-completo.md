@@ -1,12 +1,12 @@
 # Factura: abono de líneas o completo
 
-El proceso para abonar líneas de una factura es el siguiente:
+El proceso para [abonar](../../manuales/submaestros/administracion-1/motivos-de-abono.md) líneas de una factura es el siguiente:
 
 1.- Abrimos la factura sobre la que vayamos a abonar una línea o parte de la línea.
 
 ![](../../.gitbook/assets/image%20%2859%29.png)
 
-2.- Pulsamos en el botón inferior "ABONAR" que abrirá una nueva ventana con las líneas y cantidades abonables \(hay que tener en cuenta, que una factura puede tener líneas con cantidades ya abonadas que hay que volver a abonar\).
+2.- Pulsamos en el botón inferior "[ABONAR](../../manuales/submaestros/administracion-1/motivos-de-abono.md)" que abrirá una nueva ventana con las líneas y cantidades abonables \(hay que tener en cuenta, que una factura puede tener líneas con cantidades ya abonadas que hay que volver a abonar\).
 
 ![](../../.gitbook/assets/image%20%28107%29.png)
 

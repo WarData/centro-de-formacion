@@ -2,7 +2,7 @@
 
 Requerimientos previos.
 
-Para poder modificar la serie o el número de factura, lo primero es que esta tiene que estar pendiente de cobro, de modo que si está cobrada \(entera o en parte\) deberemos eliminar los cobros registrados.
+Para poder modificar la [serie](../../manuales/configuracion/series-de-documentos.md) o el número de factura, lo primero es que esta tiene que estar pendiente de cobro, de modo que si está cobrada \(entera o en parte\) deberemos eliminar los cobros registrados.
 
 Procedimiento:
 

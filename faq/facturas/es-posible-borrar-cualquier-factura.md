@@ -2,11 +2,11 @@
 
 ## ¿Puedo borrar cualquier factura en cualquier momento?
 
- Si, pero es importante tener en cuenta si lleva asociados pagos y uno o más albaranes y/o ORs. Más información aquí &gt; usa la búsqueda \(parte superior derecha\) e introduce: [factura \(con y sin cobro\)​](https://winmotor.gitbook.io/project/tutoriales/facturas/factura-borrado-con-y-sin-cobro-asociado)
+ Si, pero es importante tener en cuenta si lleva asociados pagos y uno o más albaranes y/o ORs. Más información aquí &gt; [factura \(con y sin cobro\)​](../../tutoriales/facturas/factura-borrado-con-y-sin-cobro-asociado.md)
 
 ## ¿Y si sólo quiero modificar los datos de la cabecera de la factura?
 
-Usa la búsqueda \(parte superior derecha\) e introduce: [cómo cambiar los datos de cabecera](https://winmotor.gitbook.io/project/tutoriales/facturas/factura-cambio-de-la-serie-numero)
+Usa la búsqueda \(parte superior derecha\) e introduce: [cómo cambiar los datos de cabecera](../../tutoriales/facturas/factura-cambiar-contenido.md)
 
 ## ¿Puedo abonar parte de una línea de factura en lugar de la línea entera o la factura completa?
 
