@@ -2,7 +2,7 @@
 
 ## Imprimo la OR para el taller, pero no me salen los códigos de barras de cada imputación o partida, ¿qué tengo que hacer?
 
-Para visualizar y poder imprimir los códigos de las partidas o imputaciones de las OR tenéis que instalar un programa llamado [**ZINT**](https://github.com/downloads/zint/zint/Setup_Zint_2.4.2.0.exe​): 
+Para visualizar y poder imprimir los códigos de las partidas o imputaciones de las OR tenéis que instalar un programa llamado **ZINT**: 
 
 \(copiar y pegar en un navegador la siguiente URL\) [https://github.com/downloads/zint/zint/Setup\_Zint\_2.4.2.0.exe](https://github.com/downloads/zint/zint/Setup_Zint_2.4.2.0.exe)
 
