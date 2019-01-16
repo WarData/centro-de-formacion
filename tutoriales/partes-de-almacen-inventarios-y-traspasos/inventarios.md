@@ -1,6 +1,6 @@
 # Inventarios
 
-Vamos a ver el proceso para crear un inventario en un almacén de la empresa \(recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta\).
+Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa \(recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta\).
 
 Podemos incorporar el inventario directamente incluyendo artículos a las líneas del parte de Winmotor o importando un archivo de texto \(.txt\) en el botón indicado de la siguiente imagen. El formato del archivo de texto será: referencia,unidades \(ejemplo &gt; BS10265,25\):
 

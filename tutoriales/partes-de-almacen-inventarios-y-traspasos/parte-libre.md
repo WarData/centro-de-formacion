@@ -2,7 +2,7 @@
 
 Vamos a ver el proceso para crear un traspaso libre en un almacén de la empresa.
 
-Dentro de almacenes &gt; Partes de almacén &gt; abrimos el panel de inventarios:
+Dentro de [Almacenes](../../manuales/almacenes/) &gt; [Partes de almacén](./) &gt; abrimos el panel de inventarios:
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
