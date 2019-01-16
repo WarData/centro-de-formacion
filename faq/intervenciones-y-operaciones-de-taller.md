@@ -6,27 +6,27 @@ Panel de Intervenciones general activo
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-**Pasar el carné del operario siempre que no aparezca su nombre en el panel y luego pasar la intervención / partida de la OR o alguna de las operaciones de taller \***
+**Pasar el carné del operario siempre que no aparezca su nombre en el panel y luego pasar la** [**intervención**](../manuales/taller/intervenciones.md) **/ partida de la OR o alguna de las** [**operaciones de taller**](../manuales/taller/operaciones-de-taller.md) **\***
 
 Pestaña "Intervenciones" dentro de la OR \(exclusivo para esa orden de reparación\)
 
 ![](../.gitbook/assets/image%20%28105%29.png)
 
-## Cuando algún operario realiza operaciones no imputables \* u operaciones de taller \* a una OR o está de baja médica, ¿cómo puedo añadir esas operaciones a Winmotor?
+## Cuando algún operario realiza operaciones no imputables \* u [operaciones de taller](../manuales/taller/operaciones-de-taller.md) \* a una OR o está de baja médica, ¿cómo puedo añadir esas operaciones a Winmotor?
 
-**Las operaciones de taller son aquellas que no son imputables a una OR y afectan a cualquier operario o usuario con carné para acceder al control presencial, como limpieza de taller, bajas médicas, vacaciones, días libres, desayuno, comida, cursos de formación, etc...**
+**Las** [**operaciones de taller**](../manuales/taller/operaciones-de-taller.md) **son aquellas que no son imputables a una OR y afectan a cualquier operario o usuario con carné para acceder al** [**control presencial**](../manuales/recursos-humanos/control-presencial.md)**, como limpieza de taller, bajas médicas, vacaciones, días libres, desayuno, comida, cursos de formación, etc...**
 
 Se crean en el apartado Taller &gt; Maestros \(Panel de Operaciones de Taller\)
 
 ![](../.gitbook/assets/image%20%28114%29.png)
 
-En la siguiente imagen os mostramos algunos ejemplos. Cada operación de taller puede imprimirse simplemente seleccionadola y pulsando en el botón inferior "Imprimir Seleccionada" \(imprimirá un documento similar en formato al carné del operario, pero con una operación de taller concreta\)
+En la siguiente imagen os mostramos algunos ejemplos. Cada operación de taller puede imprimirse simplemente seleccionándola y pulsando en el botón inferior "Imprimir Seleccionada" \(imprimirá un documento similar en formato al carné del operario, pero con una [operación de taller](../manuales/taller/operaciones-de-taller.md) concreta\)
 
 ![](../.gitbook/assets/image%20%28131%29.png)
 
 **Recomendamos imprimir y plastificar todos y dejarlos en una zona accesible cerca de la pistola de código de barras para su uso cotidiano.**
 
-Si quisiéramos modificar, introducir o comprobar los fichajes por fechas, iremos a Taller &gt; Panel de Órdenes de Reparación &gt; Listados &gt; Intervenciones
+Si quisiéramos modificar, introducir o comprobar los fichajes por fechas, iremos a Taller &gt; Panel de Órdenes de Reparación &gt; Listados &gt; [Intervenciones](../manuales/taller/intervenciones.md)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
@@ -34,7 +34,7 @@ Se abre una ventana con posibles filtros para generar listados generales o parti
 
 ![](../.gitbook/assets/image%20%28138%29.png)
 
-Y al pulsar "Aceptar" a los filtros seleccionados se abre un listado de operaciones donde aparecerán el conjunto de operaciones relacionadas con ORs, operaciones de taller y con un doble clic podremos crear nuevas operaciones de taller por operario / día determinado
+Y al pulsar "Aceptar" a los filtros seleccionados se abre un listado de operaciones donde aparecerán el conjunto de operaciones relacionadas con ORs, operaciones de taller y con un doble clic podremos crear nuevas [operaciones de taller ](../manuales/taller/operaciones-de-taller.md)por operario / día determinado
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
