@@ -1,6 +1,6 @@
 # ¿Cómo uso las Intervenciones y Operaciones de Taller?
 
-## Las [intervenciones](../manuales/taller/intervenciones.md) del operario \(mecánico\) puedo introducirlas en el panel de [intervenciones](../manuales/taller/intervenciones.md) mediante el carné de operario o de forma manual en la OR, al igual que las operaciones de taller \*
+## Las [intervenciones](../manuales/taller/intervenciones.md) del operario \(mecánico\) puedo introducirlas en el panel de [intervenciones](../manuales/taller/intervenciones.md) mediante el carné de operario o de forma manual en la OR, al igual que las [operaciones de taller](../manuales/taller/operaciones-de-taller.md) \*
 
 Panel de Intervenciones general activo
 
