@@ -17,7 +17,7 @@ description: >-
 
 4.- Como queremos que esta ayuda sea interactiva, **hemos incorporado una encuesta al final de cada apartado mediante 3 caras \(aún en inglés, pero en breve actualizarán a español\), mal, suficiente, bien**. Os rogamos nos hagáis llegar vuestras sensaciones para mejorar, así como indicarnos nuevos tutoriales y FAQ \(preguntas frecuentes\) que queráis que incorporemos al Centro de Ayuda Winmotor.
 
-Traducción: Was this page helpful? Let us know how we did 
+**Traducción: Was this page helpful? Let us know how we did** 
 
-\(¿Te sirvió de ayuda esta página? Haznos saber cómo lo hicimos\)
+**\(¿Te sirvió de ayuda esta página? Haznos saber cómo lo hicimos\)**
 
