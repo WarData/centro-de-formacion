@@ -60,7 +60,7 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 ![](../../.gitbook/assets/image%20%28125%29.png)
 
--          E indicar la posibilidad de creación y modificación de todos los informes para mayor o menor detalle. Como este que muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
+-          Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
