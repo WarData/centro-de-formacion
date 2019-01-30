@@ -138,6 +138,7 @@
   * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
 * [Facturas](faq/facturas/README.md)
   * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
+* [Impresión de Etiquetas \(3 métodos\)](faq/impresion-de-etiquetas.md)
 * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
 
 ## Vídeos
