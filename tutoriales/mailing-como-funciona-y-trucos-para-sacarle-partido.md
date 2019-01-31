@@ -26,7 +26,7 @@ En el cuerpo del mensaje podremos incluir el texto que queramos o incluso un có
 
 En la pestaña "Destinatarios" haciendo doble clic podremos añadir entidades una a una, más abajo podremos obtener el listado completo de entidades usado en anteriores mailings \(botón inferior "Importar destinatarios desde otro mailing\) y otra forma es directamente desde listados:
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 Desde los listados, como por ejemplo desde "Maestros" &gt; "Entidades" &gt; podemos crear directamente con las entidades filtradas un nuevo mailing o añadir las entidades seleccionadas a uno existente, al cual podremos añadir más de forma manual como en la imagen anterior:
 
