@@ -8,7 +8,7 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 **Gestión**
 
-En este gráfico se muestran las tablas que intervienen en la estructura del módulo:
+En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
 ![](../../.gitbook/assets/image%20%28139%29.png)
 
