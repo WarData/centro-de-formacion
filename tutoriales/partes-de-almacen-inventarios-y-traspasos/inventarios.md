@@ -12,7 +12,7 @@ Dentro de almacenes &gt; Partes de almacén &gt; abrimos el panel de inventarios
 
 Una vez creamos un parte de almacén nuevo, para realizar un inventario simplemente seleccionamos dicha opción, elegimos almacén a inventariar \(volvemos a recomendar el almacén global para inventarios\) y comenzamos a añadir artículos:
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 Todas las líneas tienen el mismo stock que el inventario salvo la última línea, a la que hemos añadido un artículo. Al introducir la referencia y tabular, el programa nos indica las ubicaciones del artículo dentro del almacén principal si hay más de una o pone directamente la única disponible y las unidades en stock. Si hay diferencia, únicamente tendremos que indicar el total resultante del inventario.
 

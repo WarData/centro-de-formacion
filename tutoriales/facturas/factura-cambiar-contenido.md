@@ -36,5 +36,5 @@ El albarán, una vez quitado de la factura es modificable, por lo que podemos el
 
 ![Hemos a&#xF1;adido al albar&#xE1;n de referencia AVR2018-69 un casco](../../.gitbook/assets/image%20%28142%29.png)
 
-![Al a&#xF1;adir albar&#xE1;n vemos como hemos modificado el contenido de la factura con un casco](../../.gitbook/assets/image%20%28155%29.png)
+![Al a&#xF1;adir albar&#xE1;n vemos como hemos modificado el contenido de la factura con un casco](../../.gitbook/assets/image%20%28156%29.png)
 
