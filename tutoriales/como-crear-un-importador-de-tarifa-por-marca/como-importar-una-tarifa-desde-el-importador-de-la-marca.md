@@ -16,7 +16,7 @@
 
 ![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%2834%29.png)
 
-![Tarifa sin modificar](../../.gitbook/assets/image%20%28166%29.png)
+![Tarifa sin modificar](../../.gitbook/assets/image%20%28167%29.png)
 
 **En el archivo de la tarifa, debemos eliminar logos y las líneas superiores, dejando como primera filas los títulos de las columnas \(referencia, artículo, precio, descuento, etc...\), a fin de que quede como la siguiente imagen:**
 
@@ -26,7 +26,7 @@
 
 En la pestaña "Líneas", pulsamos doble clic o botón derecho "Alta de línea" y procedemos a añadir las columnas que deseamos importar de la tarifa. **En este caso vamos a NO IMPORTAR la columna D que son los precios sin IVA por lo que añadiremos 4 altas de línea relacionadas con cada campo a importar \(referencia, nombre, tipo de artículo y precio de venta\)**
 
-![Una vez rellenos los datos, preparado el archivo de la tarifa seg&#xFA;n las instrucciones y a&#xF1;adidas las l&#xED;neas, pulsamos en el bot&#xF3;n &quot;IMPORTAR&quot;](../../.gitbook/assets/image%20%28141%29.png)
+![Una vez rellenos los datos, preparado el archivo de la tarifa seg&#xFA;n las instrucciones y a&#xF1;adidas las l&#xED;neas, pulsamos en el bot&#xF3;n &quot;IMPORTAR&quot;](../../.gitbook/assets/image%20%28142%29.png)
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 

@@ -18,11 +18,11 @@ Arriba vemos una imagen donde podemos filtrar por marca, familias, etc... Cuando
 
 Seleccionamos una o varias líneas y pulsamos en el botón "Seleccionar etiquetas a imprimir":
 
-![](../.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 
 Sobre la propuesta de impresión que visualizamos ahora, al pulsar en los campos "PVP" y "Unidades a imprimir" de cada artículo, podemos variar dichos campos para ajustar precio de venta y cantidad de etiquetas a imprimir \(por defecto siempre indica el total del stock físico\):
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 Ahora seleccionamos las referencias que queremos imprimir \(check-it a la izquierda de la referencia\) y pulsamos en el botón inferior "Imprimir etiquetas":
 

@@ -10,7 +10,7 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
