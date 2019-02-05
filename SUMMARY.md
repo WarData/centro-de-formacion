@@ -110,7 +110,7 @@
 * [Cuadro de Mandos](manuales/cuadro-de-mandos.md)
 * [Comunicaciones](manuales/comunicaciones.md)
 * [Web](manuales/web.md)
-* [Recursos Humanos](manuales/recursos-humanos/README.md)
+* [NOVEDAD: Nuevo Módulo Recursos Humanos](manuales/recursos-humanos/README.md)
   * [Control Presencial](manuales/recursos-humanos/control-presencial.md)
 
 ## Tutoriales

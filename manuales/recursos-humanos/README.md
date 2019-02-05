@@ -1,4 +1,4 @@
-# Recursos Humanos
+# NOVEDAD: Nuevo Módulo Recursos Humanos
 
 **Objetivo**
 
