@@ -52,7 +52,7 @@ En el siguiente campo “Subdepartamento” definiremos el departamento de empre
 
 El campo nombre con fondo gris se rellenará automáticamente con los datos anteriormente grabados.
 
-A continuación, se nos pide “Tiempo mínimo para una cita \(minutos\)”: tendremos que definir por lo tanto el tiempo mínimo para el que daremos una cita; en el ejemplo hemos definido 15 minutos. Esto no sólo implica que no podremos dar citas de menos de 15 minutos, sino que todas las citas que demos serán de un múltiplo de este tiempo: partiendo de esta cifra podremos dar citas de 15,30,45 …… minutos.
+A continuación, se nos pide “Tiempo mínimo para una cita \(minutos\)”: tendremos que definir por lo tanto el tiempo mínimo para el que daremos una cita; en el ejemplo hemos definido 15 minutos. Esto no sólo implica que no podremos dar citas de menos de 15 minutos, sino que todas las citas que demos serán de un múltiplo de este tiempo: partiendo de esta cifra podremos dar citas de 15, 30 ,45...minutos.
 
 El siguiente campo es para indicar al programa si permitiremos que se puedan calcular “citas partidas”:  imaginemos que tenemos para un día sólo dos huecos libres, de 11:00 a 11:30 y de 17:00 a 18:30, si un cliente nos solicita una cita de dos horas para este día sólo se la podremos asignar en caso de que este campo esté marcado. Es importante recalcar que luego en el formulario de la cita se podrá desmarcar el permiso puesto que no siempre es factible que una cita pueda partirse. Es decir, al marcar este campo cuando vayamos a dar una cita ésta por defecto también lo mantendrá marcado y podremos por lo tanto darle partida, pero en la cita se puede desmarcar con lo que el programa buscaría sólo citas continuas.
 
@@ -66,5 +66,5 @@ Haciendo doble clic en la rejilla de Jornadas iremos definiendo estos datos por 
 
 ![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)
 
-Aunque no tiene mucho sentido el programa contempla que para un mismo día se puedan definir hasta cuatro horarios. Es fundamental entender que éstos no se pueden pisar, es decir, no podemos definir un horario de mañana que termine a las 14:00 y un horario de tarde que empiece a las 13:30.
+Aunque no tiene mucho sentido, el programa contempla que para un mismo día se puedan definir hasta cuatro horarios. Es fundamental entender que éstos no se pueden pisar, es decir, no podemos definir un horario de mañana que termine a las 14:00 y un horario de tarde que empiece a las 13:30.
 
