@@ -1,3 +1,7 @@
+---
+description: '*** Manual en fase de desarrollo ***'
+---
+
 # NOVEDAD: Nuevo Módulo Recursos Humanos
 
 **Objetivo**
