@@ -38,9 +38,28 @@ Permisos según el “Nivel del usuario”
 
 ![](../../../.gitbook/assets/image%20%28124%29.png)
 
-·         Permisos específicos
+\*\*\* Permisos específicos:
 
-§   
+* Visible columna 'importe compra', 'pre-entrega', 'gastos', 'ingresos varios', 'ingresos otros productos', 'beneficio' en estadísticas de vehículos
+* Pestaña estadísticas de documentos de venta
+* Listados analíticos en el panel de tesorería
+* Ver el costo en líneas de albaranes de venta
+* Presentación del costo en líneas de ORs relativas a artículos
+* Edición especial de precio en líneas de ORs
+* Consulta de auditorías de documentos, maestros y eventos
+* Eventos: borrado
+* Ver los cierres de cuentas de tesorería
+* Abrir facturas
+* Abrir un asiento de caja
+* Abrir una remesa
+* Edición de parámetros en panel de rotación de artículos.
+* Apertura de inventarios
+* Entidades
+  * Rejilla de opciones especiales de entidades
+  * Modificar dirección de la empresa
+  * Editar ficha de la empresa
+  * Ver pestaña de configuración del operario de una entidad
+  * Ver pestaña de configuración web de entidades
 
 -          **MEDIO**
 
@@ -50,9 +69,8 @@ Permisos según el “Nivel del usuario”
 
 ·         Permisos específicos
 
-§  Botón  “Desbloquear “ en el formulario de pedidos de venta.
-
-§  **Automoción**: acciones especiales de compras \(acceso desde el panel de compras\).
+* Botón  “Desbloquear “ en el formulario de pedidos de venta.
+* **Automoción**: acciones especiales de compras \(acceso desde el panel de compras\).
 
 -          **BÁSICO**
 
