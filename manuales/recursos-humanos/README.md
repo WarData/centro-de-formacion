@@ -14,13 +14,13 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+![](../../.gitbook/assets/image%20%28157%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 Haciendo doble clic en la rejilla que aparece con el título “HORARIOS” en el menú de recursos humanos podremos crear las distintas fichas.
 

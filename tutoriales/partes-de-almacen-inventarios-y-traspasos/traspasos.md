@@ -8,17 +8,17 @@ Dentro de [Almacenes](../../manuales/almacenes/) &gt; [Partes de almacén](./) &
 
 Una vez creamos un parte de almacén nuevo, para realizar un traspaso simplemente seleccionamos dicha opción, elegimos almacén de salida a la izquierda y almacén de entrada a la derecha, pulsamos en F1 Nueva entrada / salida y añadimos el artículo a traspasar:
 
-![](../../.gitbook/assets/image%20%28126%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 
 El introducir el artículo y las unidades, pulsando "Aceptar" se genera la entrada y salida automáticamente:
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 Si el almacén principal incluye ubicaciones o sub-almacenes con stock de dicha referencia, saldrá una nueva ventana donde tendremos que hacer doble clic en la ubicación que genera la salida:
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 
 Finalmente nos aparece el movimiento interno:
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
