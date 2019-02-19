@@ -1,22 +1,21 @@
+---
+description: Módulo adicional a la Contabilidad Integrada
+---
+
 # Contabilidad Analítica
 
-## **Contabilidad analítica – centros de costes**
+## **Contabilidad Analítica – Centros de Costes**
 
 Para que este módulo esté activado en el programa debe solicitarlo a Winmotor, es opcional. Una vez activado aparecerán en el menú de contabilidad las siguientes opciones:
 
-·         Analítica
+**Analítica**
 
-o   Centros de costes
-
-o   Costes
-
-o   Balance analítico
-
-o   Desviaciones presupuestarias
-
-o   Crear repartos
-
-o   Eliminar repartos
+* Centros de costes
+* Costes
+* Balance analítico
+* Desviaciones presupuestarias
+* Crear repartos
+* Eliminar repartos
 
 **Centros de costes**
 
@@ -62,7 +61,7 @@ El cálculo por cuotas fijas es tan fácil como pasar a la derecha los centros a
 
 Por lo demás para el alta de centros de costes no hay que definir mucho más a excepción de las partidas presupuestarias que las veremos al llegar a esa opción. Las dos primeras pestañas “Asientos” y “Saldos” son para consulta, aparecerán los aplicados a cada centro y la opción para plantillas en centros de costes aún no es funcional.
 
-Costes
+**Costes**
 
 La opción en sí es simplemente para consulta y listado de asientos de costes, no podemos grabar directamente en ella. Al entrar aparecerá una pantalla parecida a la de diario de asientos donde podremos filtrar por fechas, centro de costes y posibles estados de los asientos \(Pendiente de repartir, reparto realizado o generado por reparto\).
 
@@ -94,7 +93,7 @@ Nos presentará los saldos de los distintos centros de costes detallado por mese
 
 ![](../../../.gitbook/assets/image%20%2811%29.png)
 
-Desviaciones presupuestarias
+Desviaciones presupuestarias \(en fase de programación\)
 
 **Crear reparto**
 
@@ -144,7 +143,7 @@ o   En el centro de reparto definimos los centros destino de reparto y la cuota 
 
 o   En este caso el cálculo es mucho más sencillo: el programa simplemente calculará ese porcentaje sobre el importe a repartir y creará un asiento por cada centro destino del reparto.
 
-Eliminar reparto
+**Eliminar reparto**
 
 Con esta opción simplemente deshacemos un reparto previamente calculado. Se puede utilizar en cualquier momento especificando los siguientes datos:
 
