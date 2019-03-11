@@ -16,7 +16,7 @@ El introducir el artículo y las unidades, pulsando "Aceptar" se genera la entra
 
 Si el almacén principal incluye ubicaciones o sub-almacenes con stock de dicha referencia, saldrá una nueva ventana donde tendremos que hacer doble clic en la ubicación que genera la salida:
 
-![](../../.gitbook/assets/image%20%28170%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
 Finalmente nos aparece el movimiento interno:
 

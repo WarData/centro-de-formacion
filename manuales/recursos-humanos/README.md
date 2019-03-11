@@ -1,5 +1,7 @@
 # NOVEDAD: Nuevo Módulo Recursos Humanos
 
+![](../../.gitbook/assets/image%20%28175%29.png)
+
 **Objetivo**
 
 En este módulo se resuelve la gestión del personal de la empresa a efectos de controlar vacaciones, bajas, calendario laboral individual y el control presencial de cada trabajador.
@@ -10,13 +12,13 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
-![](../../.gitbook/assets/image%20%28166%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 Haciendo doble clic en la rejilla que aparece con el título “HORARIOS” en el menú de recursos humanos podremos crear las distintas fichas.
 
@@ -40,7 +42,7 @@ Partiendo de la ficha de empresa o de centro en caso de distribución multicentr
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
 
-![](../../.gitbook/assets/image%20%28209%29.png)
+![](../../.gitbook/assets/image%20%28211%29.png)
 
 ![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
@@ -72,7 +74,11 @@ Aunque no tiene mucho sentido, el programa contempla que para un mismo día se p
 
 **Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH \(departamentos laborales, jornadas, etc...\)
 
-![](../../.gitbook/assets/image%20%28206%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
+**Una vez finalizada la configuración debemos ir a "Configuración" &gt; Listar ejercicios &gt; entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar.** 
 
+Finalizado el proceso anterior, al pulsar en la opción RRHH obtenemos este panel de Recursos Humanos completo en el que podremos gestionar citas por día, mes, año, operario, disponibilidad y un largo etcétera que iremos viendo a lo largo de este manual:
+
+![](../../.gitbook/assets/image%20%28157%29.png)
 

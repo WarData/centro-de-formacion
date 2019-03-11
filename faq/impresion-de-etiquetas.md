@@ -18,11 +18,11 @@ Arriba vemos una imagen donde podemos filtrar por marca, familias, etc... Cuando
 
 Seleccionamos una o varias líneas y pulsamos en el botón "Seleccionar etiquetas a imprimir":
 
-![](../.gitbook/assets/image%20%28198%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
 Sobre la propuesta de impresión que visualizamos ahora, al pulsar en los campos "PVP" y "Unidades a imprimir" de cada artículo, podemos variar dichos campos para ajustar precio de venta y cantidad de etiquetas a imprimir \(por defecto siempre indica el total del stock físico\):
 
-![](../.gitbook/assets/image%20%28176%29.png)
+![](../.gitbook/assets/image%20%28178%29.png)
 
 Ahora seleccionamos las referencias que queremos imprimir \(check-it a la izquierda de la referencia\) y pulsamos en el botón inferior "Imprimir etiquetas":
 
@@ -36,7 +36,7 @@ Abrimos el albarán de compras que contenga los artículos que queremos imprimir
 
 La siguiente ventana nos permite seleccionar uno o más artículos a imprimir mediante selección o imprimir todo el contenido del albarán a etiquetas:
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28158%29.png)
 
 Al pulsar en cualquiera de los dos sistemas de impresión nos llevará al diálogo de la impresora mientras no tengamos configurado la impresión lógica de etiquetas a una determinada impresora \(para cualquiera de los 3 métodos aquí explicados\)
 
@@ -48,7 +48,7 @@ Una vez localizada la ficha del artículo del que queremos imprimir las etiqueta
 
 En la ventana emergente nos aparecen el número de etiquetas igual al stock físico del artículo:
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 Aceptamos y el programa nos permite variar el precio de venta al público que se imprimirá en la etiqueta:
 
