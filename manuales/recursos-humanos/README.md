@@ -1,7 +1,3 @@
----
-description: '*** Manual en fase de desarrollo ***'
----
-
 # NOVEDAD: Nuevo Módulo Recursos Humanos
 
 **Objetivo**
@@ -14,13 +10,13 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28169%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 Haciendo doble clic en la rejilla que aparece con el título “HORARIOS” en el menú de recursos humanos podremos crear las distintas fichas.
 
@@ -32,7 +28,7 @@ Normalmente para una empresa o centro habrá por tanto que definir el horario de
 
 Desde la ficha del centro en caso de distribución multicentro o la de la empresa, entrando en la pestaña “Festivos” podremos definirlos.
 
-![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 Para definir los días festivos a partir del calendario laboral de la ciudad en la que esté la empresa o el centro daremos de alta una ficha por cada día, definiendo el nombre de la festividad y la fecha. Para la fecha usaremos el botón que aparece remarcado y quedará registrada sin el año.
 
@@ -43,6 +39,8 @@ Por último, hay que definir si se trata de una festividad nacional o local. En 
 Partiendo de la ficha de empresa o de centro en caso de distribución multicentro y de un departamento o sección \(taller, comercial, recambios, boutique\) se crean los distintos departamentos laborales. Para tener claro el concepto un departamento laboral será por lo tanto una sección de una empresa o de un departamento de una empresa; es decir, podemos crear por ejemplo el departamento “Taller” de una tienda o en caso de que queramos manejar distintas agendas podemos crear “subdepartamentos” como podría ser “Taller– chapa” y “Taller-electrónica”.
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
+
+![](../../.gitbook/assets/image%20%28209%29.png)
 
 ![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
@@ -58,13 +56,23 @@ El siguiente campo es para indicar al programa si permitiremos que se puedan cal
 
 Una vez definidos los datos de cabecera hay que crear:
 
-Jornadas- se define el horario que tendremos en cada día de la semana que sea laborable:
+**Jornadas** - se define el horario que tendremos en cada día de la semana que sea laborable:
 
-![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 Haciendo doble clic en la rejilla de Jornadas iremos definiendo estos datos por cada día:
 
-![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 Aunque no tiene mucho sentido, el programa contempla que para un mismo día se puedan definir hasta cuatro horarios. Es fundamental entender que éstos no se pueden pisar, es decir, no podemos definir un horario de mañana que termine a las 14:00 y un horario de tarde que empiece a las 13:30.
+
+**Operarios** - Se asignan al departamento laboral de los disponibles según el tipo de entidad. Aquellas entidades marcadas como "operarios" se podrán asignar a cualquiera de los departamentos creados entrando en la pestaña de la propia entidad "Operario" e introduciendo el código del departamento.
+
+![](../../.gitbook/assets/image%20%28119%29.png)
+
+**Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH \(departamentos laborales, jornadas, etc...\)
+
+![](../../.gitbook/assets/image%20%28206%29.png)
+
+
 
