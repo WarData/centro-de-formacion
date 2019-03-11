@@ -18,7 +18,7 @@ Pulsamos en el botón "Traspasar stock" que hay en la parte inferior de la rejil
 
 Pulsamos en continuar y observamos en la nueva ventana emergente el traspaso completo entre diferentes ubicaciones:
 
-![](../../.gitbook/assets/image%20%28162%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 Pulsamos en "Confirmar" y luego "Si". Con esto finalizamos el traspaso \(queda guardado en los partes de almacén para su registro\) y verificamos el resultado en la ficha del artículo:
 
