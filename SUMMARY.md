@@ -111,8 +111,9 @@
 * [Cuadro de Mandos](manuales/cuadro-de-mandos.md)
 * [Comunicaciones](manuales/comunicaciones.md)
 * [Web](manuales/web.md)
-* [NOVEDAD: Nuevo Módulo Recursos Humanos](manuales/recursos-humanos/README.md)
-  * [Control Presencial](manuales/recursos-humanos/control-presencial.md)
+* [Recursos Humanos](manuales/recursos-humanos-1/README.md)
+  * [Configuración Módulo Recursos Humanos](manuales/recursos-humanos-1/recursos-humanos.md)
+  * [Control Presencial](manuales/recursos-humanos-1/control-presencial.md)
 
 ## Tutoriales
 

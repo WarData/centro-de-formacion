@@ -1,4 +1,11 @@
-# NOVEDAD: Nuevo Módulo Recursos Humanos
+---
+description: >-
+  Este apartado del manual comprende la configuración del módulo de RRHH,
+  basándose en el departamento de taller. La clave de este módulo es que se
+  puede configurar cualquier departamento de la empresa.
+---
+
+# Configuración Módulo Recursos Humanos
 
 ![](../../.gitbook/assets/image%20%28179%29.png)
 
