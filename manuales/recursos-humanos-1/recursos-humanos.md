@@ -1,8 +1,7 @@
 ---
 description: >-
-  Este apartado del manual comprende la configuración del módulo de RRHH,
-  basándose en el departamento de taller. La clave de este módulo es que se
-  puede configurar cualquier departamento de la empresa.
+  La clave de este módulo es que se puede configurar cualquier departamento de
+  la empresa. Para el desarrollo de este manual nos hemos basado en el Taller.
 ---
 
 # Configuración Módulo Recursos Humanos
