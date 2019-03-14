@@ -113,6 +113,7 @@
 * [Web](manuales/web.md)
 * [Recursos Humanos](manuales/recursos-humanos-1/README.md)
   * [Configuración Módulo Recursos Humanos](manuales/recursos-humanos-1/recursos-humanos.md)
+  * [Uso de la Agenda de Taller sobre RRHH](manuales/recursos-humanos-1/uso-de-la-agenda-de-taller-sobre-rrhh.md)
   * [Control Presencial](manuales/recursos-humanos-1/control-presencial.md)
 
 ## Tutoriales
