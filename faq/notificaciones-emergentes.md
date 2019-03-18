@@ -14,7 +14,7 @@ Será precisa la instalación del paquete Java \(primer enlace\) y Java JDK \(se
 
 {% embed url="https://www.java.com/es/download/manual.jsp" %}
 
-Java JDK buscar para Mac OS X \(x64\)
+Java JDK buscar para Mac OS X \(x64\):
 
 {% embed url="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" %}
 
