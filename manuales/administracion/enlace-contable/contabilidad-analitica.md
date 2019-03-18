@@ -21,15 +21,15 @@ Para que este módulo esté activado en el programa debe solicitarlo a Winmotor,
 
 Lo primero a decidir es el criterio para crear los centros de costes: para el ejemplo hemos tomado uno de los más claros: crearemos un centro por cada tienda de la empresa. Definiremos por lo tanto primero un centro de costes “genérico” con esta raíz:
 
-![](../../../.gitbook/assets/image%20%28103%29.png)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
 Antes de definir los criterios de reparto en este centro tendremos que definir un centro por cada tienda de la empresa:
 
-![](../../../.gitbook/assets/image%20%28108%29.png)
+![](../../../.gitbook/assets/image%20%28109%29.png)
 
 Los centros tienen estructura arbolada lo que hace más fácil su visualización: de ahí que los códigos de los centros de las tiendas empiecen con el prefijo “TIE-“.
 
-![](../../../.gitbook/assets/image%20%28102%29.png)
+![](../../../.gitbook/assets/image%20%28103%29.png)
 
 Una vez definida la estructura de nuestros centros \(contamos sólo en la empresa en este caso con dos tiendas\), pasamos a definir el criterio de reparto. La operativa de funcionamiento es como sigue:
 
@@ -65,21 +65,21 @@ Por lo demás para el alta de centros de costes no hay que definir mucho más a 
 
 La opción en sí es simplemente para consulta y listado de asientos de costes, no podemos grabar directamente en ella. Al entrar aparecerá una pantalla parecida a la de diario de asientos donde podremos filtrar por fechas, centro de costes y posibles estados de los asientos \(Pendiente de repartir, reparto realizado o generado por reparto\).
 
-![](../../../.gitbook/assets/image%20%2868%29.png)
+![](../../../.gitbook/assets/image%20%2869%29.png)
 
 Vamos a ver por lo tanto cómo se graban estos asientos utilizando para el ejemplo un asiento de compras que vamos a repercutir al centro de reparto “TIE”:
 
 ·         Al grabar el apunte de compras en un asiento **pulsaremos el botón con el ojo** al lado de “Costes”
 
-![](../../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28170%29.png)
 
 ·         Al pulsar el botón aparecerá esta pantalla
 
-![](../../../.gitbook/assets/image%20%28137%29.png)
+![](../../../.gitbook/assets/image%20%28138%29.png)
 
 ·         Pulsaremos el botón “+” y aparecerá esta pantalla para grabar el centro y el importe a imputar:
 
-![](../../../.gitbook/assets/image%20%28159%29.png)
+![](../../../.gitbook/assets/image%20%28160%29.png)
 
 ·         Hemos definido en este apunte de costes el centro “TIE” que es un centro de reparto y el importe total de la compra: 2.000€.
 
@@ -99,11 +99,11 @@ Desviaciones presupuestarias \(en fase de programación\)
 
 Al ejecutar la opción de crear repartos el programa presenta el siguiente filtro para el cálculo:
 
-![](../../../.gitbook/assets/image%20%28151%29.png)
+![](../../../.gitbook/assets/image%20%28152%29.png)
 
 Al aceptar el programa realizará los cálculos correspondientes y presentará el resultado del reparto:
 
-![](../../../.gitbook/assets/image%20%28200%29.png)
+![](../../../.gitbook/assets/image%20%28201%29.png)
 
 Podemos ver como ha repartido el gasto de 2.000€ imputado al centro genérico “TIE” entre la tienda de Sevilla y Málaga según el saldo de la cuenta 700 en las delegaciones de Sevilla y Málaga.
 
@@ -147,7 +147,7 @@ o   En este caso el cálculo es mucho más sencillo: el programa simplemente cal
 
 Con esta opción simplemente deshacemos un reparto previamente calculado. Se puede utilizar en cualquier momento especificando los siguientes datos:
 
-![](../../../.gitbook/assets/image%20%28138%29.png)
+![](../../../.gitbook/assets/image%20%28139%29.png)
 
 Al aceptar el programa eliminará el reparto especificado y dará el mensaje de fin.
 

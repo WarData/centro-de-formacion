@@ -1,5 +1,7 @@
 # Notificaciones Emergentes
 
+![](../.gitbook/assets/image%20%2845%29.png)
+
 ## Me envían mensajes internos y no me sale la notificación \(PC\)
 
 Será precisa la instalación del paquete Java desde la web de Oracle:
