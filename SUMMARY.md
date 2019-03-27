@@ -146,6 +146,7 @@
 * [Impresión de Etiquetas \(3 métodos\)](faq/impresion-de-etiquetas.md)
 * [Notificaciones Emergentes](faq/notificaciones-emergentes.md)
 * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
+* [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
 
 ## Vídeos
 
