@@ -163,4 +163,5 @@
 ## Manuales Auxiliares
 
 * [Manual Velneo vReport](manuales-auxiliares/manual-velneo-vreport.md)
+* [Manual de Usuario Contabilidad](manuales-auxiliares/manual-de-usuario-contabilidad.md)
 
