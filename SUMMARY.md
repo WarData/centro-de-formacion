@@ -160,3 +160,7 @@
 * [4 Métodos de Recepción de Pedidos](videos/metodos-de-recepcion-de-pedidos.md)
 * [Cómo aperturar / confirmar / cobrar y entregar operaciones comerciales](videos/como-aperturar-confirmar-cobrar-y-entregar-operaciones-comerciales.md)
 
+## Manuales Auxiliares
+
+* [Manual Velneo vReport](manuales-auxiliares/manual-velneo-vreport.md)
+
