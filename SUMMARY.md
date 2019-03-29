@@ -141,6 +141,7 @@
 * [Ordenes de Reparación \(ORs\)](faq/ordenes-de-reparacion-ors.md)
 * [Pedidos](faq/pedidos/README.md)
   * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
+  * [Uso del campo "Referencia" en Pedidos de Ventas](faq/pedidos/uso-del-campo-referencia-en-pedidos-de-ventas.md)
 * [Facturas](faq/facturas/README.md)
   * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
 * [Impresión de Etiquetas \(3 métodos\)](faq/impresion-de-etiquetas.md)
