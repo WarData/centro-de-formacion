@@ -10,23 +10,23 @@ El diagrama refleja la siguiente operativa:
 
 2.        Al confirmar el documento \(pedido u orden de reparación\) la aplicación analiza la situación de stock de cada uno de los artículos incluidos y según haya o no stock disponible lo reservará o generará los correspondientes pedidos a proveedor.
 
-·         En caso de que haya stock disponible el documento generará una “reserva”, quiere decir, acumulará en el stock reservado del artículo la cantidad necesitada por el cliente.
+·        En caso de que haya stock disponible el documento generará una “reserva”, quiere decir, acumulará en el stock reservado del artículo la cantidad necesitada por el cliente.
 
 ·         En caso de no haber stock disponible se entra en el proceso de generación de pedidos a proveedor que se ejecuta de la siguiente forma :
 
-§   No existen pedidos al proveedor del artículo : se crea un nuevo pedido y se añade la línea del artículo
+                A.- No existen pedidos al proveedor del artículo : se crea un nuevo pedido y se añade la línea del artículo
 
-§   Existen pedidos al proveedor del artículo
+                B.- Existen pedidos al proveedor del artículo
 
 ·         El pedido no está tramitado: se añade la línea del artículo, o si ya hay una línea con el mismo artículo se suma la cantidad pedida por el cliente a la pedida a proveedor.
 
 ·         El pedido está tramitado
 
-o    Hay material pendiente de recibir no asignado a otros pedidos de clientes : se reserva de este material pendiente de recibir para el pedido de ventas
+                 A.- Hay material pendiente de recibir no asignado a otros pedidos de clientes : se reserva de este material pendiente de recibir para el pedido de ventas
 
-o    No hay material pendiente de recibir no asignado a cliente: se ejecuta el primer paso, generación de un nuevo pedido al proveedor.
+                 B.- No hay material pendiente de recibir no asignado a cliente: se ejecuta el primer paso, generación de un nuevo pedido al proveedor.
 
-o    Si hacemos en este momento doble click en la línea del pedido de ventas o la orden,  la aplicación nos muestra en la lista de seguimientos uno con la acción “Pedido a proveedor” donde podremos ver en qué pedido se ha tramitado la línea.
+                 C.- Si hacemos en este momento doble click en la línea del pedido de ventas o la orden,  la aplicación nos muestra en la lista de seguimientos uno con la acción “Pedido a proveedor” donde podremos ver en qué pedido se ha tramitado la línea.
 
 3.        Al recibir el pedido de proveedor se genera un albarán de entrada
 
