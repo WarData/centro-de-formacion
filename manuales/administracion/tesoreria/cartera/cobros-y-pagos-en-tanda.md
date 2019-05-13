@@ -6,11 +6,11 @@ Esta operativa comienza por definir en parámetros las cuentas contables para la
 
 * Parámetros – Administración - contables
 
-![](../../../../.gitbook/assets/image%20%28200%29.png)
+![](../../../../.gitbook/assets/image%20%28209%29.png)
 
 Una vez definidos estos parámetros la operativa es igual para cobros y pagos. Vamos a detallar a continuación cómo se utiliza esta opción desde la cartera de cobros, entendiéndose que es idéntica la operativa para la cartera de pagos.
 
-![](../../../../.gitbook/assets/image%20%2876%29.png)
+![](../../../../.gitbook/assets/image%20%2877%29.png)
 
 Para cobrar varios efectos se sigue el siguiente procedimiento:
 
@@ -24,7 +24,7 @@ o    Los registros deben cumplir estas premisas:
 
 ·         Una vez estando seleccionados los registros pulsamos abajo en el botón “Cobrar “ y aparecerá el siguiente formulario
 
-![](../../../../.gitbook/assets/image%20%28118%29.png)
+![](../../../../.gitbook/assets/image%20%28122%29.png)
 
 La aplicación nos propone como importe a cobrar la suma de los importes pendientes de todos los registros seleccionados. Para darlos por cobrados basta con especificar la cuenta de cobro. En el campo concepto aparecerá el que esté parametrizado por defecto como concepto de cobro de facturas.
 
@@ -32,7 +32,7 @@ Al aceptar el formulario se creará un registro de tesorería por el importe tot
 
 En caso de que el importe cobrado no sea exactamente la suma de los importes pendientes tendremos que modificar el “importe recibido” y el formulario cambiará de la siguiente forma:
 
-![](../../../../.gitbook/assets/image%20%28108%29.png)
+![](../../../../.gitbook/assets/image%20%28112%29.png)
 
 En el caso visualizado hemos cobrado un exceso de 10€. Las posibles aplicaciones de las diferencias de cobros son las siguientes:
 

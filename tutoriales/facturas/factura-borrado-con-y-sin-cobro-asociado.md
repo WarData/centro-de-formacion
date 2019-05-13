@@ -2,23 +2,23 @@
 
  **BORRAR UNA FACTURA SIN COBRAR**
 
-![Abrir el Panel de Facturas o acceder a facturas desde las otras localizaciones de Facturas](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-1.jpg)
+![Abrir el Panel de Facturas o acceder a facturas desde las otras localizaciones de Facturas](../../.gitbook/assets/image%20%28107%29.png)
 
-![Seleccionar la factura a borrar \(sin pago en este caso\)](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-2.jpg)
+![Seleccionar una factura \(sin cobro en este caso\)](../../.gitbook/assets/image%20%28184%29.png)
 
-![\(Paso 3 &#x2013; Viene de Factura cobrada\) &#x2013; Pulsar en Abrir Factura para hacerla modificable](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-3.jpg)
+![\(Paso 3 &#x2013; Viene de Factura cobrada\) &#x2013; Pulsar en Abrir Factura para hacerla modificable](../../.gitbook/assets/image%20%2891%29.png)
 
 **Pulsar en SI** para poder modificar el documento
 
 Abrir de nuevo la factura ya modificable
 
-![Pulsar en Desfacturar Documento &amp;gt; Se abre una ventana donde seleccionar el albar&#xE1;n origen](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-4.jpg)
+![Pulsar en Desfacturar Documento &amp;gt; Se abre una ventana donde seleccionar el albar&#xE1;n origen](../../.gitbook/assets/image%20%28101%29.png)
 
-![Doble clic en el albar&#xE1;n que origin&#xF3; la factura](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-5.jpg)
+![Doble clic en el albar&#xE1;n que origin&#xF3; la factura](../../.gitbook/assets/image%20%28198%29.png)
 
 En este paso hay que seleccionar el albarán que origina la factura y que volverá a quedar sin facturar con un doble clic
 
-![Anotar n&#xFA;mero de factura &#x2013; Pulsar en Eliminar](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-6.jpg)
+![Anotar n&#xFA;mero de factura &#x2013; Pulsar en Eliminar](../../.gitbook/assets/image%20%2819%29.png)
 
 Tomar nota del número de factura que quedará libre por si se quiere asignar a una nueva OR o albarán.
 
@@ -26,11 +26,11 @@ Al pulsar en el botón “ELIMINAR”, la factura de ventas con la serie y numer
 
 **BORRAR UNA FACTURA COBRADA**
 
-![Abrir la factura cobrada y pulsar en la pesta&#xF1;a Tesorer&#xED;a](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-7.jpg)
+![Abrir la factura cobrada y pulsar en la pesta&#xF1;a Tesorer&#xED;a](../../.gitbook/assets/image%20%28125%29.png)
 
-![Doble clic en el pago para abrir sus opciones](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-8.jpg)
+![Doble clic en el pago para abrir sus opciones](../../.gitbook/assets/image%20%28194%29.png)
 
-![Pulsar en Eliminar para quitar el pago y pasar al paso 3 de borrar facturas sin cobrar](http://winmotor.net/wp-content/uploads/2018/11/Borrar-Factura-9.jpg)
+![Pulsar en Eliminar para quitar el pago y pasar al paso 3 de borrar facturas sin cobrar](../../.gitbook/assets/image%20%28166%29.png)
 
  \*\*\* TODOS LOS DATOS AQUÍ REPRESENTADOS SON FICTÍCIOS, NO SE HAN USADO DATOS REALES. CUALQUIER PARECIDO CON LA REALIDAD ES PURA CASUALIDAD.
 
