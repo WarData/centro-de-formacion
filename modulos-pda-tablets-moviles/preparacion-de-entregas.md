@@ -2,7 +2,7 @@
 
 Se trata de un sistema que guiará al usuario en el proceso de preparación de entregas de material que puede ser con origen en pedidos, albaranes o facturas de ventas. El usuario podrá utilizar para esto una tableta, PDA o teléfono móvil con un mínimo de tamaño de pantalla de 5”.
 
-En un primer paso hay que definir en los parámetros de la aplicación \(Parámetros – gestión-Generales\), el tipo de documento que se utiliza en la empresa para la preparación de entregas y en segundo lugar definir también en qué orden queremos que aparezcan luego los artículos.
+En un primer paso hay que definir en los parámetros de la aplicación \(Parámetros - Gestión - Generales\), el tipo de documento que se utiliza en la empresa para la preparación de entregas y en segundo lugar definir también en qué orden queremos que aparezcan luego los artículos.
 
 Una vez seleccionada la opción “Preparación pedidos” se nos presentará una pantalla con aquellos documentos pendientes de entregar para seleccionar el que vamos a preparar.
 
