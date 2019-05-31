@@ -119,7 +119,7 @@
 ## Módulos PDA / Tablets / Móviles
 
 * [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
-* [Preparación de partes de fabricación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
+* [Preparación de Partes de Fabricación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
 
 ## Tutoriales
 
