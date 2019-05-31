@@ -116,6 +116,10 @@
   * [Uso de la Agenda de Taller sobre RRHH](manuales/recursos-humanos-1/uso-de-la-agenda-de-taller-sobre-rrhh.md)
   * [Control Presencial](manuales/recursos-humanos-1/control-presencial.md)
 
+## Módulos PDA / Tablets / Móviles
+
+* [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
+
 ## Tutoriales
 
 * [Partes de Almacén - Inventarios  y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
