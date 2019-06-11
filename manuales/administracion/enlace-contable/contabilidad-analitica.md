@@ -71,7 +71,7 @@ Vamos a ver por lo tanto cómo se graban estos asientos utilizando para el ejemp
 
 ·         Al grabar el apunte de compras en un asiento **pulsaremos el botón con el ojo** al lado de “Costes”
 
-![](../../../.gitbook/assets/image%20%28218%29.png)
+![](../../../.gitbook/assets/image%20%28219%29.png)
 
 ·         Al pulsar el botón aparecerá esta pantalla
 
@@ -79,7 +79,7 @@ Vamos a ver por lo tanto cómo se graban estos asientos utilizando para el ejemp
 
 ·         Pulsaremos el botón “+” y aparecerá esta pantalla para grabar el centro y el importe a imputar:
 
-![](../../../.gitbook/assets/image%20%28204%29.png)
+![](../../../.gitbook/assets/image%20%28205%29.png)
 
 ·         Hemos definido en este apunte de costes el centro “TIE” que es un centro de reparto y el importe total de la compra: 2.000€.
 
@@ -103,7 +103,7 @@ Al ejecutar la opción de crear repartos el programa presenta el siguiente filtr
 
 Al aceptar el programa realizará los cálculos correspondientes y presentará el resultado del reparto:
 
-![](../../../.gitbook/assets/image%20%28256%29.png)
+![](../../../.gitbook/assets/image%20%28257%29.png)
 
 Podemos ver como ha repartido el gasto de 2.000€ imputado al centro genérico “TIE” entre la tienda de Sevilla y Málaga según el saldo de la cuenta 700 en las delegaciones de Sevilla y Málaga.
 

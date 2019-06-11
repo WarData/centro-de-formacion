@@ -24,7 +24,7 @@ La operativa para ir preparando líneas puede ser o bien pinchando en una línea
 
 ![](../.gitbook/assets/image%20%2839%29.png)
 
-![](../.gitbook/assets/image%20%28198%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 Si queremos que la aplicación considere que todas las unidades de ese producto han sido preparadas tendremos que pulsar en el botón de acumulación del total de la línea, en otro caso habrá que escanear tantas unidades como haya que embalar.
 

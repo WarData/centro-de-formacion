@@ -42,7 +42,7 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 -          Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
-![](../../.gitbook/assets/image%20%28273%29.png)
+![](../../.gitbook/assets/image%20%28274%29.png)
 
 -          Muestran las totalizaciones de datos por cada cliente/vendedor:
 
@@ -54,11 +54,11 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 -          Y el total del informe en la última página:
 
-![](../../.gitbook/assets/image%20%28247%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
 -          Un ejemplo del informe agrupado por Vendedores:
 
-![](../../.gitbook/assets/image%20%28260%29.png)
+![](../../.gitbook/assets/image%20%28261%29.png)
 
 -          Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
 
