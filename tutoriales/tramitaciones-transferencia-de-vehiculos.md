@@ -8,11 +8,11 @@ description: 2 métodos para transferir vehículos entre clientes de la aplicaci
 
 Desde la opción "Comercial" &gt; "Tramitaciones" pulsar en Abrir &gt; abrimos el menú de tramitaciones:
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28279%29.png)
 
 Pulsamos en "F1 Nueva" para aperturar una nueva tramitación:
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 En esta nueva ventana los datos que tenemos que incorporar son:
 
@@ -24,7 +24,7 @@ En esta nueva ventana los datos que tenemos que incorporar son:
 * Comprador
 * Servicio que hace referencia a la tramitación, en este caso TRN - Tramitación que requiere tener estas propiedades activadas \(esquina superior derecha\):
 
-![](../.gitbook/assets/image%20%28217%29.png)
+![](../.gitbook/assets/image%20%28224%29.png)
 
 1.- Aplicable a vehículo
 
@@ -34,21 +34,21 @@ En esta nueva ventana los datos que tenemos que incorporar son:
 
 Al guardar la tramitación se realiza la transferencia del vehículo al nuevo propietario conservando el histórico del anterior:
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 ## 2.- Transferencia de vehículo desde una OR \(orden de reparación\)
 
 Desde la opción "Taller" &gt; "Ordenes de Reparación" pulsar en Abrir &gt; Aperturamos una OR nueva en "F1 Nueva OR" y completamos todos los datos:
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 Al introducir la matrícula, cliente o bastidor, rellenamos automáticamente con la tecla tabulador "Vehículo" y "Cliente". Si el cliente hubiera cambiado, simplemente tenemos que sustituir el cliente actual por otro \(de Antonio José Adan a José López\), con lo que nos aparecerá un nuevo botón en la parte del vehículo "Crea Transferencia":
 
-![](../.gitbook/assets/image%20%28267%29.png)
+![](../.gitbook/assets/image%20%28276%29.png)
 
 Al pulsar en el botón, el programa nos preguntará por si deseamos crear la transferencia con los datos nuevos. Pulsamos en "Si" y podemos continuar con la apertura de la OR hacia el nuevo propietario del vehículo:
 
-![](../.gitbook/assets/image%20%28160%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
 
 

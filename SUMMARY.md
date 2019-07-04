@@ -1,8 +1,10 @@
 # Table of contents
 
 * [Centro de Ayuda - Winmotor V7](README.md)
+* [Blog](blog/README.md)
+  * [Próxima revisión de Velneo 25.1](blog/proxima-revision-de-velneo-25.1.md)
 
-## Manual
+## Manual <a id="manuales"></a>
 
 * [Presentación](manuales/presentacion.md)
 * [Configuración](manuales/configuracion/README.md)
@@ -153,6 +155,7 @@
 * [Notificaciones Emergentes](faq/notificaciones-emergentes.md)
 * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
 * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
+* [¿Cómo puedo hacer un regalo al cliente?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
 
 ## Vídeos
 
