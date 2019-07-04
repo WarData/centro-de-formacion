@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Centro de Ayuda - Winmotor V7](README.md)
-* [Blog](blog/README.md)
-  * [Próxima revisión de Velneo 25.1](blog/proxima-revision-de-velneo-25.1.md)
 
 ## Manual <a id="manuales"></a>
 
