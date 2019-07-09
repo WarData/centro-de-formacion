@@ -44,7 +44,7 @@ Por último, hay que definir si se trata de una festividad nacional o local. En 
 
 3 – Departamentos laborales
 
-Partiendo de la ficha de empresa o de centro en caso de distribución multicentro y de un departamento o sección \(taller, comercial, recambios, boutique\) se crean los distintos departamentos laborales. Para tener claro el concepto un departamento laboral será por lo tanto una sección de una empresa o de un departamento de una empresa; es decir, podemos crear por ejemplo el departamento “Taller” de una tienda o en caso de que queramos manejar distintas agendas podemos crear “subdepartamentos” como podría ser “Taller– chapa” y “Taller-electrónica”.
+Partiendo de la ficha de empresa o de centro en caso de distribución multicentro y de un departamento o sección \(taller, comercial, recambios, boutique\) se crean los distintos departamentos laborales. Para tener claro el concepto un departamento laboral, será por lo tanto una sección de una empresa o de un departamento de una empresa; es decir, podemos crear por ejemplo el departamento “Taller” de una tienda o en caso de que queramos manejar distintas agendas podemos crear “subdepartamentos” como podría ser “Taller– chapa” y “Taller-electrónica”.
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
 
