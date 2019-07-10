@@ -76,6 +76,10 @@ Aunque no tiene mucho sentido, el programa contempla que para un mismo día se p
 
 **Operarios** - Se asignan al departamento laboral de los disponibles según el tipo de entidad. Aquellas entidades marcadas como "operarios" se podrán asignar a cualquiera de los departamentos creados entrando en la pestaña de la propia entidad "Operario" e introduciendo el código del departamento.
 
+Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Una vez asignado al departamento el operario, se deberá asignar la jornada \(es posible que tenga horarios distintos a otros operarios\). 
+
+\*\*\* Es requisito imprescindible que el módulo RRHH esté activado por nuestros técnicos \(Win ERP\).
+
 ![](../../.gitbook/assets/image%20%28161%29.png)
 
 **Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH \(departamentos laborales, jornadas, etc...\)
