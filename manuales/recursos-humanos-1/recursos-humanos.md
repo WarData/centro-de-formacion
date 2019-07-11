@@ -94,7 +94,7 @@ Finalizado el proceso anterior, al pulsar en la opción RRHH obtenemos este pane
 
 **Completada la configuración, el usuario que gestione la agenda del departamento laboral podrá acceder a ella desde la opción "Taller" &gt; "Agenda de Taller" \***
 
-**\* Es muy importante revisar la configuración de usuario \(Configuración &gt; Listar Usuarios &gt; Seleccionar usuario que va a usar el planning de taller &gt; Pestaña "Configuración de usuario &gt; abajo "Recursos Humano"\) y tener activado una "Vista de Panel", en caso contrario la Agenda de Taller no abrirá el Planning.**
+**\* Es muy importante revisar la configuración de usuario y activar un modo de visualización de la nueva agenda \(Configuración &gt; Listar Usuarios &gt; seleccionar usuario que va a usar el planning de taller &gt; Pestaña "Configuración de usuario &gt; al final "Recursos Humanos" y tener activada una "Vista de Panel"\), en caso contrario la Agenda de Taller no abrirá el Planning.**
 
 ![](../../.gitbook/assets/image%20%28118%29.png)
 
