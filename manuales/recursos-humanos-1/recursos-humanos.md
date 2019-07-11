@@ -80,7 +80,9 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 ![](../../.gitbook/assets/image%20%28163%29.png)
 
-**Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH \(departamentos laborales, jornadas, etc...\) y al panel de citas con sus diversas visualizaciones.
+**Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH\*\*\* \(departamentos laborales, jornadas, etc...\) y al panel de citas con sus diversas visualizaciones.
+
+\*\*\* Si tienen el acceso activado también en su perfil de usuario
 
 ![](../../.gitbook/assets/image%20%28288%29.png)
 
