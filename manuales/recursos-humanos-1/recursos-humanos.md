@@ -50,8 +50,6 @@ Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos huma
 
 ![](../../.gitbook/assets/image%20%28292%29.png)
 
-![](file:///C:/Users/Alberto/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
-
 En el primer campo definiremos el centro o empresa al que está asociado \(También se puede acceder a este formulario desde la pestaña “Departamentos” de las fichas de Empresas o centros de trabajo en cuyo caso este campo aparecerá relleno\).
 
 En el siguiente campo “Subdepartamento” definiremos el departamento de empresa al que estará relacionado el departamento laboral \(normalmente “C”- Comercial o “T” - Taller por ejemplo\).  En el ejemplo que presentamos arriba vamos a montar un departamento laboral con subdepartamento, en este caso “Taller” – “Electrónica”: rellenaremos por lo tanto el nombre del subdepartamento y un código de tres dígitos para identificarlo. Es importante recalcar que este campo es opcional y sólo lo utilizaremos en caso de querer gestionar varias agendas dentro de un mismo departamento de empresa.
