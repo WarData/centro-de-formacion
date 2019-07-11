@@ -30,7 +30,7 @@ Es fundamental tener en cuenta que la aplicación utiliza como dato de stock par
 
 Los usuarios con nivel por encima del básico podrán acceder a la configuración del stock mínimo bien desde el formulario de parámetros o bien desde la opción que se encuentra en el panel de gestión del stock mínimo. En la rejilla presentada haciendo doble clic en cualquier posición se presentará este formulario:
 
-![](../../../.gitbook/assets/image%20%28302%29.png)
+![](../../../.gitbook/assets/image%20%28305%29.png)
 
 En este ejemplo estamos definiendo para todos los artículos tipo “Varios” un período de cálculo de consumo medio de 30 días y la fórmula se ha establecido que el stock mínimo será el Consumo Medio \(\#CM rehacer imagen\)  multiplicado por 2.
 
