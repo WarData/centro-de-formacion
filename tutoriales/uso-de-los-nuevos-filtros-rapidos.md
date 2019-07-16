@@ -4,7 +4,7 @@ Los nuevos filtros rápidos permiten seleccionar los registros que desees, filtr
 
 Veamos algún caso práctico sobre nuestra aplicación Winmotor V7:
 
-Listamos los pedidos de compras o directamente desde el panel y, haciendo clic en un campo concreto de una columna con el botón derecho, localizamos "filtros" aplicables a la selección \(es posible seleccionar más de una fila\):
+Por ejemplo, listamos pedidos de compras o directamente desde el panel y, haciendo clic en un campo concreto de una columna con el botón derecho, localizamos "filtros" aplicables a la selección \(es posible seleccionar más de una fila\):
 
 ![](../.gitbook/assets/image%20%2892%29.png)
 
