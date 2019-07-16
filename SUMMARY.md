@@ -140,6 +140,7 @@
 * [Ejercicio - Crear y configurar un nuevo ejercicio](tutoriales/ejercicio-crear-y-configurar-un-nuevo-ejercicio.md)
 * [Mailing - Cómo funciona y trucos para sacarle partido](tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md)
 * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
+* [Uso de los Nuevos Filtros Rápidos](tutoriales/uso-de-los-nuevos-filtros-rapidos.md)
 
 ## FAQ
 
@@ -166,6 +167,7 @@
 * [Pedidos a Proveedor](videos/pedidos-a-proveedor.md)
 * [4 Métodos de Recepción de Pedidos](videos/metodos-de-recepcion-de-pedidos.md)
 * [Cómo aperturar / confirmar / cobrar y entregar operaciones comerciales](videos/como-aperturar-confirmar-cobrar-y-entregar-operaciones-comerciales.md)
+* [Filtros Rápidos - Uso](videos/filtros-rapidos-uso.md)
 
 ## Manuales Auxiliares
 
