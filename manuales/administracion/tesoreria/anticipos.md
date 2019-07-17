@@ -4,24 +4,24 @@ Winmotor incorpora para la gestión administrativa de clientes un control sobre 
 
 * Datos base
 
-![](../../../.gitbook/assets/image%20%28227%29.png)
+![](../../../.gitbook/assets/image%20%28231%29.png)
 
 * * Crear concepto "Anticipo de clientes"
     * En la tabla de conceptos de tesorería hay que crear un nuevo concepto para aplicarlo en los anticipos. Es prioritario que tenga marcado el nuevo check "anticipo", que sea del tipo “cobro” y que no esté marcado "Pedir factura".
 
-![](../../../.gitbook/assets/image%20%2880%29.png)
+![](../../../.gitbook/assets/image%20%2882%29.png)
 
 * * Marcar en parámetros la cuenta contable general para anticipos de clientes : Parámetros - administración - contables - Cuenta anticipo de clientes
     * Paralelamente en contabilidad hay que marcar la cuenta aquí definida como cuenta de "Clientes"
 
-![](../../../.gitbook/assets/image%20%28206%29.png)
+![](../../../.gitbook/assets/image%20%28210%29.png)
 
 * * Marcar en parámetros el código del concepto creado para anticipos y definir si queremos que la aplicación en caso de anticipos no asignados a pedidos aplique automáticamente a las facturas generadas los anticipos pendientes de liquidar de clientes. En caso de no estar marcado este check y para este caso habrá que hacer la casación con los anticipos manualmente. Más abajo se explica en detalle los posibles funcionamientos
 * Funcionamiento
   * En el momento de recibir un anticipo de cliente se graba un asiento de tesorería especificando el cliente y lógicamente el importe del anticipo.
   * Opcionalmente se podrá asignar el anticipo a un pedido concreto, de manera que sólo cuando se generen facturas relativas a este pedido el programa lo aplicará a dichas facturas. La creación del registro de anticipo se puede hacer manualmente desde el alta de un asiento de tesorería o de forma automatizada desde el formulario de pedidos de clientes mediante el botón que aparece a este efecto cuando el pedido queda confirmado. Dejar definido en parámetros el código del concepto de anticipo tiene la finalidad de que en este punto el sistema pueda dejarlo ya aplicado en el asiento en el momento de grabarlo desde el pedido.
 
-![](../../../.gitbook/assets/image%20%28287%29.png)
+![](../../../.gitbook/assets/image%20%28292%29.png)
 
 * * Cuando este anticipo quede aplicado a alguna factura ésta aparecerá en la rejilla indicando el importe aplicado. En el caso de por alguna razón quisiéramos “desaplicar” un abono basta con eliminar la línea correspondiente en la rejilla.
   * Al contabilizar la tesorería se genera un asiento de la siguiente forma : 
@@ -34,7 +34,7 @@ Winmotor incorpora para la gestión administrativa de clientes un control sobre 
       * Es fundamental tener en cuenta que el sistema no le permitirá aplicar anticipos aunque el cliente los tenga pendientes de compensar en caso de que la factura haya generado registros de cartera y que éstos sean giros remesados. Si se da este caso el programa le avisará con un mensaje impidiendo continuar el proceso.
       * Por otro lado hay que tener en cuenta que en el caso de que la factura tenga registros de cartera generados y apliquemos manualmente un anticipo la cartera se recalculará sobre el importe pendiente de cobro de la factura.
 
-![](../../../.gitbook/assets/image%20%28221%29.png)
+![](../../../.gitbook/assets/image%20%28225%29.png)
 
 * * El programa contempla el caso de que un anticipo se pudiera aplicar a una o varias facturas puesto que pudiera ser que después de obtenido un anticipo de un cliente se le generara una factura por importe inferior al anticipado. Así mismo también está contemplado el caso contrario en el que a una misma factura se podría aplicar más de un anticipo.
   * Al contabilizar la factura de ventas la aplicación generará además de los apuntes correspondientes a la factura \( total al cliente, bases a los conceptos e impuestos\) dos líneas de compensación del anticipo de la siguiente forma:
@@ -46,7 +46,7 @@ Winmotor incorpora para la gestión administrativa de clientes un control sobre 
     * Al confirmar el formulario  se creará un asiento de retrocesión en la fecha y cuenta indicada.
   * Al consultar la ficha de un cliente que tenga anticipos pendientes de compensar en la pestaña "riesgo" dentro de los datos administrativos aparecerá reflejado los  anticipos pendientes a su favor. Es importante tener en cuenta que en la pestaña “riesgo” en clientes sólo se ven datos si hay algún valor que implique riesgo.
 
-![](../../../.gitbook/assets/image%20%28101%29.png)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
 
 

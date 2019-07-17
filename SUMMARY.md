@@ -154,7 +154,9 @@
 * [Notificaciones Emergentes](faq/notificaciones-emergentes.md)
 * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
 * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
-* [¿Cómo puedo hacer un regalo al cliente?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
+* [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
+* [Rejillas - Funciones Especiales](faq/rejillas-funciones-especiales.md)
+* [Navegante - ¿Cómo funciona?](faq/navegante-como-funciona.md)
 
 ## Vídeos
 
