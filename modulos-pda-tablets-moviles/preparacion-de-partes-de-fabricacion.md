@@ -1,4 +1,4 @@
-# Preparación de Partes de Fabricación
+# Partes de Fabricación - Preparación
 
   
 El sistema se utiliza para ayudar a un operario de laboratorio en el proceso de preparación de una fabricación. ‌
