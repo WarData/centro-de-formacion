@@ -22,15 +22,15 @@ El número máximo de conceptos variables a presentar en el informe es de 10 col
 
 1.       Desde el Menú lateral del panel de inicio podremos seleccionar la opción ‘Comercial’, que mostrará el panel de ‘Vehículos’ y ‘Modelos’.
 
-![](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 2.       Seleccionaremos ‘Estadísticas de producción’ y aparecerá un formulario donde podremos indicar las condiciones de filtrado para el listado que necesitemos.
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 3.       Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
 
-![](../../.gitbook/assets/image%20%28166%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 En el caso de que en el período indicado existan abonos de vehículos éstos aparecerán en una línea específica en negativo afectando sólo a las columnas de “Importe compra” e “Importe venta”. Lógicamente en la acumulación de unidades vendidas “Ventas” este tipo de líneas restan una unidad en lugar de sumarla.
 
@@ -38,31 +38,31 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 -          En la parte inferior izquierda tendremos las opciones para imprimir o exportar los resultados por diferentes medios y criterios \(cliente/vendedor\):
 
-![](../../.gitbook/assets/image%20%28162%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
 -          Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
-![](../../.gitbook/assets/image%20%28292%29.png)
+![](../../.gitbook/assets/image%20%28295%29.png)
 
 -          Muestran las totalizaciones de datos por cada cliente/vendedor:
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 -          Además del total acumulado por página:
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
 -          Y el total del informe en la última página:
 
-![](../../.gitbook/assets/image%20%28264%29.png)
+![](../../.gitbook/assets/image%20%28267%29.png)
 
 -          Un ejemplo del informe agrupado por Vendedores:
 
-![](../../.gitbook/assets/image%20%28278%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 -          Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 -          Disponemos también de la opción “Exportación a Excel”: generará un archivo Excel con los resultados presentados en la pantalla añadiendo también la totalización. La aplicación abrirá automáticamente el documento generado. Hay que tener en cuenta que realmente el archivo generado tiene la extensión “.csv” \(comma-separated values\) por lo que si en el Excel damos la opción de guardar nos dará opción a guardarlo como Excel puro \( .xlsx\)
 

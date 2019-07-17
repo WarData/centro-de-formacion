@@ -156,7 +156,10 @@
 * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
 * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
 * [Rejillas - Funciones Especiales](faq/rejillas-funciones-especiales.md)
-* [Navegante - ¿Cómo funciona?](faq/navegante-como-funciona.md)
+* [Menú Opciones](faq/menu-opciones/README.md)
+  * [Navegante - ¿Cómo funciona?](faq/menu-opciones/navegante-como-funciona.md)
+  * [Lista - Partir / Multipartir](faq/menu-opciones/lista-partir-multipartir.md)
+  * [Exportar Listados a Excel - Vídeo](faq/menu-opciones/exportar-listados-a-excel-video.md)
 
 ## Vídeos
 
