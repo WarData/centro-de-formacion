@@ -80,7 +80,7 @@ Accediendo a la pestaña “Rotación/consumos” de la ficha del artículo vere
 
 -          **Unidades de aprovisionamiento**: son las unidades que consideramos que debemos tener en stock a la llegada del período estacional. Para facilitarnos el cálculo el programa nos presenta un botón junto a este campo con el que podemos calcular el consumo de este artículo en su período en el año anterior. El valor propuesto se puede manipular pero quedará modificado si volvemos a pulsar el botón.
 
-§  **Plazo de aprovisionamiento**: es el número de días antes del inicio del período estacional en el que el artículo pasará a “Período de aprovisionamiento”.
+**Plazo de aprovisionamiento**: es el número de días antes del inicio del período estacional en el que el artículo pasará a “Período de aprovisionamiento”.
 
 4.       Panel de gestión y consulta
 
@@ -94,11 +94,9 @@ En el panel se presentarán las distintas clasificaciones de los artículos en b
 
 o   Se presentan en la rejilla los valores de stock de cada artículo y debajo una barra de herramientas mediante la que podremos:
 
-§  Generar pedidos. Marcando los artículos sobre los que queremos generar pedido al pulsar el botón la aplicación creará \( o añadirá a pedidos de compras no tramitados\) los artículos seleccionados clasificándolos por su proveedor
+Generar pedidos. Marcando los artículos sobre los que queremos generar pedido al pulsar el botón la aplicación creará \( o añadirá a pedidos de compras no tramitados\) los artículos seleccionados clasificándolos por su proveedor
 
-§  Listar
-
-o    
+Listar   
 
 -          Artículos obsoletos
 

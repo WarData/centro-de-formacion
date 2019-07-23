@@ -46,15 +46,15 @@ o    **Facturas Emitidas**
 
 o    Serie de abono
 
-§   Si estamos grabando una serie para albaranes o facturas identificaremos aquí la serie que se utilizará para crear un documento de abono relativo a un documento de esta serie. Para definir aquí una serie de abono es necesario haber grabado previamente una serie de facturas de ventas identificada como “Serie de abono”.
+Si estamos grabando una serie para albaranes o facturas identificaremos aquí la serie que se utilizará para crear un documento de abono relativo a un documento de esta serie. Para definir aquí una serie de abono es necesario haber grabado previamente una serie de facturas de ventas identificada como “Serie de abono”.
 
 o    Descuento máximo aplicable
 
-§   Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido.
+Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido.
 
 o    Forzar Vencimiento
 
-§   Marcando este check el programa cuando genera una factura automáticamente desde uno o varios albaranes ignorará el tipo de pago y los vencimientos definidos en la ficha del cliente e impondrá para estos campos los que se definan dentro del recuadro.
+Marcando este check el programa cuando genera una factura automáticamente desde uno o varios albaranes ignorará el tipo de pago y los vencimientos definidos en la ficha del cliente e impondrá para estos campos los que se definan dentro del recuadro.
 
 o    **Albaranes de ventas**
 

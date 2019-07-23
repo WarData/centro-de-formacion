@@ -14,9 +14,8 @@ El diagrama refleja la siguiente operativa:
 
 ·         En caso de no haber stock disponible se entra en el proceso de generación de pedidos a proveedor que se ejecuta de la siguiente forma :
 
-§   No existen pedidos al proveedor del artículo : se crea un nuevo pedido y se añade la línea del artículo
-
-§   Existen pedidos al proveedor del artículo
+* No existen pedidos al proveedor del artículo : se crea un nuevo pedido y se añade la línea del artículo
+* Existen pedidos al proveedor del artículo
 
 ·         El pedido no está tramitado: se añade la línea del artículo, o si ya hay una línea con el mismo artículo se suma la cantidad pedida por el cliente a la pedida a proveedor.
 

@@ -42,33 +42,27 @@ o   …si el documento tiene por defecto el almacén P, se podrá elegir en la l
 
 o   Al arrancar la aplicación, en la variable ALM X DEF MEM se guarda el almacén por defecto con los siguientes criterios \(el orden de prioridad es de arriba abajo, es decir, si se cumple lo de abajo prevalece sobre lo de arriba\)
 
-§  Almacén asignado al usuario, si lo tiene \(este es el que prevalece sobre los siguientes\).
-
-§  Si no, el almacén asignado al perfil
-
-§  Si no, si la distribución es multicentro, el almacén asignado al centro
-
-§  Y si no, el almacén asignado a la empresa.
+* Almacén asignado al usuario, si lo tiene \(este es el que prevalece sobre los siguientes\).
+* Si no, el almacén asignado al perfil
+* Si no, si la distribución es multicentro, el almacén asignado al centro
+* Y si no, el almacén asignado a la empresa.
 
 o   En documentos \(todos, no hay excepción, incluso los que no son de “stock”\)
 
-§  El almacén asociado a la serie,  si lo hay
-
-§  Si no, el almacén guardado en el arranque \(variable\).
-
-§  Si no, si la distribución es multicentro, el almacén asignado al centro del documento.
-
-§  Si no, el almacén asignado a la empresa definida en parámetros
+* El almacén asociado a la serie,  si lo hay
+* Si no, el almacén guardado en el arranque \(variable\).
+* Si no, si la distribución es multicentro, el almacén asignado al centro del documento.
+* Si no, el almacén asignado a la empresa definida en parámetros
 
 o   En líneas de documentos
 
-§  Albaranes de compra
+* Albaranes de compra
 
 ·         Si se pueden seleccionar SUB-almacenes, parámetro marcado en centro o empresa, se permite seleccionar alguno de los almacenes donde ha llegado a estar el artículo. Si no ha estado en ningún almacén, te da a elegir de entre todos los sub-almacenes disponibles. Se permite cambiar en el formulario de modificación
 
 ·         Si no, directamente coge el de la cabecera.
 
-§  Albaranes de venta
+* Albaranes de venta
 
 ·         Idéntico a compras, pero siempre buscando almacenes con disponibilidad de stock del articulo seleccionado.
 

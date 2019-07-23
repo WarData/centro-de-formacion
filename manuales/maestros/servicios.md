@@ -16,17 +16,17 @@ o   Para todos los bastidores que se incluyan se les repercutirá en su estadís
 
 o   Las garantías de reparaciones se pueden facturar en el programa de dos formas según lo que establezca el fabricante \(este dato se define en la ficha de la marca\) :
 
-§  Por factura de ventas
+1.- Por factura de ventas
 
-§  Por abono de compras
+2.- Por abono de compras
 
 o   Para el caso de factura de ventas el sistema de facturación de las garantías es como cualquier otra facturación, simplemente el programa al saber que estamos facturando una garantía emitirá la factura contra el fabricante en lugar de hacerlo contra el cliente de la orden.
 
 o   Para el caso de que la marca lo que haga sea emitir una factura de abono tendremos que utilizar un servicio con este check marcado para la grabación de dicha factura de abono de garantía.
 
-§  Al utilizar este tipo de servicio en una factura de compras o de gastos el programa presentará un localizador de órdenes de reparación para que indiquemos qué orden es la que se está abonando.
+1.- Al utilizar este tipo de servicio en una factura de compras o de gastos el programa presentará un localizador de órdenes de reparación para que indiquemos qué orden es la que se está abonando.
 
-§  Al definir la orden esta quedará como facturada en su partida de garantía.
+2.- Al definir la orden esta quedará como facturada en su partida de garantía.
 
 ·         Tramitación de vehículos
 

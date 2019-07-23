@@ -18,9 +18,8 @@ Para cobrar varios efectos se sigue el siguiente procedimiento:
 
 o    Los registros deben cumplir estas premisas:
 
-§   Deben ser del mismo cliente
-
-§   Deben estar en situación “En cartera”
+* Deben ser del mismo cliente
+* Deben estar en situación “En cartera”
 
 ·         Una vez estando seleccionados los registros pulsamos abajo en el botón “Cobrar “ y aparecerá el siguiente formulario
 
