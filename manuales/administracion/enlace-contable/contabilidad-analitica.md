@@ -93,7 +93,7 @@ Nos presentará los saldos de los distintos centros de costes detallado por mese
 
 ![](../../../.gitbook/assets/image%20%2827%29.png)
 
-Desviaciones presupuestarias \(en fase de programación\)
+**Desviaciones presupuestarias \(en fase de programación\)**
 
 **Crear reparto**
 
@@ -117,27 +117,22 @@ o   **Es fundamental tener en cuenta para entender este proceso de cálculo que 
 
 o   En el ejemplo:
 
-§  Saldo 700 tienda de Málaga       5.804,96€
+* Saldo 700 tienda de Málaga       5.804,96€
+* Saldo 700 tienda de Sevilla         1.000,00€
+* Acumulado 700                               6.804.96€
+* Importe a repartir \(gastos\)         2.000,00€
 
-§  Saldo 700 tienda de Sevilla         1.000,00€
+-- Imputado a Málaga
 
-§  Acumulado 700                               6.804.96€
+* 5.804,96 sobre 6.804,96 = 85,3 %
+* 85,3% sobre 2.000 = 1.706€
 
-§  Importe a repartir \(gastos\)         2.000,00€
+-- Imputado a Sevilla
 
-§  Imputado a Málaga
+* 1.000,00 sobre 6.804,96 = 14,7 %
+* 85,3% sobre 2.000 = 294€
 
-·         5.804,96 sobre 6.804,96 = 85,3 %
-
-·         85,3% sobre 2.000 = 1.706€
-
-§  Imputado a Sevilla
-
-·         1.000,00 sobre 6.804,96 = 14,7 %
-
-·         85,3% sobre 2.000 = 294€
-
-·         Cálculo por cuotas fijas
+--- Cálculo por cuotas fijas
 
 o   En el centro de reparto definimos los centros destino de reparto y la cuota de reparto de cada uno
 
