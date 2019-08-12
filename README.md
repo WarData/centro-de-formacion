@@ -7,6 +7,8 @@ description: >-
 
 # Centro de Ayuda - Winmotor V7
 
+{% embed url="https://www.winmotor.net" %}
+
 **Importante a tener en cuenta:**
 
 1.- **Las imágenes pueden ampliarse** con un clic de ratón y reducirse de la misma forma
