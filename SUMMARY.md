@@ -108,6 +108,7 @@
   * [Contabilización](manuales/administracion/enlace-contable/README.md)
     * [Contabilidad Analítica](manuales/administracion/enlace-contable/contabilidad-analitica.md)
     * [Honda Are - Contabilización de Servicios](manuales/administracion/enlace-contable/honda-are-contabilizacion-de-servicios.md)
+    * [Cierres Fiscales](manuales/administracion/enlace-contable/cierres-fiscales.md)
 * [Cuadro de Mandos](manuales/cuadro-de-mandos.md)
 * [Comunicaciones](manuales/comunicaciones.md)
 * [Web](manuales/web.md)

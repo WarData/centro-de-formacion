@@ -6,7 +6,7 @@ En el cambio de ejercicio, debemos ir a **Configuración &gt;** [**Ejercicios**]
 
 Pulsamos en "Nuevo" dentro del apartado "[Ejercicios](../manuales/configuracion/ejercicios.md)" y nos aparece la siguiente ventana:
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28211%29.png)
 
 Ponemos el código que queramos según nuestro propio sistema \(nosotros usamos los dos últimos caracteres del año\), pulsamos en "Aceptar", proponiendo una fecha de inicio y fin de ejercicio. Posteriormente preguntará si crea los contadores, a lo que diremos "Si".
 
@@ -20,5 +20,5 @@ Ahora en **Configuración &gt;** [**Parámetros**](../manuales/configuracion/par
 
 **En Configuración &gt;** [**Series**](../manuales/configuracion/series-de-documentos.md) podremos entrar con doble clic en cualquiera de ellas, ir a la pestaña de "Contadores" y elegir en qué número empezar, si por 0 o continuar con la numeración del año anterior:
 
-![](../.gitbook/assets/image%20%28272%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
