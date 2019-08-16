@@ -4,7 +4,7 @@ La opción "Mailing" incluida en Winmotor \(en función del número de módulos 
 
 Vamos a ver la primera localización donde podremos configurar un Mailing:
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 Desde el panel de Mailings aperturamos uno nuevo, obteniendo una imagen similar a la de arriba. Aquí podremos configurar todos los datos necesarios como el asunto, desde qué cuenta enviaremos el email, destinatarios, archivos adjuntos, etc...
 
@@ -22,19 +22,19 @@ En el cuerpo del mensaje podremos incluir el texto que queramos o incluso un có
 >
 > Os mostramos un ejemplo real sobre nuestra felicitación de navidad 2019:
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image%20%28167%29.png)
 
 En la pestaña "Destinatarios" haciendo doble clic podremos añadir entidades una a una, más abajo podremos obtener el listado completo de entidades usado en anteriores mailings \(botón inferior "Importar destinatarios desde otro mailing\) y otra forma es directamente desde listados:
 
-![](../.gitbook/assets/image%20%28208%29.png)
+![](../.gitbook/assets/image%20%28211%29.png)
 
 Desde los listados, como por ejemplo desde "Maestros" &gt; "Entidades" &gt; podemos crear directamente con las entidades filtradas un nuevo mailing o añadir las entidades seleccionadas a uno existente, al cual podremos añadir más de forma manual como en la imagen anterior:
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 Como extra, si en esta misma pantalla pulsamos en F3 - Listar Entidades, podremos filtrar aún más y de forma más definida el listado que queremos obtener para enviar el mailing:
 
-![](../.gitbook/assets/image%20%28166%29.png)
+![](../.gitbook/assets/image%20%28168%29.png)
 
 En filtros avanzados definimos aún más, llegando a poder definir tipo de cliente, si tiene o no email, etc...:
 
