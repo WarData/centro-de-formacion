@@ -40,7 +40,7 @@ Un trabajador solo tendrá que pasar su carné cuando entre en su puesto de trab
 
 El panel será distinto si lo abre un usuario supervisor. En el podremos ver opciones para sacar listados, crear un nuevo trabajador o listar todos los ya creados
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 Listados
 
