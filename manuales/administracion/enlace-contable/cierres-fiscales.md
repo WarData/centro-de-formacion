@@ -8,7 +8,7 @@ Como mejora en la seguridad de la base de datos hemos creado la opción de **“
 
 Consiste básicamente en definir una fecha hasta la que todos los datos fiscales de la aplicación dejan de poder modificarse. **Al definir un cierre fiscal, el programa bloquea la posibilidad de grabar, borrar o modificar facturas de ventas, compras y gastos, así como asientos contables con fecha anterior o igual a la del cierre fiscal.**
 
-El ejemplo básico sería que acabamos de hacer la declaración trimestral de IVA y queremos imposibilitar la modificación de ningún dato relativo a esta declaración.
+El ejemplo básico sería que acabamos de hacer la declaración trimestral de IVA y queremos imposibilitar la modificación de algún dato relativo a esta declaración.
 
 La operativa para crear un cierre fiscal es accediendo al formulario de parámetros en la pestaña “Administración” aparece una nueva pestaña “Cierres fiscales”. Si hacemos doble click aparecerá el formulario para crear un nuevo cierre:
 
