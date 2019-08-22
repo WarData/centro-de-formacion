@@ -32,7 +32,7 @@ Los usuarios con nivel por encima del básico podrán acceder a la configuració
 
 ![](../../../.gitbook/assets/image%20%28152%29.png)
 
-En este ejemplo estamos definiendo para todos los artículos tipo “Recambios” un período de cálculo de consumo medio de 30 días y la fórmula se ha establecido que el stock mínimo será el Consumo Medio multiplicado por 2.
+En este ejemplo estamos definiendo para todos los artículos tipo “Varios” un período de cálculo de consumo medio de 30 días y la fórmula se ha establecido que el stock mínimo será el Consumo Medio multiplicado por 2.
 
 Existe por otro lado la posibilidad de definir para un artículo su stock mínimo manualmente. Esto hay que hacerlo directamente en la pestaña “Consumos / rotación” del artículo y en caso de estar definido el campo éste prevalecerá sobre el cálculo automático que pueda afectar al artículo.
 
