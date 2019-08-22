@@ -30,9 +30,9 @@ Es fundamental tener en cuenta que la aplicación utiliza como dato de stock par
 
 Los usuarios con nivel por encima del básico podrán acceder a la configuración del stock mínimo bien desde el formulario de parámetros o bien desde la opción que se encuentra en el panel de gestión del stock mínimo. En la rejilla presentada haciendo doble clic en cualquier posición se presentará este formulario:
 
-![](../../../.gitbook/assets/image%20%28324%29.png)
+![](../../../.gitbook/assets/image%20%28152%29.png)
 
-En este ejemplo estamos definiendo para todos los artículos tipo “Varios” un período de cálculo de consumo medio de 30 días y la fórmula se ha establecido que el stock mínimo será el Consumo Medio \(\#CM rehacer imagen\)  multiplicado por 2.
+En este ejemplo estamos definiendo para todos los artículos tipo “Recambios” un período de cálculo de consumo medio de 30 días y la fórmula se ha establecido que el stock mínimo será el Consumo Medio multiplicado por 2.
 
 Existe por otro lado la posibilidad de definir para un artículo su stock mínimo manualmente. Esto hay que hacerlo directamente en la pestaña “Consumos / rotación” del artículo y en caso de estar definido el campo éste prevalecerá sobre el cálculo automático que pueda afectar al artículo.
 
@@ -52,19 +52,19 @@ b.       Obsoleto
 
 Artículos que no tienen ninguna unidad consumida en el período de consumo.
 
-                                                               i.      PASAR AUTOMÁTICAMENTE A EN ROTACIÓN EN EL MOMENTO QUE TENGA CONSUMO. Lo pasará automáticamente el proceso diario pero hay que analizar si hacerlo por actualización \( ¿ de la ficha de consumo ¿\)
+b1-PASAR AUTOMÁTICAMENTE A EN ROTACIÓN EN EL MOMENTO QUE TENGA CONSUMO. Lo pasará automáticamente el proceso diario pero hay que analizar si hacerlo por actualización \( ¿ de la ficha de consumo ¿\)
 
 c.       Estacional \(analizar qué hacemos a este respecto con los artículos estacionales en los que se marca que si queremos analizar su consumo fuera del período estacional\).
 
-                                                               i.      En período de aprovisionamiento
+ c1-En período de aprovisionamiento
 
 1.       Aprovisionado
 
 2.       No aprovisionado
 
-                                                             ii.      En período estacional
+c2-En período estacional
 
-                                                           iii.      Fuera del período estacional
+c3-Fuera del período estacional
 
 3.       Artículos con consumo estacional
 
@@ -84,19 +84,19 @@ Accediendo a la pestaña “Rotación/consumos” de la ficha del artículo vere
 
 4.       Panel de gestión y consulta
 
-Desde el menú de artículos accedemos al panel de **gestión de consumos y stock mínimos**  mediante la opción que aparece a tal efecto.
+Desde el menú de artículos accedemos al panel de **Rotación y consumos**  mediante la opción que aparece a tal efecto.
 
-\*\*\* IMAGEN DEL PANEL
+![](../../../.gitbook/assets/image%20%28301%29.png)
 
 En el panel se presentarán las distintas clasificaciones de los artículos en base a sus consumos:
 
--          Artículos bajo mínimo
+a.- Artículos bajo mínimo
 
-o   Se presentan en la rejilla los valores de stock de cada artículo y debajo una barra de herramientas mediante la que podremos:
+* Se presentan en la rejilla los valores de stock de cada artículo y debajo una barra de herramientas mediante la que podremos:
 
-Generar pedidos. Marcando los artículos sobre los que queremos generar pedido al pulsar el botón la aplicación creará \( o añadirá a pedidos de compras no tramitados\) los artículos seleccionados clasificándolos por su proveedor
+b.- Generar pedidos. Marcando los artículos sobre los que queremos generar pedido al pulsar el botón la aplicación creará \(o añadirá a pedidos de compras no tramitados\) los artículos seleccionados clasificándolos por su proveedor
 
-Listar   
+c.- Listar   
 
 -          Artículos obsoletos
 

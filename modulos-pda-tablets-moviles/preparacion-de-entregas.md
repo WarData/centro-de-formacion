@@ -6,7 +6,7 @@ En un primer paso hay que definir en los parámetros de la aplicación \(Paráme
 
 Una vez seleccionada la opción “Preparación pedidos” se nos presentará una pantalla con aquellos documentos pendientes de entregar para seleccionar el que vamos a preparar.
 
-![](../.gitbook/assets/image%20%28217%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 Haciendo click sobre uno de los documentos se presentará el detalle de su contenido.
 
@@ -24,7 +24,7 @@ La operativa para ir preparando líneas puede ser o bien pinchando en una línea
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
-![](../.gitbook/assets/image%20%28221%29.png)
+![](../.gitbook/assets/image%20%28222%29.png)
 
 Si queremos que la aplicación considere que todas las unidades de ese producto han sido preparadas tendremos que pulsar en el botón de acumulación del total de la línea, en otro caso habrá que escanear tantas unidades como haya que embalar.
 
@@ -42,7 +42,7 @@ El sistema de caja funciona de la siguiente forma:
 
 ·         Si de una misma línea hay productos en más de una caja lo indicaremos así en el botón de acumulación del total de líneas que nos presenta el total de productos contados
 
-![](../.gitbook/assets/image%20%28177%29.png)
+![](../.gitbook/assets/image%20%28178%29.png)
 
 En el ejemplo en pantalla vemos que la línea de la ROSA MOSQUETA ha quedado guardada en la caja 2 y en la caja 3.
 

@@ -16,17 +16,17 @@ Daremos de alta un perfil para "TA - Taller" de nivel medio:
 
 Ahora, con un doble clic en el perfil "TA - Taller" abriremos la edición de las opciones y permisos para todos los usuarios a los que indiquemos que tienen perfil "TA - Taller":
 
-![](../../../.gitbook/assets/image%20%28164%29.png)
+![](../../../.gitbook/assets/image%20%28165%29.png)
 
 Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa \(permisos\), opciones especiales como bloqueos de precios de venta, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto, etc...
 
-![Especiales](../../../.gitbook/assets/image%20%28181%29.png)
+![Especiales](../../../.gitbook/assets/image%20%28182%29.png)
 
-![Series de documentos por defecto para el perfil](../../../.gitbook/assets/image%20%28281%29.png)
+![Series de documentos por defecto para el perfil](../../../.gitbook/assets/image%20%28282%29.png)
 
 Para incluir un usuario en un perfil, tan solo tendremos que entrar en la **entidad - usuario &gt; pestaña configuración de usuario &gt; seleccionamos el perfil en la siguiente línea:**
 
-![](../../../.gitbook/assets/image%20%28294%29.png)
+![](../../../.gitbook/assets/image%20%28295%29.png)
 
 La tabla de perfiles es "arbolada", por lo que podremos ordenar estos usando la nomenclatura del árbol como inicial y las ramas usarán dicha nomenclatura, añadiéndole como mínimo un carácter más.
 
@@ -36,7 +36,7 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/image%20%28222%29.png)
+![](../../../.gitbook/assets/image%20%28223%29.png)
 
 \*\*\* Permisos específicos:
 
@@ -76,5 +76,5 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/image%20%28316%29.png)
+![](../../../.gitbook/assets/image%20%28318%29.png)
 
