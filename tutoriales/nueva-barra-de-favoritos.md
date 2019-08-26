@@ -1,0 +1,42 @@
+---
+description: Interface mejorada
+---
+
+# Nueva Barra de Favoritos
+
+En la actualización de Winmotor que ya se está instalando, podréis encontrar la nueva opción de crear una barra de favoritos.
+
+Para poder activarla según vuestras necesidades, tenéis que seguir este procedimiento:
+
+1.- Ir a Opciones &gt; Mi Configuración &gt; pestaña Favoritos
+
+![Opciones &amp;gt; Mi Configuraci&#xF3;n](../.gitbook/assets/image%20%28336%29.png)
+
+![](../.gitbook/assets/image%20%28300%29.png)
+
+2.- De las opciones del panel derecho, seleccionamos las que necesitemos un acceso directo desde la barra de favoritos y pulsamos en la flecha hacia la izquierda que hay situada en el centro, entre los 2 paneles \(a la izquierda panel de opciones favoritas incluidas y a la derecha panel de opciones disponibles\):
+
+![](../.gitbook/assets/image%20%2833%29.png)
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+En este paso, pulsamos en guardar una vez hayamos seleccionado nuestros favoritos y pasamos al siguiente punto.
+
+3.- En la zona de barras de herramientas que marcamos con la flecha naranja, pulsamos botón derecho y activamos "Favoritos"
+
+![](../.gitbook/assets/image%20%28321%29.png)
+
+Aparece la nueva barra de herramientas que, al igual que el resto de barras, podemos colocar en los laterales o parte superior / inferior
+
+![](../.gitbook/assets/image%20%28175%29.png)
+
+![](../.gitbook/assets/image%20%28229%29.png)
+
+4.- Si deseamos eliminar la barra, pero manteniendo las opciones, pulsamos en la X superior derecha de la propia barra o desactivamos, con botón derecho en la zona de barras indicada con la flecha naranja, la opción "Favoritos"
+
+5.- Podemos variar en cualquier momento el contenido de la barra. Sólo tenemos que volver a Opciones &gt; Mi Configuración &gt; pestaña Favoritos y seleccionar en el panel izquierdo aquellas opciones que necesitemos quitar de la barra y pulsar en la flecha hacia la derecha para devolverlas a las opciones disponibles 
+
+![](../.gitbook/assets/image%20%28241%29.png)
+
+![](../.gitbook/assets/image%20%2860%29.png)
+

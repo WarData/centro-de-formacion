@@ -144,6 +144,7 @@
 * [Mailing - Cómo funciona y trucos para sacarle partido](tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md)
 * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
 * [Uso de los Nuevos Filtros Rápidos](tutoriales/uso-de-los-nuevos-filtros-rapidos.md)
+* [Nueva Barra de Favoritos](tutoriales/nueva-barra-de-favoritos.md)
 
 ## FAQ
 
