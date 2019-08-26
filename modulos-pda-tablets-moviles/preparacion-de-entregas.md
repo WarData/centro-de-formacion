@@ -6,7 +6,7 @@ En un primer paso hay que definir en los parámetros de la aplicación \(Paráme
 
 Una vez seleccionada la opción “Preparación pedidos” se nos presentará una pantalla con aquellos documentos pendientes de entregar para seleccionar el que vamos a preparar.
 
-![](../.gitbook/assets/image%20%28226%29.png)
+![](../.gitbook/assets/image%20%28229%29.png)
 
 Haciendo click sobre uno de los documentos se presentará el detalle de su contenido.
 
@@ -14,7 +14,7 @@ En el momento en que un usuario selecciona un documento para preparar su entrega
 
 En la columna de unidades se presentan las unidades a embalar y las ya embaladas. Esta columna está totalizada para ayudar al usuario en el control.
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 La operativa para ir preparando líneas puede ser o bien pinchando en una línea o bien escaneando un código de barras. Al hacerlo aparecerá en la cabecera de la pantalla el artículo seleccionado y podremos hacer dos cosas:
 
@@ -22,17 +22,17 @@ La operativa para ir preparando líneas puede ser o bien pinchando en una línea
 
 ·         Si lo hemos seleccionado en la lista tendremos que pulsar el icono de aceptación de la lectura y se marcará una unidad como preparada.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
-![](../.gitbook/assets/image%20%28231%29.png)
+![](../.gitbook/assets/image%20%28234%29.png)
 
 Si queremos que la aplicación considere que todas las unidades de ese producto han sido preparadas tendremos que pulsar en el botón de acumulación del total de la línea, en otro caso habrá que escanear tantas unidades como haya que embalar.
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 La línea que ha quedado completamente preparada aparecerá con fondo amarillo.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 El sistema de caja funciona de la siguiente forma:
 
@@ -42,7 +42,7 @@ El sistema de caja funciona de la siguiente forma:
 
 ·         Si de una misma línea hay productos en más de una caja lo indicaremos así en el botón de acumulación del total de líneas que nos presenta el total de productos contados
 
-![](../.gitbook/assets/image%20%28186%29.png)
+![](../.gitbook/assets/image%20%28189%29.png)
 
 En el ejemplo en pantalla vemos que la línea de la ROSA MOSQUETA ha quedado guardada en la caja 2 y en la caja 3.
 
