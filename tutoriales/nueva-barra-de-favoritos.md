@@ -8,7 +8,7 @@ En la actualización de Winmotor que ya se está instalando, podréis encontrar 
 
 Para poder activarla según vuestras necesidades, tenéis que seguir este procedimiento:
 
-1.- Ir a Opciones &gt; Mi Configuración &gt; pestaña Favoritos
+1.- Ir a **Opciones &gt; Mi Configuración &gt; pestaña Favoritos**
 
 ![Opciones &amp;gt; Mi Configuraci&#xF3;n](../.gitbook/assets/image%20%28336%29.png)
 
@@ -39,4 +39,6 @@ Aparece la nueva barra de herramientas que, al igual que el resto de barras, pod
 ![](../.gitbook/assets/image%20%28241%29.png)
 
 ![](../.gitbook/assets/image%20%2860%29.png)
+
+Cerrar la barra de favoritos con la X o desde el menú de las barras \(botón derecho\) y volver a activar la opción para refrescar los cambios en las opciones.
 
