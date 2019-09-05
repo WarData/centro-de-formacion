@@ -43,7 +43,7 @@ Y con este otro botón tenemos una pantalla combinada de requerimientos y necesi
 
 Para finalizar el proceso habrá que pulsar el botón “Fin de fabricación”: se nos presentará esta pantalla para confirmar las unidades fabricadas y grabar en su caso las observaciones que consideremos necesarias:
 
-![](../.gitbook/assets/image%20%28314%29.png)
+![](../.gitbook/assets/image%20%28315%29.png)
 
 Pulsando el botón “Finalizar” se cerrarán las intervenciones abiertas y el parte pasará a situación “Finalizado”.
 

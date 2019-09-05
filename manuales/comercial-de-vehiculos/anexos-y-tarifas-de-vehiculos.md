@@ -12,7 +12,7 @@ _**Gestión de cargos impuestos por el concesionario - Documentación - Anexos**
 
                o   En la consulta de modelos si hay cargos aplicados a centros se calculará en base al centro del usuario que está consultando.
 
-![](../../.gitbook/assets/image%20%28274%29.png)
+![](../../.gitbook/assets/image%20%28275%29.png)
 
                o   Si el usuario es un administrador del sistema y no tiene centro se le presentarán los precios calculados sobre todos los centros.
 
@@ -22,13 +22,13 @@ _**Gestión de cargos impuestos por el concesionario - Documentación - Anexos**
 
 * En caso de marcarse “Detallar en factura” se añadirán a la factura en una línea aparte \(y por lo tanto lógicamente no se añadirán al importe del vehículo\). Lógicamente sólo se podrá marcar “detallar en factura” si se ha marcado previamente “incluir en factura de vehículo”.
 
-![](../../.gitbook/assets/image%20%28285%29.png)
+![](../../.gitbook/assets/image%20%28286%29.png)
 
 * En el resto de documentos de ventas, en caso de estar marcado “Detallar en factura” aparecerán como una línea aparte, pero **en caso de no estar marcado se añadirán siempre al importe del vehículo esté o no marcado el check “Incluir en factura”.**
 * El impuesto de matriculación de un anexo sólo se podrá aplicar en caso de marcar “incluir en factura de vehículo” y “detallar en factura”.
 * **El check "El del servicio"** se refiere a que, si está marcado, cogerá el precio del servicio permitiendo mantener los anexos año tras año variando únicamente un precio o, si no está marcado, añadirlo manualmente a cada Marca y Gama - Versión - Modelo.
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](../../.gitbook/assets/image%20%28306%29.png)
 
 Finalmente, así quedaría en el alta de una operación comercial / tráfico:
 
