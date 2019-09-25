@@ -10,7 +10,7 @@ Por ejemplo, listamos pedidos de compras o directamente desde el panel y, hacien
 
 Seleccionando más de una fila, el filtro se aplicará sobre el conjunto seleccionado:
 
-![](../.gitbook/assets/image%20%28290%29.png)
+![](../.gitbook/assets/image%20%28292%29.png)
 
 Entrando más en detalle, este submenú incluye una serie de opciones para filtrar una lista, es decir, para quitar de la lista aquellos registros que no cumplan una determinada condición. Las opciones disponibles son:
 
