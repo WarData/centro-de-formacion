@@ -59,8 +59,7 @@ Un ejemplo con MailStyler sería este:
 
 El código a introducir cuando hayamos subido las imágenes que obtenemos en una carpeta \_files al exportar a HTML al editor personalizado de Winmotor - Mailings:
 
-{% code-tabs %}
-{% code-tabs-item title="Ejemplo para Mailing sobre Blog" %}
+{% code title="Ejemplo para Mailing sobre Blog" %}
 ```text
 "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
 <html xmlns='http://www.w3.org/1999/xhtml' xmlns:v='urn:schemas-microsoft-com:vml' xmlns:o='urn:schemas-microsoft-com:office:office'>
@@ -306,8 +305,7 @@ Si no quiere seguir recibiendo estos emails, por favor, comun&iacute;quelo en el
 </html>
 "
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 \*\*\* Conforme vayan surgiendo dudas, ampliaremos la información aquí disponible incluso con ejemplos prácticos. Por ello no dudéis en consultarnos por email los detalles que os faltan para configurar correctamente este importante apartado del programa a fin de añadirlos.
 

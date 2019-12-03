@@ -4,6 +4,10 @@
 
 **\*\*\* Si ha seguido los pasos de "Crear un Importador de Tarifa de Marca" habrá introducido en observaciones qué ha modificado en el archivo Excel o Texto de la tarifa. En caso de que no lo tenga incluido, recomendamos incorporar las modificaciones y características de importación de la tarifa \(columnas, qué se elimina, etc...\) para poder importarla dentro del importador, en la pestaña "Observaciones".**
 
+**\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente:**
+
+\*\*\*\*[**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255) **\(descargar y ejecutar versión x64\)**
+
 **Tenemos 2 tipos de ficheros posibles a importar:**
 
 **1.- Excel \(Columna Origen Excel: A - enumerar columnas por letras\)**
