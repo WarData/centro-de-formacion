@@ -106,6 +106,7 @@
     * [Remesas de Efectos](manuales/administracion/tesoreria/remesas-de-efectos.md)
     * [Anticipos](manuales/administracion/tesoreria/anticipos.md)
   * [Contabilización](manuales/administracion/enlace-contable/README.md)
+    * [SII - Suministro Inmediato de Información](manuales/administracion/enlace-contable/sii-suministro-inmediato-de-informacion.md)
     * [Contabilidad Analítica](manuales/administracion/enlace-contable/contabilidad-analitica/README.md)
       * [Predefinición de Cuentas](manuales/administracion/enlace-contable/contabilidad-analitica/predefinicion-de-cuentas.md)
     * [Honda Are - Contabilización de Servicios](manuales/administracion/enlace-contable/honda-are-contabilizacion-de-servicios.md)

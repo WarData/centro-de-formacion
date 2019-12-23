@@ -2,19 +2,19 @@
 
 ## He aperturado una OR con cargo a cliente metiendo líneas de piezas y mano de obra, ¿cómo puedo cambiar todas las líneas a garantía / siniestro o interno?
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 Este alta de OR nos da la siguiente pantalla:
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28178%29.png)
 
 Para cambiar la imputación "Cliente" hacemos doble clic en la línea señalada en amarillo \(partida principal\):
 
-![](../.gitbook/assets/image%20%28295%29.png)
+![](../.gitbook/assets/image%20%28300%29.png)
 
 Seleccionamos garantía por ejemplo y pulsamos en aceptar, obteniendo un cambio completo de esa partida con cargo a garantía:
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28274%29.png)
 
 
 
