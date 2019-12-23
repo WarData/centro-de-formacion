@@ -2,19 +2,19 @@
 
  **BORRAR UNA FACTURA SIN COBRAR**
 
-![Abrir el Panel de Facturas o acceder a facturas desde las otras localizaciones de Facturas](../../.gitbook/assets/image%20%28144%29.png)
+![Abrir el Panel de Facturas o acceder a facturas desde las otras localizaciones de Facturas](../../.gitbook/assets/image%20%28145%29.png)
 
-![Seleccionar una factura \(sin cobro en este caso\)](../../.gitbook/assets/image%20%28241%29.png)
+![Seleccionar una factura \(sin cobro en este caso\)](../../.gitbook/assets/image%20%28244%29.png)
 
-![\(Paso 3 &#x2013; Viene de Factura cobrada\) &#x2013; Pulsar en Abrir Factura para hacerla modificable](../../.gitbook/assets/image%20%28121%29.png)
+![\(Paso 3 &#x2013; Viene de Factura cobrada\) &#x2013; Pulsar en Abrir Factura para hacerla modificable](../../.gitbook/assets/image%20%28122%29.png)
 
 **Pulsar en SI** para poder modificar el documento
 
 Abrir de nuevo la factura ya modificable
 
-![Pulsar en Desfacturar Documento &amp;gt; Se abre una ventana donde seleccionar el albar&#xE1;n origen](../../.gitbook/assets/image%20%28134%29.png)
+![Pulsar en Desfacturar Documento &amp;gt; Se abre una ventana donde seleccionar el albar&#xE1;n origen](../../.gitbook/assets/image%20%28135%29.png)
 
-![Doble clic en el albar&#xE1;n que origin&#xF3; la factura](../../.gitbook/assets/image%20%28263%29.png)
+![Doble clic en el albar&#xE1;n que origin&#xF3; la factura](../../.gitbook/assets/image%20%28267%29.png)
 
 En este paso hay que seleccionar el albarán que origina la factura y que volverá a quedar sin facturar con un doble clic
 
@@ -26,11 +26,11 @@ Al pulsar en el botón “ELIMINAR”, la factura de ventas con la serie y numer
 
 **BORRAR UNA FACTURA COBRADA**
 
-![Abrir la factura cobrada y pulsar en la pesta&#xF1;a Tesorer&#xED;a](../../.gitbook/assets/image%20%28170%29.png)
+![Abrir la factura cobrada y pulsar en la pesta&#xF1;a Tesorer&#xED;a](../../.gitbook/assets/image%20%28173%29.png)
 
-![Doble clic en el pago para abrir sus opciones](../../.gitbook/assets/image%20%28257%29.png)
+![Doble clic en el pago para abrir sus opciones](../../.gitbook/assets/image%20%28261%29.png)
 
-![Pulsar en Eliminar para quitar el pago y pasar al paso 3 de borrar facturas sin cobrar](../../.gitbook/assets/image%20%28215%29.png)
+![Pulsar en Eliminar para quitar el pago y pasar al paso 3 de borrar facturas sin cobrar](../../.gitbook/assets/image%20%28218%29.png)
 
  \*\*\* TODOS LOS DATOS AQUÍ REPRESENTADOS SON FICTÍCIOS, NO SE HAN USADO DATOS REALES. CUALQUIER PARECIDO CON LA REALIDAD ES PURA CASUALIDAD.
 
