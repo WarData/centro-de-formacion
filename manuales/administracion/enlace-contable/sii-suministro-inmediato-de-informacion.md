@@ -31,7 +31,11 @@ Dado que la generación del certificado y la clave privada desde el archivo .PEM
 
 * **Envío de facturas emitidas y recibidas**
 
-**a.-** Simplificando la normativa del SII diremos que la AEAT exige que las facturas emitidas se envíen en un plazo máximo de cuatro días desde su expedición y las facturas recibidas cuatro días naturales desde la fecha en que se produce el registro contable de la factura.\([https://www.agenciatributaria.es/AEAT.internet/Inicio/Ayuda/Modelos\_\_Procedimientos\_y\_Servicios/Ayuda\_P\_G417\_\_\_\_IVA\_\_Llevanza\_de\_libros\_registro\_\_SII\_/Informacion\_general/Preguntas\_frecuentes/1\_\_Cuestiones\_generales/1\_12\_\_\_Cuando\_hay\_que\_enviar\_los\_registros\_de\_facturacion\_a\_la\_AEAT\_\_.shtml](https://www.agenciatributaria.es/AEAT.internet/Inicio/Ayuda/Modelos__Procedimientos_y_Servicios/Ayuda_P_G417____IVA__Llevanza_de_libros_registro__SII_/Informacion_general/Preguntas_frecuentes/1__Cuestiones_generales/1_12___Cuando_hay_que_enviar_los_registros_de_facturacion_a_la_AEAT__.shtml)\).
+**a.-** Simplificando la normativa del SII diremos que la AEAT exige que las facturas emitidas se envíen en un plazo máximo de cuatro días desde su expedición y las facturas recibidas cuatro días naturales desde la fecha en que se produce el registro contable de la factura.
+
+Más información en el siguiente enlace de la Agencia Tributaria:
+
+{% embed url="https://www.agenciatributaria.es/AEAT.internet/Inicio/Ayuda/Modelos\_\_Procedimientos\_y\_Servicios/Ayuda\_P\_G417\_\_\_\_IVA\_\_Llevanza\_de\_libros\_registro\_\_SII\_/Informacion\_general/Preguntas\_frecuentes/1\_\_Cuestiones\_generales/1\_12\_\_\_Cuando\_hay\_que\_enviar\_los\_registros\_de\_facturacion\_a\_la\_AEAT\_\_.shtml" %}
 
 **b.-** En la parametrización definiremos por tanto el número de días después de su creación que queremos que se cuenten para el envío de las facturas y lo mismo para las recibidas 
 
