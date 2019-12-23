@@ -17,9 +17,7 @@ description: >-
 
 3.- **El Centro de Ayuda está en desarrollo continuo y aún es bastante joven**, pero casi diariamente incorporamos nuevos contenidos de todo tipo para ayudaros en el día a día.
 
-4.- Como queremos que esta ayuda sea interactiva, **hemos incorporado una encuesta al final de cada apartado mediante 3 caras \(aún en inglés, pero en breve actualizarán a español\), mal, suficiente, bien**. Os rogamos nos hagáis llegar vuestras sensaciones para mejorar, así como indicarnos nuevos tutoriales y FAQ \(preguntas frecuentes\) que queráis que incorporemos al Centro de Ayuda Winmotor.
+4.- Como queremos que esta ayuda sea interactiva, **hemos incorporado una encuesta al final de cada apartado mediante 3 caras, mal, suficiente, bien**. Os rogamos nos hagáis llegar vuestras sensaciones para mejorar, así como indicarnos nuevos tutoriales y FAQ \(preguntas frecuentes\) que queráis que incorporemos al Centro de Ayuda Winmotor.
 
-**Traducción: Was this page helpful? Let us know how we did** 
-
-**\(¿Te sirvió de ayuda esta página? Haznos saber cómo lo hicimos\)**
+**Haznos saber cómo lo hicimos ;\)**
 
