@@ -46,7 +46,9 @@ En la ventana emergente de la imagen seleccionamos el archivo Excel modificado, 
 
 Si tras comprobar los artículos importados, todo queda perfecto, repetir el paso del botón "IMPORTAR" cambiando la última fila 12 por la última fila que contenga datos que deseemos importar \(podemos realizar la importación por partes, familias, etc...usando varios importadores y misma tarifa\).
 
-**El proceso de importación se puede repetir todas las veces que queramos, no se duplica nada. El proceso actualiza artículos existentes y añade elementos de la tarifa de artículos nuevos.**
+**El proceso de importación se puede repetir todas las veces que queramos, no se duplica nada.** 
+
+**Tras finalizar el proceso, hay que actualizar los artículos existentes con los elementos de la tarifa de artículos nuevos desde la opción "Tarifa de Artículos" &gt; botón "Actualizar Artículos"**
 
 **\*\*\* MUY IMPORTANTE: Recomendamos añadir a la pestaña "Observaciones", dentro del importador, todo lo modificado en el archivo Excel o texto de la tarifa a importar para que quede constancia del procedimiento, así cualquier usuario podrá actualizarla sin ningún inconveniente.**[  
 ](https://winmotor.gitbook.io/project/~/drafts/-LUFfE7ntUBm_NjWthNB/primary/faq/es-posible-borrar-cualquier-factura-1)
