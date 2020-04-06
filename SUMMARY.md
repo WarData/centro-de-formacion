@@ -145,6 +145,7 @@
   * [Factura: cambiar contenido](tutoriales/facturas_tutoriales/factura-cambiar-contenido.md)
   * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas_tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
   * [Factura: de gastos asociados a vehículos](tutoriales/facturas_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
+* [Marca: dar de alta una nueva](tutoriales/marca-dar-de-alta-una-nueva.md)
 * [Ejercicio - Crear y configurar un nuevo ejercicio](tutoriales/ejercicio-crear-y-configurar-un-nuevo-ejercicio.md)
 * [Mailing - Cómo funciona y trucos para sacarle partido](tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md)
 * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
