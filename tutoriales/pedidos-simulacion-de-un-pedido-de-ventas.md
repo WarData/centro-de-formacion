@@ -11,7 +11,7 @@ En este apartado vamos a simular que entra un cliente a recambios y realiza un p
 
 ![Vista del pedido de ventas - botones para a&#xF1;adir cliente y l&#xED;neas al pedido](../.gitbook/assets/image%20%28143%29.png)
 
-El cliente A solicita una referencia en stock y otra sin stock, que generará un pedido  que corresponda al vehículo del cliente o que haya configurada si únicamente hay una marca \(también se pueden añadir líneas desde el despiece del proveedor pulsando en el botón "Despiece - Marca" y seleccionando el archivo generado\):
+El cliente A solicita una referencia en stock y otra sin stock, que generará un pedido que corresponda al vehículo del cliente o que haya configurada si únicamente hay una marca \(también se pueden añadir líneas desde el despiece del proveedor pulsando en el botón "Despiece - Marca" y seleccionando el archivo generado\):
 
 ![Ejemplo de selecci&#xF3;n de art&#xED;culo en stock](../.gitbook/assets/image%20%28156%29.png)
 
