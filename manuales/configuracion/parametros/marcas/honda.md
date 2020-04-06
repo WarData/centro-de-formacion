@@ -44,5 +44,5 @@ Trabajos externos – \(Pintura, tapizado, etc...\)
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-LUFUOwBtj2nttr-4GVo%2F-LUFUtbfEHr0XTzGCdqM%2Fimage.png?alt=media&token=abf37d96-8318-410d-a120-2b15b061a99c)
 
-![](../../../../.gitbook/assets/image%20%2857%29.png)
+![](../../../../.gitbook/assets/image%20%2859%29.png)
 

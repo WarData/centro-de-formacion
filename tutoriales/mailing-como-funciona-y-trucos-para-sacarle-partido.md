@@ -8,7 +8,7 @@ La opción "Mailing" incluida en Winmotor \(en función del número de módulos 
 
 Vamos a ver la primera localización donde podremos configurar un Mailing:
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 Desde el panel de Mailings aperturamos uno nuevo, obteniendo una imagen similar a la de arriba. Aquí podremos configurar todos los datos necesarios como el asunto, desde qué cuenta enviaremos el email, destinatarios, archivos adjuntos, etc...
 
@@ -29,33 +29,33 @@ En el cuerpo del mensaje podremos incluir el texto que queramos o incluso un có
 >
 > Os mostramos un ejemplo real sobre nuestra felicitación de navidad 2019:
 
-![](../.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
 En la pestaña "Destinatarios" haciendo doble clic podremos añadir entidades una a una, más abajo podremos obtener el listado completo de entidades usado en anteriores mailings \(botón inferior "Importar destinatarios desde otro mailing\) y otra forma es directamente desde listados:
 
-![](../.gitbook/assets/image%20%28234%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
 Desde los listados, como por ejemplo desde "Maestros" &gt; "Entidades" &gt; podemos crear directamente con las entidades filtradas un nuevo mailing o añadir las entidades seleccionadas a uno existente, al cual podremos añadir más de forma manual como en la imagen anterior:
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 Como extra, si en esta misma pantalla pulsamos en F3 - Listar Entidades, podremos filtrar aún más y de forma más definida el listado que queremos obtener para enviar el mailing:
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28201%29.png)
 
 En filtros avanzados definimos aún más, llegando a poder definir tipo de cliente, si tiene o no email, etc...:
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 Una vez añadidos los destinatarios, posibles archivos adjuntos y cuerpo del mensaje, al enviar, desde esta pestaña podremos controlar a quien se le ha podido enviar correctamente y a quien no:
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 \*\*\* Existen numerosos programas para crear plantillas HTML para mailings como MailStyler 2 con los que obtendremos el código y los ficheros de imágenes que tendremos que poner en una Web para poder acceder desde cualquier punto a ellas.
 
 Un ejemplo con MailStyler sería este:
 
-![](../.gitbook/assets/image%20%28284%29.png)
+![](../.gitbook/assets/image%20%28296%29.png)
 
 El código a introducir cuando hayamos subido las imágenes que obtenemos en una carpeta \_files al exportar a HTML al editor personalizado de Winmotor - Mailings:
 

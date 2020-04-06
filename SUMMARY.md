@@ -127,6 +127,7 @@
 
 ## Tutoriales
 
+* [Pedidos - simulación de un pedido de ventas](tutoriales/pedidos-simulacion-de-un-pedido-de-ventas.md)
 * [Partes de Almacén - Inventarios  y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
   * [Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/traspasos.md)
   * [Parte Libre](tutoriales/partes-de-almacen-inventarios-y-traspasos/parte-libre.md)
@@ -137,12 +138,12 @@
   * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
 * [Albaranes](tutoriales/albaranes/README.md)
   * [Anular línea o líneas seleccionadas en albarán de compras confirmado](tutoriales/albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
-* [Facturas](tutoriales/facturas/README.md)
-  * [Factura: cambio de la serie / número](tutoriales/facturas/factura-cambio-de-la-serie-numero.md)
-  * [Factura: abono de líneas o completo](tutoriales/facturas/factura-abono-de-lineas-o-completo.md)
-  * [Factura: cambiar contenido](tutoriales/facturas/factura-cambiar-contenido.md)
-  * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas/factura-borrado-con-y-sin-cobro-asociado.md)
-  * [Factura: de gastos asociados a vehículos](tutoriales/facturas/factura-de-gastos-asociados-a-vehiculos.md)
+* [Facturas](tutoriales/facturas_tutoriales/README.md)
+  * [Factura: cambio de la serie / número](tutoriales/facturas_tutoriales/factura-cambio-de-la-serie-numero.md)
+  * [Factura: abono de líneas o completo](tutoriales/facturas_tutoriales/factura-abono-de-lineas-o-completo.md)
+  * [Factura: cambiar contenido](tutoriales/facturas_tutoriales/factura-cambiar-contenido.md)
+  * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas_tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
+  * [Factura: de gastos asociados a vehículos](tutoriales/facturas_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
 * [Ejercicio - Crear y configurar un nuevo ejercicio](tutoriales/ejercicio-crear-y-configurar-un-nuevo-ejercicio.md)
 * [Mailing - Cómo funciona y trucos para sacarle partido](tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md)
 * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
