@@ -57,6 +57,8 @@ Pulsamos en "Crear albarán", dando por recepcionado el total del pedido \(podre
 
 ![Albar&#xE1;n de compras](../.gitbook/assets/image%20%28323%29.png)
 
+Existe un método para anular líneas cuando el albarán está confirmado en el siguiente enlace: [anular línea o líneas de un albarán de compras confirmado](albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
+
 Sobre el albarán obtenemos información sobre el pedido de ventas origen fácilmente, simplemente pulsando sobre el botón "Ventas relacionadas":
 
 ![](../.gitbook/assets/image%20%28353%29.png)
