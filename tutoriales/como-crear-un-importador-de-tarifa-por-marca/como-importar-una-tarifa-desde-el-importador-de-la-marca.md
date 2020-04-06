@@ -16,33 +16,33 @@
 
 **Ejemplo con archivo Excel**
 
-![ARCHIVOS EXCEL: COLUMNA ORIGEN A \(ENUMERAR COLUMNAS CON LETRAS\)](../../.gitbook/assets/image%20%2825%29.png)
+![ARCHIVOS EXCEL: COLUMNA ORIGEN A \(ENUMERAR COLUMNAS CON LETRAS\)](../../.gitbook/assets/image%20%2828%29.png)
 
-![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%2880%29.png)
+![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%2885%29.png)
 
-![Tarifa sin modificar](../../.gitbook/assets/image%20%28372%29.png)
+![Tarifa sin modificar](../../.gitbook/assets/image%20%28383%29.png)
 
 **En el archivo de la tarifa, debemos eliminar logos y las líneas superiores, dejando como primera filas los títulos de las columnas \(referencia, artículo, precio, descuento, etc...\), a fin de que quede como la siguiente imagen:**
 
-![Tarifa modificada](../../.gitbook/assets/image%20%28217%29.png)
+![Tarifa modificada](../../.gitbook/assets/image%20%28224%29.png)
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28122%29.png)
 
 En la pestaña "Líneas", pulsamos doble clic o botón derecho "Alta de línea" y procedemos a añadir las columnas que deseamos importar de la tarifa. **En este caso vamos a NO IMPORTAR la columna D que son los precios sin IVA por lo que añadiremos 4 altas de línea relacionadas con cada campo a importar \(referencia, nombre, tipo de artículo y precio de venta\)**
 
-![Una vez rellenos los datos, preparado el archivo de la tarifa seg&#xFA;n las instrucciones y a&#xF1;adidas las l&#xED;neas, pulsamos en el bot&#xF3;n &quot;IMPORTAR&quot;](../../.gitbook/assets/image%20%28311%29.png)
+![Una vez rellenos los datos, preparado el archivo de la tarifa seg&#xFA;n las instrucciones y a&#xF1;adidas las l&#xED;neas, pulsamos en el bot&#xF3;n &quot;IMPORTAR&quot;](../../.gitbook/assets/image%20%28320%29.png)
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 En la ventana emergente de la imagen seleccionamos el archivo Excel modificado, verificamos las columnas \(pondrá el total de columnas, pero no importará las que no tengan línea en el importador\) **y en la última fila, que está señalado con un círculo rojo, a modo de prueba del importador, sustituimos la cifra por 12 como testeo breve. Quedaría de este modo:**
 
-![](../../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 **En hoja: poner exactamente lo que ponga \(copiar / pegar\)**
 
 **Todo relleno, pulsamos en aceptar y esperamos al mensaje de finalización de importación**
 
-![](../../.gitbook/assets/image%20%28227%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
 Si tras comprobar los artículos importados, todo queda perfecto, repetir el paso del botón "IMPORTAR" cambiando la última fila 12 por la última fila que contenga datos que deseemos importar \(podemos realizar la importación por partes, familias, etc...usando varios importadores y misma tarifa\).
 

@@ -5,7 +5,7 @@ El sistema se utiliza para ayudar a un operario de laboratorio en el proceso de 
 
 Una vez seleccionado un parte de la lista de “En fabricación”, el parte a preparar se nos presenta como en la siguiente pantalla:
 
-![](../.gitbook/assets/image%20%28268%29.png)
+![](../.gitbook/assets/image%20%28276%29.png)
 
 En la lista vemos los requerimientos para la fabricación, detallando el producto y la “necesidad”.
 
@@ -13,37 +13,37 @@ El programa ha dado de alta automáticamente una intervención en el parte del u
 
 Aplicará como operación para esa intervención la que esté definida en la serie del parte como “Operación para el inicio de la fabricación”. Las operaciones se definen en la opción que hay en el menú de partes de fabricación.
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28131%29.png)
 
 Pulsando arriba el botón “Añadir operario” podremos indicar al programa que otra persona va a trabajar también en el mismo parte. Indicando el operario y la operación se creará una nueva intervención \(en el parte en el PC se podrán consultar estas intervenciones en pantalla\).
 
 También podremos usar esta misma opción para indicar al programa que cambiamos de tarea: simplemente tendremos que seleccionar como operario al mismo que ha empezado el parte y cambiar de operación. Siempre que se abre una intervención, el programa cerrará en caso de existir la intervención anterior del mismo operario.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 Pulsando en la pantalla inicial el botón “Ver consumos” nos aparecerá el detalle del consumo del parte:
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 En esta pantalla se nos da la posibilidad de editar y modificar las unidades consumidas en caso de ser distintas de las previstas. Para esto hay que seleccionar una línea y pulsar el botón de edición:
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28211%29.png)
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](../.gitbook/assets/image%20%28301%29.png)
 
 Nos aparecerá la casilla donde podremos modificar las unidades consumidas y validarlas con el botón de la derecha.
 
 En esta pantalla se nos da por otro lado la opción de volver a ver requerimientos
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 Y con este otro botón tenemos una pantalla combinada de requerimientos y necesidades donde podemos hacer una comparativa:
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 Para finalizar el proceso habrá que pulsar el botón “Fin de fabricación”: se nos presentará esta pantalla para confirmar las unidades fabricadas y grabar en su caso las observaciones que consideremos necesarias:
 
-![](../.gitbook/assets/image%20%28348%29.png)
+![](../.gitbook/assets/image%20%28358%29.png)
 
 Pulsando el botón “Finalizar” se cerrarán las intervenciones abiertas y el parte pasará a situación “Finalizado”.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Generamos una OR que reserve varios artículos y que pida otro al proveedor,
-  confirmando dicha orden de reparación, recepcionando el material y montando
+  Generamos una OR que reserve varios artículos y que pida otros al proveedor,
+  confirmando dicha orden de reparación, recepcionando el material e instalando
   las piezas en el vehículo para poder facturar
 ---
 
@@ -9,33 +9,35 @@ description: >-
 
 En este apartado vamos a simular que un cliente quiere realizar una revisión de 500 kilómetros en su vehículo en el taller, necesitando dicha intervención varios artículos de los que no conocemos su stock:
 
-![Alta de la OR](../.gitbook/assets/image%20%28254%29.png)
+![Alta de la OR](../.gitbook/assets/image%20%28262%29.png)
 
-![OR sin confirmar](../.gitbook/assets/image%20%28298%29.png)
+![OR sin confirmar](../.gitbook/assets/image%20%28307%29.png)
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
-El cliente B necesita varias referencias para una revisión \(en este caso están en stock\) y otra sin stock \(51413-GB4-003\) para su vehículo, que generará un pedido de compras al proveedor correspondiente.
+El cliente B necesita varias referencias para una revisión \(en este caso hay varias en stock\) y otras dos sin stock \(51413-GB4-003 y BS10260\) para su vehículo, que generará un pedido de compras al proveedor correspondiente.
 
-Una vez añadidas las líneas y/o conceptos a la OR pulsamos en el botón inferior "Confirmar" para tramitar el pedido \(mensaje indicando que reserva artículos en stock - **PODEMOS ENTREGARLOS DESDE EL PEDIDO DE VENTAS EN EL MOMENTO** y/o realiza el pedido o pedidos a uno o varios proveedores\):
+Una vez añadidas las líneas y/o conceptos a la OR pulsamos en el botón inferior "Confirmar" \(mensaje indicando que reserva artículos en stock - **PODEMOS INSTALARLOS EN EL MOMENTO** y/o realiza el pedido o pedidos a uno o varios proveedores de los artículos indicados en la ventana emergente\):
 
-La OR queda en situación "Pendiente de recibir / Pendiente de entregar":
+![](../.gitbook/assets/image%20%28388%29.png)
 
-![](../.gitbook/assets/image%20%28200%29.png)
+La OR queda en situación "En Curso" - materiales "Pendientes de Recibir / Pendientes de Entregar":
 
-Si el pedido de ventas contenía algún artículo o artículos sin stock, Winmotor genera automáticamente el **pedido de compras** **a cada proveedor si no había ninguno ya existente sin tramitar \(si antes de confirmar el pedido de ventas ya existiera un pedido de compras al mismo proveedor del que el cliente solicita artículo sin stock, el sistema añadirá dicha pieza al pedido de compras existente\):**
+![Panel de ORs - Filtros existentes para control](../.gitbook/assets/image%20%28246%29.png)
 
-![Vista de pedidos generados tras pulsar &quot;Si&quot; en la ventana de confirmaci&#xF3;n anterior](../.gitbook/assets/image%20%28350%29.png)
+Si la OR contenía algún artículo o artículos sin stock, Winmotor genera automáticamente el **pedido de compras** **a cada proveedor si no había ninguno ya existente sin tramitar \(si antes de confirmar el pedido de ventas ya existiera un pedido de compras al mismo proveedor del que el cliente solicita artículo sin stock, el sistema añadirá dicha pieza al pedido de compras existente\):**
+
+![](../.gitbook/assets/image%20%28204%29.png)
 
 Desde la pantalla anterior podemos abrir el pedido de compras generado por el artículo sin stock del pedido de ventas. **Es un pedido de compras SIN CONFIRMAR por lo que, otras líneas de pedidos de ventas u ORs al mismo proveedor y/o líneas adicionales para stock, se irán sumando hasta que se confirme el pedido de compras:**
 
 ![En esta situaci&#xF3;n se pueden a&#xF1;adir m&#xE1;s art&#xED;culos al pedido](../.gitbook/assets/image%20%281%29.png)
 
-![Confirmaci&#xF3;n de la tramitaci&#xF3;n](../.gitbook/assets/image%20%28277%29.png)
+![Confirmaci&#xF3;n de la tramitaci&#xF3;n](../.gitbook/assets/image%20%28285%29.png)
 
 Al tramitar, Winmotor nos permite enviarle al proveedor \(requiere configuración y que el proveedor disponga del sistema necesario para tramitar el documento\) un archivo con las líneas del pedido.
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 Una vez tramitado el pedido, existen [4 métodos de recepción de los pedidos de compras](../videos/metodos-de-recepcion-de-pedidos.md) que quedan resumidos en el vídeo del enlace:
 
@@ -49,47 +51,61 @@ Una vez tramitado el pedido, existen [4 métodos de recepción de los pedidos de
 
 Tras seleccionar el método de recepción de pedidos que mejor se adapte, el sistema generará un albarán de compras de las líneas recepcionadas \(en la siguiente imagen, sobre la línea marcada, podremos hacer doble clic e indicar las cantidades suministradas si difieren de las solicitadas originalmente\):
 
-![Recepci&#xF3;n de Pedidos](../.gitbook/assets/image%20%28173%29.png)
+![Recepci&#xF3;n de pedidos](../.gitbook/assets/image%20%28385%29.png)
 
 Pulsamos en "Crear albarán", dando por recepcionado el total del pedido \(podremos generar tantos albaranes como sean necesarios hasta dar el pedido de compras por completado, mientras, quedará en situación parcialmente recepcionado.
 
-![Albar&#xE1;n de compras](../.gitbook/assets/image%20%28326%29.png)
+![Albar&#xE1;n de compras](../.gitbook/assets/image%20%283%29.png)
 
 Existe un método para anular líneas cuando el albarán está confirmado en el siguiente enlace: [anular línea o líneas de un albarán de compras confirmado](albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
 
 Sobre el albarán obtenemos información sobre el pedido de ventas origen fácilmente, simplemente pulsando sobre el botón "Ventas relacionadas":
 
-![](../.gitbook/assets/image%20%28356%29.png)
+![Ventas relacionadas](../.gitbook/assets/image%20%2857%29.png)
 
-Desde esta ventana podremos avisar al cliente mediante un SMS con un formato predefinido o uno de forma manual. Además, en la parte superior nos indica que esta pieza completa el pedido de ventas, podemos entregar todo el material.
+Desde esta ventana podremos avisar al cliente mediante un SMS con un formato predefinido o uno de forma manual. Además, en la parte superior nos indica que esta pieza completa el pedido de ventas u OR, podemos instalar todo el material.
 
-![](../.gitbook/assets/image%20%28344%29.png)
+Observar el código de colores de la OR que indica su situación:
 
-En el pedido de ventas podremos entregar los artículos reservados de stock y/o reservados por los pedidos de compras recepcionados pulsando en el botón "Entregar":
+![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28399%29.png)
 
-![](../.gitbook/assets/image%20%2819%29.png)
+Instalar el material \(código azul de color en las líneas de artículos\) seleccionando todas las líneas y pulsando en el botón "Instalar material" según la siguiente imagen:
 
-Pulsando en el recuadro blanco a la izquierda del cliente, podremos seleccionar todos los artículos incluidos en la venta, sino también podremos seleccionar cada artículos de forma independiente. **Luego pulsamos en "Crear albaranes" para entregar el material o en "Crear líneas OR" en caso de que el cliente decida que todo o parte del material, quiere que lo monte el taller \(la OR debe estar creada con anterioridad a la entrega del pedido\)**:
+![](../.gitbook/assets/image%20%2815%29.png)
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image%20%28331%29.png)
 
-Albarán con opciones de:
+![](../.gitbook/assets/image%20%2825%29.png)
 
-1.- Guardarlo \(siempre se guarda en cualquier caso\)
+![](../.gitbook/assets/image%20%28381%29.png)
 
-2.- Eliminarlo
+Orden de reparación que permite:
 
-3.- Enviarlo por email \(el sistema lo convierte automáticamente en PDF, recoge los datos de la entidad rellenando su email e incluso se podría crear un cuerpo con un contenido predeterminado\)
+1.- Aceptar \(guarda la OR - cierra la ventana\)
 
-4.- [Facturar](facturas_tutoriales/factura-cambiar-contenido.md) \(imprescindible para cobros\)
+2.- Imprimir
 
-5.- Imprimir
+3.- Impresión selectiva de la OR \(taller o cliente\)
 
-6.- Imprimir en PDF
+4.- Cobrar anticipo de la OR
 
-7.- Impresión selectiva \(muestra todas las opciones de impresión\)
+5.- Imprimir en PDF
 
-8.- [Abono de línea o líneas](facturas_tutoriales/factura-abono-de-lineas-o-completo.md) - enlace a abonos una vez facturado el albarán
+6.- Aplicar situación \(Cerrar - permite enviar SMS a cliente notificando la finalización - no factura aún &gt; sólo desde pestaña "Facturación"
+
+7.- Envío de SMS sin cerrar la OR
+
+8.- Comprobar opciones en las pestañas \(intervenciones, recepción, tramitación de garantía, totales, facturación, estadísticas, también añadir archivos a la ficha de la OR, etc...\)
+
+Comprobar cambios en el panel de ORs de la orden de reparación
+
+![](../.gitbook/assets/image%20%28286%29.png)
+
+Facturamos la OR, seleccionando la imputación correspondiente \(es posible dar de alta varias imputaciones iguales y varias imputaciones distintas como garantías, internas, siniestros...\). Al facturar observamos el cambio de situación en el panel de ordenes de reparación:
+
+![](../.gitbook/assets/image%20%28213%29.png)
+
+
 
 
 
