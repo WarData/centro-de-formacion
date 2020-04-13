@@ -2,7 +2,7 @@
 
 Todos los documentos en Winmotor se clasifican por series. Cada serie implica un contador para los documentos que incluya y son ilimitadas: se pueden crear tantas series por tipo de documento como se desee.
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%28395%29.png)
 
 Los campos a rellenar al crear una serie son:
 
@@ -22,7 +22,7 @@ Los campos a rellenar al crear una serie son:
 
 **PESTAÑAS:**
 
-* Pestaña “Valores por defecto”: Según el tipo de documento relacionado a la serie se nos presentarán en esta pestaña distintos campos. Vamos a ir enumerándolos por tipos de documentos:
+**Pestaña “Valores por defecto”:** Según el tipo de documento relacionado a la serie se nos presentarán en esta pestaña distintos campos. Vamos a ir enumerándolos por tipos de documentos:
 
          **Facturas Emitidas**
 
@@ -101,4 +101,42 @@ Marcando este check el programa cuando genera una factura automáticamente desde
           o    Modelo de rejilla: Según seleccionemos “ampliado” o “reducido” se presentarán más columnas en la rejilla de líneas de la propuesta. Para seleccionar la rejilla ampliada es recomendable utilizar una pantalla para confeccionar propuestas con una alta resolución.
 
           o    Tipos de artículo a incluir en el cálculo: Podemos con este campo limitar la propuesta de pedido a un tipo de artículo concreto. En caso de no seleccionar nada el programa calculará la propuesta para todos los tipos de artículos de nuestra distribución.
+
+**Pestaña "Contabilidad”:** afecta a las opciones contables de las series:
+
+          o   Serie regulada: activa y controlada por la aplicación
+
+          o   Serie interna: aquella destinada a procesos internos del Concesionario y/o entre departamentos
+
+          o   Contabilizar: check que permite activar o no la serie en contabilidad
+
+![](../../.gitbook/assets/image%20%28298%29.png)
+
+**Pestaña "Impresión":** permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
+
+            o   Impresión por tipo de pago: permite diferenciar el informe por tipo de pago
+
+            o   Identificadores: indican el código del informe que usará la serie para realizar la impresión, así como el destino \(impresora\), PDF y número de copias.
+
+            o   Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
+
+![](../../.gitbook/assets/image%20%2853%29.png)
+
+**Pestaña "Logos":** permite añadir logotipos para identificar las distintas series
+
+![](../../.gitbook/assets/image%20%28167%29.png)
+
+**Pestaña "Observaciones":** si el informe dispone de un campo observaciones, se aplicarán las añadidas a la serie. También permite añadir observaciones internas que únicamente aparecerán en esta pestaña y campo:
+
+![](../../.gitbook/assets/image%20%2869%29.png)
+
+**Pestaña "Contadores":** mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo a la vez que continúe la numeración al siguiente o empiece desde contador=1
+
+![](../../.gitbook/assets/image%20%2826%29.png)
+
+**Pestaña "Avanzado":** situación inicial de la serie al configurarse - consulte con el personal de Winmotor para más información
+
+![](../../.gitbook/assets/image%20%28180%29.png)
+
+
 

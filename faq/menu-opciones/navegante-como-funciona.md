@@ -18,7 +18,7 @@ Las opciones disponibles son:
 
 Esta opción nos permite ver los registros de una tabla maestra que están siendo apuntados por los registros de la lista actual. Al ejecutarla se presentará una ventana donde solamente se mostrarán los campos de la tabla que están enlazados a otras tablas y los objetos de lista públicos que podemos usar para ver dichos registros:
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 Seleccionar el campo y pulsar el botón _aceptar_ para continuar o pulsar el botón _cancelar_ para cancelar la navegación a maestros. Si aceptamos el sistema abrirá una nueva pestaña en el panel de registros con los registros de la tabla maestra que están siendo apuntados por los registros de la lista de origen.
 
@@ -30,7 +30,7 @@ Este comando está optimizado de modo que se pasa la lista de registros al servi
 
 Esta opción nos permite ver los registros de una tabla plural de un registro de la lista actual. Para ejecutar esta opción, por tanto, es necesario que hayamos seleccionado previamente un registro de la lista. Una vez seleccionado el registro y ejecutada esta opción, si la tabla tiene más de un histórico, se presentará una ventana para seleccionar el que se desea cargar y la selección del objeto de lista público que queramos usar para ver dichos registros:
 
-![](../../.gitbook/assets/image%20%28199%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 Seleccionar el campo y pulsar el botón _aceptar_ para continuar o pulsar el botón _cancelar_ para cancelar la navegación a plurales. Si aceptamos el sistema abrirá una nueva pestaña en el panel de registros con los plurales de esa ficha.
 
@@ -50,5 +50,5 @@ De esta forma tan sencilla podemos controlar aquellas tablas a las que no querem
 
 Este comando está optimizado de modo que se pasa la lista de registros al servidor para que la carga de sus plurales se realice en 3er plano.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
