@@ -6,7 +6,7 @@ En un primer paso hay que definir en los parámetros de la aplicación \(Paráme
 
 Una vez seleccionada la opción “Preparación pedidos” se nos presentará una pantalla con aquellos documentos pendientes de entregar para seleccionar el que vamos a preparar.
 
-![](../.gitbook/assets/image%20%28287%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 
 Haciendo click sobre uno de los documentos se presentará el detalle de su contenido.
 
@@ -24,7 +24,7 @@ La operativa para ir preparando líneas puede ser o bien pinchando en una línea
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
-![](../.gitbook/assets/image%20%28294%29.png)
+![](../.gitbook/assets/image%20%28295%29.png)
 
 Si queremos que la aplicación considere que todas las unidades de ese producto han sido preparadas tendremos que pulsar en el botón de acumulación del total de la línea, en otro caso habrá que escanear tantas unidades como haya que embalar.
 

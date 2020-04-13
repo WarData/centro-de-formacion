@@ -33,7 +33,7 @@ En el cuerpo del mensaje podremos incluir el texto que queramos o incluso un có
 
 En la pestaña "Destinatarios" haciendo doble clic podremos añadir entidades una a una, más abajo podremos obtener el listado completo de entidades usado en anteriores mailings \(botón inferior "Importar destinatarios desde otro mailing\) y otra forma es directamente desde listados:
 
-![](../.gitbook/assets/image%20%28281%29.png)
+![](../.gitbook/assets/image%20%28282%29.png)
 
 Desde los listados, como por ejemplo desde "Maestros" &gt; "Entidades" &gt; podemos crear directamente con las entidades filtradas un nuevo mailing o añadir las entidades seleccionadas a uno existente, al cual podremos añadir más de forma manual como en la imagen anterior:
 
@@ -55,7 +55,7 @@ Una vez añadidos los destinatarios, posibles archivos adjuntos y cuerpo del men
 
 Un ejemplo con MailStyler sería este:
 
-![](../.gitbook/assets/image%20%28345%29.png)
+![](../.gitbook/assets/image%20%28346%29.png)
 
 El código a introducir cuando hayamos subido las imágenes que obtenemos en una carpeta \_files al exportar a HTML al editor personalizado de Winmotor - Mailings:
 

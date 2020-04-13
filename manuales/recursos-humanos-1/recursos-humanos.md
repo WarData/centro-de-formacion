@@ -6,7 +6,7 @@ description: >-
 
 # Configuración Módulo Recursos Humanos
 
-![](../../.gitbook/assets/image%20%28350%29.png)
+![](../../.gitbook/assets/image%20%28351%29.png)
 
 **Objetivo**
 
@@ -18,13 +18,13 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28352%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28333%29.png)
 
 Haciendo doble clic en la rejilla que aparece con el título “HORARIOS” en el menú de recursos humanos podremos crear las distintas fichas.
 
@@ -48,7 +48,7 @@ Partiendo de la ficha de empresa o de centro en caso de distribución multicentr
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
 
-![](../../.gitbook/assets/image%20%28425%29.png)
+![](../../.gitbook/assets/image%20%28426%29.png)
 
 En el primer campo definiremos el centro o empresa al que está asociado \(También se puede acceder a este formulario desde la pestaña “Departamentos” de las fichas de Empresas o centros de trabajo en cuyo caso este campo aparecerá relleno\).
 
@@ -84,13 +84,13 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 \*\*\* Si tienen el acceso activado también en su perfil de usuario
 
-![](../../.gitbook/assets/image%20%28419%29.png)
+![](../../.gitbook/assets/image%20%28420%29.png)
 
 **Una vez finalizada la configuración debemos ir a "Configuración" &gt; Listar ejercicios &gt; entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar.** 
 
 Finalizado el proceso anterior, al pulsar en la opción RRHH obtenemos este panel de configuración de Recursos Humanos completo, a nivel administrador, en el que podremos visualizar citas por día, mes, año, operario, disponibilidad y un largo etcétera que iremos viendo a lo largo de este manual:
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 **Completada la configuración, el usuario que gestione la agenda del departamento laboral podrá acceder a ella desde la opción "Taller" &gt; "Agenda de Taller" \***
 
@@ -104,7 +104,7 @@ Para usuarios de Winmotor que únicamente gestionen el planning para dar citas, 
 
 Y añadir a dichos usuarios a Administradores del departamento dentro de la opcíon RRHH según la siguiente imagen:
 
-![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28427%29.png)
+![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28428%29.png)
 
 Como configuración añadida a la anterior, seleccionando Departamento y luego un operario, podemos en su vista mensual definir **vacaciones, bajas o eventos\*\*\*** \(cursos por ejemplo\):
 
@@ -116,19 +116,19 @@ En los botones inferiores \(los 3 de la izquierda\) accedemos a definir:
 
 * Vacaciones:
 
-![](../../.gitbook/assets/image%20%28342%29.png)
+![](../../.gitbook/assets/image%20%28343%29.png)
 
 * Bajas:
 
-![](../../.gitbook/assets/image%20%28414%29.png)
+![](../../.gitbook/assets/image%20%28415%29.png)
 
 * Eventos:
 
-![](../../.gitbook/assets/image%20%28375%29.png)
+![](../../.gitbook/assets/image%20%28376%29.png)
 
 En todos los casos, al pulsar en "Revisar", el sistema comprueba si entra en algún conflicto con una o más citas durante ese periodo para cambiarlas de operario si es posible.
 
-![](../../.gitbook/assets/image%20%28277%29.png)
+![](../../.gitbook/assets/image%20%28278%29.png)
 
 En la vista del mes podemos ver vacaciones en azul claro, eventos a determinadas horas en azul oscuro y baja en rojo. Estos elementos se alternan con las citas del departamento cada día, mostrando el porcentaje de ocupación, en este caso de un único operario.
 
