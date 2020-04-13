@@ -9,9 +9,9 @@ Los campos a rellenar al crear una serie son:
 * Código: No hay que rellenarlo, lo hace el programa automáticamente\)
 * Referencia: 
 
-1.- Será el identificador interno para esta serie
+        1.- Será el identificador interno para esta serie
 
-2.- Su tamaño máximo es de 6 caracteres alfanuméricos. Se recomienda usar abreviaturas que identifiquen claramente el tipo de documento sobre el que se utiliza  la serie de manera que al visualizar documentos en el programa podamos diferenciar claramente de qué tipo se trata \( FV- Facturas de ventas, AV – Albarán de ventas, AC- Albarán de compras etc\). En el ejemplo anterior hemos añadido a FV el carácter “G” para identificar que será la serie para facturas de ventas “General”.
+        2.- Su tamaño máximo es de 6 caracteres alfanuméricos. Se recomienda usar abreviaturas que identifiquen claramente el tipo de documento sobre el que se utiliza  la serie de manera que al visualizar documentos en el programa podamos diferenciar claramente de qué tipo se trata \( FV- Facturas de ventas, AV – Albarán de ventas, AC- Albarán de compras etc\). En el ejemplo anterior hemos añadido a FV el carácter “G” para identificar que será la serie para facturas de ventas “General”.
 
 * Serie abono: Identifica si la serie que se va a grabar será utilizada para abonos de documentos. Es un campo tipo “check” y aparecerá en el caso de dar de alta series de albaranes o facturas.
 * Serie activa: Por defecto aparece marcada, pero en el momento en que se desmarque la serie dejará de poder utilizarse en documentos.
