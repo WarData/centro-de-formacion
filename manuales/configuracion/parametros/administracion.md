@@ -1,6 +1,6 @@
 # Administración
 
-Dentro del menú de Administración nos encontramos con 6 pestañas de configuración:
+Dentro de la pestaña de Administración nos encontramos con 6 pestañas de configuración:
 
 * **Generales** \(conceptos generales de cobro, apertura de caja...IVA y pago por defecto al crear entidades nuevas, etc...\)
 
