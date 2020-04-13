@@ -92,33 +92,33 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
           **Pedido Proveedor**
 
-          o    Serie destino: Identifica la serie de albarán de compras en la que se generarán las líneas del pedido en caso de recibirse.
+           o    Serie destino: Identifica la serie de albarán de compras en la que se generarán las líneas del pedido en caso de recibirse.
 
-          o    Propuesta de pedido
+           o    Propuesta de pedido
 
-          o    Serie destino: Identifica la serie para el pedido de compras que se generará en caso de confirmar la propuesta.
+           o    Serie destino: Identifica la serie para el pedido de compras que se generará en caso de confirmar la propuesta.
 
-          o    Modelo de rejilla: Según seleccionemos “ampliado” o “reducido” se presentarán más columnas en la rejilla de líneas de la propuesta. Para seleccionar la rejilla ampliada es recomendable utilizar una pantalla para confeccionar propuestas con una alta resolución.
+           o    Modelo de rejilla: Según seleccionemos “ampliado” o “reducido” se presentarán más columnas en la rejilla de líneas de la propuesta. Para seleccionar la rejilla ampliada es recomendable utilizar una pantalla para confeccionar propuestas con una alta resolución.
 
-          o    Tipos de artículo a incluir en el cálculo: Podemos con este campo limitar la propuesta de pedido a un tipo de artículo concreto. En caso de no seleccionar nada el programa calculará la propuesta para todos los tipos de artículos de nuestra distribución.
+           o    Tipos de artículo a incluir en el cálculo: Podemos con este campo limitar la propuesta de pedido a un tipo de artículo concreto. En caso de no seleccionar nada el programa calculará la propuesta para todos los tipos de artículos de nuestra distribución.
 
 **Pestaña "Contabilidad”:** afecta a las opciones contables de las series:
 
-          o   Serie regulada: activa y controlada por la aplicación
+           o   Serie regulada: activa y controlada por la aplicación
 
-          o   Serie interna: aquella destinada a procesos internos del Concesionario y/o entre departamentos
+           o   Serie interna: aquella destinada a procesos internos del Concesionario y/o entre departamentos
 
-          o   Contabilizar: check que permite activar o no la serie en contabilidad
+           o   Contabilizar: check que permite activar o no la serie en contabilidad
 
 ![](../../.gitbook/assets/image%20%28298%29.png)
 
 **Pestaña "Impresión":** permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
 
-            o   Impresión por tipo de pago: permite diferenciar el informe por tipo de pago
+             o   Impresión por tipo de pago: permite diferenciar el informe por tipo de pago
 
-            o   Identificadores: indican el código del informe que usará la serie para realizar la impresión, así como el destino \(impresora\), PDF y número de copias.
+             o   Identificadores: indican el código del informe que usará la serie para realizar la impresión, así como el destino \(impresora\), PDF y número de copias.
 
-            o   Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
+             o   Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
 
