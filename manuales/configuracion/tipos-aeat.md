@@ -1,3 +1,7 @@
+---
+description: Información recogida de la Agencia Tributaria
+---
+
 # Tipos AEAT
 
 El IVA es un tributo de naturaleza indirecta que recae sobre el consumo y grava: las entregas de bienes y prestaciones de servicios efectuadas por empresarios y profesionales, las adquisiciones intracomunitarias y las importaciones de bienes.
