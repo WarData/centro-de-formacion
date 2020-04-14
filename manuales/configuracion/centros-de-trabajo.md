@@ -12,33 +12,33 @@ Como hemos dicho al principio debe existir en este tipo de distribución un cent
 
 En este tipo de distribución la base de datos se estructura de la siguiente forma:
 
-·         Artículos
+* Artículos
 
-o    Son comunes a todos los centros pero para cada ficha de artículo el programa exige definir una ficha de tarifa de proveedor donde éste podrá ser distinto para cada centro. Normalmente en el centro “central” el proveedor será el fabricante del producto y en los puntos de ventas el proveedor será la propia central. Así mismo los precios de costo pueden variar para un mismo artículo en uno u otro centro.
+             o    Son comunes a todos los centros pero para cada ficha de artículo el programa exige definir una ficha de tarifa de proveedor donde éste podrá ser distinto para cada centro. Normalmente en el centro “central” el proveedor será el fabricante del producto y en los puntos de ventas el proveedor será la propia central. Así mismo los precios de costo pueden variar para un mismo artículo en uno u otro centro.
 
-o    El stock de cada artículo queda a su vez separado por centros aunque se puede luego consultar y listar a nivel centro o a nivel general de la empresa. En el cálculo de stock y disponibilidad de un artículo en un documento se tendrá en cuenta el de su centro, no el de la empresa. Esto quiere decir que si estamos grabando por ejemplo un albarán de ventas en un centro concreto y en éste no hay disponibilidad de stock la aplicación no permitirá su grabación.
+             o    El stock de cada artículo queda a su vez separado por centros aunque se puede luego consultar y listar a nivel centro o a nivel general de la empresa. En el cálculo de stock y disponibilidad de un artículo en un documento se tendrá en cuenta el de su centro, no el de la empresa. Esto quiere decir que si estamos grabando por ejemplo un albarán de ventas en un centro concreto y en éste no hay disponibilidad de stock la aplicación no permitirá su grabación.
 
-o    Los movimientos de stock entre centro están contemplados en el programa de forma automatizada mediante pedidos y albaranes. Puntualmente pueden utilizarse para este fin partes de almacén pero no es lo lógico ni lo más cómodo para el usuario ya que no serán automáticos.
+             o    Los movimientos de stock entre centro están contemplados en el programa de forma automatizada mediante pedidos y albaranes. Puntualmente pueden utilizarse para este fin partes de almacén pero no es lo lógico ni lo más cómodo para el usuario ya que no serán automáticos.
 
-·         Almacenes
+* Almacenes
 
-o    Se definen para cada centro
+             o    Se definen para cada centro
 
-·         Cuentas de tesorería
+* Cuentas de tesorería
 
-o    Se definen para cada centro. Esto implica que la aplicación no permitirá usar a un usuario de un centro una cuenta de otro. Por otro lado si se permitirá en un centro grabar un asiento de tesorería de un documento relativo a otro centro, en este caso el programa avisa al usuario para evitar que haga la grabación por error pero la permite.
+             o    Se definen para cada centro. Esto implica que la aplicación no permitirá usar a un usuario de un centro una cuenta de otro. Por otro lado si se permitirá en un centro grabar un asiento de tesorería de un documento relativo a otro centro, en este caso el programa avisa al usuario para evitar que haga la grabación por error pero la permite.
 
-·         Resto de archivos maestros y submaestros
+* Resto de archivos maestros y submaestros
 
-o    Son comunes a todos los centros
+             o    Son comunes a todos los centros
 
-·         Tarifas de venta
+* Tarifas de venta
 
-o    Se definen por centros, lo que implica que un mismo producto en uno u otro centro pueda tener distintos precios de  ventas e incluso, que un mismo cliente según compre en uno u otro centro tenga también un distinto precio.
+             o    Se definen por centros, lo que implica que un mismo producto en uno u otro centro pueda tener distintos precios de  ventas e incluso, que un mismo cliente según compre en uno u otro centro tenga también un distinto precio.
 
-·         Documentos
+* Documentos
 
-o    Están forzosamente separados por centros, cualquier tipo de documento exigirá como dato de cabecera su centro. Para este caso nos apoyamos en las “**series de documentos**” de manera que al dar de alta una serie en una distribución multicentro definimos su centro de trabajo ahorrando así el tener que especificar el centro cada vez que se grava un documento.
+             o    Están forzosamente separados por centros, cualquier tipo de documento exigirá como dato de cabecera su centro. Para este caso nos apoyamos en las “**series de documentos**” de manera que al dar de alta una serie en una distribución multicentro definimos su centro de trabajo ahorrando así el tener que especificar el centro cada vez que se grava un documento.
 
 **Permisos / accesos**
 
@@ -54,5 +54,5 @@ Estando activada la distribución por centro podremos hacer una contabilización
 
 La asignación se hace lógicamente definiendo en contabilidad centros de costes y en los centros de gestión definiremos su equivalente en contabilidad. A partir de ahí la aplicación generará automáticamente la contabilidad analítica.
 
-Imaginemos por ejemplo un asiento de una venta: en la línea relativa a la cuenta de ingresos se recogerá la cuenta contable de ingresos definida para esa partida, que lógicamente es común a cualquier centro. El programa en el apunte del diario añadirá un campo más en el que especificaré al centro relativo al ingreso. De esta forma podremos calcular en contabilidad informes por centros \(balances, cuentas de pérdidas y ganancias, desviaciones presupuestarias, etc\).
+Imaginemos por ejemplo un asiento de una venta: en la línea relativa a la cuenta de ingresos se recogerá la cuenta contable de ingresos definida para esa partida, que lógicamente es común a cualquier centro. El programa en el apunte del diario añadirá un campo más en el que especificaré al centro relativo al ingreso. De esta forma podremos calcular en contabilidad informes por centros \(balances, cuentas de pérdidas y ganancias, desviaciones presupuestarias, etc...\).
 
