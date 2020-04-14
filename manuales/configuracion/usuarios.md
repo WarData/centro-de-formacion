@@ -6,7 +6,7 @@ En el siguiente listado, podemos comprobar todos los usuarios **dados de alta po
 
 ![](../../.gitbook/assets/image%20%28205%29.png)
 
-Entrando en la ficha, podremos completar los datos del usuario \(DNI, NIF, dirección, emails...\), así como asignarle nuevo tipos de entidad como "vendedor", "cliente", etc... [Véase Entidades](../maestros/entidades-1/)
+Entrando en la ficha, podremos completar los datos del usuario \(DNI, NIF, dirección, emails...\), así como asignarle nuevo tipos de entidad como "vendedor", "cliente", etc... [Véase Entidades](../maestros/entidades-1.md)
 
 ![](../../.gitbook/assets/image%20%28442%29.png)
 
