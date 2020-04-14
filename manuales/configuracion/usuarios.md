@@ -2,7 +2,7 @@
 
 Se entiende por usuario aquel que tiene el derecho de usar de una cosa ajena con unas limitaciones determinadas. En informática será aquella persona que utiliza un dispositivo o un ordenador y realiza múltiples operaciones con distintos propósitos.
 
-En el siguiente listado, podemos comprobar todos los usuarios dados de alta por Winmotor \(no es posible realizarlo desde la aplicación\) y sus fichas:
+En el siguiente listado, podemos comprobar todos los usuarios **dados de alta por Winmotor \(no es posible realizarlo desde la aplicación\)** y sus fichas:
 
 ![](../../.gitbook/assets/image%20%28204%29.png)
 
