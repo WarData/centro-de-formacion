@@ -6,7 +6,7 @@ description: >-
 
 # Configuración Módulo Recursos Humanos
 
-![](../../.gitbook/assets/image%20%28351%29.png)
+![](../../.gitbook/assets/image%20%28361%29.png)
 
 **Objetivo**
 
@@ -18,13 +18,13 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28353%29.png)
+![](../../.gitbook/assets/image%20%28363%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
-![](../../.gitbook/assets/image%20%28333%29.png)
+![](../../.gitbook/assets/image%20%28343%29.png)
 
 Haciendo doble clic en la rejilla que aparece con el título “HORARIOS” en el menú de recursos humanos podremos crear las distintas fichas.
 
@@ -36,7 +36,7 @@ Normalmente para una empresa o centro habrá por tanto que definir el horario de
 
 Desde la ficha del centro en caso de distribución multicentro o la de la empresa, entrando en la pestaña “Festivos” podremos definirlos.
 
-![](../../.gitbook/assets/image%20%28183%29.png)
+![](../../.gitbook/assets/image%20%28188%29.png)
 
 Para definir los días festivos a partir del calendario laboral de la ciudad en la que esté la empresa o el centro daremos de alta una ficha por cada día, definiendo el nombre de la festividad y la fecha. Para la fecha usaremos el botón que aparece remarcado y quedará registrada sin el año.
 
@@ -48,7 +48,7 @@ Partiendo de la ficha de empresa o de centro en caso de distribución multicentr
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
 
-![](../../.gitbook/assets/image%20%28426%29.png)
+![](../../.gitbook/assets/image%20%28436%29.png)
 
 En el primer campo definiremos el centro o empresa al que está asociado \(También se puede acceder a este formulario desde la pestaña “Departamentos” de las fichas de Empresas o centros de trabajo en cuyo caso este campo aparecerá relleno\).
 
@@ -64,7 +64,7 @@ Una vez definidos los datos de cabecera hay que crear:
 
 **Jornadas** - se define el horario que tendremos en cada día de la semana que sea laborable:
 
-![](../../.gitbook/assets/image%20%28121%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
 Haciendo doble clic en la rejilla de Jornadas iremos definiendo estos datos por cada día:
 
@@ -78,33 +78,33 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 \*\*\* Es requisito imprescindible que el módulo RRHH esté activado por nuestros técnicos \(Win ERP\).
 
-![](../../.gitbook/assets/image%20%28237%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 
 **Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH\*\*\* \(departamentos laborales, jornadas, etc...\) y al panel de citas con sus diversas visualizaciones.
 
 \*\*\* Si tienen el acceso activado también en su perfil de usuario
 
-![](../../.gitbook/assets/image%20%28420%29.png)
+![](../../.gitbook/assets/image%20%28430%29.png)
 
 **Una vez finalizada la configuración debemos ir a "Configuración" &gt; Listar ejercicios &gt; entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar.** 
 
 Finalizado el proceso anterior, al pulsar en la opción RRHH obtenemos este panel de configuración de Recursos Humanos completo, a nivel administrador, en el que podremos visualizar citas por día, mes, año, operario, disponibilidad y un largo etcétera que iremos viendo a lo largo de este manual:
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](../../.gitbook/assets/image%20%28315%29.png)
 
 **Completada la configuración, el usuario que gestione la agenda del departamento laboral podrá acceder a ella desde la opción "Taller" &gt; "Agenda de Taller" \***
 
 **\* Es muy importante revisar la configuración de usuario y activar un modo de visualización de la nueva agenda \(Configuración &gt; Listar Usuarios &gt; seleccionar usuario que va a usar el planning de taller &gt; Pestaña "Configuración de usuario &gt; al final "Recursos Humanos" y tener activada una "Vista de Panel" &gt; semana / mes / año\), en caso contrario la Agenda de Taller no abrirá el Planning.**
 
-![](../../.gitbook/assets/image%20%28171%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 Para usuarios de Winmotor que únicamente gestionen el planning para dar citas, cambiarlas, etc...su perfil debe tener, como mínimo para dicha acción, **"Recursos Humanos" y "Gestión de Citas" activados** en alta / baja / modificación y consulta:
 
-![](../../.gitbook/assets/image%20%28267%29.png)
+![](../../.gitbook/assets/image%20%28273%29.png)
 
 Y añadir a dichos usuarios a Administradores del departamento dentro de la opcíon RRHH según la siguiente imagen:
 
-![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28428%29.png)
+![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28438%29.png)
 
 Como configuración añadida a la anterior, seleccionando Departamento y luego un operario, podemos en su vista mensual definir **vacaciones, bajas o eventos\*\*\*** \(cursos por ejemplo\):
 
@@ -116,19 +116,19 @@ En los botones inferiores \(los 3 de la izquierda\) accedemos a definir:
 
 * Vacaciones:
 
-![](../../.gitbook/assets/image%20%28343%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 * Bajas:
 
-![](../../.gitbook/assets/image%20%28415%29.png)
+![](../../.gitbook/assets/image%20%28425%29.png)
 
 * Eventos:
 
-![](../../.gitbook/assets/image%20%28376%29.png)
+![](../../.gitbook/assets/image%20%28386%29.png)
 
 En todos los casos, al pulsar en "Revisar", el sistema comprueba si entra en algún conflicto con una o más citas durante ese periodo para cambiarlas de operario si es posible.
 
-![](../../.gitbook/assets/image%20%28278%29.png)
+![](../../.gitbook/assets/image%20%28285%29.png)
 
 En la vista del mes podemos ver vacaciones en azul claro, eventos a determinadas horas en azul oscuro y baja en rojo. Estos elementos se alternan con las citas del departamento cada día, mostrando el porcentaje de ocupación, en este caso de un único operario.
 
