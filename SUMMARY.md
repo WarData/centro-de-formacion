@@ -28,7 +28,7 @@
     * [Permisos de Usuario](manuales/configuracion/opciones-especiales/permisos-de-usuario.md)
   * [Empresas](manuales/configuracion/empresas.md)
   * [Usuarios](manuales/configuracion/usuarios.md)
-  * [Regímenes de IVA](manuales/configuracion/regimenes-de-iva.md)
+  * [Tipos de IVA](manuales/configuracion/tipos-de-iva.md)
   * [Centros de Trabajo](manuales/configuracion/centros-de-trabajo.md)
   * [Tipos AEAT](manuales/configuracion/tipos-aeat.md)
 * [Submaestros](manuales/submaestros/README.md)
