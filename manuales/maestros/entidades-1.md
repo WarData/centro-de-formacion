@@ -30,11 +30,11 @@ En el panel de entidades disponemos de las opciones:
 
                 o   _Pestaña "Generales":_
 
-                          __o   Referencia: Datos generales que nos permiten identificar con mayor exactitud a la entidad
+                               __o   Referencia: Datos generales que nos permiten identificar con mayor exactitud a la entidad
 
-                          o   Podremos rellenar también los siguientes datos, **Teléfono fijo 1 y 2**, **móvil 1 y 2**, página web y persona o personas de **contacto \(referencia\) junto a su/s email/s \(email adm es el que se usará por defecto y para envíos automáticos\)**
+                               o   Podremos rellenar también los siguientes datos, **Teléfono fijo 1 y 2**, **móvil 1 y 2**, página web y persona o personas de **contacto \(referencia\) junto a su/s email/s \(email adm es el que se usará por defecto y para envíos automáticos\)**
 
-                          ****o   Dirección completa: es un campo multilínea en el que podremos anotar la dirección. Para poder dar de alta de una hasta tres direcciones \(fiscal, de envíos y documental\) sólo es necesario hacer un doble clic en el campo en blanco de la dirección
+                               ****o   Dirección completa: es un campo multilínea en el que podremos anotar la dirección. Para poder dar de alta de una hasta tres direcciones \(fiscal, de envíos y documental\) sólo es necesario hacer un doble clic en el campo en blanco de la dirección
 
 * **Buscar entidad**
 
