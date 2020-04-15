@@ -60,9 +60,21 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Tipo de artículo:** sirve para poder clasificar una serie de artículos. Los grupos son creados por nuestro equipo de Winmotor según las necesidades del cliente.
 
+                                 **o   Ubicaciones:** son tres campos en los que podremos indicar la ubicación o ubicaciones \(almacén/es o subalmacén/es\) de los artículos. En la grabación de los inventarios, también se puede indicar la ubicación de los que se va incluyendo, pasando estas ubicaciones directamente a la ficha del artículo. La gestión de las ubicaciones se realiza al mismo nivel que un almacén. Las ubicaciones se visualizan en la grabación de un albarán de venta y en los movimientos de almacén.
+
                                  **o   Proveedor:** indicamos aquí el proveedor que suministra este artículo. En el caso de que un mismo artículo podamos comprarlo a diferentes proveedores, se puede indicar aquí el proveedor que nos aparecerá en los documentos de compra por defecto \(el más común\).
 
-**-ALTERNATIVA 1, ALTERNATIVA 2** y **ALTERNATIVA 3:** se pueden indicar aquí referencias, alternativas al artículo. Puede servirnos para saber consultando la ficha de un artículo, que otros artículos puedo ofrecer o instalar en un vehículo, si no dispongo de stock en el primero.
+                                 **o   Precio de compra:** precio bruto de compra del artículo al proveedor
+
+                                 **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
+
+                                 o   Precio de venta: precio bruto de venta del artículo al cliente. Es 
+
+                                 o   Precio de venta recomendado \(P.V.R.\):
+
+                                 o   Porcentaje de IVA:
+
+                                 o   Precio de venta al público \(P.V.P.\): precio de venta final impuestos incluidos.
 
 **-OBSERVACIONES:** podremos insertar aquí, observaciones sobre el artículo.
 
@@ -82,11 +94,9 @@ Estos campos sirven para especificar las cuentas contables donde se incluirá el
 
 Se pueden indicar hasta cuatro tipos de cuentas contables diferentes para **compras,  devolución de compras, ventas** y **devolución de ventas.**
 
-**-PRECIOS DE COMPRA:**
+\*\*\*\*
 
-**-PRECIO TARIFA:** es el precio de compra del artículo.
-
-**-DESCUENTO 1, DESCUENTO 2** y **DESCUENTO 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
+ ****
 
 **-PRECIO NETO:** es el resultado de restar al precio tarifa los descuentos especificados.
 
