@@ -8,9 +8,9 @@ El nuevo proceso asegura un control de stock más exhaustivo.
 
 Teniendo un albarán de compras confirmado, a la izquierda de la imagen, hemos añadido a los botones "Nueva línea de artículo o concepto" y "Añadir líneas de texto" el nuevo botón "Anular líneas seleccionadas":
 
-![Anular l&#xED;neas seleccionadas](../../.gitbook/assets/image%20%28399%29.png)
+![Anular l&#xED;neas seleccionadas](../../.gitbook/assets/image%20%28402%29.png)
 
-![](../../.gitbook/assets/image%20%28325%29.png)
+![](../../.gitbook/assets/image%20%28327%29.png)
 
 Seleccionamos la línea inferior, por ejemplo y pulsamos el nuevo botón para anular la línea:
 
