@@ -68,13 +68,13 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-                                 o   Precio de venta: precio bruto de venta del artículo al cliente. Es 
+                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es 
 
-                                 o   Precio de venta recomendado \(P.V.R.\):
+                                 **o   Precio de venta recomendado \(P.V.R.\):**
 
-                                 o   Porcentaje de IVA:
+                                 **o   Porcentaje de IVA:**
 
-                                 o   Precio de venta al público \(P.V.P.\): precio de venta final impuestos incluidos.
+                                 **o   Precio de venta al público \(P.V.P.\):** precio de venta final impuestos incluidos.
 
 **-OBSERVACIONES:** podremos insertar aquí, observaciones sobre el artículo.
 
