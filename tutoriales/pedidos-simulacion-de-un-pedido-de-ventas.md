@@ -27,7 +27,7 @@ El pedido de ventas queda en situación "Pendiente de recibir / Pendiente de ent
 
 Si el pedido de ventas contenía algún artículo o artículos sin stock, Winmotor genera automáticamente el **pedido de compras** **a cada proveedor si no había ninguno ya existente sin tramitar \(si antes de confirmar el pedido de ventas ya existiera un pedido de compras al mismo proveedor del que el cliente solicita artículo sin stock, el sistema añadirá dicha pieza al pedido de compras existente\):**
 
-![Vista de pedidos generados tras pulsar &quot;Si&quot; en la ventana de confirmaci&#xF3;n anterior](../.gitbook/assets/image%20%28426%29.png)
+![Vista de pedidos generados tras pulsar &quot;Si&quot; en la ventana de confirmaci&#xF3;n anterior](../.gitbook/assets/image%20%28428%29.png)
 
 Desde la pantalla anterior podemos abrir el pedido de compras generado por el artículo sin stock del pedido de ventas. **Es un pedido de compras SIN CONFIRMAR por lo que, otras líneas de pedidos de ventas u ORs al mismo proveedor y/o líneas adicionales para stock, se irán sumando hasta que se confirme el pedido de compras:**
 
@@ -61,11 +61,11 @@ Existe un método para anular líneas cuando el albarán está confirmado en el 
 
 Sobre el albarán obtenemos información sobre el pedido de ventas origen fácilmente, simplemente pulsando sobre el botón "Ventas relacionadas":
 
-![](../.gitbook/assets/image%20%28433%29.png)
+![](../.gitbook/assets/image%20%28435%29.png)
 
 Desde esta ventana podremos avisar al cliente mediante un SMS con un formato predefinido o uno de forma manual. Además, en la parte superior nos indica que esta pieza completa el pedido de ventas, podemos entregar todo el material.
 
-![](../.gitbook/assets/image%20%28419%29.png)
+![](../.gitbook/assets/image%20%28421%29.png)
 
 En el pedido de ventas podremos entregar los artículos reservados de stock y/o reservados por los pedidos de compras recepcionados pulsando en el botón "Entregar":
 

@@ -26,7 +26,7 @@ En la gestión de fichas de cierres hay que tener en cuenta:
 
 En el panel de inicio del programa aparece ahora a la derecha del nombre de la empresa la fecha del último cierre fiscal como dato recordatorio. En caso de no haber ningún cierre aparecerá la fecha de inicio de la base de datos:
 
-![](../../../.gitbook/assets/image%20%28437%29.png)
+![](../../../.gitbook/assets/image%20%28439%29.png)
 
 Al presentar una factura o asiento contable de fecha anterior al último cierre aparecerá ahora un candado rojo indicando que está bloqueado:
 
