@@ -2,7 +2,7 @@
 
 Definimos entidad como asociación o conjunto de personas de cualquier tipo, en especial la que se dedica a una actividad laboral \(entidad financiera, entidad bancaria, entidad deportiva...\). En bases de datos, una **entidad** es la representación de un objeto o concepto del mundo real que se describe en una base de datos.
 
-![](../../.gitbook/assets/image%20%28450%29.png)
+![](../../.gitbook/assets/image%20%28452%29.png)
 
 En el panel de entidades disponemos de las opciones:
 
@@ -38,17 +38,17 @@ En el panel de entidades disponemos de las opciones:
 
                  o   _Pestaña "Notas":_ añade observaciones internas a la ficha de la entidad \(sólo se presentan en ella\) y, en la pestaña "Aviso en Documentos", las observaciones añadidas aparecerán, al añadir la entidad que las contenga, al dar de alta un documento \(albarán, factura, OR...\) en la parte inferior del campo.
 
-![](../../.gitbook/assets/image%20%28407%29.png)
+![](../../.gitbook/assets/image%20%28409%29.png)
 
                   o   _Pestaña "Imagen":_ Añade una imagen a la entidad haciendo doble clic en el espacio en blanco y pegando la misma en el editor gráfico integrado
 
-![](../../.gitbook/assets/image%20%28389%29.png)
+![](../../.gitbook/assets/image%20%28391%29.png)
 
-![Editor de im&#xE1;genes integrado](../../.gitbook/assets/image%20%28344%29.png)
+![Editor de im&#xE1;genes integrado](../../.gitbook/assets/image%20%28346%29.png)
 
 * **Buscar entidad** - permite localizar cualquier tipo de entidad independientemente de si pertenece a uno o más tipos
 
-![](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28205%29.png)
 
                  o   Índices: localizador por diferentes opciones como alfabéticamente, trozos, código, teléfono, CIF - DNI, etc...
 
@@ -58,7 +58,7 @@ En el panel de entidades disponemos de las opciones:
 
                 o   Filtro por tipo de entidad que permite la búsqueda combinando añadiendo \(con alguno de los tipos seleccionados\), combinando cruzando \(con todos los tipos seleccionados\) o presentando todas excepto las seleccionadas. También permite añadir por palabras a buscar.
 
-![](../../.gitbook/assets/image%20%28367%29.png)
+![](../../.gitbook/assets/image%20%28369%29.png)
 
                 o   Filtros avanzados permiten especificar nuevos filtros añadidos a la búsqueda como tipos de pago, fechas, con datos como móvil o email...
 
