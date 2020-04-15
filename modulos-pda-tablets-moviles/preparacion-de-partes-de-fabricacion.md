@@ -5,7 +5,7 @@ El sistema se utiliza para ayudar a un operario de laboratorio en el proceso de 
 
 Una vez seleccionado un parte de la lista de “En fabricación”, el parte a preparar se nos presenta como en la siguiente pantalla:
 
-![](../.gitbook/assets/image%20%28325%29.png)
+![](../.gitbook/assets/image%20%28327%29.png)
 
 En la lista vemos los requerimientos para la fabricación, detallando el producto y la “necesidad”.
 
@@ -23,13 +23,13 @@ También podremos usar esta misma opción para indicar al programa que cambiamos
 
 Pulsando en la pantalla inicial el botón “Ver consumos” nos aparecerá el detalle del consumo del parte:
 
-![](../.gitbook/assets/image%20%28207%29.png)
+![](../.gitbook/assets/image%20%28208%29.png)
 
 En esta pantalla se nos da la posibilidad de editar y modificar las unidades consumidas en caso de ser distintas de las previstas. Para esto hay que seleccionar una línea y pulsar el botón de edición:
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![](../.gitbook/assets/image%20%28247%29.png)
 
-![](../.gitbook/assets/image%20%28356%29.png)
+![](../.gitbook/assets/image%20%28358%29.png)
 
 Nos aparecerá la casilla donde podremos modificar las unidades consumidas y validarlas con el botón de la derecha.
 
@@ -43,7 +43,7 @@ Y con este otro botón tenemos una pantalla combinada de requerimientos y necesi
 
 Para finalizar el proceso habrá que pulsar el botón “Fin de fabricación”: se nos presentará esta pantalla para confirmar las unidades fabricadas y grabar en su caso las observaciones que consideremos necesarias:
 
-![](../.gitbook/assets/image%20%28427%29.png)
+![](../.gitbook/assets/image%20%28429%29.png)
 
 Pulsando el botón “Finalizar” se cerrarán las intervenciones abiertas y el parte pasará a situación “Finalizado”.
 
