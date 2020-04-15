@@ -76,11 +76,3 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Precio de venta al público \(P.V.P.\):** precio de venta final impuestos incluidos.
 
-
-
-\*\*\*\*
-
-
-
-
-
