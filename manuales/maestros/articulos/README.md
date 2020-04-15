@@ -18,11 +18,13 @@ Tras pulsar en "F1 imprimir" nos mostrará el listado siguiente con los artícul
 
 ![](../../../.gitbook/assets/image%20%28419%29.png)
 
-                  o   Imprimir informe: filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
+                o   Imprimir informe: filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
 
 ![](../../../.gitbook/assets/image%20%28133%29.png)
 
 Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de selección de impresora para imprimirlo.
+
+               o   Filtrar:    
 
 
 
