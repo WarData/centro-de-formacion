@@ -66,5 +66,5 @@ En el panel de entidades disponemos de las opciones:
 
                                     
 
-* **Vendedores DM** \(en caso de disponer de vendedores con dispositivo móvil, muestra el listado activo\)
+* **Vendedores DM** \(en caso de disponer de entidades tipo vendedor, mostrará el listado de los vendedores con dispositivo móvil activos\)
 
