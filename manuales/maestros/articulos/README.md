@@ -68,53 +68,19 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es 
+                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas personalizadas mediante el botón inferior "Ver tarifas personalizadas".
 
-                                 **o   Precio de venta recomendado \(P.V.R.\):**
+                                 **o   Precio de venta recomendado \(P.V.R.\):** recomendación del fabricante / marca sobre el precio de venta final al cliente.
 
-                                 **o   Porcentaje de IVA:**
+                                 **o   Porcentaje de IVA:** porcentaje de IVA que se aplicará sobre este artículo en ventas con régimen general por defecto y con posibilidad de seleccionar otro.
 
                                  **o   Precio de venta al público \(P.V.P.\):** precio de venta final impuestos incluidos.
 
-**-OBSERVACIONES:** podremos insertar aquí, observaciones sobre el artículo.
 
-**-STOCK MÍNIMO:** si rellenamos este campo, y tenemos marcado el parámetro necesario, mensaje artículos stock mínimo, el programa mostrará un aviso al usuario en el momento de realizar una venta de dicho artículo.
-
-**-STOCK MÁXIMO:** este campo se calculará en base al consumo del artículo una vez grabemos documentos en la aplicación y sirve posteriormente para el cálculo de propuestas de pedidos de reposición. Inicialmente el usuario puede establecer el valor que estime.
-
-**-MÍNIMO DE COMPRAS:** Se utiliza también para el cálculo de propuestas de pedidos de reposición e indica el número de unidades que entran en un paquete o caja.
-
-**-UBICACIÓN:** son dos campos en los que podremos indicar la ubicación de los artículos. En la grabación de los inventarios, también se puede indicar la ubicación de los que se va incluyendo, pasando estas ubicaciones directamente a la ficha del artículo.
-
-Los dos campos habilitados para indicar las ubicaciones, se visualizan en la grabación de un albarán de venta y en los movimientos de almacén.
-
-**-CUENTAS CONTABLES:**
-
-Estos campos sirven para especificar las cuentas contables donde se incluirá el importe de venta o compra en la contabilidad. Tendrá más sentido rellenarlas en el caso de que el programa estuviera enlazado con alguna contabilidad.
-
-Se pueden indicar hasta cuatro tipos de cuentas contables diferentes para **compras,  devolución de compras, ventas** y **devolución de ventas.**
 
 \*\*\*\*
 
- ****
 
-**-PRECIO NETO:** es el resultado de restar al precio tarifa los descuentos especificados.
 
-**-PRECIOS DE VENTA:**
 
-Se pueden definir hasta cuatro tipos de fórmulas diferentes para calcular el precio de venta de un artículo. Sólo se puede definir una de ellas, y se explican a continuación:
-
-**-DESCUENTO \(S/TARIFA\):** el precio de venta será el resultado de restar al precio tarifa el porcentaje de descuento definido aquí.
-
-**-INCREMENTO \(S/TARIFA\):** en este caso, el porcentaje definido se suma al precio tarifa para definir el precio de venta.
-
-**-INCREMENTO \(S/NETO\):** la fórmula es similar a la anterior, pero sobre el precio neto.
-
-**-BENEFICIO \(S/NETO\)**
-
-**-PVP:** precio de venta sin IVA calculado a través de los campos anteriores.
-
-**-% IVA:** porcentaje de IVA que se aplicará sobre este artículo en ventas con régimen general.
-
-**-PVP + IVA:** precio de venta más IVA.
 
