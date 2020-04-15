@@ -2,5 +2,5 @@
 
 Configuración de destino de series Web de cada departamento, tipos y tarifas de ventas
 
-![](../../../.gitbook/assets/image%20%28325%29.png)
+![](../../../.gitbook/assets/image%20%28326%29.png)
 

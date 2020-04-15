@@ -2,7 +2,7 @@
 
 Definimos entidad como asociación o conjunto de personas de cualquier tipo, en especial la que se dedica a una actividad laboral \(entidad financiera, entidad bancaria, entidad deportiva...\). En bases de datos, una **entidad** es la representación de un objeto o concepto del mundo real que se describe en una base de datos.
 
-![](../../.gitbook/assets/image%20%28439%29.png)
+![](../../.gitbook/assets/image%20%28440%29.png)
 
 En el panel de entidades disponemos de las opciones:
 
@@ -36,13 +36,25 @@ En el panel de entidades disponemos de las opciones:
 
                                ****o   Dirección completa: es un campo multilínea en el que podremos anotar la dirección. Para poder dar de alta de una hasta tres direcciones \(fiscal, de envíos y documental\) sólo es necesario hacer un doble clic en el campo en blanco de la dirección
 
-* **Buscar entidad**
+* **Buscar entidad** - permite localizar cualquier tipo de entidad independientemente de si pertenece a uno o más tipos
 
-![](../../.gitbook/assets/image%20%28201%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
+
+                 o   Índices: localizador por diferentes opciones como alfabéticamente, trozos, código, teléfono, CIF - DNI, etc...
+
+                 o   Campo "Introduzca datos búsqueda": permite introducir los datos de búsqueda \(mínimo 3 caracteres\)
 
 * **Listar entidades**
 
-![](../../.gitbook/assets/image%20%28361%29.png)
+                o   Filtro por tipo de entidad que permite la búsqueda combinando añadiendo \(con alguno de los tipos seleccionados\), combinando cruzando \(con todos los tipos seleccionados\) o presentando todas excepto las seleccionadas. También permite añadir por palabras a buscar.
+
+![](../../.gitbook/assets/image%20%28362%29.png)
+
+                o   Filtros avanzados permiten especificar nuevos filtros añadidos a la búsqueda como tipos de pago, fechas, con datos como móvil o email...
+
+![](../../.gitbook/assets/image%20%28177%29.png)
+
+                                    
 
 * **Vendedores DM** \(en caso de disponer de vendedores con dispositivo móvil, muestra el listado activo\)
 
