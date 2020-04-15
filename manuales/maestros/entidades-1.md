@@ -6,11 +6,17 @@ Definimos entidad como asociación o conjunto de personas de cualquier tipo, en 
 
 En el panel de entidades disponemos de las opciones:
 
-* Nueva entidad - Permite dar de alta una nueva entidad rellenando el siguiente formulario:
+* **Nueva entidad** - Permite dar de alta una nueva entidad rellenando el siguiente formulario:
 
 ![](../../.gitbook/assets/image%20%28143%29.png)
 
-              ****  o   Código**:** es un campo auto-numérico que nos servirá para identificar a cada entidad.
+              ****  o   Código**:** es un campo auto-numérico que nos servirá para identificar a cada entidad
+
+                o   _Check_ Entidad Genérica: tipo de entidad a la que se le emite una factura simplificada por importe máximo de 400 €uros sin necesidad de aportar datos fiscales. Ejemplos de esta entidad son el cliente de contado, ventas mostrador, etc...
+
+                o   _Check_ Activo: cuando tiene activado el check, la entidad está activa y por tanto aparece en los listados y es posible su uso, en caso contrario se desactiva.
+
+                o   _Check_ VIP: permite marcar la entidad como VIP para poder aplicarles tarifas o descuentos especiales
 
                **** o   Nombre Comercial: descripción comercial de la entidad que permite su distinción
 
@@ -18,23 +24,25 @@ En el panel de entidades disponemos de las opciones:
 
                 o   CIF / NIF: código o número de identificación fiscal de la sociedad, autónomo o cliente \(en caso de entidad tipo pre-cliente no es necesario rellenarlo\)
 
-                o   Pais: al que pertenece la razón social o cliente
+                o   País: al que pertenece la razón social o cliente
 
-                o   Tipos de entidad: 
+                o   Tipos de entidad: permite especificar la actividad o actividades económicas que realiza, ya que es posible que una única entidad sea varios tipos de forma simultánea 
 
-                ****o   Dirección: es un campo multilínea en el que podremos anotar la dirección.
+                o   _Pestaña "Generales":_
 
-                o   Podremos rellenar también los siguientes datos, **Teléfono 1 y 2**, y persona o personas de **contacto**.
+                          __o   Referencia: Datos generales que nos permiten identificar con mayor exactitud a la entidad
 
+                          o   Podremos rellenar también los siguientes datos, **Teléfono fijo 1 y 2**, **móvil 1 y 2**, página web y persona o personas de **contacto \(referencia\) junto a su/s email/s \(email adm es el que se usará por defecto y para envíos automáticos\)**
 
+                          ****o   Dirección completa: es un campo multilínea en el que podremos anotar la dirección. Para poder dar de alta de una hasta tres direcciones \(fiscal, de envíos y documental\) sólo es necesario hacer un doble clic en el campo en blanco de la dirección
 
-* Buscar entidad
+* **Buscar entidad**
 
 ![](../../.gitbook/assets/image%20%28201%29.png)
 
-* Listar entidades
+* **Listar entidades**
 
 ![](../../.gitbook/assets/image%20%28361%29.png)
 
-* Vendedores DM \(en caso de disponer de vendedores con dispositivo móvil, muestra el listado activo\)
+* **Vendedores DM** \(en caso de disponer de vendedores con dispositivo móvil, muestra el listado activo\)
 
