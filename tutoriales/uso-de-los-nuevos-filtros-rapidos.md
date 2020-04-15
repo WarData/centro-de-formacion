@@ -6,11 +6,11 @@ Veamos algún caso práctico sobre nuestra aplicación Winmotor V7:
 
 Por ejemplo, listamos pedidos de compras o directamente desde el panel y, haciendo clic en un campo concreto de una columna con el botón derecho, localizamos "filtros" aplicables a la selección \(es posible seleccionar más de una fila\):
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28134%29.png)
 
 Seleccionando más de una fila, el filtro se aplicará sobre el conjunto seleccionado:
 
-![](../.gitbook/assets/image%20%28388%29.png)
+![](../.gitbook/assets/image%20%28389%29.png)
 
 Entrando más en detalle, este submenú incluye una serie de opciones para filtrar una lista, es decir, para quitar de la lista aquellos registros que no cumplan una determinada condición. Las opciones disponibles son:
 
