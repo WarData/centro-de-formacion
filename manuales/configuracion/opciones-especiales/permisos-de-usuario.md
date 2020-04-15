@@ -76,5 +76,5 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/image%20%28460%29.png)
+![](../../../.gitbook/assets/image%20%28461%29.png)
 

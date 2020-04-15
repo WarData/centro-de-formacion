@@ -10,7 +10,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 1.- General \(enlazada o integrada en Winmotor, cuentas, último cierre, opciones de contabilización básica...\)
 
-![](../../../.gitbook/assets/image%20%28467%29.png)
+![](../../../.gitbook/assets/image%20%28468%29.png)
 
 2.- Impuestos \(cuentas contables IVA - IVA soportado por cada cuenta / interés\)
 

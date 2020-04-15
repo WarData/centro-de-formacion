@@ -61,7 +61,7 @@ Existe un método para anular líneas cuando el albarán está confirmado en el 
 
 Sobre el albarán obtenemos información sobre el pedido de ventas origen fácilmente, simplemente pulsando sobre el botón "Ventas relacionadas":
 
-![](../.gitbook/assets/image%20%28432%29.png)
+![](../.gitbook/assets/image%20%28433%29.png)
 
 Desde esta ventana podremos avisar al cliente mediante un SMS con un formato predefinido o uno de forma manual. Además, en la parte superior nos indica que esta pieza completa el pedido de ventas, podemos entregar todo el material.
 

@@ -8,7 +8,7 @@ Dentro de [Almacenes](../../manuales/almacenes/) &gt; [Partes de almacén](./) &
 
 Una vez creamos un parte de almacén nuevo, para realizar un traspaso libre simplemente seleccionamos dicha opción, elegimos almacén de salida a la izquierda o almacén de entrada a la derecha, pulsamos en F1 Nueva entrada / salida y añadimos el artículo a incluir en modo libre:
 
-![](../../.gitbook/assets/image%20%28471%29.png)
+![](../../.gitbook/assets/image%20%28472%29.png)
 
 Vamos a indicar al programa mediante un parte de almacén libre que hacemos una entrada de 2 unidades de la referencia BS10267 en el almacén Central \(es el que hemos seleccionado al inicio en la parte derecha\):
 
