@@ -14,7 +14,7 @@ Abrir de nuevo la factura ya modificable
 
 ![Pulsar en Desfacturar Documento &amp;gt; Se abre una ventana donde seleccionar el albar&#xE1;n origen](../../.gitbook/assets/image%20%28169%29.png)
 
-![Doble clic en el albar&#xE1;n que origin&#xF3; la factura](../../.gitbook/assets/image%20%28343%29.png)
+![Doble clic en el albar&#xE1;n que origin&#xF3; la factura](../../.gitbook/assets/image%20%28344%29.png)
 
 En este paso hay que seleccionar el albarán que origina la factura y que volverá a quedar sin facturar con un doble clic
 
