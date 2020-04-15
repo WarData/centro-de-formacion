@@ -20,7 +20,7 @@ En el panel de entidades disponemos de las opciones:
 
                 o   Pais: al que pertenece la razón social o cliente
 
-                o Tipos de entidad: 
+                o   Tipos de entidad: 
 
                 ****o   Dirección: es un campo multilínea en el que podremos anotar la dirección.
 
