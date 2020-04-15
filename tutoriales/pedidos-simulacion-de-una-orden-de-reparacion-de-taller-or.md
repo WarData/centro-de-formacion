@@ -11,7 +11,7 @@ En este apartado vamos a simular que un cliente quiere realizar una revisión de
 
 ![Alta de la OR](../.gitbook/assets/image%20%28310%29.png)
 
-![OR sin confirmar](../.gitbook/assets/image%20%28364%29.png)
+![OR sin confirmar](../.gitbook/assets/image%20%28365%29.png)
 
 ![](../.gitbook/assets/image%20%28154%29.png)
 
@@ -19,7 +19,7 @@ El cliente B necesita varias referencias para una revisión \(en este caso hay v
 
 Una vez añadidas las líneas y/o conceptos a la OR pulsamos en el botón inferior "Confirmar" \(mensaje indicando que reserva artículos en stock - **PODEMOS INSTALARLOS EN EL MOMENTO** y/o realiza el pedido o pedidos a uno o varios proveedores de los artículos indicados en la ventana emergente\):
 
-![](../.gitbook/assets/image%20%28462%29.png)
+![](../.gitbook/assets/image%20%28463%29.png)
 
 La OR queda en situación "En Curso" - materiales "Pendientes de Recibir / Pendientes de Entregar":
 
@@ -51,7 +51,7 @@ Una vez tramitado el pedido, existen [4 métodos de recepción de los pedidos de
 
 Tras seleccionar el método de recepción de pedidos que mejor se adapte, el sistema generará un albarán de compras de las líneas recepcionadas \(en la siguiente imagen, sobre la línea marcada, podremos hacer doble clic e indicar las cantidades suministradas si difieren de las solicitadas originalmente\):
 
-![Recepci&#xF3;n de pedidos](../.gitbook/assets/image%20%28459%29.png)
+![Recepci&#xF3;n de pedidos](../.gitbook/assets/image%20%28460%29.png)
 
 Pulsamos en "Crear albarán", dando por recepcionado el total del pedido \(podremos generar tantos albaranes como sean necesarios hasta dar el pedido de compras por completado, mientras, quedará en situación parcialmente recepcionado.
 
@@ -67,17 +67,17 @@ Desde esta ventana podremos avisar al cliente mediante un SMS con un formato pre
 
 Observar el código de colores de la OR que indica su situación:
 
-![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28474%29.png)
+![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28475%29.png)
 
 Instalar el material \(código azul de color en las líneas de artículos\) seleccionando todas las líneas y pulsando en el botón "Instalar material" según la siguiente imagen:
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-![](../.gitbook/assets/image%20%28394%29.png)
+![](../.gitbook/assets/image%20%28395%29.png)
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
-![](../.gitbook/assets/image%20%28454%29.png)
+![](../.gitbook/assets/image%20%28455%29.png)
 
 Orden de reparación que permite:
 

@@ -8,7 +8,7 @@ El nuevo proceso asegura un control de stock más exhaustivo.
 
 Teniendo un albarán de compras confirmado, a la izquierda de la imagen, hemos añadido a los botones "Nueva línea de artículo o concepto" y "Añadir líneas de texto" el nuevo botón "Anular líneas seleccionadas":
 
-![Anular l&#xED;neas seleccionadas](../../.gitbook/assets/image%20%28409%29.png)
+![Anular l&#xED;neas seleccionadas](../../.gitbook/assets/image%20%28410%29.png)
 
 ![](../../.gitbook/assets/image%20%28331%29.png)
 
