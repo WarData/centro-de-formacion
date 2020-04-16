@@ -1,2 +1,0 @@
-# Fórmulas PVP
-
