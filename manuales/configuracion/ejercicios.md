@@ -6,7 +6,7 @@
 
 La fijación de un inicio y final de ejercicio económico sirve a las sociedades mercantiles y a otros tipos de organización para establecer medidas y comparaciones entre sus diversos puntos de control. En otras palabras, permite llevar orden y control de las variables económicas o empresariales con las que trabajan.
 
-![](../../.gitbook/assets/image%20%28297%29.png)
+![](../../.gitbook/assets/image%20%28298%29.png)
 
 En el listado de ejercicios, con doble clic nos permite crear un nuevo ejercicio donde tendremos que indicar:
 

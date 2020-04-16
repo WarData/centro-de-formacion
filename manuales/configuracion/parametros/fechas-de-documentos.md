@@ -2,5 +2,5 @@
 
 Permite modificar la posibilidad del cambio de fecha por cada tipo de documento
 
-![](../../../.gitbook/assets/image%20%28306%29.png)
+![](../../../.gitbook/assets/image%20%28307%29.png)
 

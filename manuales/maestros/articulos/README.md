@@ -10,39 +10,39 @@ El menú de artículos presenta un listado de ellos ordenados alfabéticamente p
 
 Pasamos a mostrar el panel de artículos donde encontramos las habituales opciones de búsqueda y filtrado además de la rejilla que muestra los campos "referencia", "denominación", "familia", "precio neto", "stock físico" y "stock disponible" y los botones que explicaremos a continuación "imprimir tarifa", "Imprimir informe", "Filtrar", "Modificar artículos", "Incluir en tarifa" e "Incluir en oferta":
 
-![](../../../.gitbook/assets/image%20%28442%29.png)
+![](../../../.gitbook/assets/image%20%28444%29.png)
 
 * **Botones inferiores:**
 
                 o   _Imprimir Tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará:
 
-![](../../../.gitbook/assets/image%20%28424%29.png)
+![](../../../.gitbook/assets/image%20%28426%29.png)
 
 Tras pulsar en "F1 imprimir" nos mostrará el listado siguiente con los artículos filtrados y con la capacidad de variar el formato de impresión, así como características de la impresión:
 
-![](../../../.gitbook/assets/image%20%28426%29.png)
+![](../../../.gitbook/assets/image%20%28428%29.png)
 
                 o   _Imprimir informe:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
 
-![](../../../.gitbook/assets/image%20%28135%29.png)
+![](../../../.gitbook/assets/image%20%28136%29.png)
 
 Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de selección de impresora para imprimirlo.
 
                o   _Filtrar:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará la siguiente ventana, donde podremos filtrar aún más la búsqueda por texto, centrada en el campo "denominación":
 
-![](../../../.gitbook/assets/image%20%28218%29.png)
+![](../../../.gitbook/assets/image%20%28219%29.png)
 
                 o   _Modificar artículos:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos a los que queremos aplicar la modificación. Al pulsar el botón mostrará la siguiente ventana, donde podremos modificar las propiedades de los artículos al nivel indicado en la imagen \(el menú muestra en la parte inferior el número de artículos seleccionados\): 
 
-![](../../../.gitbook/assets/image%20%28345%29.png)
+![](../../../.gitbook/assets/image%20%28346%29.png)
 
                 o   _Incluir en tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las tarifas existentes \(véase ["Tarifas de Ventas"](../tarifas-de-ventas.md) en "Maestros"\) y pulsamos el botón, obteniendo la rejilla de tarifas de ventas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
 
-![](../../../.gitbook/assets/image%20%28217%29.png)
+![](../../../.gitbook/assets/image%20%28218%29.png)
 
                 o   _Incluir en oferta:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las ofertas existentes \(véase "Ofertas" dentro del panel de artículos\) y pulsamos el botón, obteniendo la rejilla de ofertas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
 
-![](../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../.gitbook/assets/image%20%28189%29.png)
 
 * **Botones lateral izquierdo:**
 
@@ -75,4 +75,28 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
                                  **o   Porcentaje de IVA:** porcentaje de IVA que se aplicará sobre este artículo en ventas con régimen general por defecto y con posibilidad de seleccionar otro.
 
                                  **o   Precio de venta al público \(P.V.P.\):** precio de venta final impuestos incluidos.
+
+                     o   _Buscar Artículo:_ Localizador de artículos a través de distintos criterios. Nos permite consultar, borrar o modificar la información de un artículo. La rejilla de este localizador nos muestra la referencia, denominación, información de stock de cada artículo además del P.V.P.. Al acceder a esta opción encontraremos la siguiente pantalla:
+
+![](../../../.gitbook/assets/image%20%28101%29.png)
+
+Este localizador nos permite buscar un artículo por los siguientes criterios:
+
+                                 **o   Alfabético:** el cursor se irá situando en el artículo cuya descripción vaya coincidiendo con lo introducido en el campo de edición.
+
+                                 **o   Trozos de palabras:** se nos presentarán todos los artículos cuyas descripción contenga las palabras que introduzcamos en el campo de edición \(búsqueda mínima a partir de 3 caracteres\)
+
+                                 **o   Referencias activas:** el cursor se irá situando en el artículo cuyo código vaya coincidiendo con lo introducido en el campo de edición.
+
+                                 **o   Trozos de referencias:** se nos presentarán todos los artículos cuya referencia contenga los caracteres que introduzcamos en el campo de edición \(búsqueda mínima a partir de 3 caracteres\)
+
+                                 **o   Palabras auxiliares:**
+
+                                 **o   Referencias todas:**
+
+                                 **o   Palabras descripción proveedor**
+
+Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado.
+
+![](../../../.gitbook/assets/image%20%28391%29.png)
 
