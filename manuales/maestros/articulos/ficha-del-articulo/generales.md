@@ -4,7 +4,7 @@ Muestra los campos "Familia", "Marca", "Referencias equivalentes",
 
                                 o   Tarifa compras: a su vez muestra los posibles proveedores del mismo artículo, pudiendo indicar proveedor preferente:
 
-![](../../../../.gitbook/assets/image%20%28157%29.png)
+![](../../../../.gitbook/assets/image%20%28158%29.png)
 
                                  o   Además muestra el "precio neto de compra" calculado en función a los descuentos, "cálculo precio de venta" - Asistente [véase "Fórmulas PVP"](../../../submaestros/articulos/formulas-pvp.md) para la creación de fórmulas personalizadas de precio de venta.
 
