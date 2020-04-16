@@ -36,7 +36,7 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
 ![](../../../.gitbook/assets/image%20%28348%29.png)
 
-                o   _Incluir en tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las tarifas existentes \(véase ["Tarifas de Ventas"](../tarifas-de-ventas.md) en "Maestros"\) y pulsamos el botón, obteniendo la rejilla de tarifas de ventas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
+                o   _Incluir en tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las tarifas existentes o, pulsando botón derecho y seleccionando "Alta de ficha", podremos dar de alta una nueva tarifa de ventas \(véase ["Tarifas de Ventas"](../tarifas-de-ventas.md) en "Maestros"\) y pulsamos el botón, obteniendo la rejilla de tarifas de ventas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
 
 ![](../../../.gitbook/assets/image%20%28219%29.png)
 
