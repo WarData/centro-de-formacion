@@ -10,17 +10,17 @@ El menú de artículos presenta un listado de ellos ordenados alfabéticamente p
 
 Pasamos a mostrar el panel de artículos donde encontramos las habituales opciones de búsqueda y filtrado además de la rejilla que muestra los campos "referencia", "denominación", "familia", "precio neto", "stock físico" y "stock disponible" y los botones que explicaremos a continuación "imprimir tarifa", "Imprimir informe", "Filtrar", "Modificar artículos", "Incluir en tarifa" e "Incluir en oferta":
 
-![](../../../.gitbook/assets/image%20%28444%29.png)
+![](../../../.gitbook/assets/image%20%28446%29.png)
 
 * **Botones inferiores:**
 
                 o   _Imprimir Tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará:
 
-![](../../../.gitbook/assets/image%20%28426%29.png)
+![](../../../.gitbook/assets/image%20%28428%29.png)
 
 Tras pulsar en "F1 imprimir" nos mostrará el listado siguiente con los artículos filtrados y con la capacidad de variar el formato de impresión, así como características de la impresión:
 
-![](../../../.gitbook/assets/image%20%28428%29.png)
+![](../../../.gitbook/assets/image%20%28430%29.png)
 
                 o   _Imprimir informe:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
 
@@ -30,19 +30,19 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                o   _Filtrar:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará la siguiente ventana, donde podremos filtrar aún más la búsqueda por texto, centrada en el campo "denominación":
 
-![](../../../.gitbook/assets/image%20%28219%29.png)
+![](../../../.gitbook/assets/image%20%28220%29.png)
 
                 o   _Modificar artículos:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos a los que queremos aplicar la modificación. Al pulsar el botón mostrará la siguiente ventana, donde podremos modificar las propiedades de los artículos al nivel indicado en la imagen \(el menú muestra en la parte inferior el número de artículos seleccionados\): 
 
-![](../../../.gitbook/assets/image%20%28346%29.png)
+![](../../../.gitbook/assets/image%20%28348%29.png)
 
                 o   _Incluir en tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las tarifas existentes \(véase ["Tarifas de Ventas"](../tarifas-de-ventas.md) en "Maestros"\) y pulsamos el botón, obteniendo la rejilla de tarifas de ventas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
 
-![](../../../.gitbook/assets/image%20%28218%29.png)
+![](../../../.gitbook/assets/image%20%28219%29.png)
 
                 o   _Incluir en oferta:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las ofertas existentes \(véase "Ofertas" dentro del panel de artículos\) y pulsamos el botón, obteniendo la rejilla de ofertas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
 
-![](../../../.gitbook/assets/image%20%28189%29.png)
+![](../../../.gitbook/assets/image%20%28190%29.png)
 
 * **Botones lateral izquierdo:**
 
@@ -68,7 +68,9 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas personalizadas mediante el botón inferior "Ver tarifas personalizadas".
+                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas":
+
+![](../../../.gitbook/assets/image%20%28186%29.png)
 
                                  **o   Precio de venta recomendado \(P.V.R.\):** recomendación del fabricante / marca sobre el precio de venta final al cliente.
 
@@ -96,7 +98,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Palabras descripción proveedor**
 
-![](../../../.gitbook/assets/image%20%28391%29.png)
+![](../../../.gitbook/assets/image%20%28393%29.png)
 
 Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado.
 
