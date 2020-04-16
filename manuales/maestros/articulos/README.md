@@ -86,17 +86,17 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Alfabético:** el cursor se irá situando en el artículo cuya descripción vaya coincidiendo con lo introducido en el campo de edición.
 
-                                 **o   Trozos de palabras:** se nos presentarán todos los artículos cuyas descripción contenga las palabras que introduzcamos en el campo de edición \(búsqueda mínima a partir de 3 caracteres\)
+                                 **o   Trozos de palabras:** se nos presentarán todos los artículos cuya descripción contenga las palabras que introduzcamos en el campo de edición \(búsqueda mínima a partir de 3 caracteres\)
 
                                  **o   Referencias activas:** el cursor se irá situando en el artículo cuyo código vaya coincidiendo con lo introducido en el campo de edición.
 
                                  **o   Trozos de referencias:** se nos presentarán todos los artículos cuya referencia contenga los caracteres que introduzcamos en el campo de edición \(búsqueda mínima a partir de 3 caracteres\)
 
-                                 **o   Palabras auxiliares:**
+                                 **o   Palabras auxiliares:** se nos presentarán todos los artículos que contengan esas palabras coincidentes al campo "descripción" de la pestaña auxiliares \(pestaña de la ficha de artículo\)
 
-                                 **o   Referencias todas:**
+                                 **o   Referencias todas:** el cursor se irá situando en el artículo cuyo código vaya coincidiendo con lo introducido en el campo de edición **sin diferenciar entre las activas y las pasivas.**
 
-                                 **o   Palabras descripción proveedor:**
+                                 **o   Palabras descripción proveedor:** uso limitado a información enviada por el proveedor en la tarifa de artículos.
 
 ![](../../../.gitbook/assets/image%20%28393%29.png)
 
