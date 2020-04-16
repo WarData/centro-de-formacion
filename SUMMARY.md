@@ -37,6 +37,7 @@
     * [Panel de artículos](manuales/maestros/articulos/panel-de-articulos/README.md)
       * [Botones inferiores](manuales/maestros/articulos/panel-de-articulos/botones-inferiores.md)
       * [Botones lateral izquierdo](manuales/maestros/articulos/panel-de-articulos/botones-lateral-izquierdo.md)
+    * [Ficha del artículo](manuales/maestros/articulos/ficha-del-articulo.md)
     * [Stocks](manuales/maestros/articulos/stocks.md)
     * [Fórmulas PVP](manuales/maestros/articulos/formulas-pvp.md)
     * [Tallas](manuales/maestros/articulos/tallas.md)

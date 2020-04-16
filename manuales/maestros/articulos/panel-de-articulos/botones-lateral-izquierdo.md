@@ -54,5 +54,5 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
 ![](../../../../.gitbook/assets/image%20%28393%29.png)
 
-Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado \(véase "Ficha del artículo"\)
+Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado \(véase ["Ficha del artículo"](../ficha-del-articulo.md)\)
 
