@@ -68,7 +68,7 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas":
+                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" \(véase ["Gestión de precios y Tarifas de ventas"](gestion-de-precios-y-tarifas-de-ventas.md)\):
 
 ![](../../../.gitbook/assets/image%20%28186%29.png)
 
