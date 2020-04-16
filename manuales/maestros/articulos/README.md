@@ -32,7 +32,7 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
 ![](../../../.gitbook/assets/image%20%28220%29.png)
 
-                o   _Modificar artículos:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos a los que queremos aplicar la modificación. Al pulsar el botón mostrará la siguiente ventana, donde podremos modificar las propiedades de los artículos al nivel indicado en la imagen \(el menú muestra en la parte inferior el número de artículos seleccionados\): 
+                o   _Modificar artículos:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos a los que queremos aplicar la modificación. Al pulsar el botón mostrará la siguiente ventana, donde podremos modificar las propiedades de los artículos a los niveles familia, marca, tipo de artículo, desactivarlos y modificar características en la web - botones de la parte derecha \(el menú muestra en la parte inferior el número de artículos seleccionados\): 
 
 ![](../../../.gitbook/assets/image%20%28348%29.png)
 
