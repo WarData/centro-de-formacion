@@ -96,7 +96,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Referencias todas:**
 
-                                 **o   Palabras descripción proveedor**
+                                 **o   Palabras descripción proveedor:**
 
 ![](../../../.gitbook/assets/image%20%28393%29.png)
 
