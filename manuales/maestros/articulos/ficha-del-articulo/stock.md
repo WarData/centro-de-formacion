@@ -13,7 +13,7 @@ En la pestaña podemos obtener los datos:
 
 Conforman una suma lógica en el flujo de pedidos:
 
-Físico - Reservado \(stock\) = Disponible + Pendiente de recibir - Reservado \(pedido\) = **Previsto**
+Físico - Reservado \(stock\) = Disponible + Pendiente de recibir - Reservado \(pedido\) = **Previsto \(stock\)**
 
 ![](../../../../.gitbook/assets/image%20%28114%29.png)
 
