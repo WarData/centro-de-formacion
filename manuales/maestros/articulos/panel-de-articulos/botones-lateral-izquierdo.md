@@ -50,7 +50,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Referencias todas:** el cursor se irá situando en el artículo cuyo código vaya coincidiendo con lo introducido en el campo de edición **sin diferenciar entre las activas y las pasivas.**
 
-                                 **o   Palabras descripción proveedor:** uso limitado a información enviada por el proveedor en la tarifa de artículos.
+                                 **o   Palabras descripción proveedor:** se nos presentarán todos los artículos que contengan esas palabras coincidentes al campo "nombre" **en la línea de tarifa condicionada por proveedor** \(ficha de artículo &gt; línea de proveedor &gt; personalización del proveedor &gt; nombre\)
 
 ![](../../../../.gitbook/assets/image%20%28394%29.png)
 
