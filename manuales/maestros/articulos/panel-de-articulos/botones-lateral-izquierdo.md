@@ -1,48 +1,8 @@
-# Panel de artículos
-
-El menú de artículos presenta un listado de ellos ordenados alfabéticamente por su código. 
-
-Pasamos a mostrar el panel de artículos donde encontramos las habituales opciones de búsqueda y filtrado además de la rejilla que muestra los campos "referencia", "denominación", "familia", "precio neto", "stock físico" y "stock disponible" y los botones que explicaremos a continuación "imprimir tarifa", "Imprimir informe", "Filtrar", "Modificar artículos", "Incluir en tarifa" e "Incluir en oferta":
-
-![](../../../.gitbook/assets/image%20%28446%29.png)
-
-* **Botones inferiores:**
-
-                o   _Imprimir Tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará:
-
-![](../../../.gitbook/assets/image%20%28428%29.png)
-
-Tras pulsar en "F1 imprimir" nos mostrará el listado siguiente con los artículos filtrados y con la capacidad de variar el formato de impresión, así como características de la impresión:
-
-![](../../../.gitbook/assets/image%20%28430%29.png)
-
-                o   _Imprimir informe:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
-
-![](../../../.gitbook/assets/image%20%28136%29.png)
-
-Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de selección de impresora para imprimirlo.
-
-               o   _Filtrar:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará la siguiente ventana, donde podremos filtrar aún más la búsqueda por texto, centrada en el campo "denominación":
-
-![](../../../.gitbook/assets/image%20%28220%29.png)
-
-                o   _Modificar artículos:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos a los que queremos aplicar la modificación. Al pulsar el botón mostrará la siguiente ventana, donde podremos modificar las propiedades de los artículos a los niveles familia, marca, tipo de artículo, desactivarlos y modificar características en la web - botones de la parte derecha \(el menú muestra en la parte inferior el número de artículos seleccionados\): 
-
-![](../../../.gitbook/assets/image%20%28348%29.png)
-
-                o   _Incluir en tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las tarifas existentes o, pulsando botón derecho y seleccionando "Alta de ficha", podremos dar de alta una nueva tarifa de ventas \(véase ["Tarifas de Ventas"](../tarifas-de-ventas.md) en "Maestros"\) y pulsamos el botón, obteniendo la rejilla de tarifas de ventas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
-
-![](../../../.gitbook/assets/image%20%28219%29.png)
-
-                o   _Incluir en oferta:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las ofertas existentes \(véase "Ofertas" dentro del panel de artículos\) y pulsamos el botón, obteniendo la rejilla de ofertas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
-
-![](../../../.gitbook/assets/image%20%28190%29.png)
-
-* **Botones lateral izquierdo:**
+# Botones lateral izquierdo
 
                **** o   _Nuevo artículo:_ permite dar de alta a un nuevo artículo rellenando el siguiente formulario:
 
-![](../../../.gitbook/assets/image%20%2847%29.png)
+![](../../../../.gitbook/assets/image%20%2847%29.png)
 
                                **o   Referencia:** se aconseja que se especifique la del artículo indicada por el proveedor que la suministra. El objetivo de esto es la fácil grabación de la entrada de material y su posterior venta. Si el proveedor nos envía la mercancía etiquetada, con un lector de códigos de barras podremos ir grabando albaranes de entrada de mercancía. De igual modo, en todos los documentos de venta, podremos utilizar el lector para ir incluyendo los artículos solicitados por el cliente.
 
@@ -62,9 +22,9 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                                  **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta \(véase ["Gestión de precios y Tarifas de ventas"](gestion-de-precios-y-tarifas-de-ventas.md)\):
+                                 **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta \(véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas.md)\):
 
-![](../../../.gitbook/assets/image%20%28186%29.png)
+![](../../../../.gitbook/assets/image%20%28186%29.png)
 
                                  **o   Precio de venta recomendado \(P.V.R.\):** recomendación del fabricante / marca sobre el precio de venta final al cliente.
 
@@ -74,7 +34,7 @@ Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de 
 
                      o   _Buscar Artículo:_ Localizador de artículos a través de distintos criterios. Nos permite consultar, borrar o modificar la información de un artículo. La rejilla de este localizador nos muestra la referencia, denominación, información de stock de cada artículo además del P.V.P.. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../../.gitbook/assets/image%20%28101%29.png)
+![](../../../../.gitbook/assets/image%20%28101%29.png)
 
 Este localizador nos permite buscar un artículo por los siguientes criterios:
 
@@ -92,7 +52,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Palabras descripción proveedor:** uso limitado a información enviada por el proveedor en la tarifa de artículos.
 
-![](../../../.gitbook/assets/image%20%28393%29.png)
+![](../../../../.gitbook/assets/image%20%28393%29.png)
 
 Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado \(véase "Ficha del artículo"\)
 
