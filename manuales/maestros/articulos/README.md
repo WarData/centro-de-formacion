@@ -96,7 +96,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Palabras descripción proveedor**
 
-Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado.
-
 ![](../../../.gitbook/assets/image%20%28391%29.png)
+
+Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado.
 
