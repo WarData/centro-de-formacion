@@ -17,3 +17,25 @@ Físico - Reservado \(stock\) = Disponible + Pendiente de recibir - Reservado \(
 
 ![](../../../../.gitbook/assets/image%20%28114%29.png)
 
+Campos incluidos en la pestaña "Stock":
+
+                    o   Físico:
+
+                    o   Reservado \(stock\):
+
+                    o   Disponible:
+
+                    o   Pendiente de recibir:
+
+                    o   Reservado \(pedidos\):
+
+                    o   Previsto:
+
+                    o   PMC \(Precio Medio de Compra\):
+
+                    o   Valor de Stock:
+
+                    o   Ubicaciones \(Almacén - Stock - Valor de Stock\):
+
+                    o   Botón "Traspasar Stock":
+
