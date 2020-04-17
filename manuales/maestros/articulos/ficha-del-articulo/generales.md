@@ -1,6 +1,10 @@
 # Generales
 
-Muestra los campos "Familia", "Marca", "Referencias equivalentes", 
+![](../../../../.gitbook/assets/image%20%2875%29.png)
+
+Muestra los campos:
+
+                                o   "Familia", "Marca", "Referencias equivalentes".
 
                                 o   Tarifa compras: a su vez muestra los posibles proveedores del mismo artículo, pudiendo indicar proveedor preferente:
 
