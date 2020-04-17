@@ -2,7 +2,7 @@
 
 Todos los documentos en Winmotor se clasifican por series. Cada serie implica un contador para los documentos que incluya y son ilimitadas: se pueden crear tantas series por tipo de documento como se desee.
 
-![](../../.gitbook/assets/image%20%28434%29.png)
+![](../../.gitbook/assets/image%20%28437%29.png)
 
 Los campos a rellenar al crear una serie son:
 
@@ -110,7 +110,7 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
            o   Contabilizar: check que permite activar o no la serie en contabilidad
 
-![](../../.gitbook/assets/image%20%28328%29.png)
+![](../../.gitbook/assets/image%20%28331%29.png)
 
 **Pestaña "Impresión":** permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
 
@@ -120,23 +120,23 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
              o   Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 **Pestaña "Logos":** permite añadir logotipos para identificar las distintas series
 
-![](../../.gitbook/assets/image%20%28180%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 **Pestaña "Observaciones":** si el informe dispone de un campo observaciones, se aplicarán las añadidas a la serie. También permite añadir observaciones internas que únicamente aparecerán en esta pestaña y campo:
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 **Pestaña "Contadores":** mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo a la vez que continúe la numeración al siguiente o empiece desde contador=1
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 **Pestaña "Avanzado":** situación inicial de la serie al configurarse - consulte con el personal de Winmotor para más información
 
-![](../../.gitbook/assets/image%20%28198%29.png)
+![](../../.gitbook/assets/image%20%28201%29.png)
 
 
 

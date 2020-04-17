@@ -2,7 +2,7 @@
 
 ## ¿No entiendes el flujo de pedidos? Consulta el [Proceso General de Pedidos](../../manuales/compras/pedidos/proceso-general-de-pedidos.md)
 
-![Sigue las l&#xED;neas y consulta en la b&#xFA;squeda el apartado donde tengas dudas](../../.gitbook/assets/image%20%2835%29.png)
+![Sigue las l&#xED;neas y consulta en la b&#xFA;squeda el apartado donde tengas dudas](../../.gitbook/assets/image%20%2836%29.png)
 
 ## ¿Cómo funciona el sistema que genera una reserva de un artículo o un pedido?
 

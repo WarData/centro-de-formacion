@@ -11,13 +11,13 @@ La operativa es:
 
 * En las fichas de centros de costes aparece una última **pestaña "Predefinición de costes"** donde, por el método de selección individual o multiselección, se presentan las cuentas de gastos e ingresos que podemos aplicar a ese centro. Si utiliza cuentas del grupo "0" éstas también aparecerán para poder seleccionarlas.
 
-![](../../../../.gitbook/assets/image%20%28155%29.png)
+![](../../../../.gitbook/assets/image%20%28158%29.png)
 
 * Cuando se graba un asiento a una de esas cuentas el programa genera automáticamente un apunte de costes contra todos los centros en los que haya definido en esa cuenta y por el porcentaje del importe del apunte que haya marcado.
 * Para añadir cuentas a la preasignación, como indicamos en el primer punto, seleccionamos una o varias cuentas en el listado de la izquierda y pulsamos en el botón inferior \(ver imagen\) para añadir al listado de la derecha, que serán las cuentas activas con esta nueva opción.
 * La activación es inmediata.
 
-![](../../../../.gitbook/assets/image%20%28294%29.png)
+![](../../../../.gitbook/assets/image%20%28297%29.png)
 
 
 

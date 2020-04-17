@@ -6,7 +6,7 @@ En la pestaña podemos obtener los siguientes datos principales que conforman un
 
 Físico - Reservado \(stock\) = Disponible + Pendiente de recibir - Reservado \(pedido\) = **Previsto \(stock\)**
 
-![](../../../../.gitbook/assets/image%20%28114%29.png)
+![](../../../../.gitbook/assets/image%20%28117%29.png)
 
 Campos incluidos en la pestaña "Stock":
 
