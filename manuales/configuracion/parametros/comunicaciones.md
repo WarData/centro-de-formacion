@@ -4,7 +4,7 @@
 
 Configuración de los parámetros necesarios para el envío y conexión a cuentas de email, rutas y activación del log de control
 
-![](../../../.gitbook/assets/image%20%28388%29.png)
+![](../../../.gitbook/assets/image%20%28389%29.png)
 
 **Pestaña Envíos de Documentos:**
 
