@@ -6,7 +6,7 @@ El albarán de depósito se puede crear desde el "Stock de Vehículos" dentro de
 
 **Depósito desde el Stock de Vehículos**
 
-![](../../.gitbook/assets/image%20%28472%29.png)
+![](../../.gitbook/assets/image%20%28473%29.png)
 
 Seleccionamos el vehículo sobre el que vamos a realizar un depósito y pulsamos en el botón inferior "Crear / Devolver un depósito". Se inicia el proceso con la siguiente pantalla en la que sólo tendremos que introducir el Agente de destino y referencia si lo necesitamos:
 
@@ -42,7 +42,7 @@ Entramos en la opción "Depósito a Agentes" y pulsamos en "F1 Nuevo depósito" 
 
 ![](../../.gitbook/assets/image%20%28247%29.png)
 
-![](../../.gitbook/assets/image%20%28480%29.png)
+![](../../.gitbook/assets/image%20%28481%29.png)
 
 ![](../../.gitbook/assets/image%20%28387%29.png)
 

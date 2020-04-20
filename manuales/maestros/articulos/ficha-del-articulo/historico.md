@@ -4,7 +4,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
 * **Pestaña Movimientos de Stock:** permite obtener la información sobre movimientos de stock referente a \(es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados\):
 
-![](../../../../.gitbook/assets/image%20%28482%29.png)
+![](../../../../.gitbook/assets/image%20%28483%29.png)
 
                  o   Almacén de entrada / salida \(en función del tipo de documento\)
 
@@ -46,9 +46,11 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
                                   o   Filtro por almacén permite realizar un filtrado de los movimientos limitado a un almacén / ubicación
 
+![](../../../../.gitbook/assets/image%20%28463%29.png)
+
 * **Pestaña Pedidos:** permite obtener la información sobre todos los documentos que generan un pedido \(pedido de ventas, pedido de compras y orden de reparación\). Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
-![](../../../../.gitbook/assets/image%20%28500%29.png)
+![](../../../../.gitbook/assets/image%20%28502%29.png)
 
                  o   Fecha del movimiento
 
@@ -85,4 +87,36 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 * **Pestaña Todos los Movimientos:** permite obtener la información sobre todos los movimientos. Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
 ![](../../../../.gitbook/assets/image%20%28264%29.png)
+
+                 o   Fecha del movimiento
+
+                 o   Hora del movimiento
+
+                 o   Movimiento indicando el documento y permitiendo la apertura directamente desde la rejilla
+
+                 o   Tercero indica origen o destino del artículo \(en función del tipo de documento\)
+
+                 o   Uds. \(Unidades\) indica la cantidad de unidades del movimiento, siendo en color negro el pedido de compras y los albaranes, en rojo compras \(significa + hacia stock\) y en verde ventas \(significa - hacia stock\)
+
+                 o   Precio muestra el precio de coste o de venta unitario
+
+                 o   Parcial muestra el resultado de multiplicar unidades y precio
+
+                 o   Costo indica el coste de compra del artículo \(unidad\)
+
+                 o   Stock Artículo indica el resultado que provoca el movimiento sobre el anterior valor del stock
+
+                 o   **Botones y campos inferiores:**
+
+                                  o   Imprimir Extracto presenta el cuadro de impresoras instaladas en el equipo
+
+                                  o   Actualizar muestra información actualizada en la rejilla
+
+                                  o   Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
+
+                                  o   Filtro por almacén permite realizar un filtrado de los movimientos limitado a un tipo de documento
+
+![](../../../../.gitbook/assets/image%20%28497%29.png)
+
+
 

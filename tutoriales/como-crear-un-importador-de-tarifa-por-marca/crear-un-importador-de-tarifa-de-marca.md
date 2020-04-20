@@ -32,7 +32,7 @@ Le damos un nombre al importador \(recomendamos relacionarlo con la marca de la 
 
 **En el archivo de la tarifa, debemos eliminar logos y las líneas superiores, dejando como primera filas los títulos de las columnas \(referencia, artículo, precio, descuento, etc...\), a fin de que quede como la siguiente imagen:**
 
-![Tarifa modificada](../../.gitbook/assets/image%20%28471%29.png)
+![Tarifa modificada](../../.gitbook/assets/image%20%28472%29.png)
 
 En la pestaña "Líneas", pulsamos doble clic o botón derecho "Alta de línea" y procedemos a añadir las columnas que deseamos importar de la tarifa. **En este caso vamos a NO IMPORTAR la columna D que son los precios sin IVA por lo que añadiremos 4 altas de línea relacionadas con cada campo a importar \(referencia, nombre, tipo de artículo y precio de venta\)**
 

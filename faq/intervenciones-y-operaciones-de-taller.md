@@ -22,7 +22,7 @@ Se crean en el apartado Taller &gt; Maestros \(Panel de Operaciones de Taller\)
 
 En la siguiente imagen os mostramos algunos ejemplos. Cada operación de taller puede imprimirse simplemente seleccionándola y pulsando en el botón inferior "Imprimir Seleccionada" \(imprimirá un documento similar en formato al carné del operario, pero con una [operación de taller](../manuales/taller/operaciones-de-taller.md) concreta\)
 
-![](../.gitbook/assets/image%20%28465%29.png)
+![](../.gitbook/assets/image%20%28466%29.png)
 
 **Recomendamos imprimir y plastificar todos y dejarlos en una zona accesible cerca de la pistola de código de barras para su uso cotidiano.**
 
@@ -32,7 +32,7 @@ Si quisiéramos modificar, introducir o comprobar los fichajes por fechas, iremo
 
 Se abre una ventana con posibles filtros para generar listados generales o particulares de operarios 
 
-![](../.gitbook/assets/image%20%28491%29.png)
+![](../.gitbook/assets/image%20%28492%29.png)
 
 Y al pulsar "Aceptar" a los filtros seleccionados se abre un listado de operaciones donde aparecerán el conjunto de operaciones relacionadas con ORs, operaciones de taller y con un doble clic podremos crear nuevas [operaciones de taller ](../manuales/taller/operaciones-de-taller.md)por operario / día determinado
 

@@ -22,7 +22,7 @@ Al facturar este documento interno, irá a nombre de la empresa sin precio, ya q
 
 Para facturar de forma interna, de nuevo creamos una serie nueva llamada FVI \(Factura de Ventas Interna\) en la que, al igual que el AVI \(Albarán de Ventas Interno\) desmarcamos "Regulada" y activamos "Interna" en la pestaña contabilidad:
 
-![](../.gitbook/assets/image%20%28490%29.png)
+![](../.gitbook/assets/image%20%28491%29.png)
 
 En el AVI \(Albarán de Ventas Interno\) asociamos la serie de factura que acabamos de crear \(FVI\) y pulsamos en "Aceptar". Recuerda que cada vez que se crea una serie nueva tenemos que cerrar y abrir la aplicación.
 

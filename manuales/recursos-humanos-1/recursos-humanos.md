@@ -48,7 +48,7 @@ Partiendo de la ficha de empresa o de centro en caso de distribución multicentr
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
 
-![](../../.gitbook/assets/image%20%28474%29.png)
+![](../../.gitbook/assets/image%20%28475%29.png)
 
 En el primer campo definiremos el centro o empresa al que está asociado \(También se puede acceder a este formulario desde la pestaña “Departamentos” de las fichas de Empresas o centros de trabajo en cuyo caso este campo aparecerá relleno\).
 
@@ -84,7 +84,7 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 \*\*\* Si tienen el acceso activado también en su perfil de usuario
 
-![](../../.gitbook/assets/image%20%28466%29.png)
+![](../../.gitbook/assets/image%20%28467%29.png)
 
 **Una vez finalizada la configuración debemos ir a "Configuración" &gt; Listar ejercicios &gt; entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar.** 
 
@@ -104,7 +104,7 @@ Para usuarios de Winmotor que únicamente gestionen el planning para dar citas, 
 
 Y añadir a dichos usuarios a Administradores del departamento dentro de la opcíon RRHH según la siguiente imagen:
 
-![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28477%29.png)
+![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28478%29.png)
 
 Como configuración añadida a la anterior, seleccionando Departamento y luego un operario, podemos en su vista mensual definir **vacaciones, bajas o eventos\*\*\*** \(cursos por ejemplo\):
 
