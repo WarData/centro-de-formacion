@@ -28,3 +28,5 @@ La ficha del artículo está dividida en las siguientes partes:
 
                   o   [Auditoría](auditoria.md)
 
+* **Fecha de alta del artículo** en la esquina inferior izquierda
+

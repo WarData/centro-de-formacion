@@ -4,7 +4,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
 ![](../../../../.gitbook/assets/image%20%28480%29.png)
 
-* **Pestaña Movimientos de Stock:** permite obtener la información sobre movimientos de stock referente a:
+* **Pestaña Movimientos de Stock:** permite obtener la información sobre movimientos de stock referente a \(es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados\):
 
                  o   Almacén de entrada / salida \(en función del tipo de documento\)
 
@@ -31,6 +31,20 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
                  o   Valor Stock muestra el valor del campo "Stock Artículo"
 
                  o   PMC indica el precio medio de compra basándose en todos los movimientos de compra del artículo
+
+                 o   **Botones y campos inferiores:**
+
+                                  o   
+
+                                  o   
+
+                                  o   
+
+                                  o   
+
+                                  o   Filtro por fecha
+
+                                  o   Filtro por almacén
 
 
 
