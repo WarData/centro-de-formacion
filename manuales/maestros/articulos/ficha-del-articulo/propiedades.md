@@ -2,7 +2,7 @@
 
 Muestran las características concretas o diferenciadoras del artículo, ya sean a nivel general o formando parte de los componentes de algún modelo concreto de vehículo.
 
-![](../../../../.gitbook/assets/image%20%28237%29.png)
+![](../../../../.gitbook/assets/image%20%28238%29.png)
 
 * **Pestaña Generales:** encontramos en esta pestaña la opción de determinar número de unidades que forman el pack de compras o ventas para un control más exhaustivo del artículo, equivalencia de referencias, medidas generales del packaging / embalaje, intrastad y cánones de residuos.
 
@@ -15,4 +15,10 @@ Muestran las características concretas o diferenciadoras del artículo, ya sean
                   o   Intrastad: permite introducir el valor del informe estadístico referente a la importación y exportación de mercancías dentro de la unión europea.
 
                   o   Canon residuos: en función del tipo de artículo, es posible introducir un canon de residuos \(servicio\) determinado que se incorporará automáticamente al dar de alta una línea de esta referencia en ciertos documentos.
+
+* **Pestaña Componentes de los Modelos:** permite indicar si la referencia es componente de un modelo 
+
+![](../../../../.gitbook/assets/image%20%2863%29.png)
+
+* **Pestaña Se Utiliza en la Formulación de:** sin uso
 

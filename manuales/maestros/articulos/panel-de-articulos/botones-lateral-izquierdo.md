@@ -24,7 +24,7 @@
 
                                  **o   Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta \(véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas.md)\):
 
-![](../../../../.gitbook/assets/image%20%28194%29.png)
+![](../../../../.gitbook/assets/image%20%28195%29.png)
 
                                  **o   Precio de venta recomendado \(P.V.R.\):** recomendación del fabricante / marca sobre el precio de venta final al cliente.
 
@@ -34,7 +34,7 @@
 
                      o   _Buscar Artículo:_ Localizador de artículos a través de distintos criterios. Nos permite consultar, borrar o modificar la información de un artículo. La rejilla de este localizador nos muestra la referencia, denominación, información de stock de cada artículo además del P.V.P.. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../../../.gitbook/assets/image%20%28106%29.png)
+![](../../../../.gitbook/assets/image%20%28107%29.png)
 
 Este localizador nos permite buscar un artículo por los siguientes criterios:
 
@@ -52,7 +52,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Palabras descripción proveedor:** se nos presentarán todos los artículos que contengan esas palabras coincidentes al campo "nombre" **en la línea de tarifa condicionada por proveedor** \(ficha de artículo &gt; línea de proveedor &gt; personalización del proveedor &gt; nombre\)
 
-![](../../../../.gitbook/assets/image%20%28405%29.png)
+![](../../../../.gitbook/assets/image%20%28406%29.png)
 
 Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado \(véase ["Ficha del artículo"](../ficha-del-articulo/)\)
 
