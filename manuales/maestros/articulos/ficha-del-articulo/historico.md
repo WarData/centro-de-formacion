@@ -10,7 +10,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
                  o   Fecha del movimiento
 
-                 o   Hora del movimento
+                 o   Hora del movimiento
 
                  o   Movimiento indicando el documento y permitiendo la apertura directamente desde la rejilla
 
@@ -34,17 +34,17 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
                  o   **Botones y campos inferiores:**
 
-                                  o   
+                                  o   Imprimir Extracto presenta el cuadro de impresoras instaladas en el equipo
 
-                                  o   
+                                  o   Imprimir Extracto PDF muestra el explorador de archivos a fin de ubicar el archivo PDF que se va a generar
 
-                                  o   
+                                  o   Actualizar muestra información actualizada en la rejilla
 
-                                  o   
+                                  o   Recalcular extracto realiza un recálculo de los movimientos de entrada y salida
 
-                                  o   Filtro por fecha
+                                  o   Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
 
-                                  o   Filtro por almacén
+                                  o   Filtro por almacén permite realizar un filtrado de los movimientos limitado a un almacén / ubicación
 
 
 
