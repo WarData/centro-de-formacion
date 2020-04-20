@@ -1,6 +1,6 @@
 # Generales
 
-![](../../../../.gitbook/assets/image%20%2878%29.png)
+![](../../../../.gitbook/assets/image%20%2879%29.png)
 
 Muestra los campos:
 
@@ -8,7 +8,7 @@ Muestra los campos:
 
                                 o   Tarifa compras: a su vez muestra los posibles proveedores del mismo artículo, pudiendo indicar proveedor preferente:
 
-![](../../../../.gitbook/assets/image%20%28161%29.png)
+![](../../../../.gitbook/assets/image%20%28163%29.png)
 
                                  o   Además muestra el "precio neto de compra" calculado en función a los descuentos, "cálculo precio de venta" - Asistente [véase "Fórmulas PVP"](../../../submaestros/articulos/formulas-pvp.md) para la creación de fórmulas personalizadas de precio de venta.
 

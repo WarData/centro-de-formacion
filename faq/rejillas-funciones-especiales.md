@@ -4,7 +4,7 @@
 
  La rejilla es un objeto que sirve para presentar listas de registros de las tablas. Está compuesta por una serie de celdas distribuidas en forma de filas y columnas. Una fila se corresponde con un registro de una tabla y una columna con un campo de la tabla. Una celda, por tanto, permitirá mostrar un dato concreto de un registro concreto de la tabla.
 
-![](../.gitbook/assets/image%20%28444%29.png)
+![](../.gitbook/assets/image%20%28446%29.png)
 
 ## ¿Qué puedo hacer en las rejillas?
 
@@ -48,7 +48,7 @@ En textos que contengan Intro o tabulador, el texto se copiará con el delimitad
 
 Es posible seleccionar más de un registro en una rejilla para luego realzar alguna acción con ellos. Podremos hacer la selección, bien con el ratón, o bien a través del teclado.
 
-![](../.gitbook/assets/image%20%28147%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 Si la rejilla tiene a la izquierda la columna de multiselección, haciendo clic sobre un ítem, éste quedará seleccionado. Si volvemos a hacer clic sobre él, se quitará de la selección.
 
