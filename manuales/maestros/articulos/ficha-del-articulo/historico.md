@@ -4,7 +4,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
 * **Pestaña Movimientos de Stock:** permite obtener la información sobre movimientos de stock referente a \(es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados\):
 
-![](../../../../.gitbook/assets/image%20%28481%29.png)
+![](../../../../.gitbook/assets/image%20%28482%29.png)
 
                  o   Almacén de entrada / salida \(en función del tipo de documento\)
 
@@ -48,7 +48,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
 * **Pestaña Pedidos:** permite obtener la información sobre todos los documentos que generan un pedido \(pedido de ventas, pedido de compras y orden de reparación\). Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
-![](../../../../.gitbook/assets/image%20%28499%29.png)
+![](../../../../.gitbook/assets/image%20%28500%29.png)
 
                  o   Fecha del movimiento
 
@@ -81,4 +81,8 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
                                   o   Actualizar muestra información actualizada en la rejilla
 
                                   o   Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
+
+* **Pestaña Todos los Movimientos:** permite obtener la información sobre todos los movimientos. Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
+
+![](../../../../.gitbook/assets/image%20%28264%29.png)
 

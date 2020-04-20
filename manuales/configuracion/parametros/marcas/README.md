@@ -2,5 +2,5 @@
 
 Asigna la configuración para conexiones remotas a cada marca por pestaña
 
-![](../../../../.gitbook/assets/image%20%28289%29.png)
+![](../../../../.gitbook/assets/image%20%28290%29.png)
 

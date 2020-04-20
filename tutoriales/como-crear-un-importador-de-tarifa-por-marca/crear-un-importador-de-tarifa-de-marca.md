@@ -8,9 +8,9 @@ De ésta forma habrá uno o varios importadores almacenados para las marcas que 
 
 ![Abrir &quot;Maestros&quot; &amp;gt; abrir &quot;Tarifa de art&#xED;culos&quot;](../../.gitbook/assets/image%20%28243%29.png)
 
-![Pulsar en F4 o en el bot&#xF3;n &quot;F4 Importador&quot;](../../.gitbook/assets/image%20%28295%29.png)
+![Pulsar en F4 o en el bot&#xF3;n &quot;F4 Importador&quot;](../../.gitbook/assets/image%20%28296%29.png)
 
-![En la nueva pesta&#xF1;a pulsar en F1 o bot&#xF3;n &quot;F1 Nuevo&quot;](../../.gitbook/assets/image%20%28266%29.png)
+![En la nueva pesta&#xF1;a pulsar en F1 o bot&#xF3;n &quot;F1 Nuevo&quot;](../../.gitbook/assets/image%20%28267%29.png)
 
 ![](../../.gitbook/assets/image%20%2891%29.png)
 
@@ -26,13 +26,13 @@ Le damos un nombre al importador \(recomendamos relacionarlo con la marca de la 
 
 ![ARCHIVOS EXCEL: COLUMNA ORIGEN A \(ENUMERAR COLUMNAS CON LETRAS\)](../../.gitbook/assets/image%20%28174%29.png)
 
-![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%28311%29.png)
+![ARCHIVOS TXT: COLUMNA ORIGEN 0 \(ENUMERAR COLUMNAS CON N&#xDA;MEROS\)](../../.gitbook/assets/image%20%28312%29.png)
 
 ![Tarifa sin modificar](../../.gitbook/assets/image%20%2839%29.png)
 
 **En el archivo de la tarifa, debemos eliminar logos y las líneas superiores, dejando como primera filas los títulos de las columnas \(referencia, artículo, precio, descuento, etc...\), a fin de que quede como la siguiente imagen:**
 
-![Tarifa modificada](../../.gitbook/assets/image%20%28470%29.png)
+![Tarifa modificada](../../.gitbook/assets/image%20%28471%29.png)
 
 En la pestaña "Líneas", pulsamos doble clic o botón derecho "Alta de línea" y procedemos a añadir las columnas que deseamos importar de la tarifa. **En este caso vamos a NO IMPORTAR la columna D que son los precios sin IVA por lo que añadiremos 4 altas de línea relacionadas con cada campo a importar \(referencia, nombre, tipo de artículo y precio de venta\)**
 

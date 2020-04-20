@@ -6,11 +6,11 @@ El albarán de depósito se puede crear desde el "Stock de Vehículos" dentro de
 
 **Depósito desde el Stock de Vehículos**
 
-![](../../.gitbook/assets/image%20%28471%29.png)
+![](../../.gitbook/assets/image%20%28472%29.png)
 
 Seleccionamos el vehículo sobre el que vamos a realizar un depósito y pulsamos en el botón inferior "Crear / Devolver un depósito". Se inicia el proceso con la siguiente pantalla en la que sólo tendremos que introducir el Agente de destino y referencia si lo necesitamos:
 
-![](../../.gitbook/assets/image%20%28394%29.png)
+![](../../.gitbook/assets/image%20%28395%29.png)
 
 Una vez añadido el Agente y pulsado en "Continuar", el programa nos aperturará un albarán de depósito automáticamente con los datos introducidos:
 
@@ -18,7 +18,7 @@ Una vez añadido el Agente y pulsado en "Continuar", el programa nos aperturará
 
 Confirmamos y pulsamos "Si" en esta ventana:
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 Nos aparece una nueva ventana para imprimir el documento para el registro en papel si fuera necesario y automáticamente cambiaría el stock de vehículos del bastidor seleccionado al agente:
 
@@ -42,9 +42,9 @@ Entramos en la opción "Depósito a Agentes" y pulsamos en "F1 Nuevo depósito" 
 
 ![](../../.gitbook/assets/image%20%28247%29.png)
 
-![](../../.gitbook/assets/image%20%28479%29.png)
+![](../../.gitbook/assets/image%20%28480%29.png)
 
-![](../../.gitbook/assets/image%20%28386%29.png)
+![](../../.gitbook/assets/image%20%28387%29.png)
 
 Simplemente pulsar en "Confirmar" y se realizará el depósito \(solicita verificar depósito y da la posibilidad de imprimir documento\):
 
@@ -52,7 +52,7 @@ Simplemente pulsar en "Confirmar" y se realizará el depósito \(solicita verifi
 
 En el Stock de Vehículos podemos verificar también que se ha realizado el depósito correctamente:
 
-![](../../.gitbook/assets/image%20%28461%29.png)
+![](../../.gitbook/assets/image%20%28462%29.png)
 
 Para realizar la devolución del depósito desde "Depósito a Agentes" sólo hay que abrir el albarán de depósito o usar el método explicado anteriormente sobre el Stock de Vehículos:
 
@@ -60,7 +60,7 @@ Para realizar la devolución del depósito desde "Depósito a Agentes" sólo hay
 
 Se selecciona el bastidor y se pulsa sobre la flecha a la izquierda "Devolver Seleccionados" apareciendo la fecha de devolución:
 
-![](../../.gitbook/assets/image%20%28278%29.png)
+![](../../.gitbook/assets/image%20%28279%29.png)
 
 En la pestaña "Devueltos" del mismo albarán de depósito, podemos comprobar la situación de las devoluciones de ese albarán en caso de que haya varios bastidores en un único albarán:
 

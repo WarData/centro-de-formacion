@@ -30,7 +30,7 @@ El número máximo de conceptos variables a presentar en el informe es de 10 col
 
 3.       Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
 
-![](../../.gitbook/assets/image%20%28264%29.png)
+![](../../.gitbook/assets/image%20%28265%29.png)
 
 En el caso de que en el período indicado existan abonos de vehículos éstos aparecerán en una línea específica en negativo afectando sólo a las columnas de “Importe compra” e “Importe venta”. Lógicamente en la acumulación de unidades vendidas “Ventas” este tipo de líneas restan una unidad en lugar de sumarla.
 
@@ -42,7 +42,7 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 -          Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
-![](../../.gitbook/assets/image%20%28462%29.png)
+![](../../.gitbook/assets/image%20%28463%29.png)
 
 -          Muestran las totalizaciones de datos por cada cliente/vendedor:
 
@@ -54,11 +54,11 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 -          Y el total del informe en la última página:
 
-![](../../.gitbook/assets/image%20%28412%29.png)
+![](../../.gitbook/assets/image%20%28413%29.png)
 
 -          Un ejemplo del informe agrupado por Vendedores:
 
-![](../../.gitbook/assets/image%20%28440%29.png)
+![](../../.gitbook/assets/image%20%28441%29.png)
 
 -          Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
 
