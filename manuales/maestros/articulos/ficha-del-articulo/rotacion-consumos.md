@@ -18,9 +18,9 @@ En el panel encontramos campos siguientes:
 
                       o   **Fórmula para calcular el consumo medio:** botón para acceder al editor de fórmulas \(recomendamos por su complejidad consultar primero a Winmotor\):
 
-![](../../../../.gitbook/assets/image%20%2876%29.png)
+![](../../../../.gitbook/assets/image%20%2877%29.png)
 
-![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28474%29.png)
+![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28475%29.png)
 
                       o   **Estado:** se presenta el estado actual del artículo \(estados posibles &gt; 
 
@@ -50,5 +50,5 @@ En el panel encontramos campos siguientes:
 
 * **Pestaña Consumo:** resumen mensual de unidades consumidas / importe
 
-![](../../../../.gitbook/assets/image%20%28498%29.png)
+![](../../../../.gitbook/assets/image%20%28499%29.png)
 
