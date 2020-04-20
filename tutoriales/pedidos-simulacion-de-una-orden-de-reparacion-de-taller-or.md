@@ -9,9 +9,9 @@ description: >-
 
 En este apartado vamos a simular que un cliente quiere realizar una revisión de 500 kilómetros en su vehículo en el taller, necesitando dicha intervención varios artículos de los que no conocemos su stock:
 
-![Alta de la OR](../.gitbook/assets/image%20%28324%29.png)
+![Alta de la OR](../.gitbook/assets/image%20%28325%29.png)
 
-![OR sin confirmar](../.gitbook/assets/image%20%28379%29.png)
+![OR sin confirmar](../.gitbook/assets/image%20%28380%29.png)
 
 ![](../.gitbook/assets/image%20%28163%29.png)
 
@@ -19,21 +19,21 @@ El cliente B necesita varias referencias para una revisión \(en este caso hay v
 
 Una vez añadidas las líneas y/o conceptos a la OR pulsamos en el botón inferior "Confirmar" \(mensaje indicando que reserva artículos en stock - **PODEMOS INSTALARLOS EN EL MOMENTO** y/o realiza el pedido o pedidos a uno o varios proveedores de los artículos indicados en la ventana emergente\):
 
-![](../.gitbook/assets/image%20%28479%29.png)
+![](../.gitbook/assets/image%20%28480%29.png)
 
 La OR queda en situación "En Curso" - materiales "Pendientes de Recibir / Pendientes de Entregar":
 
-![Panel de ORs - Filtros existentes para control](../.gitbook/assets/image%20%28302%29.png)
+![Panel de ORs - Filtros existentes para control](../.gitbook/assets/image%20%28303%29.png)
 
 Si la OR contenía algún artículo o artículos sin stock, Winmotor genera automáticamente el **pedido de compras** **a cada proveedor si no había ninguno ya existente sin tramitar \(si antes de confirmar el pedido de ventas ya existiera un pedido de compras al mismo proveedor del que el cliente solicita artículo sin stock, el sistema añadirá dicha pieza al pedido de compras existente\):**
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](../.gitbook/assets/image%20%28254%29.png)
 
 Desde la pantalla anterior podemos abrir el pedido de compras generado por el artículo sin stock del pedido de ventas. **Es un pedido de compras SIN CONFIRMAR por lo que, otras líneas de pedidos de ventas u ORs al mismo proveedor y/o líneas adicionales para stock, se irán sumando hasta que se confirme el pedido de compras:**
 
 ![En esta situaci&#xF3;n se pueden a&#xF1;adir m&#xE1;s art&#xED;culos al pedido](../.gitbook/assets/image%20%281%29.png)
 
-![Confirmaci&#xF3;n de la tramitaci&#xF3;n](../.gitbook/assets/image%20%28352%29.png)
+![Confirmaci&#xF3;n de la tramitaci&#xF3;n](../.gitbook/assets/image%20%28353%29.png)
 
 Al tramitar, Winmotor nos permite enviarle al proveedor \(requiere configuración y que el proveedor disponga del sistema necesario para tramitar el documento\) un archivo con las líneas del pedido.
 
@@ -51,7 +51,7 @@ Una vez tramitado el pedido, existen [4 métodos de recepción de los pedidos de
 
 Tras seleccionar el método de recepción de pedidos que mejor se adapte, el sistema generará un albarán de compras de las líneas recepcionadas \(en la siguiente imagen, sobre la línea marcada, podremos hacer doble clic e indicar las cantidades suministradas si difieren de las solicitadas originalmente\):
 
-![Recepci&#xF3;n de pedidos](../.gitbook/assets/image%20%28476%29.png)
+![Recepci&#xF3;n de pedidos](../.gitbook/assets/image%20%28477%29.png)
 
 Pulsamos en "Crear albarán", dando por recepcionado el total del pedido \(podremos generar tantos albaranes como sean necesarios hasta dar el pedido de compras por completado, mientras, quedará en situación parcialmente recepcionado.
 
@@ -67,17 +67,17 @@ Desde esta ventana podremos avisar al cliente mediante un SMS con un formato pre
 
 Observar el código de colores de la OR que indica su situación:
 
-![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28493%29.png)
+![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28494%29.png)
 
 Instalar el material \(código azul de color en las líneas de artículos\) seleccionando todas las líneas y pulsando en el botón "Instalar material" según la siguiente imagen:
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%28410%29.png)
+![](../.gitbook/assets/image%20%28411%29.png)
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-![](../.gitbook/assets/image%20%28471%29.png)
+![](../.gitbook/assets/image%20%28472%29.png)
 
 Orden de reparación que permite:
 
@@ -99,11 +99,11 @@ Orden de reparación que permite:
 
 Comprobar cambios en el panel de ORs de la orden de reparación
 
-![](../.gitbook/assets/image%20%28353%29.png)
+![](../.gitbook/assets/image%20%28354%29.png)
 
 Facturamos la OR, seleccionando la imputación correspondiente \(es posible dar de alta varias imputaciones iguales y varias imputaciones distintas como garantías, internas, siniestros...\). Al facturar observamos el cambio de situación en el panel de ordenes de reparación:
 
-![](../.gitbook/assets/image%20%28262%29.png)
+![](../.gitbook/assets/image%20%28263%29.png)
 
 
 

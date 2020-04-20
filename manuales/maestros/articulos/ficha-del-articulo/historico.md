@@ -2,9 +2,9 @@
 
 Múltiples pestañas con información referente a movimientos de stock y pedidos, movimientos totales y consumos del artículo.
 
-![](../../../../.gitbook/assets/image%20%28480%29.png)
-
 * **Pestaña Movimientos de Stock:** permite obtener la información sobre movimientos de stock referente a \(es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados\):
+
+![](../../../../.gitbook/assets/image%20%28481%29.png)
 
                  o   Almacén de entrada / salida \(en función del tipo de documento\)
 
@@ -46,7 +46,39 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
                                   o   Filtro por almacén permite realizar un filtrado de los movimientos limitado a un almacén / ubicación
 
+* **Pestaña Pedidos:** permite obtener la información sobre todos los documentos que generan un pedido \(pedido de ventas, pedido de compras y orden de reparación\). Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
+![](../../../../.gitbook/assets/image%20%28499%29.png)
 
+                 o   Fecha del movimiento
 
+                 o   Hora del movimiento
+
+                 o   Movimiento indicando el documento y permitiendo la apertura directamente desde la rejilla
+
+                 o   Tercero indica origen o destino del artículo \(en función del tipo de documento\)
+
+                 o   Pedidos Cliente indica las unidades solicitadas por la entidad \(tercero\) de tipo cliente en el movimiento
+
+                 o   Entregados Cliente muestra las unidades entregadas en el movimiento al cliente
+
+                 o   Anuladas Cliente muestra las unidades anuladas en el movimiento por el cliente
+
+                 o   Pdtes. Cliente \(Pendientes\) muestra las unidades pendientes de entregar al cliente en el movimiento
+
+                 o   Pedidas Prov \(Proveedor\) muestra las unidades pedidas al proveedor mediante el movimiento pedido de compras
+
+                 o   Recibidas Prov \(Proveedor\) muestra las unidades recibidas del movimiento pedido de compras
+
+                 o   Anuladas Prov \(Proveedor\) muestra las unidades anuladas del movimiento pedido de compras
+
+                 o   Pdtes. Prov \(Pendientes Proveedor\) muestra las unidades pendientes de recibir del movimiento pedido de compras
+
+                 o   **Botones y campos inferiores:**
+
+                                  o   Imprimir Extracto presenta el cuadro de impresoras instaladas en el equipo
+
+                                  o   Actualizar muestra información actualizada en la rejilla
+
+                                  o   Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
 
