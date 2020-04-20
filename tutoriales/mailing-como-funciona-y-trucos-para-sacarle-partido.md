@@ -55,7 +55,7 @@ Una vez añadidos los destinatarios, posibles archivos adjuntos y cuerpo del men
 
 Un ejemplo con MailStyler sería este:
 
-![](../.gitbook/assets/image%20%28396%29.png)
+![](../.gitbook/assets/image%20%28397%29.png)
 
 El código a introducir cuando hayamos subido las imágenes que obtenemos en una carpeta \_files al exportar a HTML al editor personalizado de Winmotor - Mailings:
 

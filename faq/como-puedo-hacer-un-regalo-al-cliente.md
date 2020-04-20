@@ -16,17 +16,17 @@ Tras pulsar "Aceptar" es imprescindible cerrar y abrir de nuevo la aplicación.
 
 Ahora damos de alta un albarán de ventas nuevo y asignamos la nueva serie creada AVI, añadimos cliente, el vehículo del cliente \(en la parte de la derecha, debajo de tipo de pago y vencimiento\) y el artículo a regalar:
 
-![](../.gitbook/assets/image%20%28368%29.png)
+![](../.gitbook/assets/image%20%28369%29.png)
 
 Al facturar este documento interno, irá a nombre de la empresa sin precio, ya que todo es pérdida.
 
 Para facturar de forma interna, de nuevo creamos una serie nueva llamada FVI \(Factura de Ventas Interna\) en la que, al igual que el AVI \(Albarán de Ventas Interno\) desmarcamos "Regulada" y activamos "Interna" en la pestaña contabilidad:
 
-![](../.gitbook/assets/image%20%28505%29.png)
+![](../.gitbook/assets/image%20%28506%29.png)
 
 En el AVI \(Albarán de Ventas Interno\) asociamos la serie de factura que acabamos de crear \(FVI\) y pulsamos en "Aceptar". Recuerda que cada vez que se crea una serie nueva tenemos que cerrar y abrir la aplicación.
 
-![](../.gitbook/assets/image%20%28410%29.png)
+![](../.gitbook/assets/image%20%28411%29.png)
 
 ![Factura de Ventas Interna](../.gitbook/assets/image%20%28337%29.png)
 

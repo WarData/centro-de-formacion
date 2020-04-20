@@ -34,7 +34,7 @@ Ejemplo de ficha de entidad marcada también como "Empresa":
 
                   o   Réplica de documentos: si la empresa dispone de la distribución multicentro y cuenta con una central y un punto de venta, es posible configurar la réplica de documentos generando el documento contrario al creado con pulsar únicamente el botón "Replicar documento". Aparece en pedidos y albaranes \(depende de las necesidades del cliente\): creando un albarán de ventas cuyo proveedor sea la central, permitirá crear el albarán de compras automáticamente en el punto de venta.
 
-![](../../.gitbook/assets/image%20%28343%29.png)
+![](../../.gitbook/assets/image%20%28344%29.png)
 
 * Departamentos laborales - Empresa - horarios y Festivos \(exclusivamente del módulo RRHH\): las 3 pestañas corresponden a la configuración del módulo RRHH en cuanto a qué departamento laboral o departamentos hemos asignado el control de recursos humanos, horario a nivel empresa y festivos.
 

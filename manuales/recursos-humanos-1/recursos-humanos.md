@@ -6,7 +6,7 @@ description: >-
 
 # Configuración Módulo Recursos Humanos
 
-![](../../.gitbook/assets/image%20%28401%29.png)
+![](../../.gitbook/assets/image%20%28402%29.png)
 
 **Objetivo**
 
@@ -18,13 +18,13 @@ Por otro lado, y partiendo del calendario laboral de cada trabajador se crean y 
 
 En este gráfico \(clic encima para ampliar\) se muestran las tablas que intervienen en la estructura del módulo:
 
-![](../../.gitbook/assets/image%20%28403%29.png)
+![](../../.gitbook/assets/image%20%28404%29.png)
 
 Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
-![](../../.gitbook/assets/image%20%28382%29.png)
+![](../../.gitbook/assets/image%20%28383%29.png)
 
 Haciendo doble clic en la rejilla que aparece con el título “HORARIOS” en el menú de recursos humanos podremos crear las distintas fichas.
 
@@ -48,7 +48,7 @@ Partiendo de la ficha de empresa o de centro en caso de distribución multicentr
 
 Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos humanos aparecerá este formulario:
 
-![](../../.gitbook/assets/image%20%28489%29.png)
+![](../../.gitbook/assets/image%20%28490%29.png)
 
 En el primer campo definiremos el centro o empresa al que está asociado \(También se puede acceder a este formulario desde la pestaña “Departamentos” de las fichas de Empresas o centros de trabajo en cuyo caso este campo aparecerá relleno\).
 
@@ -84,13 +84,13 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 \*\*\* Si tienen el acceso activado también en su perfil de usuario
 
-![](../../.gitbook/assets/image%20%28481%29.png)
+![](../../.gitbook/assets/image%20%28482%29.png)
 
 **Una vez finalizada la configuración debemos ir a "Configuración" &gt; Listar ejercicios &gt; entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar.** 
 
 Finalizado el proceso anterior, al pulsar en la opción RRHH obtenemos este panel de configuración de Recursos Humanos completo, a nivel administrador, en el que podremos visualizar citas por día, mes, año, operario, disponibilidad y un largo etcétera que iremos viendo a lo largo de este manual:
 
-![](../../.gitbook/assets/image%20%28352%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 **Completada la configuración, el usuario que gestione la agenda del departamento laboral podrá acceder a ella desde la opción "Taller" &gt; "Agenda de Taller" \***
 
@@ -104,7 +104,7 @@ Para usuarios de Winmotor que únicamente gestionen el planning para dar citas, 
 
 Y añadir a dichos usuarios a Administradores del departamento dentro de la opcíon RRHH según la siguiente imagen:
 
-![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28492%29.png)
+![&#xDA;nicamente WINMOTOR podr&#xED;a gestionar el planning en este caso](../../.gitbook/assets/image%20%28493%29.png)
 
 Como configuración añadida a la anterior, seleccionando Departamento y luego un operario, podemos en su vista mensual definir **vacaciones, bajas o eventos\*\*\*** \(cursos por ejemplo\):
 
@@ -116,15 +116,15 @@ En los botones inferiores \(los 3 de la izquierda\) accedemos a definir:
 
 * Vacaciones:
 
-![](../../.gitbook/assets/image%20%28392%29.png)
+![](../../.gitbook/assets/image%20%28393%29.png)
 
 * Bajas:
 
-![](../../.gitbook/assets/image%20%28475%29.png)
+![](../../.gitbook/assets/image%20%28476%29.png)
 
 * Eventos:
 
-![](../../.gitbook/assets/image%20%28430%29.png)
+![](../../.gitbook/assets/image%20%28431%29.png)
 
 En todos los casos, al pulsar en "Revisar", el sistema comprueba si entra en algún conflicto con una o más citas durante ese periodo para cambiarlas de operario si es posible.
 
