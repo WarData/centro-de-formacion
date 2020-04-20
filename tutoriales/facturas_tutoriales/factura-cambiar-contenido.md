@@ -12,7 +12,7 @@ Ocurre frecuentemente que, una vez generada la factura, el cliente desee añadir
 
 La imagen de arriba muestra una factura que ha sido generada desde un albarán de ventas. El cliente ha visto una chaqueta y la quiere añadir. Creamos el nuevo albarán de ventas por la chaqueta y nos vamos a la factura. Pulsamos en el botón "Añadir Albarán" \(si fuera una orden de reparación pulsaríamos en "Añadir OR"\), obteniendo la siguiente ventana:
 
-![](../../.gitbook/assets/image%20%28404%29.png)
+![](../../.gitbook/assets/image%20%28405%29.png)
 
 Aquí nos aparecerían todos los albaranes u ORs que tuviera pendiente de facturar una entidad cliente, por lo que pulsamos doble clic en el albarán:
 
@@ -30,11 +30,11 @@ En la factura pulsamos en "Desfacturar Documento", apareciendo una nueva ventana
 
 Hacemos doble clic en el albarán AVR2018-09 que corresponde a la chaqueta y se elimina de la factura:
 
-![](../../.gitbook/assets/image%20%28312%29.png)
+![](../../.gitbook/assets/image%20%28313%29.png)
 
 El albarán, una vez quitado de la factura es modificable, por lo que podemos eliminarlo o añadir en el nuevos elementos para volver a facturarlo:
 
-![Hemos a&#xF1;adido al albar&#xE1;n de referencia AVR2018-69 un casco](../../.gitbook/assets/image%20%28400%29.png)
+![Hemos a&#xF1;adido al albar&#xE1;n de referencia AVR2018-69 un casco](../../.gitbook/assets/image%20%28401%29.png)
 
-![Al a&#xF1;adir albar&#xE1;n vemos como hemos modificado el contenido de la factura con un casco](../../.gitbook/assets/image%20%28442%29.png)
+![Al a&#xF1;adir albar&#xE1;n vemos como hemos modificado el contenido de la factura con un casco](../../.gitbook/assets/image%20%28443%29.png)
 

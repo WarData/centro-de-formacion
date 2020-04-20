@@ -8,7 +8,7 @@ El proceso para [abonar](../../manuales/submaestros/administracion-1/motivos-de-
 
 2.- Pulsamos en el botón inferior "[ABONAR](../../manuales/submaestros/administracion-1/motivos-de-abono.md)" que abrirá una nueva ventana con las líneas y cantidades abonables \(hay que tener en cuenta, que una factura puede tener líneas con cantidades ya abonadas que hay que volver a abonar\).
 
-![](../../.gitbook/assets/image%20%28364%29.png)
+![](../../.gitbook/assets/image%20%28365%29.png)
 
 3.- Si queremos abonar parte o el total de una línea pulsamos dos veces \(doble clic\) sobre la línea, abriéndose la siguiente ventana:
 
