@@ -4,25 +4,25 @@ Dentro de la pestaña de Gestión nos encontramos con 6 pestañas de configuraci
 
 * **Generales** \(departamentos básicos de Taller y Comercial, permitir ventas sin stock - uso de opción NO RECOMENDADA sin analizar por parte de los técnicos de Winmotor, etc...\)
 
-![](../../../.gitbook/assets/image%20%2894%29.png)
+![](../../../.gitbook/assets/image%20%2895%29.png)
 
 * **Stock mínimo** \(parámetros para configurar las condiciones en las que se establece el stock mínimo de artículos\)
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 * **Estadísticas** \(configuración por medio de fórmulas\)
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2823%29.png)
 
 * **Periodos de consumo** \(permite añadir periodos como las estaciones o días de descuento a los que se les añaden artículos\)
 
-![](../../../.gitbook/assets/image%20%28139%29.png)
+![](../../../.gitbook/assets/image%20%28140%29.png)
 
 * **Cuadro de mandos** \(menú exclusivo para esta opción\)
 
-![](../../../.gitbook/assets/image%20%28379%29.png)
+![](../../../.gitbook/assets/image%20%28380%29.png)
 
 * **Maestros genéricos** \(configuración avanzada de maestros\)
 
-![](../../../.gitbook/assets/image%20%28287%29.png)
+![](../../../.gitbook/assets/image%20%28288%29.png)
 

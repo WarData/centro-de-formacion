@@ -1,6 +1,6 @@
 # Notificaciones Emergentes
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 ## Me envían mensajes internos y no me sale la notificación \(PC\)
 

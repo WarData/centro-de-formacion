@@ -2,7 +2,7 @@
 
 La rotación de un artículo expresa el número de veces que se han renovado las existencias durante un período determinado.
 
-![](../../../../.gitbook/assets/image%20%2867%29.png)
+![](../../../../.gitbook/assets/image%20%2868%29.png)
 
 En el panel encontramos campos siguientes:
 
@@ -18,9 +18,9 @@ En el panel encontramos campos siguientes:
 
                       o   **Fórmula para calcular el consumo medio:** botón para acceder al editor de fórmulas \(recomendamos por su complejidad consultar primero a Winmotor\):
 
-![](../../../../.gitbook/assets/image%20%2878%29.png)
+![](../../../../.gitbook/assets/image%20%2879%29.png)
 
-![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28483%29.png)
+![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28484%29.png)
 
                       o   **Estado:** se presenta el estado actual del artículo \(estados posibles &gt; 
 
@@ -40,7 +40,7 @@ En el panel encontramos campos siguientes:
 
                                             o   Periodo estacional: permite especificar el periodo, modificar uno existente o dar de alta un periodo nuevo:
 
-![Alta de un periodo](../../../../.gitbook/assets/image%20%2814%29.png)
+![Alta de un periodo](../../../../.gitbook/assets/image%20%2815%29.png)
 
                                               o   Consumo estacional del año en curso y del anterior: muestras los consumos acumulados en los periodos estacionales del año en curso y el anterior a modo comparativo.
 
@@ -50,5 +50,5 @@ En el panel encontramos campos siguientes:
 
 * **Pestaña Consumo:** resumen mensual de unidades consumidas / importe
 
-![](../../../../.gitbook/assets/image%20%28507%29.png)
+![](../../../../.gitbook/assets/image%20%28508%29.png)
 

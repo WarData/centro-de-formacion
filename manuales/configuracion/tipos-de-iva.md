@@ -4,9 +4,9 @@ Véase enlace a Tipos impositivos de IVA de la Agencia Tributria &gt; [Enlace](h
 
 El IVA es el impuesto indirecto por excelencia y grava el consumo que realizan todos los ciudadanos, independientemente de su renta. En la configuración inicial y para aquellos clientes que disponen de contrato de mantenimiento con Winmotor, configuramos y actualizamos todos los tipos de IVA en la aplicación.
 
-![](../../.gitbook/assets/image%20%28260%29.png)
+![](../../.gitbook/assets/image%20%28261%29.png)
 
 Modificar o dar de alta un tipo nuevo muestra una ficha fácilmente configurable:
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
