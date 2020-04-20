@@ -6,15 +6,15 @@
 
 Este alta de OR nos da la siguiente pantalla:
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](../.gitbook/assets/image%20%28258%29.png)
 
 Para cambiar la imputación "Cliente" hacemos doble clic en la línea señalada en amarillo \(partida principal\):
 
-![](../.gitbook/assets/image%20%28420%29.png)
+![](../.gitbook/assets/image%20%28426%29.png)
 
 Seleccionamos garantía por ejemplo y pulsamos en aceptar, obteniendo un cambio completo de esa partida con cargo a garantía:
 
-![](../.gitbook/assets/image%20%28383%29.png)
+![](../.gitbook/assets/image%20%28388%29.png)
 
 
 
