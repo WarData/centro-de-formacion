@@ -52,7 +52,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                                  **o   Palabras descripción proveedor:** se nos presentarán todos los artículos que contengan esas palabras coincidentes al campo "nombre" **en la línea de tarifa condicionada por proveedor** \(ficha de artículo &gt; línea de proveedor &gt; personalización del proveedor &gt; nombre\)
 
-![](../../../../.gitbook/assets/image%20%28413%29.png)
+![](../../../../.gitbook/assets/image%20%28414%29.png)
 
 Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic sobre él o pulsar el botón intro del teclado una vez seleccionado \(véase ["Ficha del artículo"](../ficha-del-articulo/)\)
 

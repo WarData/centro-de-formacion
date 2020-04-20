@@ -20,7 +20,7 @@ En el panel encontramos campos siguientes:
 
 ![](../../../../.gitbook/assets/image%20%2878%29.png)
 
-![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28482%29.png)
+![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28483%29.png)
 
                       o   **Estado:** se presenta el estado actual del artículo \(estados posibles &gt; 
 
@@ -50,5 +50,5 @@ En el panel encontramos campos siguientes:
 
 * **Pestaña Consumo:** resumen mensual de unidades consumidas / importe
 
-![](../../../../.gitbook/assets/image%20%28506%29.png)
+![](../../../../.gitbook/assets/image%20%28507%29.png)
 
