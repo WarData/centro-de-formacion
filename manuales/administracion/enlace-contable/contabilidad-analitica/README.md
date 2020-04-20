@@ -103,7 +103,7 @@ Al ejecutar la opción de crear repartos el programa presenta el siguiente filtr
 
 Al aceptar el programa realizará los cálculos correspondientes y presentará el resultado del reparto:
 
-![](../../../../.gitbook/assets/image%20%28436%29.png)
+![](../../../../.gitbook/assets/image%20%28437%29.png)
 
 Podemos ver como ha repartido el gasto de 2.000€ imputado al centro genérico “TIE” entre la tienda de Sevilla y Málaga según el saldo de la cuenta 700 en las delegaciones de Sevilla y Málaga.
 

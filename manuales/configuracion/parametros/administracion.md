@@ -10,7 +10,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 1.- General \(enlazada o integrada en Winmotor, cuentas, último cierre, opciones de contabilización básica...\)
 
-![](../../../.gitbook/assets/image%20%28500%29.png)
+![](../../../.gitbook/assets/image%20%28501%29.png)
 
 2.- Impuestos \(cuentas contables IVA - IVA soportado por cada cuenta / interés\)
 
@@ -26,7 +26,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 5.- Cuentas por tipo de producto
 
-![](../../../.gitbook/assets/image%20%28420%29.png)
+![](../../../.gitbook/assets/image%20%28421%29.png)
 
 * **Impuestos** \(panel de configuración de todos los impuestos aplicables en la aplicación\)
 
@@ -42,7 +42,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 * Cierres fiscales \(ver [AQUÍ &gt; Configuración de Cierres Fiscales](../../administracion/enlace-contable/cierres-fiscales.md)\)
 
-![](../../../.gitbook/assets/image%20%28404%29.png)
+![](../../../.gitbook/assets/image%20%28405%29.png)
 
 
 

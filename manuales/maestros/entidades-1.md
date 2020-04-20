@@ -2,7 +2,7 @@
 
 Definimos entidad como asociación o conjunto de personas de cualquier tipo, en especial la que se dedica a una actividad laboral \(entidad financiera, entidad bancaria, entidad deportiva...\). En bases de datos, una **entidad** es la representación de un objeto o concepto del mundo real que se describe en una base de datos.
 
-![](../../.gitbook/assets/image%20%28473%29.png)
+![](../../.gitbook/assets/image%20%28474%29.png)
 
 En el panel de entidades disponemos de las opciones:
 
@@ -38,11 +38,11 @@ En el panel de entidades disponemos de las opciones:
 
                  o   _Pestaña "Notas":_ añade observaciones internas a la ficha de la entidad \(sólo se presentan en ella\) y, en la pestaña "Aviso en Documentos", las observaciones añadidas aparecerán, al añadir la entidad que las contenga, al dar de alta un documento \(albarán, factura, OR...\) en la parte inferior del campo.
 
-![](../../.gitbook/assets/image%20%28429%29.png)
+![](../../.gitbook/assets/image%20%28430%29.png)
 
                   o   _Pestaña "Imagen":_ Añade una imagen a la entidad haciendo doble clic en el espacio en blanco y pegando la misma en el editor gráfico integrado
 
-![](../../.gitbook/assets/image%20%28411%29.png)
+![](../../.gitbook/assets/image%20%28412%29.png)
 
 ![Editor de im&#xE1;genes integrado](../../.gitbook/assets/image%20%28365%29.png)
 
