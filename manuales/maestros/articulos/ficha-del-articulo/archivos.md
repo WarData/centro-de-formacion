@@ -22,7 +22,3 @@ Esta pestaña es común al resto de fichas de la aplicación \(fichas de entidad
 
 Desde esta ventana emergente podemos abrir el archivo desde el botón "Ver archivo", eliminarlo del servidor de la aplicación pulsando en "Eliminar", asignarle un grupo y añadir una imagen usando el check. También podremos eliminar el archivo desde el panel de adjuntos, seleccionando el archivo a eliminar y pulsando en el botón "Eliminar Adjunto".
 
-
-
-
-
