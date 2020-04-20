@@ -6,9 +6,11 @@ La rotación de un artículo expresa el número de veces que se han renovado las
 
 En el panel encontramos campos siguientes:
 
+* **Pestaña Rotación:**
+
                      o   **Rotación:** 
 
-                                        o   Consumo medio:
+                                        o   Consumo medio: este campo presenta 
 
                                         o   Stock mínimo automático:
 
@@ -20,9 +22,9 @@ En el panel encontramos campos siguientes:
 
 ![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28466%29.png)
 
-                      o   **Estado:**
+                      o   **Estado:** se presenta el estado actual del artículo \(estados posibles &gt; 
 
-                      ****o   **Movimientos:**
+                      ****o   **Movimientos:** listado de movimientos principales
 
                                             ****o   Última compra
 
@@ -32,7 +34,7 @@ En el panel encontramos campos siguientes:
 
                                             o   Días sin salida
 
-                       o   **Consumo estacional:**
+                       o   **Consumo estacional:** muestran los campos relativos a movimientos periódicos, no fijos, de artículos, como ejemplo neumáticos de invierno.
 
                                             ****o   Check "Consumo estacional": activa el modo de consumo por periodos en el artículo.
 
@@ -46,5 +48,7 @@ En el panel encontramos campos siguientes:
 
                                               o   Check "Controlar fuera del periodo estacional": permite el control de stock fuera de los plazos establecidos en los periodos estacionales.
 
+* **Pestaña Consumo:** resumen mensual de unidades consumidas / importe
 
+![](../../../../.gitbook/assets/image%20%28489%29.png)
 

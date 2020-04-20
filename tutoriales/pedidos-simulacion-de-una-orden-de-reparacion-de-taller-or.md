@@ -67,7 +67,7 @@ Desde esta ventana podremos avisar al cliente mediante un SMS con un formato pre
 
 Observar el código de colores de la OR que indica su situación:
 
-![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28490%29.png)
+![Cat&#xE1;logo de colores en l&#xED;neas](../.gitbook/assets/image%20%28491%29.png)
 
 Instalar el material \(código azul de color en las líneas de artículos\) seleccionando todas las líneas y pulsando en el botón "Instalar material" según la siguiente imagen:
 

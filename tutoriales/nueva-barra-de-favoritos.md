@@ -38,7 +38,7 @@ Aparece la nueva barra de herramientas que, al igual que el resto de barras, pod
 
 ![](../.gitbook/assets/image%20%28423%29.png)
 
-![](../.gitbook/assets/image%20%28492%29.png)
+![](../.gitbook/assets/image%20%28493%29.png)
 
 Cerrar la barra de favoritos con la X o desde el menú de las barras \(botón derecho\) y volver a activar la opción para refrescar los cambios en las opciones.
 
