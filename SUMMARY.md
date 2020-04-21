@@ -126,6 +126,8 @@
     * [SII - Suministro Inmediato de Información](manuales/administracion/enlace-contable/sii-suministro-inmediato-de-informacion.md)
     * [Contabilidad Analítica](manuales/administracion/enlace-contable/contabilidad-analitica/README.md)
       * [Predefinición de Cuentas](manuales/administracion/enlace-contable/contabilidad-analitica/predefinicion-de-cuentas.md)
+      * [Presupuestos](manuales/administracion/enlace-contable/contabilidad-analitica/presupuestos.md)
+      * [Desviación Presupuestaria](manuales/administracion/enlace-contable/contabilidad-analitica/desviacion-presupuestaria.md)
     * [Honda Are - Contabilización de Servicios](manuales/administracion/enlace-contable/honda-are-contabilizacion-de-servicios.md)
     * [Cierres Fiscales](manuales/administracion/enlace-contable/cierres-fiscales.md)
     * [Configuración de cuentas para la generación de asientos desde gestión](manuales/administracion/enlace-contable/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
