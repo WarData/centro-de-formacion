@@ -2,7 +2,7 @@
 
 Todos los documentos en Winmotor se clasifican por series. Cada serie implica un contador para los documentos que incluya y son ilimitadas: se pueden crear tantas series por tipo de documento como se desee.
 
-![](../../.gitbook/assets/image%20%28458%29.png)
+![](../../.gitbook/assets/image%20%28459%29.png)
 
 Los campos a rellenar al crear una serie son:
 
@@ -110,7 +110,7 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
            o   Contabilizar: check que permite activar o no la serie en contabilidad
 
-![](../../.gitbook/assets/image%20%28349%29.png)
+![](../../.gitbook/assets/image%20%28350%29.png)
 
 **Pestaña "Impresión":** permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
 
@@ -124,7 +124,7 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
 **Pestaña "Logos":** permite añadir logotipos para identificar las distintas series
 
-![](../../.gitbook/assets/image%20%28192%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
 
 **Pestaña "Observaciones":** si el informe dispone de un campo observaciones, se aplicarán las añadidas a la serie. También permite añadir observaciones internas que únicamente aparecerán en esta pestaña y campo:
 
@@ -136,7 +136,7 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
 **Pestaña "Avanzado":** situación inicial de la serie al configurarse - consulte con el personal de Winmotor para más información
 
-![](../../.gitbook/assets/image%20%28212%29.png)
+![](../../.gitbook/assets/image%20%28213%29.png)
 
 
 
