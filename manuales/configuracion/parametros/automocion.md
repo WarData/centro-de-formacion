@@ -4,13 +4,13 @@ Opciones asignadas a Marcas, Series, imputaciones de cargo interno, generación 
 
 **Pestaña Generales:**
 
-![](../../../.gitbook/assets/image%20%28203%29.png)
+![](../../../.gitbook/assets/image%20%28204%29.png)
 
 **Pestaña Certificados:**
 
-![](../../../.gitbook/assets/image%20%28344%29.png)
+![](../../../.gitbook/assets/image%20%28345%29.png)
 
 **Pestaña Agenda de Taller** \(planning Recursos Humanos\):
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 

@@ -2,7 +2,7 @@
 
                **** o   _Nueva Familia:_ permite dar de alta a un nueva familia rellenando el siguiente formulario:
 
-![](../../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../../.gitbook/assets/image%20%28111%29.png)
 
                                **o   Código:** se aconseja uno reducido que mantenga un mismo sistema de ordenación. El objetivo de esto es la fácil localización de la familia y sus artículos o servicios asociados.
 
@@ -22,9 +22,15 @@
 
                 o   _Buscar Familia:_ Localizador de familias a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una familia. La rejilla de este localizador nos permite discriminar entre búsqueda de familia de artículos o familia de servicios. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../../../.gitbook/assets/image%20%28282%29.png)
+![](../../../../.gitbook/assets/image%20%28283%29.png)
 
 Al seleccionar una familia y pulsar el botón "Aceptar" mostrará una nueva ventana emergente con la ficha de la familia seleccionada:
 
 ![](../../../../.gitbook/assets/image%20%2834%29.png)
+
+                    o   _Listar Familias:_ muestra el siguiente filtro
+
+![](../../../../.gitbook/assets/image%20%28465%29.png)
+
+![Listado de servicios](../../../../.gitbook/assets/image%20%2848%29.png)
 

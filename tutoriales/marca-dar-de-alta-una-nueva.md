@@ -9,11 +9,11 @@ En la aplicación Winmotor hay **marcas** que proveen al sistema de información
 
 Para el correcto funcionamiento del sistema, es necesario crear y configurar la o las marcas, para ello &gt; entrar en **Maestros &gt; Marcas &gt; + Nueva marca**
 
-![](../.gitbook/assets/image%20%28196%29.png)
+![](../.gitbook/assets/image%20%28197%29.png)
 
 Rellenamos los datos referentes a nombre de la marca, código de 2 dígitos de la marca seguido de guión y resto de datos según el alta de la marca:
 
-![](../.gitbook/assets/image%20%28367%29.png)
+![](../.gitbook/assets/image%20%28368%29.png)
 
 Desde el momento del alta, podremos importar tarifas del proveedor indicado y añadir artículos o vehículos a los diferentes documentos de la aplicación.
 
