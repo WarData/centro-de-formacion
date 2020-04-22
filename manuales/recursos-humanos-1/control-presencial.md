@@ -36,11 +36,11 @@ Este panel podrá estar abierto en el dispositivo que más nos interese \(pc sob
 
 Un trabajador solo tendrá que pasar su carné cuando entre en su puesto de trabajo, y pasar de nuevo su carné cuando se vaya:
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 El panel será distinto si lo abre un usuario supervisor. En el podremos ver opciones para sacar listados, crear un nuevo trabajador o listar todos los ya creados
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 
 Listados
 

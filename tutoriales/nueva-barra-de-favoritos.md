@@ -10,25 +10,25 @@ Para poder activarla según vuestras necesidades, tenéis que seguir este proced
 
 1.- Ir a **Opciones &gt; Mi Configuración &gt; pestaña Favoritos**
 
-![](../.gitbook/assets/image%20%28367%29.png)
+![](../.gitbook/assets/image%20%28369%29.png)
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
 2.- De las opciones del panel derecho, seleccionamos las que necesitemos un acceso directo desde la barra de favoritos y pulsamos en la flecha hacia la izquierda que hay situada en el centro, entre los 2 paneles \(a la izquierda panel de opciones favoritas incluidas y a la derecha panel de opciones disponibles\):
 
-![](../.gitbook/assets/image%20%28482%29.png)
+![](../.gitbook/assets/image%20%28485%29.png)
 
-![](../.gitbook/assets/image%20%28509%29.png)
+![](../.gitbook/assets/image%20%28512%29.png)
 
 En este paso, pulsamos en guardar una vez hayamos seleccionado nuestros favoritos y pasamos al siguiente punto.
 
 3.- En la zona de barras de herramientas que marcamos con la flecha naranja, pulsamos botón derecho y activamos "Favoritos"
 
-![](../.gitbook/assets/image%20%28443%29.png)
+![](../.gitbook/assets/image%20%28446%29.png)
 
 Aparece la nueva barra de herramientas que, al igual que el resto de barras, podemos colocar en los laterales**,** parte superior / inferior o flotante \(segunda imagen\)
 
-![](../.gitbook/assets/image%20%28159%29.png)
+![](../.gitbook/assets/image%20%28160%29.png)
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 
@@ -36,9 +36,9 @@ Aparece la nueva barra de herramientas que, al igual que el resto de barras, pod
 
 5.- Podemos variar en cualquier momento el contenido de la barra. Sólo tenemos que volver a Opciones &gt; Mi Configuración &gt; pestaña Favoritos y seleccionar en el panel izquierdo aquellas opciones que necesitemos quitar de la barra y pulsar en la flecha hacia la derecha para devolverlas a las opciones disponibles 
 
-![](../.gitbook/assets/image%20%28449%29.png)
+![](../.gitbook/assets/image%20%28452%29.png)
 
-![](../.gitbook/assets/image%20%28522%29.png)
+![](../.gitbook/assets/image%20%28525%29.png)
 
 Cerrar la barra de favoritos con la X o desde el menú de las barras \(botón derecho\) y volver a activar la opción para refrescar los cambios en las opciones.
 
