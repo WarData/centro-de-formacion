@@ -4,7 +4,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
 * **Pestaña Movimientos de Stock:** permite obtener la información sobre movimientos de stock referente a \(es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados\):
 
-![](../../../../.gitbook/assets/image%20%28502%29.png)
+![](../../../../.gitbook/assets/image%20%28506%29.png)
 
                  o   Almacén de entrada / salida \(en función del tipo de documento\)
 
@@ -46,11 +46,11 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
                                   o   Filtro por almacén permite realizar un filtrado de los movimientos limitado a un almacén / ubicación
 
-![](../../../../.gitbook/assets/image%20%28482%29.png)
+![](../../../../.gitbook/assets/image%20%28486%29.png)
 
 * **Pestaña Pedidos:** permite obtener la información sobre todos los documentos que generan un pedido \(pedido de ventas, pedido de compras y orden de reparación\). Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
-![](../../../../.gitbook/assets/image%20%28521%29.png)
+![](../../../../.gitbook/assets/image%20%28525%29.png)
 
                  o   Fecha del movimiento
 
@@ -86,7 +86,7 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
 * **Pestaña Todos los Movimientos:** permite obtener la información sobre todos los movimientos. Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
-![](../../../../.gitbook/assets/image%20%28278%29.png)
+![](../../../../.gitbook/assets/image%20%28281%29.png)
 
                  o   Fecha del movimiento
 
@@ -116,11 +116,11 @@ Múltiples pestañas con información referente a movimientos de stock y pedidos
 
                                   o   Filtro por almacén permite realizar un filtrado de los movimientos limitado a un tipo de documento
 
-![](../../../../.gitbook/assets/image%20%28516%29.png)
+![](../../../../.gitbook/assets/image%20%28520%29.png)
 
 * **Pestaña Consumos:** dispondremos de dos pestañas donde se muestran las estadísticas de consumo en modo gráfico y en modo valores
 
-![Gr&#xE1;fico](../../../../.gitbook/assets/image%20%28114%29.png)
+![Gr&#xE1;fico](../../../../.gitbook/assets/image%20%28115%29.png)
 
 ![Valores](../../../../.gitbook/assets/image%20%2846%29.png)
 

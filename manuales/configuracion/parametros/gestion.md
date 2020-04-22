@@ -16,13 +16,13 @@ Dentro de la pestaña de Gestión nos encontramos con 6 pestañas de configuraci
 
 * **Periodos de consumo** \(permite añadir periodos como las estaciones o días de descuento a los que se les añaden artículos\)
 
-![](../../../.gitbook/assets/image%20%28141%29.png)
+![](../../../.gitbook/assets/image%20%28142%29.png)
 
 * **Cuadro de mandos** \(menú exclusivo para esta opción\)
 
-![](../../../.gitbook/assets/image%20%28384%29.png)
+![](../../../.gitbook/assets/image%20%28388%29.png)
 
 * **Maestros genéricos** \(configuración avanzada de maestros\)
 
-![](../../../.gitbook/assets/image%20%28290%29.png)
+![](../../../.gitbook/assets/image%20%28293%29.png)
 
