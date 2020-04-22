@@ -4,7 +4,7 @@ Winmotor incorpora para la gestión administrativa de clientes un control sobre 
 
 * Datos base
 
-![](../../../.gitbook/assets/image%20%28384%29.png)
+![](../../../.gitbook/assets/image%20%28385%29.png)
 
 * * Crear concepto "Anticipo de clientes"
     * En la tabla de conceptos de tesorería hay que crear un nuevo concepto para aplicarlo en los anticipos. Es prioritario que tenga marcado el nuevo check "anticipo", que sea del tipo “cobro” y que no esté marcado "Pedir factura".
@@ -21,7 +21,7 @@ Winmotor incorpora para la gestión administrativa de clientes un control sobre 
   * En el momento de recibir un anticipo de cliente se graba un asiento de tesorería especificando el cliente y lógicamente el importe del anticipo.
   * Opcionalmente se podrá asignar el anticipo a un pedido concreto, de manera que sólo cuando se generen facturas relativas a este pedido el programa lo aplicará a dichas facturas. La creación del registro de anticipo se puede hacer manualmente desde el alta de un asiento de tesorería o de forma automatizada desde el formulario de pedidos de clientes mediante el botón que aparece a este efecto cuando el pedido queda confirmado. Dejar definido en parámetros el código del concepto de anticipo tiene la finalidad de que en este punto el sistema pueda dejarlo ya aplicado en el asiento en el momento de grabarlo desde el pedido.
 
-![](../../../.gitbook/assets/image%20%28486%29.png)
+![](../../../.gitbook/assets/image%20%28489%29.png)
 
 * * Cuando este anticipo quede aplicado a alguna factura ésta aparecerá en la rejilla indicando el importe aplicado. En el caso de por alguna razón quisiéramos “desaplicar” un abono basta con eliminar la línea correspondiente en la rejilla.
   * Al contabilizar la tesorería se genera un asiento de la siguiente forma : 

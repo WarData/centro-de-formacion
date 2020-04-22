@@ -30,7 +30,7 @@ Al seleccionar una familia y pulsar el botón "Aceptar" mostrará una nueva vent
 
                     o   _Listar Familias:_ muestra el siguiente filtro
 
-![](../../../../.gitbook/assets/image%20%28465%29.png)
+![](../../../../.gitbook/assets/image%20%28468%29.png)
 
 ![Listado de servicios](../../../../.gitbook/assets/image%20%2848%29.png)
 
