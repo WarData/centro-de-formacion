@@ -4,7 +4,11 @@ description: Campos Especiales en las Fichas de Servicios
 
 # Servicios
 
+![](../../.gitbook/assets/image%20%28312%29.png)
+
 Dentro de la ficha de un servicio encontramos una serie de “checks” que tienen una utilidad específica dentro del programa. Pasamos a detallarlos:
+
+**o   Pestaña Observaciones:**
 
 * Aplicable a vehículos
 
@@ -46,11 +50,21 @@ Dentro de la ficha de un servicio encontramos una serie de “checks” que tien
 
                        o   Estará activo por lo tanto sólo en el caso de que esté marcado “Aplicable a vehículos”.
 
-* Excluir del informe 347
+* Excluir de impuestos \(informe 347\)
 
-                       o   Para casos de servicios especiales cuyo importe no debe repercutir en el cálculo del 347 \(fianzas, tasas, etc\).
+                       o   Para casos de servicios especiales cuyo importe no debe repercutir en el cálculo del 347 \(fianzas, tasas, etc...\).
 
 * Exigir coste
 
                        o   Al utilizar este servicio en una línea de documento de ventas el usuario tendrá que imputar forzosamente un costo en la línea \(caso por ejemplo de querer dejar reflejado en el documento de ventas el coste de un servicio externo simplemente a nivel estadístico\).
+
+**o   Pestaña Líneas de facturas de ventas:** muestra la rejilla de documentos de venta indicando entidad, fecha, unidades y parcial de servicios.
+
+![](../../.gitbook/assets/image%20%2853%29.png)
+
+**o   Pestaña Líneas de facturas de compras:** muestra la rejilla de documentos de compra indicando entidad, fecha, unidades y parcial de servicios.
+
+![](../../.gitbook/assets/image%20%28430%29.png)
+
+**o   Pestaña Auditoría:** Permite controlar la creación del documento / ficha y la última modificación \(usuarios\). Además, se ha incorporado el control log de cada ficha que contenga la pestaña "Auditoría" que muestra el historial de modificaciones por parte de usuarios con fecha / hora / operación y acción realizada.
 

@@ -1,2 +1,2 @@
-# Tarifas de Compras
+# Tarifas de Artículos \(compras\)
 

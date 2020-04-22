@@ -2,7 +2,7 @@
 
 La rotación de un artículo expresa el número de veces que se han renovado las existencias durante un período determinado.
 
-![](../../../../.gitbook/assets/image%20%2868%29.png)
+![](../../../../.gitbook/assets/image%20%2869%29.png)
 
 En el panel encontramos campos siguientes:
 
@@ -18,9 +18,9 @@ En el panel encontramos campos siguientes:
 
                       o   **Fórmula para calcular el consumo medio:** botón para acceder al editor de fórmulas \(recomendamos por su complejidad consultar primero a Winmotor\):
 
-![](../../../../.gitbook/assets/image%20%2879%29.png)
+![](../../../../.gitbook/assets/image%20%2880%29.png)
 
-![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28485%29.png)
+![Editor de f&#xF3;rmulas integrado](../../../../.gitbook/assets/image%20%28488%29.png)
 
                       o   **Estado:** se presenta el estado actual del artículo \(estados posibles &gt; 
 
@@ -50,5 +50,5 @@ En el panel encontramos campos siguientes:
 
 * **Pestaña Consumo:** resumen mensual de unidades consumidas / importe
 
-![](../../../../.gitbook/assets/image%20%28509%29.png)
+![](../../../../.gitbook/assets/image%20%28512%29.png)
 

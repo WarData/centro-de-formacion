@@ -2,7 +2,7 @@
 
 **Operativa general de pedidos**
 
-![](../../../.gitbook/assets/image%20%28322%29.png)
+![](../../../.gitbook/assets/image%20%28324%29.png)
 
 El diagrama refleja la siguiente operativa:
 
@@ -42,7 +42,7 @@ El diagrama refleja la siguiente operativa:
 
 **Operativa completa de compras**
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image%20%2885%29.png)
 
 El diagrama refleja la siguiente operativa:
 
@@ -59,7 +59,7 @@ El diagrama refleja la siguiente operativa:
 
 **Operativa de pedidos en distribución multicentro**
 
-![](../../../.gitbook/assets/image%20%28228%29.png)
+![](../../../.gitbook/assets/image%20%28229%29.png)
 
 Llamamos “Distribución multicentro” a la implantación de la aplicación en una base de datos en la que éstos están divididos por centros de trabajo. Dentro de estos centros existe siempre uno definido como “central” que en este caso es la importadora y uno o varios centros de distribución o tiendas. En una distribución de este tipo cada documento existente en la base de datos tiene especificado como dato principal en la cabecera su “Centro”.
 

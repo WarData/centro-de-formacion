@@ -2,5 +2,5 @@
 
 Nos permite crear rutas para apertura de archivos temporales y su borrado de forma remota, URL para el cálculo de IP externa, etc...
 
-![](../../../.gitbook/assets/image%20%28513%29.png)
+![](../../../.gitbook/assets/image%20%28516%29.png)
 
