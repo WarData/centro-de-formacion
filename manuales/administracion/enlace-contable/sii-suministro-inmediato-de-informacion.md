@@ -24,7 +24,7 @@ Dado que la generación del certificado y la clave privada desde el archivo .PEM
 
 **b.-** En el momento del alta de uno de estos tipos de entidades la aplicación verificará con la AEAT que están registrados. Para el caso de particulares la AEAT verifica el NIF y el nombre dado que la ley de protección de datos así lo exige, pero para el caso de sociedades sólo verifica el NIF. En caso de que estemos dando de alta una sociedad y el nombre fiscal registrado en la aplicación sea distinto del que está registrado en la AEAT el programa lo modificará automáticamente.
 
-![\* Figura 2 &#x2013; Alta de entidad](../../../.gitbook/assets/image%20%28414%29.png)
+![\* Figura 2 &#x2013; Alta de entidad](../../../.gitbook/assets/image%20%28415%29.png)
 
   
 **c.-** El uso del botón “Verificar DNI/CIF” es opcional por si queremos consultar; el programa hará la verificación automática en el momento de aceptar el alta de la ficha.

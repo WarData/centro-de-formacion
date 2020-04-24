@@ -20,5 +20,5 @@ Ahora en **Configuración &gt;** [**Parámetros**](../manuales/configuracion/par
 
 **En Configuración &gt;** [**Series**](../manuales/configuracion/series-de-documentos.md) podremos entrar con doble clic en cualquiera de ellas, ir a la pestaña de "Contadores" y elegir en qué número empezar, si por 0 o continuar con la numeración del año anterior:
 
-![](../.gitbook/assets/image%20%28452%29.png)
+![](../.gitbook/assets/image%20%28453%29.png)
 

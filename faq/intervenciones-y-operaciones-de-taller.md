@@ -18,11 +18,11 @@ Pestaña "Intervenciones" dentro de la OR \(exclusivo para esa orden de reparaci
 
 Se crean en el apartado Taller &gt; Maestros \(Panel de Operaciones de Taller\)
 
-![](../.gitbook/assets/image%20%28428%29.png)
+![](../.gitbook/assets/image%20%28429%29.png)
 
 En la siguiente imagen os mostramos algunos ejemplos. Cada operación de taller puede imprimirse simplemente seleccionándola y pulsando en el botón inferior "Imprimir Seleccionada" \(imprimirá un documento similar en formato al carné del operario, pero con una [operación de taller](../manuales/taller/operaciones-de-taller.md) concreta\)
 
-![](../.gitbook/assets/image%20%28498%29.png)
+![](../.gitbook/assets/image%20%28499%29.png)
 
 **Recomendamos imprimir y plastificar todos y dejarlos en una zona accesible cerca de la pistola de código de barras para su uso cotidiano.**
 
@@ -32,7 +32,7 @@ Si quisiéramos modificar, introducir o comprobar los fichajes por fechas, iremo
 
 Se abre una ventana con posibles filtros para generar listados generales o particulares de operarios 
 
-![](../.gitbook/assets/image%20%28524%29.png)
+![](../.gitbook/assets/image%20%28526%29.png)
 
 Y al pulsar "Aceptar" a los filtros seleccionados se abre un listado de operaciones donde aparecerán el conjunto de operaciones relacionadas con ORs, operaciones de taller y con un doble clic podremos crear nuevas [operaciones de taller ](../manuales/taller/operaciones-de-taller.md)por operario / día determinado
 

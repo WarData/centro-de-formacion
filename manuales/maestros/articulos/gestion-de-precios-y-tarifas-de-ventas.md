@@ -116,7 +116,7 @@ Imaginemos que hemos definido para un artículo sus artículos dependientes que 
 
 **Consultas de condiciones de ventas**
 
-![](../../../.gitbook/assets/image%20%28396%29.png)
+![](../../../.gitbook/assets/image%20%28397%29.png)
 
 Para facilitar la consulta de los posibles precios de un artículo contamos con una utilidad en el formulario del artículo: la consulta de precios. Al pulsar ese botón el programa calculará según todas las condiciones de ventas que pueden afectar al artículo su precio final y las presentará en el orden en el que hemos indicado que se calculan en los documentos.
 

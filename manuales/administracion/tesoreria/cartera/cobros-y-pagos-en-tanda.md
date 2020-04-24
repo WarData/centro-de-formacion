@@ -6,7 +6,7 @@ Esta operativa comienza por definir en parámetros las cuentas contables para la
 
 * Parámetros – Administración - contables
 
-![](../../../../.gitbook/assets/image%20%28404%29.png)
+![](../../../../.gitbook/assets/image%20%28405%29.png)
 
 Una vez definidos estos parámetros la operativa es igual para cobros y pagos. Vamos a detallar a continuación cómo se utiliza esta opción desde la cartera de cobros, entendiéndose que es idéntica la operativa para la cartera de pagos.
 
