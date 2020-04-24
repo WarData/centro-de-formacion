@@ -8,11 +8,11 @@ Para el cálculo del precio de compras se utiliza la tarifa de compras en base a
 
 El programa se puede parametrizar para que cuando en un albarán de compras cambie el precio de un producto se haga lo siguiente en la tarifa de compras del artículo:
 
-·         Actualizar la tarifa automáticamente
+                 o   Actualizar la tarifa automáticamente
 
-·         Preguntar al usuario: esto presentará el formulario de tarifa de compras del artículo con los nuevos precios calculados dando opción a que el usuario decida si es una modificación definitiva sobre el artículo o no.
+                 o   Preguntar al usuario: esto presentará el formulario de tarifa de compras del artículo con los nuevos precios calculados dando opción a que el usuario decida si es una modificación definitiva sobre el artículo o no.
 
-·         No hacer nada: el precio de compras de los artículos nunca se cambiará desde el albarán de compras, habrá que entrar manualmente en la ficha para modificarlo.
+                 o   No hacer nada: el precio de compras de los artículos nunca se cambiará desde el albarán de compras, habrá que entrar manualmente en la ficha para modificarlo.
 
 Para una gestión automatizada de los precios de ventas se aconseja no definir manualmente ningún precio de venta sino establecer una regla para su cálculo de manera que cuando cambie el precio de compra se modificará automáticamente el precio de venta del producto.
 
@@ -30,13 +30,13 @@ En Winmotor gestionamos los precios de venta de los artículos de manera que son
 
 Para la gestión de precios utilizamos las líneas de condiciones que se aplican luego en distintas fichas que veremos más abajo. Las líneas de condiciones se pueden definir según uno de estos criterios:
 
-·         Tipo de producto
+                o   Tipo de producto
 
-·         Marca
+                o   Marca
 
-·         Familia
+                o   Familia
 
-·         Artículo
+                o   Artículo
 
 En una línea de condición sólo se puede utilizar uno de estos criterios, es decir, sólo podremos rellenar un campo excepto para el caso de familia y marca que si se pueden usar combinadas y prevalecerán sobre una condición definida para la familia o la marca como se explica más abajo.
 
@@ -52,9 +52,9 @@ Las líneas de tarifas se pueden definir en distintas opciones del programa que 
 
 Las tarifas definen una serie de condiciones de venta \(líneas de tarifas\) que se aplicarán sobre los clientes que tengan aplicada en su ficha dicha tarifa. La asignación de tarifa a un cliente se puede hacer de dos formas:
 
-·         Tarifa directa: rellenando el campo tarifa en la ficha del cliente
+               o   Tarifa directa: rellenando el campo tarifa en la ficha del cliente
 
-·         Tarifa por tipo de producto: pulsando el botón correspondiente que aparece en la pestaña “comerciales” de la ficha del cliente podremos asignar a un mismo cliente una tarifa por cada tipo de producto.
+               o   Tarifa por tipo de producto: pulsando el botón correspondiente que aparece en la pestaña “comerciales” de la ficha del cliente podremos asignar a un mismo cliente una tarifa por cada tipo de producto.
 
 También se puede definir una tarifa para una o varias “clases” de clientes. La clase es un clasificador de clientes que si se deja vinculado a una tarifa provocará que al aplicar una clase a un cliente se asigne por defecto la tarifa de la clase.
 
@@ -72,7 +72,7 @@ Las condiciones especiales de un cliente prevalecerán sobre su tarifa, por lo t
 
 **Ofertas**
 
-![](../../../.gitbook/assets/image%20%28355%29.png)
+![](../../../.gitbook/assets/image%20%28356%29.png)
 
 Una oferta es un documento especial con una fecha de caducidad. La oferta se define con el mismo formulario de líneas de tarifas que utilizamos en los documentos anteriores pero la oferta prevalece sobre cualquier condición definida para un producto o grupo de productos. Es decir, si en una tarifa hemos definido un descuento para una familia “X” y utilizamos esa misma familia en una oferta, las condiciones aquí definidas prevalecerán sobre la tarifa o las condiciones especiales de un cliente. Como excepción a esta norma hay que tener en cuenta que si un cliente tiene marcado en su ficha que su tarifa es “de exclusividad” no se tendrán en cuenta para él las condiciones definidas en ofertas.
 
@@ -94,15 +94,15 @@ En cualquiera de estos documentos un mismo artículo puede estar afectado por m�
 
 El criterio de la aplicación para aplicar la tarifa es el inverso al orden en el que se presentan los datos en las líneas de tarifas, es decir:
 
-·         Artículo
+               o   Artículo
 
-·         Familia y marca
+               o   Familia y marca
 
-·         Familia
+               o   Familia
 
-·         Marca
+               o   Marca
 
-·         Tipo de producto
+               o   Tipo de producto
 
 O sea, una condición definida específicamente para un artículo prevalecerá sobre una condición para una familia y marca, una por familia prevalecerá sobre una condición de marca y en último lugar se evaluará la condición del tipo de producto.
 
@@ -116,7 +116,7 @@ Imaginemos que hemos definido para un artículo sus artículos dependientes que 
 
 **Consultas de condiciones de ventas**
 
-![](../../../.gitbook/assets/image%20%28395%29.png)
+![](../../../.gitbook/assets/image%20%28396%29.png)
 
 Para facilitar la consulta de los posibles precios de un artículo contamos con una utilidad en el formulario del artículo: la consulta de precios. Al pulsar ese botón el programa calculará según todas las condiciones de ventas que pueden afectar al artículo su precio final y las presentará en el orden en el que hemos indicado que se calculan en los documentos.
 

@@ -17,7 +17,7 @@ La operativa es:
 * Para añadir cuentas a la preasignación, como indicamos en el primer punto, seleccionamos una o varias cuentas en el listado de la izquierda y pulsamos en el botón inferior \(ver imagen\) para añadir al listado de la derecha, que serán las cuentas activas con esta nueva opción.
 * La activación es inmediata.
 
-![](../../../../.gitbook/assets/image%20%28320%29.png)
+![](../../../../.gitbook/assets/image%20%28321%29.png)
 
 
 

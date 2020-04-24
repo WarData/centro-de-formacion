@@ -4,7 +4,7 @@
 
  La rejilla es un objeto que sirve para presentar listas de registros de las tablas. Está compuesta por una serie de celdas distribuidas en forma de filas y columnas. Una fila se corresponde con un registro de una tabla y una columna con un campo de la tabla. Una celda, por tanto, permitirá mostrar un dato concreto de un registro concreto de la tabla.
 
-![](../.gitbook/assets/image%20%28475%29.png)
+![](../.gitbook/assets/image%20%28476%29.png)
 
 ## ¿Qué puedo hacer en las rejillas?
 
@@ -16,7 +16,7 @@ Invierte el orden de los registros de la lista usando para ello el campo por el 
 
 Ejemplo: si se dispara una búsqueda por el índice nombre, el resultado será la lista ordenada alfabéticamente en orden ascendente. Si se invierte la lista, ésta será reordenada alfabéticamente en orden descendente.
 
-### [Filtros](../tutoriales/uso-de-los-nuevos-filtros-rapidos.md) <a id="selecci&#xF3;n-m&#xFA;ltiple-de-registros-multiselecci&#xF3;n"></a>
+### [Filtros](../tutoriales/uso-de-los-nuevos-filtros-rapidos/) <a id="selecci&#xF3;n-m&#xFA;ltiple-de-registros-multiselecci&#xF3;n"></a>
 
 Este submenú incluye una serie de opciones para filtrar una lista, es decir, para quitar de la lista aquellos registros que no cumplan una determinada condición.
 
