@@ -14,6 +14,6 @@ Si estamos en una lista de cabecera de documentos nos aparecerán estos:
 
 En una lista de líneas de documentos aparecerán:
 
-*  Por palabras del concepto 
+* Por palabras del concepto 
 * Entre precios
 
