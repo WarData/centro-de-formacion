@@ -2,7 +2,7 @@
 
 Para una gestión automatizada de los precios de ventas se aconseja no definir manualmente ningún precio de venta sino establecer una regla para su cálculo de manera que cuando cambie el precio de compra se modificará automáticamente el precio de venta del producto.
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../.gitbook/assets/image%20%28112%29.png)
 
 Estas reglas se pueden definir en su opción correspondiente en el menú de Submaestros &gt; Artículos &gt; “Fórmulas PVP” o manualmente desde una ficha de familia o de artículo. Si definimos en una familia una “fórmula para el cálculo del pvp” ésta se aplicará automáticamente a los artículos a los que se asigne dicha familia.
 
