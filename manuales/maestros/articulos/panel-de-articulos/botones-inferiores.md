@@ -6,7 +6,7 @@
 
 Tras pulsar en "F1 imprimir" nos mostrará el listado siguiente con los artículos filtrados y con la capacidad de variar el formato de impresión, así como características de la impresión:
 
-![](../../../../.gitbook/assets/image%20%28483%29.png)
+![](../../../../.gitbook/assets/image%20%28484%29.png)
 
                 o   _Imprimir informe:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
 

@@ -2,9 +2,9 @@
 
 Con esta opción accederemos a un menú donde podremos grabar las diferentes zonas de venta en las que trabaja el concesionario. A cada vendedor le podemos asociar una zona determinada, siendo ésta determinada por unos clientes concretos o unos códigos postales por provincia.
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28483%29.png)
 
-* En el lateral izquierdo se presentan las zonas dadas de alta indicando código y nombre
+* En el lateral izquierdo se presentan las zonas dadas de alta indicando código y nombre de forma arbolada
 * Botones superiores:
 
                      o   F1 Nueva Zona: Permite dar de alta una zona y asignarla directamente a un vendedor y determinados clientes y/o códigos postales

@@ -16,9 +16,9 @@ Para poder activarla según vuestras necesidades, tenéis que seguir este proced
 
 2.- De las opciones del panel derecho, seleccionamos las que necesitemos un acceso directo desde la barra de favoritos y pulsamos en la flecha hacia la izquierda que hay situada en el centro, entre los 2 paneles \(a la izquierda panel de opciones favoritas incluidas y a la derecha panel de opciones disponibles\):
 
-![](../.gitbook/assets/image%20%28503%29.png)
+![](../.gitbook/assets/image%20%28504%29.png)
 
-![](../.gitbook/assets/image%20%28531%29.png)
+![](../.gitbook/assets/image%20%28532%29.png)
 
 En este paso, pulsamos en guardar una vez hayamos seleccionado nuestros favoritos y pasamos al siguiente punto.
 
@@ -38,7 +38,7 @@ Aparece la nueva barra de herramientas que, al igual que el resto de barras, pod
 
 ![](../.gitbook/assets/image%20%28469%29.png)
 
-![](../.gitbook/assets/image%20%28544%29.png)
+![](../.gitbook/assets/image%20%28545%29.png)
 
 Cerrar la barra de favoritos con la X o desde el menú de las barras \(botón derecho\) y volver a activar la opción para refrescar los cambios en las opciones.
 
