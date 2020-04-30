@@ -2,7 +2,7 @@
 
 Desde esta pestaña podremos configurar el envío de datos referentes al artículo hacia la web, así como su activación en web, descatalogar, venta sin stock, ofertas...
 
-![](../../../../.gitbook/assets/image%20%28232%29.png)
+![](../../../../.gitbook/assets/image%20%28235%29.png)
 
 * **Pestaña Datos - Textos:** 
 

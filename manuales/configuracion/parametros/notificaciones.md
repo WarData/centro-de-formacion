@@ -8,5 +8,5 @@ description: Falta manual > FAQ disponible
 
 Notificaciones por email a usuario y tipo:
 
-![](../../../.gitbook/assets/image%20%28171%29.png)
+![](../../../.gitbook/assets/image%20%28173%29.png)
 

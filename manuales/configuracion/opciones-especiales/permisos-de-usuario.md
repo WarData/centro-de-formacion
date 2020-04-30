@@ -4,29 +4,29 @@ Los permisos se definen en los perfiles de usuarios. **A cada usuario solo se le
 
 Localizamos la opción "Perfiles" dentro de Configuración  &gt; Opciones Especiales:
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../.gitbook/assets/image%20%28112%29.png)
 
 Entramos en el listado de los diferentes perfiles y pulsamos botón derecho del ratón y pulsamos en "Alta de Perfil" para crear uno nuevo:
 
-![](../../../.gitbook/assets/image%20%28243%29.png)
+![](../../../.gitbook/assets/image%20%28246%29.png)
 
 Daremos de alta un perfil para "TA - Taller" de nivel medio:
 
-![](../../../.gitbook/assets/image%20%2894%29.png)
+![](../../../.gitbook/assets/image%20%2896%29.png)
 
 Ahora, con un doble clic en el perfil "TA - Taller" abriremos la edición de las opciones y permisos para todos los usuarios a los que indiquemos que tienen perfil "TA - Taller":
 
-![](../../../.gitbook/assets/image%20%28272%29.png)
+![](../../../.gitbook/assets/image%20%28275%29.png)
 
 Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa \(permisos\), opciones especiales como bloqueos de precios de venta, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto, etc...
 
-![Especiales](../../../.gitbook/assets/image%20%28297%29.png)
+![Especiales](../../../.gitbook/assets/image%20%28301%29.png)
 
-![Series de documentos por defecto para el perfil](../../../.gitbook/assets/image%20%28458%29.png)
+![Series de documentos por defecto para el perfil](../../../.gitbook/assets/image%20%28462%29.png)
 
 Para incluir un usuario en un perfil, tan solo tendremos que entrar en la **entidad - usuario &gt; pestaña configuración de usuario &gt; seleccionamos el perfil en la siguiente línea:**
 
-![](../../../.gitbook/assets/image%20%28485%29.png)
+![](../../../.gitbook/assets/image%20%28489%29.png)
 
 La tabla de perfiles es "arbolada", por lo que podremos ordenar estos usando la nomenclatura del árbol como inicial y las ramas usarán dicha nomenclatura, añadiéndole como mínimo un carácter más.
 
@@ -36,7 +36,7 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/image%20%28356%29.png)
+![](../../../.gitbook/assets/image%20%28360%29.png)
 
 \*\*\* Permisos específicos:
 
@@ -65,7 +65,7 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/image%20%2887%29.png)
+![](../../../.gitbook/assets/image%20%2889%29.png)
 
 \*\*\* Permisos específicos
 
@@ -76,5 +76,5 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/image%20%28525%29.png)
+![](../../../.gitbook/assets/image%20%28529%29.png)
 
