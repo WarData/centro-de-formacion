@@ -20,9 +20,9 @@ Dentro de la pestaña de Gestión nos encontramos con 6 pestañas de configuraci
 
 * **Cuadro de mandos** \(menú exclusivo para esta opción\)
 
-![](../../../.gitbook/assets/image%20%28402%29.png)
+![](../../../.gitbook/assets/image%20%28405%29.png)
 
 * **Maestros genéricos** \(configuración avanzada de maestros\)
 
-![](../../../.gitbook/assets/image%20%28304%29.png)
+![](../../../.gitbook/assets/image%20%28305%29.png)
 

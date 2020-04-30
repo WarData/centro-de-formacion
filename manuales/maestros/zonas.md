@@ -4,3 +4,20 @@ Con esta opción accederemos a un menú donde podremos grabar las diferentes zon
 
 ![](../../.gitbook/assets/image%20%28119%29.png)
 
+* En el lateral izquierdo se presentan las zonas dadas de alta indicando código y nombre
+* Botones superiores:
+
+                     o   F1 Nueva Zona: Permite dar de alta una zona y asignarla directamente a un vendedor y determinados clientes y/o códigos postales
+
+![](../../.gitbook/assets/image%20%28351%29.png)
+
+                    o   F2 Buscar Zona: localizador de zona por los índices "Código", "Alfabético", "Palabras", "Trozos de palabras" y "Vendedor"
+
+![](../../.gitbook/assets/image%20%28299%29.png)
+
+                      o   F3 Listar Zonas: genera un listado sobre el que poder usar las opciones disponibles como Navegante o Exportador Avanzado
+
+![](../../.gitbook/assets/image%20%28393%29.png)
+
+* En la parte central podemos obtener la rejilla con entidades o códigos postales de la zona para poder añadir las entidades a [Mailings](../../tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md) existentes, crear uno directamente desde los botones inferiores o imprimirla.
+

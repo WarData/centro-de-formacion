@@ -8,5 +8,5 @@
 
                 o   _Regla de Rotación:_ al pulsar el botón se muestra la siguiente ventana emergente en la cual se permite configurar mediante una fórmula la condición para tipos de artículo, marca, familia, artículo o servicio o MGV \(Marca - Gama - Versión\), así como la cantidad de días que se realizará la lectura.
 
-![](../../../../.gitbook/assets/image%20%28385%29.png)
+![](../../../../.gitbook/assets/image%20%28387%29.png)
 

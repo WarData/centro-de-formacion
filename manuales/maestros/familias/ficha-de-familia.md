@@ -16,7 +16,7 @@
 
                                  **o   Pestaña "Tarifas":** 
 
-![](../../../.gitbook/assets/image%20%28384%29.png)
+![](../../../.gitbook/assets/image%20%28386%29.png)
 
                                **o   Pestaña "Archivos":** [véase - Archivos](../articulos/ficha-del-articulo/archivos.md) - esta pestaña es común al resto de fichas de la aplicación \(fichas de entidad, OR, documentos como albaranes, facturas, etc...\) y su función igualmente similar, **permite adjuntar y almacenar en el servidor cualquier tipo de archivo para, posteriormente, poderlo visualizar o descargar directamente del servidor donde se almacena la aplicación Winmotor.**
 

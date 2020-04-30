@@ -24,7 +24,7 @@ Dado que la generación del certificado y la clave privada desde el archivo .PEM
 
 **b.-** En el momento del alta de uno de estos tipos de entidades la aplicación verificará con la AEAT que están registrados. Para el caso de particulares la AEAT verifica el NIF y el nombre dado que la ley de protección de datos así lo exige, pero para el caso de sociedades sólo verifica el NIF. En caso de que estemos dando de alta una sociedad y el nombre fiscal registrado en la aplicación sea distinto del que está registrado en la AEAT el programa lo modificará automáticamente.
 
-![\* Figura 2 &#x2013; Alta de entidad](../../../.gitbook/assets/image%20%28423%29.png)
+![\* Figura 2 &#x2013; Alta de entidad](../../../.gitbook/assets/image%20%28426%29.png)
 
   
 **c.-** El uso del botón “Verificar DNI/CIF” es opcional por si queremos consultar; el programa hará la verificación automática en el momento de aceptar el alta de la ficha.
@@ -57,7 +57,7 @@ Todo el sistema de consultas y listados del SII está en un menú especial al qu
 
 Una factura con errores se puede volver a enviar al SII desde este listado seleccionándola y utilizando el botón “SII – Envío de facturas”
 
-![\* Figura 5 &#x2013; Listado de facturas desde el men&#xFA; SII](../../../.gitbook/assets/image%20%28394%29.png)
+![\* Figura 5 &#x2013; Listado de facturas desde el men&#xFA; SII](../../../.gitbook/assets/image%20%28397%29.png)
 
 Realmente hay que entender que estas opciones no son de uso normal sino para circunstancias especiales en las que ha habido algún problema con alguna factura por lo que en estos casos siempre se tendrá ayuda de personal de Winmotor, al menos en el período de puesta en marcha del sistema.
 

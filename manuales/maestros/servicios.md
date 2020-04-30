@@ -4,7 +4,7 @@ description: Campos Especiales en las Fichas de Servicios
 
 # Servicios
 
-![](../../.gitbook/assets/image%20%28327%29.png)
+![](../../.gitbook/assets/image%20%28328%29.png)
 
 Dentro de la ficha de un servicio encontramos una serie de “checks” que tienen una utilidad específica dentro del programa. Pasamos a detallarlos:
 
@@ -64,7 +64,7 @@ Dentro de la ficha de un servicio encontramos una serie de “checks” que tien
 
 **o   Pestaña Líneas de facturas de compras:** muestra la rejilla de documentos de compra indicando entidad, fecha, unidades y parcial de servicios.
 
-![](../../.gitbook/assets/image%20%28451%29.png)
+![](../../.gitbook/assets/image%20%28454%29.png)
 
 **o   Pestaña Auditoría:** Permite controlar la creación del documento / ficha y la última modificación \(usuarios\). Además, se ha incorporado el control log de cada ficha que contenga la pestaña "Auditoría" que muestra el historial de modificaciones por parte de usuarios con fecha / hora / operación y acción realizada.
 

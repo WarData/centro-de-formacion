@@ -4,13 +4,13 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 * **Generales** \(conceptos generales de cobro, apertura de caja...IVA y pago por defecto al crear entidades nuevas, etc...\)
 
-![](../../../.gitbook/assets/image%20%28416%29.png)
+![](../../../.gitbook/assets/image%20%28419%29.png)
 
 * **Contables** \(a su vez incluye 5 pestañas de configuración\)
 
 1.- General \(enlazada o integrada en Winmotor, cuentas, último cierre, opciones de contabilización básica...\)
 
-![](../../../.gitbook/assets/image%20%28537%29.png)
+![](../../../.gitbook/assets/image%20%28540%29.png)
 
 2.- Impuestos \(cuentas contables IVA - IVA soportado por cada cuenta / interés\)
 
@@ -18,7 +18,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 3.- IRPF \(configuración de cuota / cuenta del IRPF\)
 
-![](../../../.gitbook/assets/image%20%28329%29.png)
+![](../../../.gitbook/assets/image%20%28330%29.png)
 
 4.- Impuesto de matriculación \(cuentas de los distintos tipos de impuestos de matriculación\)
 
@@ -26,7 +26,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 5.- Cuentas por tipo de producto
 
-![](../../../.gitbook/assets/image%20%28455%29.png)
+![](../../../.gitbook/assets/image%20%28458%29.png)
 
 * **Impuestos** \(panel de configuración de todos los impuestos aplicables en la aplicación\)
 
@@ -38,11 +38,11 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 * **Listado analítico de tesorería**
 
-![](../../../.gitbook/assets/image%20%28313%29.png)
+![](../../../.gitbook/assets/image%20%28314%29.png)
 
 * Cierres fiscales \(ver [AQUÍ &gt; Configuración de Cierres Fiscales](../../administracion/enlace-contable/cierres-fiscales.md)\)
 
-![](../../../.gitbook/assets/image%20%28436%29.png)
+![](../../../.gitbook/assets/image%20%28439%29.png)
 
 
 
