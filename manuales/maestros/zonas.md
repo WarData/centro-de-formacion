@@ -11,6 +11,14 @@ Con esta opción accederemos a un menú donde podremos grabar las diferentes zon
 
 ![](../../.gitbook/assets/image%20%28351%29.png)
 
+                               **CÓDIGO:** es un campo obligatorio y alfanumérico que nos servirá para identificar a cada zona. Para seguir un orden arbolado, es aconsejable utilizar el código postal para identificar la zona. De tal manera que a Sevilla, por ejemplo, le pondríamos como código el 41, a Alcalá de Guadaira, el 41500, a Madrid el 28, etc.
+
+                                **NOMBRE:** descripción de la zona.
+
+                                **VENDEDOR:** se podrá definir un vendedor por defecto por zona. Cada campo contiene botones incrustados para poder localizar y editar más fácilmente un vendedor.
+
+                                 Para guardar la ficha creada, utilizaremos el botón **Aceptar**, y si queremos salir sin guardarla pulsaremos sobre **Cancelar**.
+
                     o   F2 Buscar Zona: localizador de zona por los índices "Código", "Alfabético", "Palabras", "Trozos de palabras" y "Vendedor"
 
 ![](../../.gitbook/assets/image%20%28299%29.png)
