@@ -2,7 +2,7 @@
 
 Muestran las características concretas o diferenciadoras del artículo, ya sean a nivel general o formando parte de los componentes de algún modelo concreto de vehículo.
 
-![](../../../../.gitbook/assets/image%20%28258%29.png)
+![](../../../../.gitbook/assets/image%20%28259%29.png)
 
 * **Pestaña Generales:** encontramos en esta pestaña la opción de determinar número de unidades que forman el pack de compras o ventas para un control más exhaustivo del artículo, equivalencia de referencias, medidas generales del packaging / embalaje, intrastad y cánones de residuos.
 

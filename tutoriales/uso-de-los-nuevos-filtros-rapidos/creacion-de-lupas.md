@@ -12,7 +12,7 @@ Si estamos en una lista de cabecera de documentos nos aparecerán estos filtros 
 
 * Por palabras entidad
 
-![](../../.gitbook/assets/image%20%28405%29.png)
+![](../../.gitbook/assets/image%20%28408%29.png)
 
 * Entre fechas
 
@@ -20,9 +20,9 @@ Si estamos en una lista de cabecera de documentos nos aparecerán estos filtros 
 
 * Por Tipo de pago
 
-![](../../.gitbook/assets/image%20%28401%29.png)
+![](../../.gitbook/assets/image%20%28404%29.png)
 
-![](../../.gitbook/assets/image%20%28302%29.png)
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 En una lista de líneas de documentos o dentro de un documento \(cualquier de sus líneas\) aparecerán estos filtros / localizadores:
 

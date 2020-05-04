@@ -8,11 +8,11 @@ La marca es, pues, el signo distintivo usado por el empresario para diferenciar 
 
 La opción nos permite comprobar las marcas existentes o crear una mediante los botones inferiores o doble clic en la rejilla:
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28271%29.png)
 
 * Dar de alta una marca nos presenta la siguiente ventana emergente:
 
-![](../../.gitbook/assets/image%20%28482%29.png)
+![](../../.gitbook/assets/image%20%28485%29.png)
 
               ****o   CÓDIGO: campo alfanumérico, que habrá que rellanar manualmente y nos sirve para identificar la marca
 
@@ -24,9 +24,9 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
               o   Pestañas:
 
-                            o   Datos:
+                            **o   Datos:**
 
-![](../../.gitbook/assets/image%20%28482%29.png)
+![](../../.gitbook/assets/image%20%28485%29.png)
 
                                            o   Meses de garantía:
 
@@ -42,11 +42,21 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
                                            o   Tramitación de fichas técnicas \(Firma autorizada registro fabricante - editor de imágenes\):
 
-                            o   Imagen / Observaciones:
+                            **o   Imagen / Observaciones:**
 
-                            o   Comisiones marcas:
+![](../../.gitbook/assets/image%20%28293%29.png)
 
-                            o   Tipos de producto:
+                            **o   Comisiones marcas:**
 
-                            o   Consumo:
+![](../../.gitbook/assets/image%20%28262%29.png)
+
+                            **o   Tipos de producto:**
+
+![](../../.gitbook/assets/image%20%28504%29.png)
+
+                            **o   Consumo:**
+
+![](../../.gitbook/assets/image%20%28158%29.png)
+
+
 

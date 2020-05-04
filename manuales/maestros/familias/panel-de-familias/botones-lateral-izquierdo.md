@@ -22,7 +22,7 @@
 
                 o   _Buscar Familia:_ Localizador de familias a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una familia. La rejilla de este localizador nos permite discriminar entre búsqueda de familia de artículos o familia de servicios. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../../../.gitbook/assets/image%20%28291%29.png)
+![](../../../../.gitbook/assets/image%20%28294%29.png)
 
 Al seleccionar una familia y pulsar el botón "Aceptar" mostrará una nueva ventana emergente con la ficha de la familia seleccionada:
 
@@ -30,7 +30,7 @@ Al seleccionar una familia y pulsar el botón "Aceptar" mostrará una nueva vent
 
                     o   _Listar Familias:_ muestra el siguiente filtro
 
-![](../../../../.gitbook/assets/image%20%28483%29.png)
+![](../../../../.gitbook/assets/image%20%28486%29.png)
 
 ![Listado de servicios](../../../../.gitbook/assets/image%20%2850%29.png)
 
