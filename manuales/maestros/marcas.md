@@ -28,7 +28,19 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
 ![](../../.gitbook/assets/image%20%28482%29.png)
 
-                                         o   
+                                           o   Meses de garantía:
+
+                                           o   Número de dígitos de bastidor:
+
+                                           o   Meses ITV:
+
+                                           o   Facturas de Venta / Abonos en Compras:
+
+                                           o   Entregan los recambios sin costo \(check "Precio de mano de obra por hora"\):
+
+                                           o   Proveedor preferente:
+
+                                           o   Tramitación de fichas técnicas \(Firma autorizada registro fabricante - editor de imágenes\):
 
                             o   Imagen / Observaciones:
 
