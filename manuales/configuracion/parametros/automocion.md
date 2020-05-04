@@ -8,7 +8,7 @@ Opciones asignadas a Marcas, Series, imputaciones de cargo interno, generación 
 
 **Pestaña Certificados:**
 
-![](../../../.gitbook/assets/image%20%28355%29.png)
+![](../../../.gitbook/assets/image%20%28356%29.png)
 
 **Pestaña Agenda de Taller** \(planning Recursos Humanos\):
 

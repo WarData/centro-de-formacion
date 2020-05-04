@@ -84,7 +84,7 @@ Accediendo a la pestaña “Rotación/consumos” de la ficha del artículo vere
 
 Desde el menú de artículos accedemos al panel de **Rotación y consumos**  mediante la opción que aparece a tal efecto.
 
-![](../../../.gitbook/assets/image%20%28502%29.png)
+![](../../../.gitbook/assets/image%20%28504%29.png)
 
 En el panel se presentarán las distintas clasificaciones de los artículos en base a sus consumos:
 

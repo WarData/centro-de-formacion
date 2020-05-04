@@ -14,7 +14,7 @@ La operativa para crear un cierre fiscal es accediendo al formulario de parámet
 
 ![](../../../.gitbook/assets/image%20%28130%29.png)
 
-![](../../../.gitbook/assets/image%20%28280%29.png)
+![](../../../.gitbook/assets/image%20%28281%29.png)
 
 En la gestión de fichas de cierres hay que tener en cuenta:
 
@@ -26,11 +26,11 @@ En la gestión de fichas de cierres hay que tener en cuenta:
 
 En el panel de inicio del programa aparece ahora a la derecha del nombre de la empresa la fecha del último cierre fiscal como dato recordatorio. En caso de no haber ningún cierre aparecerá la fecha de inicio de la base de datos:
 
-![](../../../.gitbook/assets/image%20%28505%29.png)
+![](../../../.gitbook/assets/image%20%28507%29.png)
 
 Al presentar una factura o asiento contable de fecha anterior al último cierre aparecerá ahora un candado rojo indicando que está bloqueado:
 
-![](../../../.gitbook/assets/image%20%28382%29.png)
+![](../../../.gitbook/assets/image%20%28383%29.png)
 
 Lógicamente se han bloqueado no sólo los propios formularios para imposibilitar la modificación, sino cualquier opción que pueda afectar al período \(facturación de albaranes, contabilización de facturas, etc...\).
 

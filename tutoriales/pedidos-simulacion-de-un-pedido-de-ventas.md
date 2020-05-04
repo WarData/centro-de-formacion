@@ -23,17 +23,17 @@ Una vez añadidas las líneas y/o conceptos al pedido pulsamos en el botón infe
 
 El pedido de ventas queda en situación "Pendiente de recibir / Pendiente de entregar":
 
-![](../.gitbook/assets/image%20%28281%29.png)
+![](../.gitbook/assets/image%20%28282%29.png)
 
 Si el pedido de ventas contenía algún artículo o artículos sin stock, Winmotor genera automáticamente el **pedido de compras** **a cada proveedor si no había ninguno ya existente sin tramitar \(si antes de confirmar el pedido de ventas ya existiera un pedido de compras al mismo proveedor del que el cliente solicita artículo sin stock, el sistema añadirá dicha pieza al pedido de compras existente\):**
 
-![Vista de pedidos generados tras pulsar &quot;Si&quot; en la ventana de confirmaci&#xF3;n anterior](../.gitbook/assets/image%20%28494%29.png)
+![Vista de pedidos generados tras pulsar &quot;Si&quot; en la ventana de confirmaci&#xF3;n anterior](../.gitbook/assets/image%20%28496%29.png)
 
 Desde la pantalla anterior podemos abrir el pedido de compras generado por el artículo sin stock del pedido de ventas. **Es un pedido de compras SIN CONFIRMAR por lo que, otras líneas de pedidos de ventas u ORs al mismo proveedor y/o líneas adicionales para stock, se irán sumando hasta que se confirme el pedido de compras:**
 
 ![En esta situaci&#xF3;n se pueden a&#xF1;adir m&#xE1;s art&#xED;culos al pedido](../.gitbook/assets/image%20%281%29.png)
 
-![Confirmaci&#xF3;n de la tramitaci&#xF3;n](../.gitbook/assets/image%20%28388%29.png)
+![Confirmaci&#xF3;n de la tramitaci&#xF3;n](../.gitbook/assets/image%20%28389%29.png)
 
 Al tramitar, Winmotor nos permite enviarle al proveedor \(requiere configuración y que el proveedor disponga del sistema necesario para tramitar el documento\) un archivo con las líneas del pedido.
 
@@ -55,17 +55,17 @@ Tras seleccionar el método de recepción de pedidos que mejor se adapte, el sis
 
 Pulsamos en "Crear albarán", dando por recepcionado el total del pedido \(podremos generar tantos albaranes como sean necesarios hasta dar el pedido de compras por completado, mientras, quedará en situación parcialmente recepcionado.
 
-![Albar&#xE1;n de compras](../.gitbook/assets/image%20%28461%29.png)
+![Albar&#xE1;n de compras](../.gitbook/assets/image%20%28462%29.png)
 
 Existe un método para anular líneas cuando el albarán está confirmado en el siguiente enlace: [anular línea o líneas de un albarán de compras confirmado](albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
 
 Sobre el albarán obtenemos información sobre el pedido de ventas origen fácilmente, simplemente pulsando sobre el botón "Ventas relacionadas":
 
-![](../.gitbook/assets/image%20%28501%29.png)
+![](../.gitbook/assets/image%20%28503%29.png)
 
 Desde esta ventana podremos avisar al cliente mediante un SMS con un formato predefinido o uno de forma manual. Además, en la parte superior nos indica que esta pieza completa el pedido de ventas, podemos entregar todo el material.
 
-![](../.gitbook/assets/image%20%28487%29.png)
+![](../.gitbook/assets/image%20%28489%29.png)
 
 En el pedido de ventas podremos entregar los artículos reservados de stock y/o reservados por los pedidos de compras recepcionados pulsando en el botón "Entregar":
 
