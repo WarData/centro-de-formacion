@@ -20,6 +20,8 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
               o   Casilla "Marca Representada"
 
+              o   Casilla "Activa":
+
               o   Pestañas:
 
                             o   Datos:
