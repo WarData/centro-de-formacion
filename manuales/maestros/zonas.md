@@ -19,7 +19,7 @@ Con esta opción accederemos a un menú donde podremos grabar las diferentes zon
 
                                  Para guardar la ficha creada, utilizaremos el botón **Aceptar**, y si queremos salir sin guardarla pulsaremos sobre **Cancelar**.
 
-                    o   F2 Buscar Zona: localizador de zona por los índices "Código", "Alfabético", "Palabras", "Trozos de palabras" y "Vendedor"
+                     o   F2 Buscar Zona: localizador de zona por los índices "Código", "Alfabético", "Palabras", "Trozos de palabras" y "Vendedor"
 
 ![](../../.gitbook/assets/image%20%28299%29.png)
 
