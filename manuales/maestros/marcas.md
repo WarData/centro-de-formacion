@@ -14,17 +14,21 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
 ![](../../.gitbook/assets/image%20%28482%29.png)
 
-              ****o   CÓDIGO: es un campo alfanumérico, que habrá que rellanar manualmente y nos sirve para identificar la marca
+              ****o   CÓDIGO: campo alfanumérico, que habrá que rellanar manualmente y nos sirve para identificar la marca
 
               o   Nombre: descripción de la marca o identificación
 
-              o   _Check_ "Marca Representada":
+              o   _Check_ "Marca Representada": define si la empresa representa a la marca a nivel concesionario si está activado o, en caso contrario, la empresa dispondrá únicamente de servicios y venta de productos
 
-              o   _Check_ Activa: cuando tiene activado el check, la marca está activa y por tanto aparece en los listados y es posible su uso, en caso contrario se desactiva.
+              o   _Check_ Activa: cuando tiene activado el check, la marca está activa y por tanto aparece en los listados y es posible su uso, en caso contrario se desactiva
 
               o   Pestañas:
 
                             o   Datos:
+
+![](../../.gitbook/assets/image%20%28482%29.png)
+
+                                         o   
 
                             o   Imagen / Observaciones:
 
