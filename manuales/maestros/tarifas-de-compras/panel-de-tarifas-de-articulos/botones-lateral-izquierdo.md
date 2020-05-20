@@ -16,3 +16,9 @@
 
                                  **o   Tipo de artículo:** sirve para poder clasificar una serie de artículos. Los grupos son creados por nuestro equipo de Winmotor según las necesidades del cliente.
 
+                                 **o   Precio tarifa:** precio bruto de compra del artículo al proveedor
+
+                                 **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
+
+                                 **o   Precio neto:** precio de compra del artículo con los descuentos aplicados. 
+
