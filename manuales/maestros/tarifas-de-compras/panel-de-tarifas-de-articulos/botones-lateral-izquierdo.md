@@ -26,3 +26,11 @@
 
                                  **o   Clase descuento:** clasificación del proveedor para identificar el descuento en función del concesionario - vendedor final \(habitualmente, pero depende del sistema de tarifa usado por el proveedor\) - suelen usarse códigos por letras o numeraciones de dos dígitos.
 
+                                 **o   Referencias alternativas:** para artículos similares con referencias distintas se presenta estos 3 campos
+
+                                 **o   Sustituida por:** campo que permite indicar la nueva referencia para aquel artículo sustituido por mejoras realizadas por la marca
+
+                                 **o   FUCO o Código función:** código que implementan marcas como Honda para el control de familias
+
+                                 **o   Creación / Modificación:** indica fecha / hora y usuario que creó el documento y quién lo modificó por última vez
+
