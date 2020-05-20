@@ -20,5 +20,9 @@
 
                                  **o   Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-                                 **o   Precio neto:** precio de compra del artículo con los descuentos aplicados. 
+                                 **o   Precio neto:** precio de compra del artículo con los descuentos aplicados.
+
+                                 **o   Tipo descuento:** clasificación del proveedor para identificar el descuento en función del tipo de artículo \(habitualmente, pero depende del sistema de tarifa usado por el proveedor\) - suelen usarse códigos por letras o numeraciones de dos dígitos.
+
+                                 **o   Clase descuento:** clasificación del proveedor para identificar el descuento en función del concesionario - vendedor final \(habitualmente, pero depende del sistema de tarifa usado por el proveedor\) - suelen usarse códigos por letras o numeraciones de dos dígitos.
 
