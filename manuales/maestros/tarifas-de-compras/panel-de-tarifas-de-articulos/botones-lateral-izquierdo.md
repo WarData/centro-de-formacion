@@ -1,6 +1,6 @@
 # Botones lateral izquierdo
 
-o   _Nuevo artículo de tarifa:_ permite dar de alta a un nuevo artículo de tarifa rellenando el siguiente formulario:
+               o   _Nuevo artículo de tarifa:_ permite dar de alta a un nuevo artículo de tarifa rellenando el siguiente formulario:
 
 ![](../../../../.gitbook/assets/image%20%28358%29.png)
 
