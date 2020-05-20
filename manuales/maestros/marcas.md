@@ -28,17 +28,17 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
 ![](../../.gitbook/assets/image%20%28485%29.png)
 
-                                           o   Meses de garantía:
+                                           o   Meses de garantía: total de meses que se aportan al producto
 
-                                           o   Número de dígitos de bastidor:
+                                           o   Número de dígitos de bastidor: total de dígitos que componen el total del bastidor, siempre en función de la marca
 
-                                           o   Meses ITV:
+                                           o   Meses ITV: número de meses a los que la Ley obliga a la inspección técnica
 
-                                           o   Facturas de Venta / Abonos en Compras:
+                                           o   Facturas de Venta / Abonos en Compras: método por el cual la marca realiza el pago de las garantías
 
-                                           o   Entregan los recambios sin costo \(check "Precio de mano de obra por hora"\):
+                                           o   Entregan los recambios sin costo \(check "Precio de mano de obra por hora"\): un método más por el cual la marca entrega los materiales sin necesidad de usar facturas de venta o abonos en compras
 
-                                           o   Proveedor preferente:
+                                           o   Proveedor preferente: indica el primer proveedor para todos los productos de los que disponga la marca
 
                                            o   Tramitación de fichas técnicas \(Firma autorizada registro fabricante - editor de imágenes\):
 
@@ -46,7 +46,7 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
 ![](../../.gitbook/assets/image%20%28293%29.png)
 
-                            **o   Comisiones marcas:**
+                            **o   Comisiones marcas:** indica por vendedor, la comisión por venta de productos de la marca
 
 ![](../../.gitbook/assets/image%20%28262%29.png)
 
@@ -54,7 +54,7 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
 ![](../../.gitbook/assets/image%20%28504%29.png)
 
-                            **o   Consumo:**
+                            **o   Consumo: resumen mensual de unidades consumidas / importe**
 
 ![](../../.gitbook/assets/image%20%28158%29.png)
 
