@@ -62,15 +62,15 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
                            **o   Modelos:** especifica los modelos incluidos en la marca
 
-![](../../.gitbook/assets/image%20%28355%29.png)
+![](../../.gitbook/assets/image%20%28356%29.png)
 
                            **o   Artículos:** especifica los artículos incluidos en la marca**,** mostrando un panel similar al de la opción "Artículos" en "Maestros" &gt; [Véase Panel de Artículos](https://winmotor.gitbook.io/project/manuales/maestros/articulos/panel-de-articulos) ****para una información detallada de las funciones de los botones inferiores
 
-![](../../.gitbook/assets/image%20%28356%29.png)
+![](../../.gitbook/assets/image%20%28359%29.png)
 
                            **o   Diagnóstico recepción de taller:**
 
-![](../../.gitbook/assets/image%20%28358%29.png)
+![](../../.gitbook/assets/image%20%28360%29.png)
 
 
 
