@@ -34,3 +34,13 @@
 
                                  **o   Creación / Modificación:** indica fecha / hora y usuario que creó el documento y quién lo modificó por última vez
 
+              o   _Buscar Artículo:_ Localizador de artículos de tarifa a través de distintos criterios. Nos permite consultar, borrar o modificar la información de un artículo de tarifa. La rejilla de este localizador nos muestra la referencia, denominación, familia, Precio Neto de compra, Precio de venta general y proveedor. Al acceder a esta opción encontraremos la siguiente pantalla:
+
+![](../../../../.gitbook/assets/image%20%28359%29.png)
+
+Este localizador nos permite buscar un artículo por los siguientes criterios:
+
+                                 **o   Referencia / Proveedor:** 
+
+                                 **o   Código:** 
+
