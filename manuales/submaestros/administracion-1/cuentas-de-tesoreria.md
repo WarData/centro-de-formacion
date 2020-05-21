@@ -20,7 +20,7 @@ Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. L
 
             o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto":
 
-            o   Canales "Efectivo" / "Tarjeta 1-2-3":
+            o   Canales "Efectivo" / "Tarjeta 1-2-3": indican el procedimiento por el cual se realiza el pago. Mediante efectivo, tarjetas, TPV de determinada entidad bancaria, etc.
 
             o   Cuentas contables \(de cada canal\):
 
