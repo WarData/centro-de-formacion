@@ -8,9 +8,59 @@ Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. L
 
 ![](../../../.gitbook/assets/image%20%28409%29.png)
 
+            o   Código:
+
+            o   Identificador:
+
+            o   Check "Activa": marca la situación de la cuenta \(activa / inactiva\)
+
+            o   Cuenta contable:
+
+            o   Tipo de cuenta:
+
+            o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto":
+
+            o   Canales "Efectivo" / "Tarjeta 1-2-3":
+
+            o   Cuentas contables \(de cada canal\):
+
+            o   Pestañas:
+
+                                o   Cierres:
+
+                                o   Perfiles:
+
+                                o   Pagarés:
+
+                                o   Auditoría:
+
 La configuración "Banco" sería:
 
 ![](../../../.gitbook/assets/image%20%28404%29.png)
 
 Se pueden añadir cuentas de tesorería tipo "Caja" con hasta 4 canales de entrada o añadir cuentas de forma independiente para cada canal, incluso cajas por departamento.
+
+            o   Código:
+
+            o   Identificador:
+
+            o   Check "Activa": marca la situación de la cuenta \(activa / inactiva\)
+
+            o   Cuenta contable:
+
+            o   Tipo de cuenta:
+
+            o   Cuenta bancaria:
+
+            o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto":
+
+            o   Pestañas:
+
+                                o   Cierres:
+
+                                o   Perfiles:
+
+                                o   Pagarés:
+
+                                o   Auditoría:
 
