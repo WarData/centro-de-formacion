@@ -1,32 +1,32 @@
 # Botones inferiores
 
-               o _Imprimir Tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará:
+               o _Filtrar:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará la siguiente ventana, donde podremos filtrar aún más la búsqueda por texto, centrada en el campo "denominación":
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4xZXpkbyw8mu6zQ544%2F-M4xage0LZuMYMtXVhWm%2Fimage.png?alt=media&token=2d4dbb07-aba0-4a6f-a774-e5ffba859336)
+![](../../../../.gitbook/assets/image%20%28367%29.png)
 
-Tras pulsar en "F1 imprimir" nos mostrará el listado siguiente con los artículos filtrados y con la capacidad de variar el formato de impresión, así como características de la impresión:
+               o _Modificar familia:_ permite cambiar la familia de todos los elementos seleccionados en la rejilla mediante el siguiente localizador_:_
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4xZXpkbyw8mu6zQ544%2F-M4xb5plsJb6S592Pg9D%2Fimage.png?alt=media&token=4680a095-6695-48f6-81b0-7458dcf14c47)
+![](../../../../.gitbook/assets/image%20%28397%29.png)
 
-                o _Imprimir informe:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará los siguientes informes disponibles para aplicar a los artículos filtrados en la rejilla:
+                o _Modificar marca:_ permite cambiar la marca de todos los elementos seleccionados en la rejilla mediante el siguiente localizador_:_
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4xbBEqAouVdKnJj5rC%2F-M4xd-9cCkIybkXAzo9L%2Fimage.png?alt=media&token=dee9357e-d98e-4d57-8e1d-cbc14e426826)
+![](../../../../.gitbook/assets/image%20%28372%29.png)
 
-Seleccionamos con doble clic el informe, mostrando la aplicación la ventana de selección de impresora para imprimirlo.
+                o _Aplicar incremento PVP:_ permite aplicar un porcentaje de incremento a los elementos seleccionados en la rejilla mediante la siguiente ventana:
 
-                o _Filtrar:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, al pulsar el botón mostrará la siguiente ventana, donde podremos filtrar aún más la búsqueda por texto, centrada en el campo "denominación":
+![](../../../../.gitbook/assets/image%20%28374%29.png)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4xeQ8yLro7SuspSraX%2F-M4xkXPuvZVbSF0tWGll%2Fimage.png?alt=media&token=badcb204-4e34-4794-b93e-22162d018fea)
+                o _Eliminar artículos tarifa_: permite eliminar los elementos seleccionados en la rejilla
 
-                o _Modificar artículos:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos a los que queremos aplicar la modificación. Al pulsar el botón mostrará la siguiente ventana, donde podremos modificar las propiedades de los artículos a los niveles familia, marca, tipo de artículo, desactivarlos y modificar características en la web - botones de la parte derecha \(el menú muestra en la parte inferior el número de artículos seleccionados\):
+                o _Actualizar artículos_: misma función que el botón del lateral izquierdo, pero la realiza únicamente sobre los elementos seleccionados en la rejilla. Al seleccionar uno o más artículos de tarifa mostrará el siguiente menú:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4xl3j9cPUPG0qGTc7_%2F-M4yiD8QfUon35EYdGtK%2Fimage.png?alt=media&token=6052e0fa-86cf-458b-a6a0-d5b80a4308fa)
+![](../../../../.gitbook/assets/image%20%28359%29.png)
 
-                o _Incluir en tarifa:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las tarifas existentes o, pulsando botón derecho y seleccionando "Alta de ficha", podremos dar de alta una nueva tarifa de ventas \(véase ["Tarifas de Ventas"](https://winmotor.gitbook.io/project/manuales/maestros/tarifas-de-ventas) en "Maestros"\) y pulsamos el botón, obteniendo la rejilla de tarifas de ventas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
+               o _Crear artículos_: permite pasar los artículos de tarifa seleccionados en la rejilla al conjunto de artículos
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4yl4cn9TqviYdWBwUY%2F-M4ylQN9YYcq6ZAE2QbE%2Fimage.png?alt=media&token=55df779b-6983-4da7-8dad-4423801536d1)
+               o _Modificar proveedor_: permite modificar el proveedor de los artículos de tarifa seleccionados en la rejilla mostrando el siguiente localizador de proveedores:
 
-                o _Incluir en oferta:_ filtramos los artículos según las necesidades para presentarlos en la rejilla. Una vez mostrados, seleccionamos únicamente aquellos que queremos incluir en alguna de las ofertas existentes \(véase "Ofertas" dentro del panel de artículos\) y pulsamos el botón, obteniendo la rejilla de ofertas donde hacemos doble clic en la que queramos incluir los artículos seleccionados.
+![](../../../../.gitbook/assets/image%20%28361%29.png)
 
-![](https://gblobscdn.gitbook.com/assets%2F-LTcyFdZ4rHGHbqQN78p%2F-M4yl4cn9TqviYdWBwUY%2F-M4ymg-ZfC419b6ZHDvS%2Fimage.png?alt=media&token=4032214e-38ae-4037-a68f-be39cc208c0d)
+
 
