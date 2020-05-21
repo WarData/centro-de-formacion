@@ -1,6 +1,6 @@
 # Ficha del artículo de tarifa
 
-La ficha del artículo de tarifa nos muestra los siguientes campos
+La ficha del artículo de tarifa nos muestra los siguientes campos:
 
 ![](../../../.gitbook/assets/image%20%28376%29.png)
 
