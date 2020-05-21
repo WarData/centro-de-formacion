@@ -84,9 +84,9 @@ Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic so
 
                                 o   **Revisión de precios:** realizando el filtrado de los artículos nos presenta un menú con los artículos que cumplan los requisitos especificados, que al seleccionar 1 o varios, indica los documentos \(tarifas de precios, ofertas...\) y sus valores, observando a la vez y en conjunto la tarifa del artículo, condiciones aplicadas a éste en las tarifas de ventas y su PVR:
 
-![](../../../../.gitbook/assets/image%20%28410%29.png)
+![](../../../../.gitbook/assets/image%20%28411%29.png)
 
-![Men&#xFA; Revisi&#xF3;n de Precios](../../../../.gitbook/assets/image%20%28408%29.png)
+![Men&#xFA; Revisi&#xF3;n de Precios](../../../../.gitbook/assets/image%20%28409%29.png)
 
                                 o   **Análisis rotación:** muestra los artículos filtrados por los siguientes requisitos \(muestra referencia, nombre, familia, primera compra, unidades compradas, unidades vendidas, Stock físico, Valor de Stock Pendientes de recibir, Pendientes de entregar, Stock previsto, Días desde la última venta, Importe de compras, Importe de ventas, Costo actual, Beneficio Real y % de Beneficio\):
 
@@ -96,7 +96,7 @@ Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic so
 
                      o   _Ofertas:_ muestra un panel desplegable con las siguientes opciones de listados sobre los artículos: Véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas.md) - Panel de Ofertas - Permite realizar ofertas con condiciones determinadas en el propio documento, por marca, familia, artículo, tipo de artículo y un precio, descuento o incremento sobre el costo.
 
-![](../../../../.gitbook/assets/image%20%28406%29.png)
+![](../../../../.gitbook/assets/image%20%28408%29.png)
 
 ![](../../../../.gitbook/assets/image%20%28366%29.png)
 

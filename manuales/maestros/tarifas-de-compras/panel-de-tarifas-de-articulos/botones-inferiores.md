@@ -6,7 +6,7 @@
 
                o _Modificar familia:_ permite cambiar la familia de todos los elementos seleccionados en la rejilla mediante el siguiente localizador_:_
 
-![](../../../../.gitbook/assets/image%20%28413%29.png)
+![](../../../../.gitbook/assets/image%20%28414%29.png)
 
                 o _Modificar marca:_ permite cambiar la marca de todos los elementos seleccionados en la rejilla mediante el siguiente localizador_:_
 

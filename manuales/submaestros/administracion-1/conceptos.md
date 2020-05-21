@@ -6,7 +6,7 @@ Forman parte de la síntesis presupuestaria, indicando el estado de flujos de ca
 
 La aplicación presenta un panel de conceptos con botonera lateral izquierda, filtro de fechas, listado de conceptos dados de alta y una rejilla que permite dar de alta gastos \(segunda imagen\):
 
-![](../../../.gitbook/assets/image%20%28411%29.png)
+![](../../../.gitbook/assets/image%20%28413%29.png)
 
 ![Alta de un gasto desde panel de conceptos](../../../.gitbook/assets/image%20%28373%29.png)
 
