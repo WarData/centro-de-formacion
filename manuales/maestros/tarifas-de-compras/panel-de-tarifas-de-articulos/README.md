@@ -1,4 +1,4 @@
-# Panel de Tarifas de artículos
+# Panel de tarifas de artículos
 
 El menú de tarifas de artículos presenta un listado de ellos ordenados alfabéticamente por su código, donde los dos principales filtros son "Marca" y "Proveedor"
 
