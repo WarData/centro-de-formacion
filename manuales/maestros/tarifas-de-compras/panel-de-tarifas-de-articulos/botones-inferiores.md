@@ -6,7 +6,7 @@
 
                o _Modificar familia:_ permite cambiar la familia de todos los elementos seleccionados en la rejilla mediante el siguiente localizador_:_
 
-![](../../../../.gitbook/assets/image%20%28398%29.png)
+![](../../../../.gitbook/assets/image%20%28404%29.png)
 
                 o _Modificar marca:_ permite cambiar la marca de todos los elementos seleccionados en la rejilla mediante el siguiente localizador_:_
 
@@ -14,7 +14,7 @@
 
                 o _Aplicar incremento PVP:_ permite aplicar un porcentaje de incremento a los elementos seleccionados en la rejilla mediante la siguiente ventana:
 
-![](../../../../.gitbook/assets/image%20%28374%29.png)
+![](../../../../.gitbook/assets/image%20%28375%29.png)
 
                 o _Eliminar artículos tarifa_: permite eliminar los elementos seleccionados en la rejilla
 
