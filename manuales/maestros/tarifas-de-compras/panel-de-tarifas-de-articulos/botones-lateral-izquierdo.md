@@ -36,7 +36,7 @@
 
               o   _Buscar Artículo:_ Localizador de artículos de tarifa a través de distintos criterios. Nos permite consultar, borrar o modificar la información de un artículo de tarifa. La rejilla de este localizador nos muestra la referencia, denominación, familia, Precio Neto de compra, Precio de venta general y proveedor. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../../../.gitbook/assets/image%20%28385%29.png)
+![](../../../../.gitbook/assets/image%20%28386%29.png)
 
 Este localizador nos permite buscar un artículo por los siguientes criterios:
 
@@ -52,5 +52,5 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                o   _Actualizar artículos:_ permite actualizar los artículos existentes mediante filtrado por proveedor / marca / familia con las opciones Familia \(mantener o actualizar\) y Nombre \(respetar el actual o actualizar\), además de permitir localizar la referencia como tarifa de compras secundaria y actualizar también sus datos.
 
-![](../../../../.gitbook/assets/image%20%28389%29.png)
+![](../../../../.gitbook/assets/image%20%28390%29.png)
 
