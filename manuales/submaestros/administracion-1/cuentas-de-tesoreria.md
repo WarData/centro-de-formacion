@@ -8,21 +8,21 @@ Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. L
 
 ![](../../../.gitbook/assets/image%20%28409%29.png)
 
-            o   Código:
+            o   Código: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso el orden en el listado
 
-            o   Identificador:
+            o   Identificador: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso por tipo
 
             o   Check "Activa": marca la situación de la cuenta \(activa / inactiva\)
 
-            o   Cuenta contable:
+            o   Cuenta contable: añade la cuenta de tesorería a la contabilidad
 
-            o   Tipo de cuenta:
+            o   Tipo de cuenta: indica si la cuenta es tipo "Caja" o tipo "Banco"
 
             o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto":
 
             o   Canales "Efectivo" / "Tarjeta 1-2-3": indican el procedimiento por el cual se realiza el pago. Mediante efectivo, tarjetas, TPV de determinada entidad bancaria, etc.
 
-            o   Cuentas contables \(de cada canal\):
+            o   Cuentas contables \(de cada canal\): por cada uno de los 4 posibles canales de una cuenta de tesorería es posible indicar una cuenta contable hacia la contabilidad
 
             o   Pestañas:
 
@@ -40,17 +40,17 @@ La configuración "Banco" sería:
 
 Se pueden añadir cuentas de tesorería tipo "Caja" con hasta 4 canales de entrada o añadir cuentas de forma independiente para cada canal, incluso cajas por departamento.
 
-            o   Código:
+            o   Código: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso el orden en el listado
 
-            o   Identificador:
+            o   Identificador: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso por tipo
 
             o   Check "Activa": marca la situación de la cuenta \(activa / inactiva\)
 
-            o   Cuenta contable:
+            o   Cuenta contable: añade la cuenta de tesorería a la contabilidad
 
-            o   Tipo de cuenta:
+            o   Tipo de cuenta: indica si la cuenta es tipo "Caja" o tipo "Banco"
 
-            o   Cuenta bancaria:
+            o   Cuenta bancaria: añade la cuenta bancaria a la que se asocia dicha cuenta de tesorería
 
             o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto":
 
