@@ -2,7 +2,7 @@
 
 Forman parte de la síntesis presupuestaria, indicando el estado de flujos de caja provisional y el presupuesto de tesorería, en los que aparecerán las causas de origen y aplicación de los fondos y todos los cobros y pagos derivados de cualquier operación prevista para el ejercicio.
 
-Pueden ser anticipos de cobro y pago, cobros y pagos de facturas, saldo inicial, etc.
+**Pueden ser anticipos de cobro y pago, cobros y pagos de facturas, saldo inicial, etc.**
 
 La aplicación presenta un panel de conceptos con botonera lateral izquierda, filtro de fechas, listado de conceptos dados de alta y una rejilla que permite dar de alta gastos \(segunda imagen\):
 
