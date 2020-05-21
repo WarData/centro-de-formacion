@@ -2,6 +2,8 @@
 
 Es el área de una empresa en la cual se organizan y gestionan todas las acciones relacionadas con operaciones de flujo monetario o flujo de caja. ... Esto incluye los cobros por actividades de la empresa, los pagos a proveedores, las gestiones bancarias y cualquier otro movimiento de la caja de una empresa.
 
+ **\* LAS CUENTAS DE TESORERÍA SE APLICAN A LOS PERFILES DE LOS USUARIOS \(para que un usuario o grupo de usuarios de un perfil puedan asignar una cuenta, ésta tiene que haberse añadido anteriormente desde Configuración &gt; Permisos / Perfiles &gt; Perfiles &gt; seleccionar perfil y en la pestaña "Cuentas" añadir las cuentas de tesorería que podrá usar ese perfil\)**
+
 La opción muestra un listado de cuentas de tesorería donde podemos dar de alta nuevas usando botón derecho "Alta de Ficha" o doble clic en una zona sin datos.
 
 Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. La configuración de "Caja" sería del siguiente modo, pudiendo añadir o cambiar cualquier configuración final en la empresa del cliente.
