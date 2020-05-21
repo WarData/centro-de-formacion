@@ -12,5 +12,5 @@ Alta de divisa:
 
 Ejemplo de la ficha del €uro:
 
-![](../../../.gitbook/assets/image%20%28406%29.png)
+![](../../../.gitbook/assets/image%20%28408%29.png)
 

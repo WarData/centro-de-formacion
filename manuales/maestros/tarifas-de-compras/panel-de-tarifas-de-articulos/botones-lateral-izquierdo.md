@@ -54,5 +54,5 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
                o   _Actualizar artículos:_ permite actualizar los artículos existentes mediante filtrado por proveedor / marca / familia con las opciones Familia \(mantener o actualizar\) y Nombre \(respetar el actual o actualizar\), además de permitir localizar la referencia como tarifa de compras secundaria y actualizar también sus datos.
 
-![](../../../../.gitbook/assets/image%20%28404%29.png)
+![](../../../../.gitbook/assets/image%20%28405%29.png)
 

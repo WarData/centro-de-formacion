@@ -18,7 +18,7 @@ En la aplicación podemos definir diferentes tipos en función de las necesidade
 
 Dentro del listado de vencimientos, con doble clic podemos crear un tipo nuevo. Un ejemplo sería el siguiente:
 
-![](../../../.gitbook/assets/image%20%28410%29.png)
+![](../../../.gitbook/assets/image%20%28413%29.png)
 
 Para dar de alta un venicimiento, tenemos que asignar un código que sea lo más intuitivo posible para poder aplicarlo sin realizar búsquedas, nombre que defina el vencimiento y, en función del tipo, aplicar la o las posibles fechas de vencimiento y los importes que se pagarán de la factura en cada uno de ellos, por ejemplo:
 

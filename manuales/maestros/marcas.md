@@ -70,7 +70,7 @@ La opción nos permite comprobar las marcas existentes o crear una mediante los 
 
                            **o   Diagnóstico recepción de taller:**
 
-![](../../.gitbook/assets/image%20%28405%29.png)
+![](../../.gitbook/assets/image%20%28406%29.png)
 
 
 
