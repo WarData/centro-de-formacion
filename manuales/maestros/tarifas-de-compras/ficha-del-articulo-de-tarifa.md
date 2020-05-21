@@ -2,7 +2,7 @@
 
 La ficha del artículo de tarifa nos muestra los siguientes campos:
 
-![](../../../.gitbook/assets/image%20%28385%29.png)
+![](../../../.gitbook/assets/image%20%28387%29.png)
 
                                 **o   Referencia:** se aconseja que se especifique la del artículo indicada por el proveedor que la suministra. El objetivo de esto es la fácil grabación de la entrada de material y su posterior venta. Si el proveedor nos envía la mercancía etiquetada, con un lector de códigos de barras podremos ir grabando albaranes de entrada de mercancía. De igual modo, en todos los documentos de venta, podremos utilizar el lector para ir incluyendo los artículos solicitados por el cliente.
 

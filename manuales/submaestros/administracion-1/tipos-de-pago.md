@@ -20,11 +20,11 @@ En la aplicación es posible definir una o varias, incluso incluir formas de pag
 
 Dentro del listado de pagos, con doble clic podemos crear un tipo nuevo. El tipo de pago efectivo sería de la siguiente forma:
 
-![](../../../.gitbook/assets/image%20%28382%29.png)
+![](../../../.gitbook/assets/image%20%28386%29.png)
 
 El tipo de pago permite definir campos que veremos posteriormente como "Conceptos" y "Cuentas" \(de tesorería\). También es posible definir mediante checks la posibilidad de crear apuntes automáticos en contabilidad de cobros y pagos y general control sobre posibles cambios a fin de evitar errores contables.
 
 Un tipo de pago aplazado sería de la siguiente:
 
-![](../../../.gitbook/assets/image%20%28374%29.png)
+![](../../../.gitbook/assets/image%20%28376%29.png)
 
