@@ -1,6 +1,6 @@
 # Inventarios
 
-Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa \(recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta\).
+Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa \(recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta\). Es posible regular la cantidad de artículos en stock y también regular el PMC \(precio medio de compra\).
 
 Podemos incorporar el inventario directamente incluyendo artículos a las líneas del parte de Winmotor o importando un archivo de texto \(.txt\) en el botón indicado de la siguiente imagen. El formato del archivo de texto será: referencia,unidades \(ejemplo &gt; BS10265,25\):
 
@@ -21,4 +21,8 @@ Pulsamos en "Confirmar" y regularizamos el inventario:
 ![](../../.gitbook/assets/image%20%28204%29%20%281%29.png)
 
 Como vemos en la imagen superior, el artículo del que inicialmente no teníamos stock, tras el inventario tenemos la unidad incluida.
+
+Para regular el PMC simplemente hay que indicar la referencia y seleccionar el check "Regularización de precio medio del artículo" &gt; si hay más de una ubicación del mismo artículo habrá que seleccionar sobre qué ubicación se realizará la regularización.
+
+![](../../.gitbook/assets/imagen.png)
 

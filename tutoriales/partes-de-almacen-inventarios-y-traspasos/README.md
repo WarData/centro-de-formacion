@@ -14,7 +14,7 @@ Los partes de almacén son los documentos de entrada y salida de un almacén que
 
 **Libre:** por motivos varios como robos, desguace de vehículos, etc...
 
-**Inventarios:** por inventariado del stock físico de uno, varios o todos los almacenes.
+**Inventarios:** por inventariado del stock físico de uno, varios o todos los almacenes. Es posible inventariar artículos o regular el PMC \(precio medio de compra\).
 
 
 
