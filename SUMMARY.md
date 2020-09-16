@@ -216,6 +216,6 @@
 
 * [Manual Velneo vReport](manuales-auxiliares/manual-velneo-vreport.md)
 * [Manual de Usuario Contabilidad](manuales-auxiliares/manual-de-usuario-contabilidad.md)
-* [Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad.](manuales-auxiliares/real-decreto-1514-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad..md)
+* [Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-auxiliares/real-decreto-1514-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad..md)
 * [Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-auxiliares/real-decreto-1515-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad.md)
 
