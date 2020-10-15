@@ -8,5 +8,5 @@ Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba el Plan Genera
 
 {% file src="../.gitbook/assets/boe-a-2007-19966-consolidado\_pyme.pdf" caption="PDF Real Decreto 1515/2007 16 noviembre" %}
 
-**Para descargar desde Winmotor pulsar botón derecho del ratón y seleccionar "Guardar enlace como..."**
+**Para descargar desde Winmotor pulsar botón derecho del ratón encima y seleccionar "Guardar enlace como..."**
 
