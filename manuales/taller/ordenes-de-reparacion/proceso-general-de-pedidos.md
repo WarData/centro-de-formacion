@@ -1,6 +1,6 @@
 # Proceso General de Pedidos
 
-**Operativa general de pedidos**
+**Operativa general de pedidos - Mejoras introducidas en septiembre de 2020 \(pie de página\)**
 
 ![](../../../.gitbook/assets/image%20%28223%29%20%281%29.png)
 

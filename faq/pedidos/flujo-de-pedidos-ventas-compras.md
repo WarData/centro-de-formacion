@@ -8,5 +8,7 @@
 
 Comprueba en el esquema superior cada paso y utiliza el sistema integrado de búsqueda del Centro de Ayuda Winmotor V7 para ampliar tus conocimientos de cada apartado, en particular en el [**Proceso General de Pedidos**](../../manuales/compras/pedidos/proceso-general-de-pedidos.md)\*\*\*\*
 
+**\*\*\* Mejoras introducidas en septiembre de 2020** [**ver información aquí**](../../manuales/compras/pedidos/proceso-general-de-pedidos.md)\*\*\*\*
+
 
 

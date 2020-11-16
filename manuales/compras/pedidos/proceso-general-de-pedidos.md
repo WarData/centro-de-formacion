@@ -1,6 +1,6 @@
 # Proceso General de Pedidos
 
-**Operativa general de pedidos**
+**Operativa general de pedidos - Mejoras introducidas en septiembre de 2020 \(pie de página\)**
 
 ![](../../../.gitbook/assets/image%20%28223%29%20%281%29.png)
 
@@ -80,7 +80,7 @@ El diagrama representa la siguiente operativa:
 
 6.        Tal como se explica en el proceso del ciclo de pedidos este albarán de entrada como cualquier otro ejecutará automáticamente la repartición por asignaciones en los pedidos de ventas y/o órdenes de reparación que lo originaron.
 
-\*\*\* Septiembre 2020 - Añadidas mejoras en el proceso de reparto:
+\*\*\* Septiembre 2020 - **Añadidas mejoras en el proceso de reparto**:
 
 Mejorado todo el sistema de recepción y reparto de pedidos de compras que afecta tanto al botón 'Recibir' de un pedido como a la opción 'Recibir' que hay en el menú de pedidos y de albaranes de compras y al botón 'Repartir' de un albarán de compras en estado borrador.
 
