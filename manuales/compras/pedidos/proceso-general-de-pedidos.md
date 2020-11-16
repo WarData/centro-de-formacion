@@ -80,3 +80,25 @@ El diagrama representa la siguiente operativa:
 
 6.        Tal como se explica en el proceso del ciclo de pedidos este albarán de entrada como cualquier otro ejecutará automáticamente la repartición por asignaciones en los pedidos de ventas y/o órdenes de reparación que lo originaron.
 
+\*\*\* Septiembre 2020 - Añadidas mejoras en el proceso de reparto:
+
+Mejorado todo el sistema de recepción y reparto de pedidos de compras que afecta tanto al botón 'Recibir' de un pedido como a la opción 'Recibir' que hay en el menú de pedidos y de albaranes de compras y al botón 'Repartir' de un albarán de compras en estado borrador.
+
+La mejora basicamente ha consistido en dividir el proceso en dos fases: 
+
+* Confirmación de la recepción
+* Reparto.
+
+La velocidad de cálculo del proceso de reparto además de mejorar puesto que sólo se va a ejecutar sobre lo que se recibe se ha reducido a la mitad mejorando el proceso.
+
+También ha mejorado la manejabilidad del sistema de manera que al hacer doble click en una línea no se pierden las seleccionadas anteriormente y en general todo el control de seleccionado / no seleccionado ha ganado en las dos rejillas.
+
+Se ha mejorado por  otro lado mucho el proceso y la visualización del reparto. Por un lado para facilitar la modificación del reparto he montado botones + y - para aumentar / disminuir las unidades a repartir sin necesidad de hacer doble click y abrir el formulario de reparto.
+
+Por otro lado he cambiado la rejilla de reparto solucionando:
+
+* Los datos del artículo se presentan en negrita para que queden diferenciados de los datos de las asignaciones
+* Se refrescan las asignaciones en la rejilla, antes no se recogía lo modificado.
+
+También se ha mejorado el control de los procesos creando totalizadores que muestren en todo proceso el número de líneas y de unidades confirmadas en la recepción.
+

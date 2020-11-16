@@ -4,6 +4,14 @@ En éste tutorial vamos a crear un[ importador](./) para una marca en particular
 
 De ésta forma habrá uno o varios importadores almacenados para las marcas que la empresa gestione y posteriormente ir actualizando las nuevas tarifas con sólo pulsar un botón y modificar el archivo para adecuarlo al importador creado.
 
+\*\*\* Septiembre 2020 - Añadidas **mejoras al importador de tarifas de artículos**:
+
+1.- Posibilidad de concatenar columnas distintas en una única. Permite añadir un caracter para definir la concatenación
+
+2.- Cálculo del campo referencia mediante fórmula, que permite seleccionar caracteres iniciales y finales, cálculo desde EAN13 y más.
+
+![](../../.gitbook/assets/imagen%20%281%29.png)
+
 **Al final de este tutorial encontrará claves fundamentales para un procedimiento correcto \*\*\***
 
 ![Abrir &quot;Maestros&quot; &amp;gt; abrir &quot;Tarifa de art&#xED;culos&quot;](../../.gitbook/assets/image%20%28171%29.png)
