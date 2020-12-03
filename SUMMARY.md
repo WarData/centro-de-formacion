@@ -216,6 +216,7 @@
 
 * [Manual Velneo vReport](manuales-documentos-auxiliares/manual-velneo-vreport.md)
 * [Manual de Usuario Contabilidad](manuales-documentos-auxiliares/manual-de-usuario-contabilidad.md)
+* [Configuración de cuentas para la generación de asientos desde gestión](manuales-documentos-auxiliares/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
 * [Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-documentos-auxiliares/real-decreto-1514-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad..md)
 * [Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-documentos-auxiliares/real-decreto-1515-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad.md)
 
