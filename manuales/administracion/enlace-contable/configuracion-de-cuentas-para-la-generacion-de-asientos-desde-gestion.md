@@ -26,19 +26,19 @@ description: Exclusivamente para el ejercicio en curso
 
                                  1.2.1.1.- Parámetros – Contables – Cuentas por tipo de producto
 
-![](../../../.gitbook/assets/imagen%20%284%29.png)
+![](../../../.gitbook/assets/imagen%20%285%29.png)
 
                    1.2.2.- A nivel Serie de documento
 
                                  1.2.1.1.- Entrando en cada serie de ventas, compras y gastos definir la cuenta contable de esa serie en la pestaña “Contabilidad”.
 
-![](../../../.gitbook/assets/imagen%20%285%29.png)
+![](../../../.gitbook/assets/imagen%20%286%29.png)
 
                    1.2.3.- Por familias
 
                                  1.2.3.1.- Definir cuentas de ventas y gastos en la pantalla principal de familias
 
-![](../../../.gitbook/assets/imagen%20%288%29.png)
+![](../../../.gitbook/assets/imagen%20%289%29.png)
 
 **\*** El programa utilizará estos sistemas de configuración de cuentas de gastos e ingresos de artículos en este orden. Es decir, si se detecta que están definidas las cuentas a nivel tipo de producto, utilizará esta configuración, si no, las buscará en las series de documentos y si están vacías en las propias familias de productos. Como se ve y por simplificar digamos que se pueden definir de menor detalle \(tipo de producto\) a mayor detalle \(familias\); últimamente dado que todas las estadísticas y análisis se pueden hacer en contabilidad los contables suelen elegir el menor detalle por simplificar. Como es lógico de lo que se trata es de simplificar y que no haya que definir una cuenta contable de gastos y de ingresos en cada artículo.
 

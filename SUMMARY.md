@@ -139,6 +139,7 @@
     * [Honda Are - Contabilización de Servicios](manuales/administracion/enlace-contable/honda-are-contabilizacion-de-servicios.md)
     * [Cierres Fiscales](manuales/administracion/enlace-contable/cierres-fiscales.md)
     * [Configuración de cuentas para la generación de asientos desde gestión](manuales/administracion/enlace-contable/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
+    * [Balance de sumas y saldos](manuales/administracion/enlace-contable/balance-de-sumas-y-saldos.md)
 * [Cuadro de Mandos](manuales/cuadro-de-mandos.md)
 * [Comunicaciones](manuales/comunicaciones.md)
 * [Web](manuales/web.md)
