@@ -6,10 +6,13 @@ description: >-
 
 # Configuración de cuentas para la generación de asientos desde gestión
 
+Capturas de imagen en [Administración &gt; Contabilidad](../manuales/administracion/enlace-contable/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
+
 Configurar cuentas contables \(Muy importante: los ceros a la izquierda de las cuentas auxiliares no son necesarios, es decir la cuenta 1 de ventas debe ser 7000.1 y no 7000.00001\)
 
 * Impuestos y cuentas generales
   * Parámetros – Administración – contables
+
     * Definir las cuentas contables en todas las pestañas tal como estén en otra distribución y notificando al contable por si luego quiere definir alguna diferencia \(se le puede por ejemplo pasar pantallazos de todas estas pestañas una vez rellenas y siempre que tengan cuentas contables\).
 * Cuentas de gastos e ingresos \(el contable debe decidir a qué nivel configura estas cuentas\) \*
   * A nivel tipo de producto
