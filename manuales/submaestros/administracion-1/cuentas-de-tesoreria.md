@@ -54,15 +54,15 @@ Se pueden añadir cuentas de tesorería tipo "Caja" con hasta 4 canales de entra
 
             o   Cuenta bancaria: añade la cuenta bancaria a la que se asocia dicha cuenta de tesorería
 
-            o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto":
+            o   Opciones "Movimientos especiales" / "Movimientos oficiales" / "Indistinto": queda restrigido a "movimientos oficiales"
 
             o   Pestañas:
 
-                                o   Cierres:
+                                o   Cierres: muestra los cierres de caja a su fecha \(opción cierrar cuenta F6 del panel de tesorería\), es decir, si el anterior cierre que se muestra es de hace una semana, el último acumulará el cierre de la cuenta de tesorería por intervalo de una semana.
 
-                                o   Perfiles:
+                                o   Perfiles: muestra los perfiles que tienen acceso a la cuenta de tesorería, además de permitir añadir o eliminar el acceso perfiles.
 
-                                o   Pagarés:
+                                o   Pagarés: permite configurar la impresión de pagarés
 
-                                o   Auditoría:
+                                o   Auditoría: datos sobre fecha de creación, usuario y fecha de modificación y usuario.
 
