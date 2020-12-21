@@ -28,13 +28,13 @@ Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. L
 
             o   Pestañas:
 
-                                o   Cierres:
+                                o   Cierres: muestra los cierres de caja a su fecha \(opción cierrar cuenta F6 del panel de tesorería\), es decir, si el anterior cierre que se muestra es de hace una semana, el último acumulará el cierre de la cuenta de tesorería por intervalo de una semana.
 
-                                o   Perfiles:
+                                o   Perfiles: muestra los perfiles que tienen acceso a la cuenta de tesorería, además de permitir añadir o eliminar el acceso perfiles.
 
-                                o   Pagarés:
+                                o   Pagarés: permite configurar la impresión de pagarés
 
-                                o   Auditoría:
+                                o   Auditoría: datos sobre fecha de creación, usuario y fecha de modificación y usuario.
 
 La configuración "Banco" sería:
 
