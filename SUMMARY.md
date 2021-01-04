@@ -175,6 +175,7 @@
   * [Factura: de gastos asociados a vehículos](tutoriales/facturas_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
 * [Marca: dar de alta una nueva](tutoriales/marca-dar-de-alta-una-nueva.md)
 * [Ejercicio - Crear y configurar un nuevo ejercicio](tutoriales/ejercicio-crear-y-configurar-un-nuevo-ejercicio.md)
+* [Ejercicio - Cómo movernos entre ejercicios distintos](tutoriales/ejercicio-como-movernos-entre-ejercicios-distintos.md)
 * [Mailing - Cómo funciona y trucos para sacarle partido](tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md)
 * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
 * [Uso de los Nuevos Filtros Rápidos](tutoriales/uso-de-los-nuevos-filtros-rapidos/README.md)
