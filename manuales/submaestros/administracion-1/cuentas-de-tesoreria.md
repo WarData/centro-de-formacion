@@ -8,6 +8,14 @@ La opción muestra un listado de cuentas de tesorería donde podemos dar de alta
 
 Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. La configuración de "Caja" sería del siguiente modo, pudiendo añadir o cambiar cualquier configuración final en la empresa del cliente.
 
+**Mejora enero 2021 &gt; Creación de asiento de apertura de caja automático** 
+
+Se ha montado una nueva opción, dentro del cierre de una cuenta, para que automáticamente se cree el asiento de apertura de la caja en el día siguiente al cierre. 
+
+1.- ¿Cuándo funciona? Se debe tener relleno el parámetro "concepto apertura caja" dentro del formulario en la pestaña administración / generales. En cada cuenta, se podrá definir si se crea este asiento de apertura o no : para ello, hay un nuevo campo en el formulario de cuentas: "crear asiento apertura al cerrar cuenta" 
+
+2.- ¿Cómo funciona? En la opción F6 - Cerrar cuenta, del panel de tesorería, cuando seleccionemos una cuenta que tenga marcado el check mencionado anteriomente, nos aparecerán campos para definir la fecha del asiento \(por defecto un día después a la fecha de cierre seleccionada\), y el saldo de apertura \(por defecto el saldo de la cuenta hasta el día de cierre. Solo tiene en cuenta movimientos con canal efectivo, es decir, que el canal del asiento sea igual al canal definido como canal de efectivo en la cuenta\). Después de rellenar estos datos, el programa automáticamente creará en el día indicado una asiento de la caja correspodiente, con el concepto definido en el parámetro "concepto apertura caja", y el importe o saldo indicado.
+
 ![](../../../.gitbook/assets/image%20%28409%29.png)
 
             o   Código: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso el orden en el listado
