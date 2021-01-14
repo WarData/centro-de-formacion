@@ -78,6 +78,8 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 \*\*\* Es requisito imprescindible que el módulo RRHH esté activado por nuestros técnicos \(Win ERP\).
 
+**\*\*\* Cuando se incorporan nuevos operarios a RRHH que no estaban dados de alta cuando se crearon los calendarios, una vez asignados al departamento correspondiente, hay que crear su calendarios desde su ficha de entidad &gt; pestaña operario**
+
 ![](../../.gitbook/assets/image%20%28188%29%20%281%29.png)
 
 **Administradores** - Son aquellas entidades "usuario" que tienen acceso al alta / borrado / modificación / lectura de las características del módulo de RRHH\*\*\* \(departamentos laborales, jornadas, etc...\) y al panel de citas con sus diversas visualizaciones.
