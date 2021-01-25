@@ -6,7 +6,7 @@ description: Configuración
 
 **Objetivo**
 
-                Configurar el tratamiento de almacenes en toda la aplicación
+Configurar el tratamiento de almacenes en toda la aplicación
 
 **Gestión**
 
