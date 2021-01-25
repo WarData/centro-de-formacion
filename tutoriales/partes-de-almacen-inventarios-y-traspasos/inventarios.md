@@ -4,7 +4,7 @@ Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/
 
 **¿Qué es un inventario?**
 
-**El inventario es una relación detallada, ordenada y valorada de los productos que tiene una la empresa en stock.‌**
+**El inventario es una relación detallada, ordenada y valorada de los productos que tiene una empresa en stock.‌**
 
 **¿Qué sucede en cada artículo cuando se incluye en un inventario?‌**
 
