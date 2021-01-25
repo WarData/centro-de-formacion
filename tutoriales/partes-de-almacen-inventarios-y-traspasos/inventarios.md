@@ -2,7 +2,19 @@
 
 Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa \(recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta\). Es posible regular la cantidad de artículos en stock y también regular el PMC \(precio medio de compra\).
 
-Podemos incorporar el inventario directamente incluyendo artículos a las líneas del parte de Winmotor o importando un archivo de texto \(.txt\) en el botón indicado de la siguiente imagen. El formato del archivo de texto será: referencia,unidades \(ejemplo &gt; BS10265,25\):
+**¿Qué es un inventario?**
+
+**El inventario es una relación detallada, ordenada y valorada de los productos que tiene una la empresa en stock.‌**
+
+**¿Qué sucede en cada artículo cuando se incluye en un inventario?‌**
+
+**Un inventario, reseteará el stock de un producto en un almacén concreto desde la fecha/hora marcada.**‌
+
+Por tanto, el stock de un artículo / almacén siempre será el resultado de las compras+entradas de almacén, menos las ventas+salidas de almacén en orden cronológico. Pero cuando hay un inventario, desde esa fecha/hora se impondrá como stock lo definido en ese inventario.‌
+
+**FAQ:** ¿si incluyo por ejemplo un documento de compra con fecha anterior al inventario, las unidades se suman al stock total del artículo? No, siempre que la compra sea en el mismo almacén inventariado, puesto que el inventario resetea el stock desde su fecha/hora.
+
+Podemos incorporar el inventario directamente incluyendo artículos a las líneas del parte de Winmotor o importando un archivo de texto \(.txt\) en el botón indicado de la siguiente imagen. **El archivo puede incluir el almacén o la ubicación de cada artículo inventariado para facilitar el mismo.** El formato del archivo de texto será: referencia,unidades \(ejemplo &gt; BS10265,25\):
 
 ![](../../.gitbook/assets/image%20%28280%29.png)
 
