@@ -10,7 +10,7 @@ Existen 3 tipos de partes de almacén en función del tipo de movimiento y su or
 
 \*\*\*\*[**Inventarios:**](../../tutoriales/partes-de-almacen-inventarios-y-traspasos/inventarios.md) ****por inventariado del stock físico de uno, varios o todos los almacenes. Es posible inventariar artículos o regular el PMC \(precio medio de compra\).
 
-**El inventario es una relación detallada, ordenada y valorada de los productos que tiene una la empresa en stock.**
+**El inventario es una relación detallada, ordenada y valorada de los productos que tiene una empresa en stock.**
 
 **Un inventario, reseteará el stock de un producto en un almacén concreto desde la fecha/hora marcada.**
 
