@@ -1,4 +1,8 @@
-# Configuración
+---
+description: Configuración
+---
+
+# Almacences
 
 **Objetivo**
 
