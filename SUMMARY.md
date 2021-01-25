@@ -89,6 +89,7 @@
     * [Fórmulas PVP](manuales/submaestros/articulos/formulas-pvp.md)
   * [Maestros Genéricos](manuales/submaestros/maestros-genericos.md)
 * [Almacenes](manuales/almacenes/README.md)
+  * [Partes de almacén](manuales/almacenes/partes-de-almacen.md)
   * [Configuración](manuales/almacenes/configuracion.md)
 * [Compras](manuales/compras/README.md)
   * [Propuesta](manuales/compras/propuesta.md)
