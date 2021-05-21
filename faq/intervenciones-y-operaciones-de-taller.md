@@ -26,6 +26,8 @@ En la siguiente imagen os mostramos algunos ejemplos. Cada operación de taller 
 
 **Recomendamos imprimir y plastificar todos y dejarlos en una zona accesible cerca de la pistola de código de barras para su uso cotidiano.**
 
+**Desde este panel podremos añadir tantas operaciones de taller como queramos, simplemente pulsando en el botón inferior "Nueva operación" o haciendo doble clic en la zona en blanco. Podremos incluso modificar alguna existente y cambiar su nombre haciendo doble clic en la línea.**
+
 Si quisiéramos modificar, introducir o comprobar los fichajes por fechas, iremos a Taller &gt; Panel de Órdenes de Reparación &gt; Listados &gt; [Intervenciones](../manuales/taller/intervenciones.md)
 
 ![](../.gitbook/assets/image%20%2810%29.png)
