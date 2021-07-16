@@ -186,7 +186,9 @@
 
 ## FAQ
 
-* [Ordenes de Reparación \(ORs\)](faq/ordenes-de-reparacion-ors.md)
+* [Ordenes de Reparación \(ORs\)](faq/ordenes-de-reparacion-ors/README.md)
+  * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
+  * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
 * [Pedidos](faq/pedidos/README.md)
   * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
   * [Uso del campo "Referencia" en Pedidos de Ventas](faq/pedidos/uso-del-campo-referencia-en-pedidos-de-ventas.md)
