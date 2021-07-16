@@ -26,7 +26,7 @@ Existen **3** formas de trabajar sobre la versión para la compañía dentro de 
 
           **A&gt;** Una vez metidas estas líneas, podemos dar ya por terminada la orden facturando desde la pestaña general de facturación \(no desde la versión para la compañía, en este caso no hace falta puesto que ya hemos terminado la orden\).
 
-          **B&gt;** **Si el usuario quiere seguir metiendo artículos o servicios o trabajando sobre la orden, entonces sí hay que facturar desde la versión para la compañía de seguros**: se pulsa el botón "Crear versión Cia. Aseguradora" e importa todas las líneas metidas en la pestaña general a la pestaña versión para la compañía. Podremos editar lo que necesitemos no afectando al stock. Y una vez hecho esto, podremos facturar.
+          **B&gt;** **Si el usuario quiere seguir metiendo artículos o servicios o trabajando sobre la orden, entonces sí hay que facturar desde la versión para la compañía de seguros**: se pulsa el botón "Crear versión Cia. Aseguradora" e importa todas las líneas metidas en la pestaña general a la pestaña versión para la compañía. **Podremos editar lo que necesitemos no afectando al stock**. Y una vez hecho esto, podremos facturar.
 
           **C&gt;** Usando el botón "Actualizar Versión Cia. Aseguradora" permite recoger los cambios realizados en la OR de la pestaña "General" hacia la versión para la compañía.
 
