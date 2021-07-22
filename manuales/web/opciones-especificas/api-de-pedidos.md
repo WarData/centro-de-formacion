@@ -27,7 +27,7 @@ Se recibirá una URL con los siguientes parámetros:
 
 Ejemplo de URL
 
-[http://IPSERVIDOR/NOMBREINSTANCIA/vERP\_2\_dat\_dat/v1/\_process/REC\_PED\_API\_WA?param\[tip\_ped\]=pr&param\[lin\]=LAMO4T00024$2&param\[nif\]=X99999900&api\_key=1234](http://IPSERVIDOR/NOMBREINSTANCIA/vERP_2_dat_dat/v1/_process/REC_PED_API_WA?param%5btip_ped%5d=pr&param%5blin%5d=LAMO4T00024$2&param%5bnif%5d=X99999900&api_key=1234)
+[http://IPSERVIDOR/NOMBREINSTANCIA/dat\_winmotor\_dat/v1/\_process/REC\_PED\_API\_WA?param\[tip\_ped\]=pr&param\[lin\]=LAMO4T00024$2&param\[nif\]=X99999900&api\_key=1234](http://IPSERVIDOR/NOMBREINSTANCIA/vERP_2_dat_dat/v1/_process/REC_PED_API_WA?param%5btip_ped%5d=pr&param%5blin%5d=LAMO4T00024$2&param%5bnif%5d=X99999900&api_key=1234)
 
 **Consultas**
 
