@@ -67,26 +67,6 @@ Los procesos y las búsquedas funcionan igual con un check que permite seleccion
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F5bcd4f0108002472a1641b44a9649d2aec214e1a.png?alt=media)
 
-## Instalar y configurar el componente vModApache <a id="h.bojc5dgs8ou"></a>
-
-Para poder acceder al API REST se usa el componente vModApache que permite que el servidor web Apache pueda servir de forma automática la documentación swagger y el API REST de tu aplicación.
-
-La instalación lleva mismos pasos que la instalación habitual de [vModApache](https://doc.velneo.com/velneo-vmodapache/que-es-velneo-vmodapache).
-
-Es extremadamente importante que configures el Apache en HTTPS con un certificado. De esta forma evitas que la información http viaje en plano y sea accesible por terceros.
-
-### Configuración del servidor Apache <a id="h.nb11uva66ni"></a>
-
-Modificar el fichero D:\Apache24\conf\extra\httpd-ahssl.conf y añadir una directiva _location_ para conectarse a la instancia de la aplicación. Ejemplo:
-
-```text
-<Location /verp-api>    setHandler velneo    Vrl vatp://pepe:verp1234@c22.velneo.com:7050/VERP</Location>
-```
-
-### Reiniciar el Apache <a id="h.mlvw29emk4"></a>
-
-Una vez aplicadas las configuraciones, reiniciamos el servidor Apache.
-
 ### Probar el API desde Swagger <a id="probar-el-api-desde-swagger"></a>
 
 #### ¿Qué es Swagger? <a id="que-es-swagger"></a>
