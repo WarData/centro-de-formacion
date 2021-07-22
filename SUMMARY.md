@@ -148,6 +148,7 @@
   * [Opciones Específicas](manuales/web/opciones-especificas/README.md)
     * [API de pedidos](manuales/web/opciones-especificas/api-de-pedidos.md)
     * [API de compras](manuales/web/opciones-especificas/api-de-compras.md)
+  * [Ejemplos](manuales/web/ejemplos.md)
 * [Recursos Humanos](manuales/recursos-humanos-1/README.md)
   * [Configuración Módulo Recursos Humanos](manuales/recursos-humanos-1/recursos-humanos.md)
   * [Uso de la Agenda de Taller sobre RRHH](manuales/recursos-humanos-1/uso-de-la-agenda-de-taller-sobre-rrhh.md)
