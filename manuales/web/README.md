@@ -27,11 +27,11 @@ La capa 1 consiste en una clave definible por el programador o el usuario en tie
 
 Al ejecutar esta opción se muestra el formulario de menú de API keys
 
-![](../../.gitbook/assets/image%20%28419%29.png)
+![](../../.gitbook/assets/image%20%28423%29.png)
 
 Podemos crear tantos registros como queramos, en cada registro de API key debemos grabar una descripción y el valor de la clave del API key.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F5368d456eed6dbca3f5c780e572f3d6a9d623d23.png?generation=1589374147840072&alt=media)
+![](../../.gitbook/assets/image%20%28419%29.png)
 
 En la pestaña seguridad del API key podremos generar tantos registros como tablas tenemos en nuestros proyectos de datos más un registro para los objetos poder configurar la seguridad de los procesos que no tienen tabla destino declarada.
 
@@ -83,7 +83,7 @@ Modificar el fichero D:\Apache24\conf\extra\httpd-ahssl.conf y añadir una direc
 <Location /verp-api>    setHandler velneo    Vrl vatp://pepe:verp1234@c22.velneo.com:7050/VERP</Location>
 ```
 
-### Reinicir el Apache <a id="h.mlvw29emk4"></a>
+### Reiniciar el Apache <a id="h.mlvw29emk4"></a>
 
 Una vez aplicadas las configuraciones, reiniciamos el servidor Apache.
 
