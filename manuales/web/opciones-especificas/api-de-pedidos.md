@@ -49,7 +49,7 @@ Líneas de pedidos por cliente/nº pedido
 
 ·         Ejemplo:
 
-[http://IPSERVIDOR/NOMBREINSTANCIA/vERP\_2\_dat\_dat/v1/\_process/lis\_ped\_cli?param\[nif\]=B99999999&param\[ped\]=999&api\_key=1234](http://IPSERVIDOR/NOMBREINSTANCIA/vERP_2_dat_dat/v1/_process/lis_ped_cli?param%5bnif%5d=B99999999&param%5bped%5d=999&api_key=1234)
+[http://IPSERVIDOR/NOMBREINSTANCIA/dat\_winmotor\_dat/v1/\_process/lis\_ped\_cli?param\[nif\]=B99999999&param\[ped\]=999&api\_key=1234](http://IPSERVIDOR/NOMBREINSTANCIA/vERP_2_dat_dat/v1/_process/lis_ped_cli?param%5bnif%5d=B99999999&param%5bped%5d=999&api_key=1234)
 
 ·         La url tiene los siguientes parámetros:
 
@@ -63,7 +63,7 @@ Líneas de compras de un cliente \(pedidos ya entregados\):
 
 ·         Ejemplo:
 
-[http://IPSERVIDOR/NOMBREINSTANCIA/vERP\_2\_dat\_dat/v1/\_query/lin\_est?param%5Bentidad%5D=33267&param%5Bfec\_fin%5D=31122020&param%5Bfec\_ini%5D=01012000&param%5Btipo\_doc%5D=AV&api\_key=win123](http://IPSERVIDOR/NOMBREINSTANCIA/vERP_2_dat_dat/v1/_query/lin_est?param%5Bentidad%5D=33267&param%5Bfec_fin%5D=31122020&param%5Bfec_ini%5D=01012000&param%5Btipo_doc%5D=AV&api_key=win123)
+[http://IPSERVIDOR/NOMBREINSTANCIA/dat\_winmotor\_dat/v1/\_query/lin\_est?param%5Bentidad%5D=33267&param%5Bfec\_fin%5D=31122020&param%5Bfec\_ini%5D=01012000&param%5Btipo\_doc%5D=AV&api\_key=win123](http://IPSERVIDOR/NOMBREINSTANCIA/vERP_2_dat_dat/v1/_query/lin_est?param%5Bentidad%5D=33267&param%5Bfec_fin%5D=31122020&param%5Bfec_ini%5D=01012000&param%5Btipo_doc%5D=AV&api_key=win123)
 
 ·         La url tiene los siguientes parámetros:
 
