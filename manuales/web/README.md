@@ -14,71 +14,6 @@
   * Conexión con plugins WordPress
   * Catálogos de productos, servicios, tarifas de precios y cualquier desarrollo que te puedas imaginar
 
-## ¿Puedo usar esta API REST sin heredar o usar Velneo vERP? <a id="h.qgiu87q0crky"></a>
-
-Sí, para hacerlo tendrás que integrar en tus proyectos los siguientes objetos que encontrarás en los proyectos de Velneo vERP. Lógicamente debes añadir los objetos del proyecto de datos en tu proyectos de datos y lo mismo con los de aplicación.
-
-### Objetos a integrar del proyecto de datos vERP.dat <a id="objetos-a-integrar-del-proyecto-de-datos-verp-dat"></a>
-
-#### Scripts <a id="scripts"></a>
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2Fb114809f503e67d21f88a3fb6988581dde0c89df.png?alt=media)Captura de pantalla 2016-05-31 a las 9.29.26.png
-
-Exportar la carpeta de script **js/api\_rest\_v1** que contiene los scripts:
-
-* **api\_rest\_funciones\_v1.js**
-* **swagger.js**
-* **v1.js**
-
-Se puede importar la carpeta directamente o bien cada uno de los scripts de forma individual. Lo verdaderamente importante es mantener la estructura de carpetas, es decir, que exista la carpeta js y dentro de esta la carpeta api\_rest\_v1 donde ubicaremos ambos scripts. De esta forma el resto de objetos que hacen referencia a estas ubicaciones serán operativos al pegarlos en nuestro proyecto sin necesidad de revisar sus propiedades.
-
-Exportar el script **activarVista.js** que está incluido en la carpeta /js/interface/ e importarlo en nuestra aplicación en la misma estructura de carpetas. Este script es necesario para el control de vista activa del menú de API Keys.
-
-#### Tablas <a id="tablas"></a>
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F6947488c360f9447cc65adea7087e64a97a72408.png?alt=media)
-
-Carpeta Tablas/Configuración
-
-* **API\_KEY\_W** \(API keys\)
-* **API\_SEG\_W** \(API seguridad\)
-
-#### Dibujos <a id="dibujos"></a>
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F3e46d10b7839db779c6472fe07073842df119e01.png?alt=media)Captura de pantalla 2016-05-31 a las 9.32.13.png
-
-Carpeta Dibujos/Tablas/Configuración
-
-* **API\_KEY\_W \(API keys\)**
-* **API\_SEG\_W \(API seguridad\)**
-
-#### Procesos <a id="procesos"></a>
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F7b0c6a9f0141b84824be9b517181bd9ad22561ec.png?alt=media)
-
-Carpeta Procesos/API REST v1
-
-* **SWAGGER**
-* **API\_REST\_v1**
-
-### Objetos a integrar del proyecto de aplicación vERP.app <a id="objetos-a-integrar-del-proyecto-de-aplicacion-verp-app"></a>
-
-#### Carpetas con objetos de interfaz <a id="carpetas-con-objetos-de-interfaz"></a>
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2Fc41296d43e1faf21d2ad8c670aea2a382a3445fd.png?alt=media)Captura de pantalla 2016-05-31 a las 9.34.39.png
-
-Dentro de la carpeta Configuración copiar la carpeta API keys con todas sus subcarpetas.
-
-#### Opción de menú para ejecutar la interfaz <a id="opcion-de-menu-para-ejecutar-la-interfaz"></a>
-
-Para ejecutar la opción de menú que muestra la interfaz de API keys donde se define toda la seguridad debemos lanzar la acción **API\_KEY\_W\_MEN** es recomendable que esta opción sólo esté disponible para administradores o usuarios avanzados.Captura de pantalla 2016-05-31 a las 9.37.03.png
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2Ffdf042a3cb810b90175a0ab311ee37228a5b73d8.png?alt=media)
-
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2Fce668c6b1c514961c3b0e66991b1307f4a3cf66c.png?alt=media)
-
-Guardar y reiniciar las instancias en el servidor.
-
 ## Ejecutar la aplicación y configurar la seguridad <a id="h.75wthxkvhxe"></a>
 
 La seguridad del API REST está basada en 2 capas actualmente:
@@ -88,11 +23,11 @@ La seguridad del API REST está basada en 2 capas actualmente:
 
 La capa 1 consiste en una clave definible por el programador o el usuario en tiempo de ejecución que se configura desde el menú Supervisor -&gt; API keys.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F8b44168ae28e5e2c6afbd95e9bc4245575fc0160.png?alt=media)
+![](../../.gitbook/assets/screenshot_1.png)
 
 Al ejecutar esta opción se muestra el formulario de menú de API keys
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F67eafe2c624ca2f45ad81dfda681c291083add25.png?generation=1589374147796469&alt=media)
+![](../../.gitbook/assets/image%20%28419%29.png)
 
 Podemos crear tantos registros como queramos, en cada registro de API key debemos grabar una descripción y el valor de la clave del API key.
 
