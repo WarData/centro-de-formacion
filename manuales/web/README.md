@@ -35,7 +35,7 @@ Podemos crear tantos registros como queramos, en cada registro de API key debemo
 
 En la pestaña seguridad del API key podremos generar tantos registros como tablas tenemos en nuestros proyectos de datos más un registro para los objetos poder configurar la seguridad de los procesos que no tienen tabla destino declarada.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F1e58eb3ca2f75869a7d4faba1408b9b31db2dbd3.png?alt=media)
+![](../../.gitbook/assets/screenshot_2.png)
 
 En el formulario se puede configurar con el check si es para procesos sin tabla destino, una vez marcado sólo nos aparecerá la pestaña de procesos.
 
@@ -45,7 +45,7 @@ En caso de no marcar el check sin tabla nos aparecerán 3 pestañas para configu
 
 Para seleccionar un proceso, lo que debemos seleccionar en los combo boxes son el proyecto de datos donde está tabla de destino y la tabla de destino.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F5c8ceaf5d52d878cbaf201e8a2735a3db70c5b39.png?alt=media)
+![](../../.gitbook/assets/screenshot_1%20%281%29.png)
 
 En el caso de configurar una tabla debemos seleccionar un proyecto de datos de todos los cargados en ejecución y una vez seleccionado el proyecto podremos elegir la tabla sobre la que vamos a configurar la seguridad.
 
@@ -63,9 +63,9 @@ Si queremos dejar accesible un número pequeño de campos es mejor no marcar el 
 
 Los procesos y las búsquedas funcionan igual con un check que permite seleccionar todas excluyendo las seleccionadas o solo incluir las seleccionadas si no marcamos el check.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F4a4d4832dacdffaa5afdd556c5c2dd8b011421bc.png?alt=media)
+![](../../.gitbook/assets/screenshot_3.png)
 
-![](https://gblobscdn.gitbook.com/assets%2F-M7D2zitZhY9szSsa5EK%2Fsync%2F5bcd4f0108002472a1641b44a9649d2aec214e1a.png?alt=media)
+![](../../.gitbook/assets/screenshot_4.png)
 
 ### Probar el API desde Swagger <a id="probar-el-api-desde-swagger"></a>
 
