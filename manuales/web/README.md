@@ -75,93 +75,17 @@ Swagger es estándar para definir interfaces de API REST que permite que tanto p
 
 El API REST de Velneo genera dinámicamente un fichero de definición swagger del API disponible en tu aplicación.
 
-Para acceder Swagger usa la siguiente url:[Swagger UIdemoapi.velneo.com](https://demoapi.velneo.com/swagger/)
-
-Si estás usando la versión anterior de la API rest, entonces has de usar esta otra URL:
-
-​[https://demoapi.velneo.com/swagger\_old/](https://demoapi.velneo.com/swagger_old/)​
+Para acceder a Swagger usa la siguiente url: [https://demoapi.velneo.com/swagger\_old/](https://demoapi.velneo.com/swagger_old/)
 
 Verás que al cargar la página propone la url de acceso a la instancia web que tenemos de la demo de Velneo vERP \([https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/swagger](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/swagger)\) y nos pide que introduzcamos la APIKey. En el caso de la demo de vERP ésta es: api123
 
-Así ya podrás comprobar cómo funciona.
-
-Para poder ver una documentación vistosa de tu API, puedes introducir tu url de definición de Swagger en la URherramienta swagger ui.[http://petstore.swagger.io/](https://www.google.com/url?q=http://petstore.swagger.io/&sa=D&ust=1489485501837000&usg=AFQjCNFkClaochIeZIynVgsu8eriZJR-LQ), en la casilla superior y pulsar explorar. Si quieres acceder desde una red privada puedes descargar la herramienta swagger ui a tu ordenador y generar la documentación de tu API en local [https://github.com/swagger-api/swagger-ui](https://www.google.com/url?q=https://github.com/swagger-api/swagger-ui&sa=D&ust=1489485501838000&usg=AFQjCNGneyJTQcDBsU3Nkj0c4DQkFg_SOg)​
-
-Desde swagger ui, no solamente puedes ver la documentación de la API, sino que podrás probar los distintos recursos y testear contra los datos reales de las aplicaciones.
-
-Recuerda introducir el API key que has puesto en vERP en la página de Swagger UI para poder simular las mismas opciones que se puedan hacer con dichao API key.
+Así ya podrás comprobar cómo funciona. En caso de querer probar con nuestra url simplemente habrá que indicarla \(https://DOMINIO/dat\__winmotor\_dat/_v1/w7\_art?filter%5Bid%5D=1\) con su api: api123.
 
 **Doble factor de validación**
 
-Tras mostrarse la interfaz de Swagger, es necesario conocer el nombre de la API y asignarla a la variable “api\_name”. Una vez comprobada su validez, se mostrarán los recursos disponibles y será necesaria la validación del “api\_key” para usarlos.
-
-**Información del API Rest configurable**
-
-Los texto que se muestran en la pantalla inicial del API Rest, son obtenidos de la pestaña “Comentarios” del proyecto.
-
-Una vez validado con un api\_name, la información será sustituida por la que exista en las observaciones de la tabla del API.
-
-**Información de las tablas configurable**
-
-La información adicional mostrada en las tablas, procesos y/o búsquedas es obtenida desde el campo “Comentarios” de cada tabla.
-
-**Métodos append, cross y delete para los filtros**
-
-El filtrado por defecto realiza un _{cross}_ \(cruce de registros\). Por ejemplo, si filtramos por los artículos que contengan la palabra “cámara” y como segundo filtro le asignamos que la familia sea “A01”, nos devolverá las cámaras cuya familia sea A01.
-
-​[https://midominio.velneo.net/verp-api/vERP\_2\_dat\_dat/v1/art\_m?fields=id,name,fam&filter\[words\]=camara&filter\[fam\]=A01&api\_key=apideejemplo](https://midominio.velneo.net/verp-api/vERP_2_dat_dat/v1/art_m?fields=id,name,fam&filter[words]=camara&filter[fam]=A01&api_key=apideejemplo)​
-
-También es posible añdair registros en filtrado, usando el método _{add}._ Para que en el mismo ejemplo sume los registros que contengan la palabra cámara a los que contengan la familia A01, sería:
-
-​[https://midominio.velneo.net/verp-api/vERP\_2\_dat\_dat/v1/art\_m?fields=id,name,fam&filter\[words\]=camara&filter\[fam{add}\]=A01&api\_key=apideejemplo](https://midominio.velneo.net/verp-api/vERP_2_dat_dat/v1/art_m?fields=id,name,fam&filter[words]=camara&filter[fam]=A01&api_key=apideejemplo)​
-
-También es posible quitar registros en el filtrado, mediante el método _{delete}._ Para que en el mismo ejemplo quite los registros que contengan la familia A01 dejando solo los que contengan la palabra “cámara” y no sean de la familia A01.
-
-​[https://midominio.velneo.net/verp-api/vERP\_2\_dat\_dat/v1/art\_m?fields=id,name,fam&filter\[words\]=camara&filter\[fam{delete}\]=A01&api\_key=apideejemplo](https://midominio.velneo.net/verp-api/vERP_2_dat_dat/v1/art_m?fields=id,name,fam&filter[words]=camara&filter[fam]=A01&api_key=apideejemplo)​
-
-**Agrupamiento de recursos por** _**tags**_
-
-Todos los recursos mostrados por el API Rest \(tablas con sus métodos, procesos y búsquedas\) son agrupado por nombre de tabla y pueden mostrarse y/o ocultarse.
-
-**Interfaz**
-
-La interfaz permite añadir mediante botones más usables los parámetros de búsqueda, nuevos botones para copiar la llamada y la respuesta del API, …
-
-Ejemplos:
-
-Url Swagger vERP Demo: \(clave api= api123\)
-
-​[https://demoapi.velneo.com/swagger/](https://demoapi.velneo.com/swagger/)​
-
-Url Swagger para el registro de tu propia documentación:
-
-​[http://petstore.swagger.io/](http://petstore.swagger.io/)​
-
-**Todos los artículos:**
-
-​[https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/v1/art\_m?api\_key=api123](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/art_m?api_key=api123)​
-
-Todos los artículos pero mostrando los campos id, name, dsc:
-
-​[https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/v1/art\_m?fields=id%2Cname%2Cdsc&api\_key=api123](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/art_m?fields=id%2Cname%2Cdsc&api_key=api123)​
-
-El artículo con id=1
-
-​[https://demoapi.velneo.com/verp-api/](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/art_m?filter[id]=1&api_key=api123)
-
-[vERP\_2\_dat\_dat/v1/art\_m?filter%5Bid%5D=1&api\_key=api123](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/art_m?filter[id]=1&api_key=api123)​
-
-Los artículos con id 1, 3 y 5
-
-​[https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/v1/art\_m?filter%5Bid%5D=1%2C%203%2C%205&api\_key=api123](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/art_m?filter[id]=1%2C%203%2C%205&api_key=api123)​
-
-Todos los clientes:
-
-\[[https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/v1/ent\_m?api\_key=api123\]\(https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/v1/ent\_m?api\_key=ap](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/ent_m?api_key=api123]%28https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/v1/ent_m?api_key=ap)
+Tras mostrarse la interfaz de Swagger, es necesario conocer el nombre de la API y asignarla a la variable “api\_name”. Una vez comprobada su validez, se mostrarán los recursos disponibles y será necesaria la validación del “api\_key” para usarlos.​
 
 {% hint style="info" %}
 Si bien Swagger requiere [CORS](https://es.wikipedia.org/wiki/Intercambio_de_recursos_de_origen_cruzado) \(\(Cross-Origin-Resource-Sharing\) si usamos el API Rest de Velneo vERP no es necesario activarlo en Apache, pues las propias cabeceras de nuestra API Rest ya lo activan directamente.
 {% endhint %}
-
-[Enlace a Opciones Específicas](opciones-especificas/) \(API de [pedidos](opciones-especificas/api-de-pedidos.md) y [compras](opciones-especificas/api-de-compras.md)\)
 
