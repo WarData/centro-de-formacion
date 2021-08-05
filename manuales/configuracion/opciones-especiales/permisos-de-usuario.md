@@ -18,9 +18,9 @@ Ahora, con un doble clic en el perfil "TA - Taller" abriremos la edición de las
 
 ![](../../../.gitbook/assets/image%20%28176%29.png)
 
-Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa \(permisos\), opciones especiales como bloqueos de precios de venta, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto, etc...
+Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa \(permisos\), opciones especiales como bloqueos de precios y descuentos de venta, visualización de documentos de todas las series en listados, predefinición de centas en centros de costes, apertura de cuentas contabilizadas, ver costes y beneficios, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto \(a nivel perfil afecta al conjunto de usuarios incluidos\), etc...
 
-![Especiales](../../../.gitbook/assets/image%20%28194%29.png)
+![](../../../.gitbook/assets/imagen%20%2819%29.png)
 
 ![Series de documentos por defecto para el perfil](../../../.gitbook/assets/image%20%28301%29%20%281%29.png)
 
@@ -36,7 +36,7 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/imagen%20%2819%29.png)
+![](../../../.gitbook/assets/imagen%20%2820%29.png)
 
 \*\*\* Permisos específicos:
 
@@ -65,7 +65,7 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/imagen%20%2821%29.png)
+![](../../../.gitbook/assets/imagen%20%2822%29.png)
 
 \*\*\* Permisos específicos
 
@@ -76,5 +76,5 @@ Permisos según el “Nivel del usuario”
 
 ·         Barra de opciones
 
-![](../../../.gitbook/assets/imagen%20%2820%29.png)
+![](../../../.gitbook/assets/imagen%20%2821%29.png)
 
