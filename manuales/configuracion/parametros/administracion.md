@@ -8,7 +8,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 * **Contables** \(a su vez incluye 5 pestañas de configuración\)
 
-1.- General \(enlazada o integrada en Winmotor, cuentas, último cierre, opciones de contabilización básica...\)
+1.- General \(enlazada o integrada en Winmotor, definición de cuentas, último cierre, opciones de contabilización básica...\)
 
 ![](../../../.gitbook/assets/image%20%28489%29.png)
 
