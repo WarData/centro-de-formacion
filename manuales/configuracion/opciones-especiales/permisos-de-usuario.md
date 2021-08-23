@@ -1,3 +1,7 @@
+---
+description: Perfiles definidos para uno o varios usuarios con permisos similares
+---
+
 # Permisos de Usuario
 
 Los permisos se definen en los perfiles de usuarios. **A cada usuario solo se le puede definir un perfil.**
