@@ -48,7 +48,6 @@
     * [Panel de artículos](manuales/maestros/articulos/panel-de-articulos/README.md)
       * [Botones lateral izquierdo](manuales/maestros/articulos/panel-de-articulos/botones-lateral-izquierdo.md)
       * [Botones inferiores](manuales/maestros/articulos/panel-de-articulos/botones-inferiores.md)
-    * [Stocks](manuales/maestros/articulos/stocks.md)
     * [Tallas](manuales/maestros/articulos/tallas.md)
     * [Colores](manuales/maestros/articulos/colores.md)
     * [Gestión de Precios y Tarifas de Ventas](manuales/maestros/articulos/gestion-de-precios-y-tarifas-de-ventas.md)
