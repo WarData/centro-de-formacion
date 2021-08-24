@@ -104,7 +104,7 @@ Para acceder a la ficha del artículo seleccionado, se puede hacer doble clic so
 
 ![](../../../../.gitbook/assets/image%20%28394%29.png)
 
-                     o   _Rotación y consumos:_
+                     o   _Rotación y consumos:_ [_véase "Gestión de la rotación de consumos y el stock mínimo"_](../gestion-de-la-rotacion-de-consumos-y-el-stock-minimo.md)\_\_
 
 ![](../../../../.gitbook/assets/image%20%28359%29.png)
 
