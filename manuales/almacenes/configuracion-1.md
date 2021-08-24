@@ -70,5 +70,5 @@ o   En líneas de documentos
 
 ·         Idéntico a compras, pero siempre buscando almacenes con disponibilidad de stock del articulo seleccionado.
 
-·         No se puede modificar el almacén en ni en el formulario de modificación ni en el de alta.
+·         No se puede modificar el almacén ni en el formulario de modificación ni en el de alta.
 
