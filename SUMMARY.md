@@ -89,7 +89,7 @@
   * [Maestros Genéricos](manuales/submaestros/maestros-genericos.md)
 * [Almacenes](manuales/almacenes/README.md)
   * [Partes de almacén](manuales/almacenes/partes-de-almacen.md)
-  * [Almacences](manuales/almacenes/configuracion-1.md)
+  * [Almacenes](manuales/almacenes/configuracion-1.md)
   * [Fabricaciones](manuales/almacenes/fabricaciones.md)
 * [Compras](manuales/compras/README.md)
   * [Propuesta](manuales/compras/propuesta.md)
