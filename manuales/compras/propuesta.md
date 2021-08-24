@@ -1,2 +1,2 @@
-# Propuesta
+# Propuestas
 
