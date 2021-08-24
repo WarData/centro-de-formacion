@@ -1,2 +1,2 @@
-# Gastos
+# Cartera de cobros
 

@@ -1,2 +1,2 @@
-# Facturas de Ventas
+# Facturas de gastos
 
