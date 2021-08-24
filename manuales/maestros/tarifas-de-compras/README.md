@@ -12,5 +12,5 @@ Se entiende por tarifa, cada una de las referencias que tiene un proveedor, y qu
 
 Como se puede ver, y teniendo en cuenta que el fichero de artículos es el más utilizado de la aplicación, con este sistema no tendremos tanto volumen de datos en él, y cuando necesitemos crear un nuevo artículo, no tendremos que crearlo manualmente. Sino que teniendo grabada las tarifas de los proveedores, con un solo click tendremos creado el artículo \(con su descripción, precios de compra y venta, y descuentos\). El objetivo de este proceso es facilitar y acelerar el trabajo de los usuarios.
 
-Opciones existentes en el menú de tarifas:
+Opciones existentes en el menú de tarifas: continúe en el botón derecho ["Ficha del artículo de tarifa"](ficha-del-articulo-de-tarifa.md)
 
