@@ -8,13 +8,13 @@ Con este documento, se justifica la existencia de la transacción y su recepció
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de compras de la mercancía recibida de nuestros proveedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentaré todos los albaranes de compras con la fecha indicada en el calendario.
 
-![](../../.gitbook/assets/imagen%20%2834%29.png)
+![](../../.gitbook/assets/imagen%20%2836%29.png)
 
 **1.- NUEVO ALBARÁN**
 
 Permite dar de alta a un nuevo albarán de compra mediante el siguiente formulario.
 
-![](../../.gitbook/assets/imagen%20%2838%29.png)
+![](../../.gitbook/assets/imagen%20%2840%29.png)
 
 Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia decepcionada, cantidad, importe, etc.
 
@@ -42,7 +42,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 
 * **Factura:** se presenta aquí el número del documento y la fecha en la que se ha facturado el albarán de compra además de un botón "Ver" que permite la apertura de la factura desde el propio albarán:
 
-![](../../.gitbook/assets/imagen%20%2839%29.png)
+![](../../.gitbook/assets/imagen%20%2841%29.png)
 
 * **Centro:** este campo solo será visible por aquellas aplicaciones Winmotor Multi-Centro, en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se graba el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 
@@ -54,7 +54,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 
 * **Proveedor:** indicamos aquí el proveedor de la mercancía. Contiene cuatro botones insertados para poder localizar el proveedor deseado, crear uno nuevo, editrlo y cambiar los datos:
 
-![](../../.gitbook/assets/imagen%20%2827%29.png)
+![](../../.gitbook/assets/imagen%20%2829%29.png)
 
 * **Dirección, CIF, tipo de pago y vencimientos:** muestra, respectivamente, la dirección, CIF, tipo de pago y vencimientos del proveedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha del proveedor. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado Maestros del menú Administración.
 
@@ -69,6 +69,32 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 **Barra de pestañas**
 
 * **Artículos:** contiene una rejilla en la que se nos presentan las líneas del albarán de compra ordenadas por el campo contador de cada línea. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de albarán.
+
+
+
+* **Totales**: muestra la información totalizada de bases, porcetajes de IVA, importe de IVA y parciales, así como importe pagado y pendiente si es que han existido anticipos de pago asociados al documento.
+
+
+
+* **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte \(es posible que la realización incluya costes de programación\)
+
+
+
+* **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto. 
+
+![](../../.gitbook/assets/imagen%20%2825%29.png)
+
+* **Seguimientos**: añade asuntos a la agendas de los usuarios para el control del documento, permitiendo en ésta añadir avisos a horas programables.
+
+
+
+* **Auditoría**: control de las modificaciones por usuario y evento
+
+
+
+* **Acciones**: control de acciones sobre el documento en función de qué, quién y cuándo se ha realizado.
+
+**Alta de líneas**
 
 Al hacer doble click sobre cualquier línea vacía o pulsar el botón del lateral izquierdo "Nueva línea de artículo o concepto" se nos presentará el formulario de grabación de líneas con los siguientes campos:
 
@@ -86,7 +112,7 @@ Al hacer doble click sobre cualquier línea vacía o pulsar el botón del latera
 
                     **- Precio**: importe de compra del artículo. Por defecto tomará el que tuviera el artículo antes de ser recepcionado. Si se modifica este precio, saltará la pantalla de control de precios \(ver siguiente imagen\), donde podremos modificar los precios directamente en la ficha del artículo:
 
-![](../../.gitbook/assets/imagen%20%2825%29.png)
+![](../../.gitbook/assets/imagen%20%2827%29.png)
 
                     **- Descuento y Descuento 2**: podremos indicar hasta dos posibles descuentos. Si se modifican, también saltará la pantalla de control de precios del artículo.
 
@@ -94,7 +120,7 @@ Al hacer doble click sobre cualquier línea vacía o pulsar el botón del latera
 
                     **- % IVA**: tomará el porcentaje de IVA definido en la ficha del artículo si en el albarán se tienen que calcular los impuestos y permitirá su modificación mediante el desplegable:
 
-![](../../.gitbook/assets/imagen%20%2831%29.png)
+![](../../.gitbook/assets/imagen%20%2833%29.png)
 
 **Opciones de las líneas de albarán**
 
@@ -103,7 +129,7 @@ Al hacer doble click sobre cualquier línea vacía o pulsar el botón del latera
 
 Para eliminar una línea de albarán, tendremos que hacer doble clic en la línea a borrar o editar, se abrirá la ventana del artículo o servicio y pulsaremos el botón "Eliminar":
 
-![](../../.gitbook/assets/imagen%20%2832%29.png)
+![](../../.gitbook/assets/imagen%20%2834%29.png)
 
 * **Totales:** presenta el desglose de importe totales del albarán de compra.
 
@@ -111,7 +137,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 **Totales \(tipo de impuesto IGIC\)**
 
-![](../../.gitbook/assets/imagen%20%2828%29.png)
+![](../../.gitbook/assets/imagen%20%2830%29.png)
 
 * **Observaciones:** aquí podremos anotar todas las notas que necesitemos relativas al albarán de compra.
 
@@ -129,11 +155,11 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 ![Botones de albar&#xE1;n SIN CONFIRMAR](../../.gitbook/assets/imagen%20%2824%29.png)
 
-![Botones de albar&#xE1;n CONFIRMADO](../../.gitbook/assets/imagen%20%2829%29.png)
+![Botones de albar&#xE1;n CONFIRMADO](../../.gitbook/assets/imagen%20%2831%29.png)
 
-![Albar&#xE1;n en modo BORRADOR](../../.gitbook/assets/imagen%20%2826%29.png)
+![Albar&#xE1;n en modo BORRADOR](../../.gitbook/assets/imagen%20%2828%29.png)
 
-![Albar&#xE1;n CERRADO](../../.gitbook/assets/imagen%20%2841%29.png)
+![Albar&#xE1;n CERRADO](../../.gitbook/assets/imagen%20%2843%29.png)
 
 **2 - BUSCAR**
 
@@ -154,7 +180,7 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Esta opción lanza una búsqueda que nos presentará un listado de albaranes de compras. Este listado se puede acotar a través del filtro de búsqueda que se presenta a continuación:
 
-![](../../.gitbook/assets/imagen%20%2830%29.png)
+![](../../.gitbook/assets/imagen%20%2832%29.png)
 
 Se podrá filtrar por una determinada serie o todas, por un intervalo de fechas, proveedor, centro, tipo de pago, estado \(facturado o pendiente\) y por la situación del albarán \(facturados, pendientes de facturar o todos\). Después de indicar los criterios deseados, nos aparecerá una rejilla con los albaranes que cumplan esas condiciones.
 
@@ -178,19 +204,19 @@ Mediante esta opción, podremos crear facturas de compras en tanda por todos aqu
 
 El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar los albaranes que se quieran facturar, y a continuación pulsar sobre el botón situado en la barra de herramientas inferior. El programa se encargará de crear una factura dividiendo los albaranes por series, tipos de pagos, proveedor y régimen de IVA.
 
-![](../../.gitbook/assets/imagen%20%2833%29.png)
+![](../../.gitbook/assets/imagen%20%2835%29.png)
 
-![Selecci&#xF3;n de 6 albaranes de compras](../../.gitbook/assets/imagen%20%2837%29.png)
+![Selecci&#xF3;n de 6 albaranes de compras](../../.gitbook/assets/imagen%20%2839%29.png)
 
-![Al facturar, se muestra el resultado de la facturaci&#xF3;n](../../.gitbook/assets/imagen%20%2840%29.png)
+![Al facturar, se muestra el resultado de la facturaci&#xF3;n](../../.gitbook/assets/imagen%20%2842%29.png)
 
 **6 - FACTURACIÓN POR SELECCIÓN**
 
 Permite facturar directamente todos los albaranes seleccionados previo filtro de serie, fecha, entidad y/o tipo de pago:
 
-![](../../.gitbook/assets/imagen%20%2835%29.png)
+![](../../.gitbook/assets/imagen%20%2837%29.png)
 
-![](../../.gitbook/assets/imagen%20%2836%29.png)
+![](../../.gitbook/assets/imagen%20%2838%29.png)
 
 
 
