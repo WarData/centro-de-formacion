@@ -152,15 +152,14 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 Localizador de facturas de compras a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una factura. Al acceder a esta opción encontraremos la siguiente pantalla:
 
+![](../../.gitbook/assets/imagen%20%2845%29.png)
+
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
-**-NÚMERO:** el cursor se irá situando en la factura cuyo número coincida con el seleccionado.
-
-**-FECHA:** el cursor se irá situando en la factura cuya fecha coincida con la seleccionada.
-
-**-REFERENCIA PROVEEDOR:** el cursor se irá situando en la factura cuya referencia del proveedor vaya coincidiendo con la introducida en el campo de edición.
-
-**-NOMBRE PROVEEDOR:** el cursor se irá situando en la factura cuya razón social vaya coincidiendo con lo introducido en el campo de edición.
+* **Número de documento:** el cursor se irá situando en la factura cuyo número coincida con el seleccionado.
+* **Fecha:** el cursor se irá situando en la factura cuya fecha coincida con la seleccionada.
+* **Referencia:** el cursor se irá situando en la factura cuya referencia del mismo campo vaya coincidiendo con la introducida en el campo de edición.
+* **Nombre entidad:** el cursor se irá situando en la factura cuya razón social vaya coincidiendo con lo introducido en el campo de edición.
 
 Para acceder a la ficha de la factura seleccionada, se puede hacer doble clic sobre ella, pulsar el botón SELEC., o teclear el botón intro del teclado.
 
