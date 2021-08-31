@@ -157,15 +157,24 @@ Localizador de facturas de compras a través de distintos criterios. Nos permite
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
 * **Número de documento:** el cursor se irá situando en la factura cuyo número coincida con el seleccionado.
+
+
+
 * **Fecha:** el cursor se irá situando en la factura cuya fecha coincida con la seleccionada.
+
+
+
 * **Referencia:** el cursor se irá situando en la factura cuya referencia del mismo campo vaya coincidiendo con la introducida en el campo de edición.
+
+
+
 * **Nombre entidad:** el cursor se irá situando en la factura cuya razón social vaya coincidiendo con lo introducido en el campo de edición.
 
-Para acceder a la ficha de la factura seleccionada, se puede hacer doble clic sobre ella, pulsar el botón SELEC., o teclear el botón intro del teclado.
+Para acceder a la ficha de la factura seleccionada, se puede hacer doble clic sobre ella o, una vez seleccionada, pulsar el botón intro del teclado.
 
 El formulario que se presenta es el mismo que el de grabación.
 
-3 – LISTAR
+**3 – LISTAR**
 
 4 – LISTAR POR PROVEEDOR  
  5 – LISTAR POR PROVEEDOR / ENTIDAD
