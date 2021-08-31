@@ -104,7 +104,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 
-* **Pagos**: muestra la información del apunte en la cuenta de tesorería
+* **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente.
 
 
 
@@ -130,23 +130,9 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 
-* **Borrar**: si la factura no está contabilizada, se podrá borrar la línea mediante este botón.
+* **Eliminar**: si la factura no está contabilizada, se podrá borrar la línea mediante este botón.
 
 
-
-* **Detalle:** presenta detalladamente las líneas de los albaranes que componen la factura de compra de tipo recambios.
-
-
-
-* **Totales:** presenta el desglose de importe totales de la factura de compra.
-
-
-
-* **Pagos:** en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente.
-
-
-
-* **Notas:** pestaña en la que podremos anotar notas relacionadas con la factura de compra.
 
 **Opciones desde una factura de compras:**
 
@@ -163,6 +149,8 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 * **Imprimir:** botón para imprimir una copia de la factura de compras.
+
+
 
 **2 - BUSCAR**
 
