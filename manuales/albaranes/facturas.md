@@ -98,6 +98,8 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 **Barra de pestañas**
 
+\*\*\*\*
+
 * **Detalle:** presenta la rejilla que corresponde en función del tipo de factura que estemos grabando. En el caso de las facturas de recambios, nos presentará los documentos origen que componen la factura, y en las de vehículos nuevos u ocasión, los bastidores que se están facturando pero con diferentes rejillas. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de factura. Al hacer doble click sobre cualquier línea vacía o pulsar el botón del lateral izquierdo "Nueva línea de artículo o concepto" se nos presentará el formulario de grabación de líneas correspondiente a cada tipo de factura:
 
                 ·    Grabación de líneas de recambios: en estas líneas podremos indicar los       documentos origen que compondrán la factura. Estos pueden ser albaranes de compras, garantías, órdenes de garantías, promociones o bonificaciones / penalizaciones de documentaciones. Los campos que la componen son los siguientes:
@@ -120,6 +122,8 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 **Opciones de las líneas de facturas de compras:**
 
+\*\*\*\*
+
 * **Aceptar**: con este botón guardamos los cambios realizados.
 
 
@@ -131,6 +135,8 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 * **Eliminar**: si la factura no está contabilizada, se podrá borrar la línea mediante este botón.
 
 **Opciones desde una factura de compras:**
+
+\*\*\*\*
 
 * **Aceptar:** si pulsamos esta opción, quedarán guardados todos los cambios que hayamos realizado sobre la ficha de la factura.
 
@@ -152,7 +158,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 Localizador de facturas de compras a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una factura. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../.gitbook/assets/imagen%20%2845%29.png)
+![](../../.gitbook/assets/imagen%20%2849%29.png)
 
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
@@ -174,30 +180,36 @@ Para acceder a la ficha de la factura seleccionada, se puede hacer doble clic so
 
 El formulario que se presenta es el mismo que el de grabación.
 
-**3 – LISTAR**
+**3 – LISTADO GENERAL**
 
-4 – LISTAR POR PROVEEDOR  
- 5 – LISTAR POR PROVEEDOR / ENTIDAD
+Permite obtener un listado de facturas por varios filtros como serie, ejercicio, fechas de recepción y emisión, entidad, tipo de pago, estado de pago, régimen de IVA y país:
 
-6 – LISTADO DE IVA
+![](../../.gitbook/assets/imagen%20%2846%29.png)
 
-Con estas cuatro opciones, podemos sacar diferentes listados de facturas de compras. En todos ellos, la información podrá ser filtrada por el siguiente formulario de búsqueda.
+La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-La información de cada listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora.
+![](../../.gitbook/assets/imagen%20%2850%29.png)
 
-Listado normal
+**4 – LISTADO DE IVA**
 
-Listado por proveedores / entidad
+Muestra un listado de facturas para IVA por intervalo de fechas con las bases e impuestos desglosados. Presenta el siguiente formulario de búsqueda:
 
-Listado de IVA
+![](../../.gitbook/assets/imagen%20%2848%29.png)
 
-7 – LISTADO PRODUCCIÓN
+La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-Esta opción presenta un listado de vehículo comprados totalizando el importe de compra. El filtro de búsqueda es el siguiente.
+![](../../.gitbook/assets/imagen%20%2851%29.png)
 
-Se podrá visualizar por pantalla o directamente por impresora.
+* Revisión: permite controlar la contabilización de las facturas mostradas
+* Exportación a Excel: realiza la exportación a un fichero Excel
+* Listado IVA: imprime el listado mostrado
+* Listado comprobación: imprime la verificación contabilizado o no
 
-8 – GRÁFICO DE COMPRAS
+**5 - CÁLCULO 347 COMPRAS**
 
-Esta opción presenta un gráfico de las compras realizadas en el periodo seleccionado. El filtro de búsqueda es el mismo que el de las opciones 3, 4, 5 y 6. El gráfico que se presenta es similar al de la siguiente imagen, aunque se puede cambiar el estilo pulsando el botón secundario del teclado y seleccionado el deseado.
+Acumula los importes de facturas de compra y gastos por cada entidad:
+
+![Filtro 347 compras](../../.gitbook/assets/imagen%20%2847%29.png)
+
+![](../../.gitbook/assets/imagen%20%2845%29.png)
 
