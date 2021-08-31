@@ -102,8 +102,6 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
                 ·    Grabación de líneas de recambios: en estas líneas podremos indicar los       documentos origen que compondrán la factura. Estos pueden ser albaranes de compras, garantías, órdenes de garantías, promociones o bonificaciones / penalizaciones de documentaciones. Los campos que la componen son los siguientes:
 
-
-
 * **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente.
 
 
@@ -131,8 +129,6 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 * **Eliminar**: si la factura no está contabilizada, se podrá borrar la línea mediante este botón.
-
-
 
 **Opciones desde una factura de compras:**
 
