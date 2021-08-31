@@ -8,13 +8,13 @@ Con este documento, se justifica la existencia de la transacción y su recepció
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de compras de la mercancía recibida de nuestros proveedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentaré todos los albaranes de compras con la fecha indicada en el calendario.
 
-![](../../.gitbook/assets/imagen%20%2833%29.png)
+![](../../.gitbook/assets/imagen%20%2834%29.png)
 
 **1.- NUEVO ALBARÁN**
 
 Permite dar de alta a un nuevo albarán de compra mediante el siguiente formulario.
 
-![](../../.gitbook/assets/imagen%20%2834%29.png)
+![](../../.gitbook/assets/imagen%20%2838%29.png)
 
 Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia decepcionada, cantidad, importe, etc.
 
@@ -42,7 +42,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 
 * **Factura:** se presenta aquí el número del documento y la fecha en la que se ha facturado el albarán de compra además de un botón "Ver" que permite la apertura de la factura desde el propio albarán:
 
-![](../../.gitbook/assets/imagen%20%2835%29.png)
+![](../../.gitbook/assets/imagen%20%2839%29.png)
 
 * **Centro:** este campo solo será visible por aquellas aplicaciones Winmotor Multi-Centro, en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se graba el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 
@@ -133,7 +133,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 ![Albar&#xE1;n en modo BORRADOR](../../.gitbook/assets/imagen%20%2826%29.png)
 
-![Albar&#xE1;n CERRADO](../../.gitbook/assets/imagen%20%2836%29.png)
+![Albar&#xE1;n CERRADO](../../.gitbook/assets/imagen%20%2841%29.png)
 
 **2 - BUSCAR**
 
@@ -162,21 +162,35 @@ Se podrá filtrar por una determinada serie o todas, por un intervalo de fechas,
 
 [\*\*\* Recomendamos ver primero los 4 métodos de recepción pulsando aquí.](../../videos/metodos-de-recepcion-de-pedidos.md)
 
-Podremos utilizar esta opción como alternativa al alta manual de los albaranes. En este caso, al seleccionar la opción, se nos pedirá un proveedor.
+Esta opción es una de las cuatro . En este caso, al seleccionar la opción, se nos pedirá un proveedor y una serie \(aparece la serie por defecto del perfil\).
 
-Y a continuación aparecerán todas las referencias pendientes de recibir de dicho proveedor. Podremos marcar aquellas líneas a las que le vayamos a dar entrada, así como las unidades que recepcionamos de cada una.
+A continuación aparecerán todas las referencias pendientes de recibir de dicho proveedor. Podremos marcar aquellas líneas a las que le vayamos a dar entrada, así como las unidades que recepcionamos de cada una.
 
 La rejilla es multi-selección, para poder seleccionar las referencias recibidas, y editable, para indicar las unidades que se reciben.
 
-Las opciones que se presentan en esta rejilla, son las mismas que las explicadas en la opción recibir de los pedidos de material, un botón para crear los albaranes por las referencias seleccionadas, otro para sustituir referencias, y el último para ver el documento origen de cada línea.
+Las opciones que se presentan en esta rejilla, son las mismas que las explicadas en la opción "recibir" de los pedidos de material, un botón para crear los albaranes por las referencias seleccionadas, otro para sustituir referencias, y el último para ver el documento origen de cada línea.
 
-La diferencia entre lanzar la opción desde pedidos de material o lanzarla desde esta opción está en que en la primera solo se creará un albará de compra por todas las líneas seleccionadas, y en esta segunda opción, creará un albarán por cada serie de albaranes de compras destino existente. Hay que recordar que, en la serie de los pedidos de material se define a que serie de albarán de compra se vinculará cada pedido.
+La diferencia entre lanzar la opción desde pedidos de material o lanzarla desde esta opción está en que en la primera solo se creará un albarán de compras por todas las líneas seleccionadas, y en esta segunda opción, creará un albarán por cada serie de albaranes de compras destino existente. Hay que recordar que, en la serie de los pedidos de material se define a que serie de albarán de compra se vinculará cada pedido.
 
-5 – FACTURACIÓN AUTOMÁTICA
+**5 – FACTURACIÓN**
 
-Mediante esta opción, podremos crear facturas de compras en tanda por todos aquellos albaranes de compras pendientes de facturar. Al ejecutar la opción nos aparecerá el siguiente formulario de búsqueda, en el que podremos filtrar por varios criterios.
+Mediante esta opción, podremos crear facturas de compras en tanda por todos aquellos albaranes de compras pendientes de facturar. Al ejecutar la opción nos aparecerá el siguiente formulario de búsqueda, en el que podremos filtrar por varios criterios como proveedor, fecha, serie, tipo de pago, importe mínimo a facturar y fecha de facturación.
 
 El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar los albaranes que se quieran facturar, y a continuación pulsar sobre el botón situado en la barra de herramientas inferior. El programa se encargará de crear una factura dividiendo los albaranes por series, tipos de pagos, proveedor y régimen de IVA.
+
+![](../../.gitbook/assets/imagen%20%2833%29.png)
+
+![Selecci&#xF3;n de 6 albaranes de compras](../../.gitbook/assets/imagen%20%2837%29.png)
+
+![Al facturar, se muestra el resultado de la facturaci&#xF3;n](../../.gitbook/assets/imagen%20%2840%29.png)
+
+**6 - FACTURACIÓN POR SELECCIÓN**
+
+Permite facturar directamente todos los albaranes seleccionados previo filtro de serie, fecha, entidad y/o tipo de pago:
+
+![](../../.gitbook/assets/imagen%20%2835%29.png)
+
+![](../../.gitbook/assets/imagen%20%2836%29.png)
 
 
 
