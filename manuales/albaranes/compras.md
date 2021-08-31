@@ -125,6 +125,9 @@ Al hacer doble click sobre cualquier línea vacía o pulsar el botón del latera
 **Opciones de las líneas de albarán**
 
 * **Aceptar**: con este botón guardamos los cambios realizados.
+
+
+
 * **Cancelar**: abortamos el alta o modificación de la línea.
 
 Para eliminar una línea de albarán, tendremos que hacer doble clic en la línea a borrar o editar, se abrirá la ventana del artículo o servicio y pulsaremos el botón "Eliminar":
@@ -144,13 +147,37 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 **Opciones desde un albarán de compra:**
 
 * **Guardar:** si pulsamos esta opción, quedarán guardados todos los cambios que hayamos realizado sobre la ficha del albarán.
+
+
+
 * **Confirmar:** activa el albarán moviendo los artículos a stock \(compras\)
+
+
+
 * **Reparto**: permite mostrar los repartos de los distintos artículos siempre que el albarán haya sido generado desde un pedido de compras con relación a un pedido de ventas u OR, sino se mostrará el contenido vacío al no existir relación a cliente.
+
+
+
 * **Cancelar:** con este botón, saldremos de la ficha del albarán sin guardar los posibles cambios que hayamos realizado. Se puede pulsar la tecla ESC para ejecutar esta opción.
+
+
+
 * **Eliminar:** el botón solo estará activo si el albarán no está facturado, si se pulsa, se eliminará completamente.
+
+
+
 * **Imprimir:** podemos imprimir el albarán mediante este botón.
+
+
+
 * **Imprimir Etiquetas:** mediante esta opción podremos emitir las etiquetas de los artículo recibidos. Nos aparecerá la siguiente rejilla. Véase ["Impresión de etiquetas"](../../faq/impresion-de-etiquetas.md)
+
+
+
 * **Importar GREC**: opción exclusiva de Yamaha para la importación de albaranes electrónicos
+
+
+
 * **Facturar:** este botón sirve para facturar el albarán. Se nos pedirá confirmación del proceso, y a continuación aparecerá en pantalla la factura generada.
 
 ![Botones de albar&#xE1;n SIN CONFIRMAR](../../.gitbook/assets/imagen%20%2824%29.png)
@@ -168,8 +195,17 @@ Localizador de albaranes de compras a través de distintos criterios. Nos permit
 Este localizador nos permite buscar un albarán por los siguientes criterios:
 
 * **Número de documento:** el cursor se irá situando en el albarán cuyo número coincida con el seleccionado.
+
+
+
 * **Referencia:** búsqueda relacionada con el campo "Referencia" del albarán
+
+
+
 * **Fecha:** el cursor se irá situando en el primer albarán cuya fecha coincida con la seleccionada.
+
+
+
 * **Nombre de entidad:** el cursor se irá situando en el albarán cuya razón social vaya coincidiendo con lo introducido en el campo de edición.
 
 Para acceder a la ficha del albarán de compra seleccionado, se puede hacer doble clic sobre él o teclear el botón intro del teclado.
