@@ -10,39 +10,35 @@ Permite dar de alta un nuevo pedido de material rellenando el siguiente formular
 
 La imagen anterior nos muestra un formulario de pedidos de material, donde se graban tanto los datos generales, como las líneas con las referencias a pedir. La cabecera de un pedido está compuesta por los siguientes campos:
 
-* **SERIE:** es un campo imprescindible de rellenar, y por defecto toma el valor definido en los parámetros del programa. Podemos utilizarlo para clasificar diferentes tipos de pedidos, como por ejemplo, serie B para pedidos de boutique y R para recambios. Además, en las series de los documentos se pueden definir distintas características que tomará el pedido por defecto, entre ellas, se puede indicar que calcule los impuestos, lo que significa que el pedido llevará calculado en sus bases el impuesto correspondiente.
+* **Serie:** es un campo imprescindible de rellenar, y por defecto toma el valor definido en los parámetros del programa. Podemos utilizarlo para clasificar diferentes tipos de pedidos, como por ejemplo, serie B para pedidos de boutique y R para recambios. Además, en las series de los documentos se pueden definir distintas características que tomará el pedido por defecto, entre ellas, se puede indicar que calcule los impuestos, lo que significa que el pedido llevará calculado en sus bases el impuesto correspondiente.
 
 
 
-* **NÚMERO:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
+* **Número:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
 
 
 
-* **FECHA:** se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
+* **Fecha:** se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
 
 
-* **SITUACIÓN:** este campo no es manipulable por el usuario, y nos indica la situación del pedido. Esta puede ser, PENDIENTE, nos indica que todas las referencias solicitadas aún están pendiente de recibir y tramitar, TRAMITADO, indica que el pedido ha sido solicitado al proveedor y el documento pasará a esta situación si se imprime, envía por e-mail o se genera el fichero correspondiente para tramitarlo mediante algún método utilizado por el proveedor, PARCIAL, indica que se ha recibido parte del pedido, SERVIDO, indica que todas las referencias han sido recibidas.
+* **Situación:** este campo no es manipulable por el usuario, y nos indica la situación del pedido. Esta puede ser, PENDIENTE TRAMITAR, nos indica que todas las referencias solicitadas aún están pendiente de recibir y tramitar, TRAMITADO, indica que el pedido ha sido solicitado al proveedor y el documento pasará a esta situación si se imprime, envía por e-mail o se genera el fichero correspondiente para tramitarlo mediante algún método utilizado por el proveedor, INCOMPLETO, indica que se ha recibido parte del pedido, RECIBIDO, indica que todas las referencias han sido recibidas.
 
 
 
-* **SU REFERENCIA:** se puede anotar aquí la referencia del pedido del proveedor.
+* **Referencia:** se puede anotar aquí la referencia del pedido del proveedor.
 
 
 
-* **CENTRO:** este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el pedido. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
+* **Centro:** este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el pedido. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 
 
 
-* **CLASIFICACIÓN DE PEDIDO:** se indica aquí si el pedido es de reposición, urgente, campaña o garantía.
+* **Tipo de pedido:** se indica aquí si el pedido es de reposición, urgente, campaña o garantía.
 
 
 
-* **TIPO DE VEHÍCULO:** se podrá diferenciar pedidos para motos o quads. Solo será visible para proveedores Honda.
-
-
-
-* **PROVEEDOR:** indicamos aquí el proveedor al que vamos a realizar el pedido. Y mediante botón insertado en el campo del código del proveedor, podremos localizarlo, grabar uno nuevo o modificar el seleccionado. Además, podremos cambiar los datos del proveedor seleccionado en este pedido a través de los campos situados justo debajo del código del proveedor. Estos campos solo afectarán a este pedido y no se cambiará la ficha del proveedor.
+* **Poveedor:** indicamos aquí el proveedor al que vamos a realizar el pedido. Y mediante botón insertado en el campo del código del proveedor, podremos localizarlo, grabar uno nuevo o modificar el seleccionado. Además, podremos cambiar los datos del proveedor seleccionado en este pedido a través de los campos situados justo debajo del código del proveedor. Estos campos solo afectarán a este pedido y no se cambiará la ficha del proveedor.
 
 
 
