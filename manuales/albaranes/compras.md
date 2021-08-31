@@ -160,6 +160,8 @@ Se podrá filtrar por una determinada serie o todas, por un intervalo de fechas,
 
 **4 – RECEPCIONAR**
 
+[\*\*\* Recomendamos ver primero los 4 métodos de recepción pulsando aquí.](../../videos/metodos-de-recepcion-de-pedidos.md)
+
 Podremos utilizar esta opción como alternativa al alta manual de los albaranes. En este caso, al seleccionar la opción, se nos pedirá un proveedor.
 
 Y a continuación aparecerán todas las referencias pendientes de recibir de dicho proveedor. Podremos marcar aquellas líneas a las que le vayamos a dar entrada, así como las unidades que recepcionamos de cada una.
