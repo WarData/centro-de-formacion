@@ -116,7 +116,9 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 
-* Archivos:
+* **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto
+
+![](../../.gitbook/assets/imagen%20%2844%29.png)
 
 **Opciones de las líneas de facturas de compras:**
 
