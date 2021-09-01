@@ -158,7 +158,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 Localizador de facturas de compras a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una factura. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../.gitbook/assets/imagen%20%2853%29.png)
+![](../../.gitbook/assets/imagen%20%2855%29.png)
 
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
@@ -184,21 +184,21 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Permite obtener un listado de facturas por varios filtros como serie, ejercicio, fechas de recepción y emisión, entidad, tipo de pago, estado de pago, régimen de IVA y país:
 
-![](../../.gitbook/assets/imagen%20%2848%29.png)
+![](../../.gitbook/assets/imagen%20%2849%29.png)
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-![](../../.gitbook/assets/imagen%20%2856%29.png)
+![](../../.gitbook/assets/imagen%20%2858%29.png)
 
 **4 – LISTADO DE IVA**
 
 Muestra un listado de facturas para IVA por intervalo de fechas con las bases e impuestos desglosados. Presenta el siguiente formulario de búsqueda:
 
-![](../../.gitbook/assets/imagen%20%2852%29.png)
+![](../../.gitbook/assets/imagen%20%2854%29.png)
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-![](../../.gitbook/assets/imagen%20%2858%29.png)
+![](../../.gitbook/assets/imagen%20%2860%29.png)
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel
@@ -209,7 +209,7 @@ La información de**l** listado se presenta en las siguientes rejillas. Cada una
 
 Acumula los importes de facturas de compra y gastos por cada entidad:
 
-![Filtro 347 compras](../../.gitbook/assets/imagen%20%2851%29.png)
+![Filtro 347 compras](../../.gitbook/assets/imagen%20%2853%29.png)
 
-![](../../.gitbook/assets/imagen%20%2847%29.png)
+![](../../.gitbook/assets/imagen%20%2848%29.png)
 
