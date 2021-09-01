@@ -10,3 +10,5 @@ La opción estadísticas de compras permite filtrar las compras por tipo de docu
 
 ![Imagen 4](../../.gitbook/assets/imagen%20%2858%29.png)
 
+La pestaña observaciones permite incluir toda aquella información en texto referente al filtro creado.
+
