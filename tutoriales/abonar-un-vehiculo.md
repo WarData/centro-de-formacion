@@ -1,4 +1,4 @@
-# Abonar un vehículo
+# Abonar un vehículo desde su factura
 
 Una vez facturado el vehículo desde cualquier procedimiento \(operación comercial, entrega desde stock de vehículos o albarán y factura\) para abonar el vehículo debemos seguir los siguientes pasos:
 
