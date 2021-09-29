@@ -201,6 +201,7 @@
 ## Tutoriales
 
 * [Abonar un vehículo desde su factura](tutoriales/abonar-un-vehiculo.md)
+* [Eliminar del stock un vehículo](tutoriales/eliminar-del-stock-un-vehiculo.md)
 * [Pedidos - simulación de un pedido de ventas](tutoriales/pedidos-simulacion-de-un-pedido-de-ventas.md)
 * [Pedidos - simulación de una orden de reparación de taller OR](tutoriales/pedidos-simulacion-de-una-orden-de-reparacion-de-taller-or.md)
 * [Partes de Almacén - Inventarios  y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
