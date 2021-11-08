@@ -2,7 +2,7 @@
 
 * [Centro de Ayuda - Winmotor V7](README.md)
 
-## Manual <a id="manuales"></a>
+## Manual <a href="manuales" id="manuales"></a>
 
 * [Presentación](manuales/presentacion.md)
 * [Configuración](manuales/configuracion/README.md)
@@ -61,7 +61,7 @@
   * [Zonas](manuales/maestros/zonas.md)
   * [Marcas](manuales/maestros/marcas.md)
   * [Servicios](manuales/maestros/servicios.md)
-  * [Tarifas de Artículos \(compras\)](manuales/maestros/tarifas-de-compras/README.md)
+  * [Tarifas de Artículos (compras)](manuales/maestros/tarifas-de-compras/README.md)
     * [Ficha del artículo de tarifa](manuales/maestros/tarifas-de-compras/ficha-del-articulo-de-tarifa.md)
     * [Panel de tarifas de artículos](manuales/maestros/tarifas-de-compras/panel-de-tarifas-de-articulos/README.md)
       * [Botones lateral izquierdo](manuales/maestros/tarifas-de-compras/panel-de-tarifas-de-articulos/botones-lateral-izquierdo.md)
@@ -146,7 +146,7 @@
     * [Presupuesto de cobros](manuales/administracion/informes-estadisticos/presupuesto-de-cobros.md)
     * [Capital prestado](manuales/administracion/informes-estadisticos/capital-prestado.md)
   * [Declaraciones de importación](manuales/administracion/declaraciones-de-importacion.md)
-  * [Tributos \(nueva versión\)](manuales/administracion/tributos-nueva-version.md)
+  * [Tributos (nueva versión)](manuales/administracion/tributos-nueva-version.md)
 * [Automoción](manuales/automocion/README.md)
   * [Taller](manuales/automocion/taller/README.md)
     * [Órdenes de Reparación](manuales/automocion/taller/ordenes-de-reparacion/README.md)
@@ -211,15 +211,16 @@
   * [Traspaso del stock completo de un artículo](tutoriales/partes-de-almacen-inventarios-y-traspasos/traspaso-del-stock-completo-de-un-articulo.md)
 * [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
   * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
-  * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca.md)
+  * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca/README.md)
+    * [Importación Tarifa Honda](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca/importacion-tarifa-honda.md)
 * [Albaranes](tutoriales/albaranes/README.md)
   * [Anular línea o líneas seleccionadas en albarán de compras confirmado](tutoriales/albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
-* [Facturas](tutoriales/facturas_tutoriales/README.md)
-  * [Factura: cambio de la serie / número](tutoriales/facturas_tutoriales/factura-cambio-de-la-serie-numero.md)
-  * [Factura: abono de líneas o completo](tutoriales/facturas_tutoriales/factura-abono-de-lineas-o-completo.md)
-  * [Factura: cambiar contenido](tutoriales/facturas_tutoriales/factura-cambiar-contenido.md)
-  * [Factura: Borrado \(con y sin cobro asociado\)](tutoriales/facturas_tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
-  * [Factura: de gastos asociados a vehículos](tutoriales/facturas_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
+* [Facturas](tutoriales/facturas\_tutoriales/README.md)
+  * [Factura: cambio de la serie / número](tutoriales/facturas\_tutoriales/factura-cambio-de-la-serie-numero.md)
+  * [Factura: abono de líneas o completo](tutoriales/facturas\_tutoriales/factura-abono-de-lineas-o-completo.md)
+  * [Factura: cambiar contenido](tutoriales/facturas\_tutoriales/factura-cambiar-contenido.md)
+  * [Factura: Borrado (con y sin cobro asociado)](tutoriales/facturas\_tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
+  * [Factura: de gastos asociados a vehículos](tutoriales/facturas\_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
 * [Marca: dar de alta una nueva](tutoriales/marca-dar-de-alta-una-nueva.md)
 * [Ejercicio - Crear y configurar un nuevo ejercicio](tutoriales/ejercicio-crear-y-configurar-un-nuevo-ejercicio.md)
 * [Ejercicio - Cómo movernos entre ejercicios distintos](tutoriales/ejercicio-como-movernos-entre-ejercicios-distintos.md)
@@ -231,15 +232,15 @@
 
 ## FAQ
 
-* [Ordenes de Reparación \(ORs\)](faq/ordenes-de-reparacion-ors/README.md)
+* [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
   * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
   * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
 * [Pedidos](faq/pedidos/README.md)
-  * [Flujo de Pedidos \(Ventas / Compras\)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
+  * [Flujo de Pedidos (Ventas / Compras)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
   * [Uso del campo "Referencia" en Pedidos de Ventas](faq/pedidos/uso-del-campo-referencia-en-pedidos-de-ventas.md)
 * [Facturas](faq/facturas/README.md)
   * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
-* [Impresión de Etiquetas \(3 métodos\)](faq/impresion-de-etiquetas.md)
+* [Impresión de Etiquetas (3 métodos)](faq/impresion-de-etiquetas.md)
 * [Notificaciones Emergentes](faq/notificaciones-emergentes.md)
 * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
 * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
@@ -253,7 +254,7 @@
 ## Vídeos
 
 * [Exportar Listados a Excel](videos/exportar-listados-a-excel.md)
-* [La orden de reparación \(OR\) - Todos los pasos y características principales](videos/la-orden-de-reparacion-or-todos-los-pasos-y-caracteristicas-principales.md)
+* [La orden de reparación (OR) - Todos los pasos y características principales](videos/la-orden-de-reparacion-or-todos-los-pasos-y-caracteristicas-principales.md)
 * [Alta de OR - Vídeo 1/3](videos/alta-de-or-video-1-3.md)
 * [Confirmación de OR - Vídeo 2/3](videos/confirmacion-de-or-video-2-3.md)
 * [Facturación de OR - Vídeo 3/3](videos/facturacion-de-or-video-3-3.md)
@@ -263,11 +264,10 @@
 * [Cómo aperturar / confirmar / cobrar y entregar operaciones comerciales](videos/como-aperturar-confirmar-cobrar-y-entregar-operaciones-comerciales.md)
 * [Filtros Rápidos - Uso](videos/filtros-rapidos-uso.md)
 
-## Manuales y Documentos Auxiliares <a id="manuales-documentos-auxiliares"></a>
+## Manuales y Documentos Auxiliares <a href="manuales-documentos-auxiliares" id="manuales-documentos-auxiliares"></a>
 
 * [Manual Velneo vReport](manuales-documentos-auxiliares/manual-velneo-vreport.md)
 * [Manual de Usuario Contabilidad](manuales-documentos-auxiliares/manual-de-usuario-contabilidad.md)
 * [Configuración de cuentas para la generación de asientos desde gestión](manuales-documentos-auxiliares/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
 * [Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-documentos-auxiliares/real-decreto-1514-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad..md)
 * [Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-documentos-auxiliares/real-decreto-1515-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad.md)
-

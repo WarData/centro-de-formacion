@@ -6,5 +6,4 @@ description: >-
 
 # 4 Métodos de Recepción de Pedidos
 
-{% embed url="https://youtu.be/aNXb77\_BE50" %}
-
+{% embed url="https://youtu.be/aNXb77_BE50" %}

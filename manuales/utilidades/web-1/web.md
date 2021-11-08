@@ -14,28 +14,28 @@
   * Conexión con plugins WordPress
   * Catálogos de productos, servicios, tarifas de precios y cualquier desarrollo que te puedas imaginar
 
-## Ejecutar la aplicación y configurar la seguridad <a id="h.75wthxkvhxe"></a>
+## Ejecutar la aplicación y configurar la seguridad <a href="h.75wthxkvhxe" id="h.75wthxkvhxe"></a>
 
 La seguridad del API REST está basada en 2 capas actualmente:
 
 * Capa 1: clave API key.
 * Capa 2: configuración de seguridad a nivel de tablas, campos, procesos y búsquedas.
 
-La capa 1 consiste en una clave definible por el programador o el usuario en tiempo de ejecución que se configura desde el menú Supervisor -&gt; API keys.
+La capa 1 consiste en una clave definible por el programador o el usuario en tiempo de ejecución que se configura desde el menú Supervisor -> API keys.
 
-![](../../../.gitbook/assets/screenshot_1.png)
+![](../../../.gitbook/assets/Screenshot\_1.png)
 
 Al ejecutar esta opción se muestra el formulario de menú de API keys
 
-![](../../../.gitbook/assets/image%20%28423%29.png)
+![](<../../../.gitbook/assets/image (601).png>)
 
 Podemos crear tantos registros como queramos, en cada registro de API key debemos grabar una descripción y el valor de la clave del API key.
 
-![](../../../.gitbook/assets/image%20%28419%29.png)
+![](<../../../.gitbook/assets/image (602).png>)
 
 En la pestaña seguridad del API key podremos generar tantos registros como tablas tenemos en nuestros proyectos de datos más un registro para los objetos poder configurar la seguridad de los procesos que no tienen tabla destino declarada.
 
-![](../../../.gitbook/assets/screenshot_2.png)
+![](../../../.gitbook/assets/Screenshot\_2.png)
 
 En el formulario se puede configurar con el check si es para procesos sin tabla destino, una vez marcado sólo nos aparecerá la pestaña de procesos.
 
@@ -45,11 +45,11 @@ En caso de no marcar el check sin tabla nos aparecerán 3 pestañas para configu
 
 Para seleccionar un proceso, lo que debemos seleccionar en los combo boxes son el proyecto de datos donde está tabla de destino y la tabla de destino.
 
-![](../../../.gitbook/assets/screenshot_1%20%281%29.png)
+![](<../../../.gitbook/assets/Screenshot\_1 (1).png>)
 
 En el caso de configurar una tabla debemos seleccionar un proyecto de datos de todos los cargados en ejecución y una vez seleccionado el proyecto podremos elegir la tabla sobre la que vamos a configurar la seguridad.
 
-De igual modo podemos configurar en la parte superior derecha los métodos aceptados para dicha tabla \(GET, PUT, POST y DELETE\).
+De igual modo podemos configurar en la parte superior derecha los métodos aceptados para dicha tabla (GET, PUT, POST y DELETE).
 
 Las tres pestañas de seguridad de campos procesos y búsquedas tiene la misma funcionalidad y usabilidad.
 
@@ -63,29 +63,28 @@ Si queremos dejar accesible un número pequeño de campos es mejor no marcar el 
 
 Los procesos y las búsquedas funcionan igual con un check que permite seleccionar todas excluyendo las seleccionadas o solo incluir las seleccionadas si no marcamos el check.
 
-![](../../../.gitbook/assets/screenshot_3.png)
+![](../../../.gitbook/assets/Screenshot\_3.png)
 
-![](../../../.gitbook/assets/screenshot_4.png)
+![](../../../.gitbook/assets/Screenshot\_4.png)
 
-### Probar el API desde Swagger <a id="probar-el-api-desde-swagger"></a>
+### Probar el API desde Swagger <a href="probar-el-api-desde-swagger" id="probar-el-api-desde-swagger"></a>
 
-#### ¿Qué es Swagger? <a id="que-es-swagger"></a>
+#### ¿Qué es Swagger? <a href="que-es-swagger" id="que-es-swagger"></a>
 
 Swagger es estándar para definir interfaces de API REST que permite que tanto personas como máquinas puedan entender y comprender las capacidades de un servicio sin acceder al código fuente o una documentación específica. Actualmente swagger forma parte de la especificación OpenApi.
 
 El API REST de Velneo genera dinámicamente un fichero de definición swagger del API disponible en tu aplicación.
 
-Para acceder a Swagger usa la siguiente url: [https://demoapi.velneo.com/swagger\_old/](https://demoapi.velneo.com/swagger_old/)
+Para acceder a Swagger usa la siguiente url: [https://demoapi.velneo.com/swagger\_old/](https://demoapi.velneo.com/swagger\_old/)
 
-Verás que al cargar la página propone la url de acceso a la instancia web que tenemos de la demo de Velneo vERP \([https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/swagger](https://demoapi.velneo.com/verp-api/vERP_2_dat_dat/swagger)\) y nos pide que introduzcamos la APIKey. En el caso de la demo de vERP ésta es: api123
+Verás que al cargar la página propone la url de acceso a la instancia web que tenemos de la demo de Velneo vERP ([https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/swagger](https://demoapi.velneo.com/verp-api/vERP\_2\_dat\_dat/swagger)) y nos pide que introduzcamos la APIKey. En el caso de la demo de vERP ésta es: api123
 
-Así ya podrás comprobar cómo funciona. En caso de querer probar con nuestra url simplemente habrá que indicarla \(https://DOMINIO/dat\__winmotor\_dat/_v1/w7\_art?filter%5Bid%5D=1\) con su api: api123.
+Así ya podrás comprobar cómo funciona. En caso de querer probar con nuestra url simplemente habrá que indicarla (https://DOMINIO/dat\__winmotor\_dat/_v1/w7\_art?filter%5Bid%5D=1) con su api: api123.
 
 **Doble factor de validación**
 
 Tras mostrarse la interfaz de Swagger, es necesario conocer el nombre de la API y asignarla a la variable “api\_name”. Una vez comprobada su validez, se mostrarán los recursos disponibles y será necesaria la validación del “api\_key” para usarlos.​
 
 {% hint style="info" %}
-Si bien Swagger requiere [CORS](https://es.wikipedia.org/wiki/Intercambio_de_recursos_de_origen_cruzado) \(\(Cross-Origin-Resource-Sharing\) si usamos el API Rest de Velneo vERP no es necesario activarlo en Apache, pues las propias cabeceras de nuestra API Rest ya lo activan directamente.
+Si bien Swagger requiere [CORS](https://es.wikipedia.org/wiki/Intercambio\_de\_recursos\_de\_origen\_cruzado) ((Cross-Origin-Resource-Sharing) si usamos el API Rest de Velneo vERP no es necesario activarlo en Apache, pues las propias cabeceras de nuestra API Rest ya lo activan directamente.
 {% endhint %}
-

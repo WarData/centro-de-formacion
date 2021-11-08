@@ -6,21 +6,20 @@
 
 La fijación de un inicio y final de ejercicio económico sirve a las sociedades mercantiles y a otros tipos de organización para establecer medidas y comparaciones entre sus diversos puntos de control. En otras palabras, permite llevar orden y control de las variables económicas o empresariales con las que trabajan.
 
-![](../../.gitbook/assets/image%20%28306%29.png)
+![](<../../.gitbook/assets/image (449).png>)
 
 En el listado de ejercicios, con doble clic nos permite crear un nuevo ejercicio donde tendremos que indicar:
 
-                     o   Código: Se usan normalmente 2 dígitos del año, por ejemplo 19 haciendo referencia a 2019, a fin de identificar rápidamente el ejercicio
+&#x20;                    o   Código: Se usan normalmente 2 dígitos del año, por ejemplo 19 haciendo referencia a 2019, a fin de identificar rápidamente el ejercicio
 
-                     o   Nombre: Aquel que recibirá el ejercicio
+&#x20;                    o   Nombre: Aquel que recibirá el ejercicio
 
-                     o   Incremento del IPC aplicado al ejercicio
+&#x20;                    o   Incremento del IPC aplicado al ejercicio
 
-                     o   Fecha de inicio / fin del ejercicio
+&#x20;                    o   Fecha de inicio / fin del ejercicio
 
-                     o   Aceptar - Cancelar - Eliminar y Crear Contadores - Crear Calendarios \(seguid instrucciones del tutorial para identificar el uso y las distintas ubicaciones donde se usan\)
+&#x20;                    o   Aceptar - Cancelar - Eliminar y Crear Contadores - Crear Calendarios (seguid instrucciones del tutorial para identificar el uso y las distintas ubicaciones donde se usan)
 
 
 
- 
-
+&#x20;

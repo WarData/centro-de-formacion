@@ -2,25 +2,24 @@
 
 En toda Operación / Tráfico de venta de vehículo se generan una serie de gastos asociados como matriculación, que normalmente **los genera una entidad tipo acreedor.**
 
-Estas facturas de gastos se encuentran en **Administración &gt; Gastos**:
+Estas facturas de gastos se encuentran en **Administración > Gastos**:
 
-![](../../.gitbook/assets/image%20%28191%29%20%281%29.png)
+![](<../../.gitbook/assets/image (117).png>)
 
-Creamos un nuevo albarán de gastos para el **SERVICIO "Matriculación"** por un importe de 100 €uros, como ejemplo, que es lo que nos cobra la entidad acreedora "Gestoría Malagueña" por el servicio:
+Creamos un nuevo albarán de gastos para el** SERVICIO "Matriculación" **por un importe de 100 €uros, como ejemplo, que es lo que nos cobra la entidad acreedora "Gestoría Malagueña" por el servicio:
 
-![](../../.gitbook/assets/image%20%28198%29.png)
+![](<../../.gitbook/assets/image (118).png>)
 
 Una vez que añadamos la línea de gasto "Matriculación" nos aparece en la parte izquierda de la ventana emergente un + verde que nos permite indicar en qué bastidor irá asignado el gasto:
 
-![](../../.gitbook/assets/image%20%28196%29%20%281%29.png)
+![](<../../.gitbook/assets/image (119).png>)
 
 Quedaría de la siguiente forma:
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](<../../.gitbook/assets/image (120).png>)
 
-![En la parte inferior del albar&#xE1;n nos aparece la opci&#xF3;n de &quot;Facturar&quot;](../../.gitbook/assets/image%20%28173%29.png)
+![En la parte inferior del albarán nos aparece la opción de "Facturar"](<../../.gitbook/assets/image (121).png>)
 
 En la ficha del vehículo, en la pestaña importes podemos observar todos los documentos que generan ingresos y gastos de dicha Operación / Tráfico o simplemente ingresos y gastos aplicados al vehículo:
 
-![](../../.gitbook/assets/image%20%28150%29.png)
-
+![](<../../.gitbook/assets/image (122).png>)

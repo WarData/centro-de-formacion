@@ -6,15 +6,15 @@ Esta operativa comienza por definir en parámetros las cuentas contables para la
 
 * Parámetros – Administración - contables
 
-![](../../../../.gitbook/assets/image%20%28271%29%20%281%29.png)
+![](<../../../../.gitbook/assets/image (26).png>)
 
 Una vez definidos estos parámetros la operativa es igual para cobros y pagos. Vamos a detallar a continuación cómo se utiliza esta opción desde la cartera de cobros, entendiéndose que es idéntica la operativa para la cartera de pagos.
 
-![](../../../../.gitbook/assets/image%20%28101%29.png)
+![](<../../../../.gitbook/assets/image (27).png>)
 
 Para cobrar varios efectos se sigue el siguiente procedimiento:
 
-·         Desde una lista de derechos de cobros \(se puede hacer en el propio panel o en el listado de cobros\), utilizando el selector de la izquierda marcaremos los registros que queremos cobrar.
+·         Desde una lista de derechos de cobros (se puede hacer en el propio panel o en el listado de cobros), utilizando el selector de la izquierda marcaremos los registros que queremos cobrar.
 
 o    Los registros deben cumplir estas premisas:
 
@@ -23,7 +23,7 @@ o    Los registros deben cumplir estas premisas:
 
 ·         Una vez estando seleccionados los registros pulsamos abajo en el botón “Cobrar “ y aparecerá el siguiente formulario
 
-![](../../../../.gitbook/assets/image%20%28164%29%20%281%29.png)
+![](<../../../../.gitbook/assets/image (28).png>)
 
 La aplicación nos propone como importe a cobrar la suma de los importes pendientes de todos los registros seleccionados. Para darlos por cobrados basta con especificar la cuenta de cobro. En el campo concepto aparecerá el que esté parametrizado por defecto como concepto de cobro de facturas.
 
@@ -31,7 +31,7 @@ Al aceptar el formulario se creará un registro de tesorería por el importe tot
 
 En caso de que el importe cobrado no sea exactamente la suma de los importes pendientes tendremos que modificar el “importe recibido” y el formulario cambiará de la siguiente forma:
 
-![](../../../../.gitbook/assets/image%20%28149%29.png)
+![](<../../../../.gitbook/assets/image (29).png>)
 
 En el caso visualizado hemos cobrado un exceso de 10€. Las posibles aplicaciones de las diferencias de cobros son las siguientes:
 
@@ -50,4 +50,3 @@ o    Con el check desmarcado no se dará por cobrado el recibo, quedando la dife
 Toda esta operativa de compensación es igual al cobrar un solo efecto con el botón que hay dentro del formulario.
 
 Es importante recordar que la operativa en pagos es idéntica a la explicada anteriormente para cobros.
-

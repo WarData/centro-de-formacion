@@ -6,13 +6,13 @@ Accederemos con esta opción al menú de facturas de compras, donde podremos gra
 
 Permite dar de alta a una nueva factura de compra mediante el siguiente formulario:
 
-![](../../.gitbook/assets/imagen%20%2826%29.png)
+![](<../../.gitbook/assets/imagen (42).png>)
 
 Están compuestos por su cabecera, donde se guardan todos los datos generales de la factura, y las líneas, donde se va a guardar el detalle de la factura. Dependiendo de la serie de la factura, el contenido de ella será diferente. Puede haber hasta 3 posibles tipos de facturas de compras, de recambios, que utilizaremos para  facturar los albaranes de compras o garantías, de vehículos nuevos y de vehículos de ocasión, en las que facturaremos todos los vehículos y posibles conceptos. Definiremos el tipo de factura en la [serie de los documentos](../configuracion/series-de-documentos.md) de facturas de compras.
 
 La cabecera de las facturas de compras está compuesta por los siguientes campos:
 
-* **Serie de documento:** campo para indicar la serie a la que pertenecerá la factura. Mediante la  serie indicaremos al programa el tipo de factura que estamos grabando \(recambios, vehículos nuevos o vehículos de ocasión\).
+* **Serie de documento:** campo para indicar la serie a la que pertenecerá la factura. Mediante la  serie indicaremos al programa el tipo de factura que estamos grabando (recambios, vehículos nuevos o vehículos de ocasión).
 
 
 
@@ -28,7 +28,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 
-* **Proveedor:** mediante este campo podremos seleccionar un proveedor, localizarlo, editar el seleccionado o incluso crear un proveedor importando los datos de su ficha de cliente. Esta última opción la lanzaremos mediante el botón incrustado cliente, nos aparecerá un formulario para seleccionar el cliente desde el que importaremos los datos, y el programa creará automáticamente la ficha del nuevo proveedor \(la ficha de cliente seguirá existiendo\).
+* **Proveedor:** mediante este campo podremos seleccionar un proveedor, localizarlo, editar el seleccionado o incluso crear un proveedor importando los datos de su ficha de cliente. Esta última opción la lanzaremos mediante el botón incrustado cliente, nos aparecerá un formulario para seleccionar el cliente desde el que importaremos los datos, y el programa creará automáticamente la ficha del nuevo proveedor (la ficha de cliente seguirá existiendo).
 
 
 
@@ -60,11 +60,11 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 
-* **Desfacturar Albarán**: una vez eliminado el apunte de tesorería \(pago\), podremos abrir la factura para modificarla, pudiendo llegar a vaciarla "desfacturando" para incorporar una modificación del albarán de compras añadido inicialmente.
+* **Desfacturar Albarán**: una vez eliminado el apunte de tesorería (pago), podremos abrir la factura para modificarla, pudiendo llegar a vaciarla "desfacturando" para incorporar una modificación del albarán de compras añadido inicialmente.
 
 
 
-* **Número de orden \(referente a líneas de la rejilla en "detalle"**: este campo sirve para ordenar las líneas tanto en las rejillas como cuando se imprime la factura.
+* **Número de orden (referente a líneas de la rejilla en "detalle"**: este campo sirve para ordenar las líneas tanto en las rejillas como cuando se imprime la factura.
 
 
 
@@ -94,15 +94,15 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 * **Total base, total IVA** y **total línea**
 
-\*\*\*\*
+****
 
 **Barra de pestañas**
 
-\*\*\*\*
+****
 
 * **Detalle:** presenta la rejilla que corresponde en función del tipo de factura que estemos grabando. En el caso de las facturas de recambios, nos presentará los documentos origen que componen la factura, y en las de vehículos nuevos u ocasión, los bastidores que se están facturando pero con diferentes rejillas. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de factura. Al hacer doble click sobre cualquier línea vacía o pulsar el botón del lateral izquierdo "Nueva línea de artículo o concepto" se nos presentará el formulario de grabación de líneas correspondiente a cada tipo de factura:
 
-                ·    Grabación de líneas de recambios: en estas líneas podremos indicar los       documentos origen que compondrán la factura. Estos pueden ser albaranes de compras, garantías, órdenes de garantías, promociones o bonificaciones / penalizaciones de documentaciones. Los campos que la componen son los siguientes:
+&#x20;               ·    Grabación de líneas de recambios: en estas líneas podremos indicar los       documentos origen que compondrán la factura. Estos pueden ser albaranes de compras, garantías, órdenes de garantías, promociones o bonificaciones / penalizaciones de documentaciones. Los campos que la componen son los siguientes:
 
 * **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente.
 
@@ -112,17 +112,17 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 
 
-* **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte \(es posible que la realización incluya costes de programación\)
+* **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte (es posible que la realización incluya costes de programación)
 
 
 
 * **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto
 
-![](../../.gitbook/assets/imagen%20%2844%29.png)
+![](<../../.gitbook/assets/imagen (44).png>)
 
 **Opciones de las líneas de facturas de compras:**
 
-\*\*\*\*
+****
 
 * **Aceptar**: con este botón guardamos los cambios realizados.
 
@@ -136,7 +136,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 **Opciones desde una factura de compras:**
 
-\*\*\*\*
+****
 
 * **Aceptar:** si pulsamos esta opción, quedarán guardados todos los cambios que hayamos realizado sobre la ficha de la factura.
 
@@ -158,7 +158,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 Localizador de facturas de compras a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una factura. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](../../.gitbook/assets/imagen%20%2857%29.png)
+![](<../../.gitbook/assets/imagen (45).png>)
 
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
@@ -184,21 +184,21 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Permite obtener un listado de facturas por varios filtros como serie, ejercicio, fechas de recepción y emisión, entidad, tipo de pago, estado de pago, régimen de IVA y país:
 
-![](../../.gitbook/assets/imagen%20%2851%29.png)
+![](<../../.gitbook/assets/imagen (48).png>)
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-![](../../.gitbook/assets/imagen%20%2861%29.png)
+![](<../../.gitbook/assets/imagen (49).png>)
 
 **4 – LISTADO DE IVA**
 
 Muestra un listado de facturas para IVA por intervalo de fechas con las bases e impuestos desglosados. Presenta el siguiente formulario de búsqueda:
 
-![](../../.gitbook/assets/imagen%20%2856%29.png)
+![](<../../.gitbook/assets/imagen (46).png>)
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-![](../../.gitbook/assets/imagen%20%2863%29.png)
+![](<../../.gitbook/assets/imagen (47).png>)
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel
@@ -209,7 +209,6 @@ La información de**l** listado se presenta en las siguientes rejillas. Cada una
 
 Acumula los importes de facturas de compra y gastos por cada entidad:
 
-![Filtro 347 compras](../../.gitbook/assets/imagen%20%2855%29.png)
+![Filtro 347 compras](<../../.gitbook/assets/imagen (50).png>)
 
-![](../../.gitbook/assets/imagen%20%2850%29.png)
-
+![](<../../.gitbook/assets/imagen (51).png>)

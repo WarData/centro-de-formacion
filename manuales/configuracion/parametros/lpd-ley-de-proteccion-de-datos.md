@@ -2,5 +2,4 @@
 
 Introducción de textos relacionados con la Ley de Protección de Datos que se aplicarán sobre distintos documentos
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
-
+![](<../../../.gitbook/assets/image (433).png>)

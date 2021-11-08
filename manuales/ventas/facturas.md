@@ -6,13 +6,13 @@ Mediante esta opción, podremos grabar, modificar o consultar todas las facturas
 
 1 - GRABAR
 
-Permite dar de alta a una nueva factura de venta de manera directa rellenando el siguiente formulario. Además de este modo de grabación, para dar de alta una factura se pueden utilizar otros métodos, directamente desde un albarán de venta, desde un vehículo u operación de venta de vehículos, desde una orden de reparación, o los procesos de facturación en tanda de albaranes de venta u órdenes de reparación. Una factura está compuesta por su cabecera, donde se introducen los datos generales, como la serie, la fecha o cliente, y las líneas, donde se guardan los documentos que se facturan \(albaranes, vehículos u órdenes de reparación\).
+Permite dar de alta a una nueva factura de venta de manera directa rellenando el siguiente formulario. Además de este modo de grabación, para dar de alta una factura se pueden utilizar otros métodos, directamente desde un albarán de venta, desde un vehículo u operación de venta de vehículos, desde una orden de reparación, o los procesos de facturación en tanda de albaranes de venta u órdenes de reparación. Una factura está compuesta por su cabecera, donde se introducen los datos generales, como la serie, la fecha o cliente, y las líneas, donde se guardan los documentos que se facturan (albaranes, vehículos u órdenes de reparación).
 
 La cabecera está compuesta por los siguientes campos:
 
-**-SERIE:** es un campo imprescindible de rellenar, y de él depende la presentación o contenido que tendrá la factura. Entre otras cosas, en una serie de factura de venta se define si será de recambios \(albaranes de ventas\), de taller \(órdenes de reparación\), de vehículos nuevos o de ocasión \(ambas contienen vehículos\). Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
+**-SERIE:** es un campo imprescindible de rellenar, y de él depende la presentación o contenido que tendrá la factura. Entre otras cosas, en una serie de factura de venta se define si será de recambios (albaranes de ventas), de taller (órdenes de reparación), de vehículos nuevos o de ocasión (ambas contienen vehículos). Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
 
-**-NÚMERO:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.         
+**-NÚMERO:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.        &#x20;
 
 **-FECHA:** se indica aquí la fecha de la factura. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
@@ -56,33 +56,33 @@ A continuación, se presentará una rejilla con todas las líneas que componen l
 
 **Borrar ORs**: mediante este botón, quitaremos de la factura la orden de reparación que seleccionemos en el localizador que nos aparece.
 
-·          Facturas de vehículos \(el funcionamiento es similar para vehículos nuevos y de ocasión, salvo la rejilla del que nos muestra los vehículos facturados\)
+·          Facturas de vehículos (el funcionamiento es similar para vehículos nuevos y de ocasión, salvo la rejilla del que nos muestra los vehículos facturados)
 
 En ambas rejillas se nos presentan los vehículos o conceptos facturados. Podremos editar cada línea haciendo doble click sobre cualquiera de ellas. Nos aparecerá el siguiente formulario.
 
--          Bastidor: aquí podremos localizar el bastidor que vayamos a facturar. No se podrá seleccionar un bastidor que no esté en stock.
+\-          Bastidor: aquí podremos localizar el bastidor que vayamos a facturar. No se podrá seleccionar un bastidor que no esté en stock.
 
--          Matrícula: este campo no es manipulable y presentará la matrícula del bastidor seleccionado.
+\-          Matrícula: este campo no es manipulable y presentará la matrícula del bastidor seleccionado.
 
--          Concepto: además de poder facturar un bastidor, se podrán facturar conceptos de vehículos, como por ejemplo, el transporte o las tasas.
+\-          Concepto: además de poder facturar un bastidor, se podrán facturar conceptos de vehículos, como por ejemplo, el transporte o las tasas.
 
--          Nombre del concepto: equivale a la descripción de cada línea.
+\-          Nombre del concepto: equivale a la descripción de cada línea.
 
--          Base IVA: campos destinado a presentar el desglose de IVA del bastidor o concepto.
+\-          Base IVA: campos destinado a presentar el desglose de IVA del bastidor o concepto.
 
--          Base IM: campos para definir el impuesto de matriculación que lleva cada línea. Tanto el IVA como el impuesto de matriculación tendrán por defecto el valor definido en la ficha del vehículo o del concepto, aunque se pueden modificar en la propia factura. Se han incluido unos botones para aplicar o quitar el IM en una línea de factura cuando en la ficha del vehículo o del concepto no estén definidos y se quieran aplicar, o lo estén y se quieran quitar.
+\-          Base IM: campos para definir el impuesto de matriculación que lleva cada línea. Tanto el IVA como el impuesto de matriculación tendrán por defecto el valor definido en la ficha del vehículo o del concepto, aunque se pueden modificar en la propia factura. Se han incluido unos botones para aplicar o quitar el IM en una línea de factura cuando en la ficha del vehículo o del concepto no estén definidos y se quieran aplicar, o lo estén y se quieran quitar.
 
--          Total base: corresponde a la suma de las bases de la línea de factura.
+\-          Total base: corresponde a la suma de las bases de la línea de factura.
 
--          Total IM: suma total del impuesto de matriculación.
+\-          Total IM: suma total del impuesto de matriculación.
 
--          Total IVA: suma total del IVA.
+\-          Total IVA: suma total del IVA.
 
--          Total línea: equivale a la suma total de los campos anteriores.
+\-          Total línea: equivale a la suma total de los campos anteriores.
 
--          Número de orden: campo destinado a ordenar tanto en las rejillas como en los impresos, las líneas de las facturas.
+\-          Número de orden: campo destinado a ordenar tanto en las rejillas como en los impresos, las líneas de las facturas.
 
--          Operación: muestra la operación de la que proviene.
+\-          Operación: muestra la operación de la que proviene.
 
 Además, cada línea contiene los botones generales para **Aceptar**, **Cancelar** o **Borrar** la ficha.
 
@@ -157,4 +157,3 @@ También se utiliza en esta opción el mismo filtro de búsqueda, pero en este c
 6 – LISTADO de IVA
 
 Misma opción que la anterior, pero en la rejilla se desglosan los impuestos.
-

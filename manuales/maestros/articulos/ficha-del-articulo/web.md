@@ -2,9 +2,9 @@
 
 Desde esta pestaña podremos configurar el envío de datos referentes al artículo hacia la web, así como su activación en web, descatalogar, venta sin stock, ofertas...
 
-![](../../../../.gitbook/assets/image%20%28224%29.png)
+![](<../../../../.gitbook/assets/image (516).png>)
 
-* **Pestaña Datos - Textos:** 
+* **Pestaña Datos - Textos: **
 
 o   Check presentar en web: activa el envío de datos a la web.
 
@@ -18,13 +18,11 @@ o   Check Vender aún sin stock: añade dicha característica al envío para per
 
 o   URL amigable: añade la dirección web de la referencia al envío
 
-o   Descripción reducida: añade descripción breve del artículo para localizadores en la web \(puede añadir formato de texto\)
+o   Descripción reducida: añade descripción breve del artículo para localizadores en la web (puede añadir formato de texto)
 
-o   Descripción: envío de características completas y detalladas que, normalmente, se almacenan en la ficha del artículo \(puede añadir formato de texto\)
+o   Descripción: envío de características completas y detalladas que, normalmente, se almacenan en la ficha del artículo (puede añadir formato de texto)
 
-* **Pestaña Imagen:** permite incorporar una imagen completa al envío de datos a la web usando un editor de texto
+* **Pestaña Imagen: **permite incorporar una imagen completa al envío de datos a la web usando un editor de texto
 
-![](../../../../.gitbook/assets/image%20%286%29.png)
-
-
+![](<../../../../.gitbook/assets/image (517).png>)
 
