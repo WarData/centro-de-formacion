@@ -18,7 +18,9 @@ Hay una serie de **requisitos que deben estar bien configurados en su BBDD:**
 
 3.- Para **entidades empresa** también se actualizará a tipo "Proveedor", pero el **régimen de IVA será R1 (General) y no aplicará REBU.**
 
-**Proceso general de alta de un albarán de compras VO para la adquisición de un vehículo EXISTENTE en la BBDD:**
+**----------------------------------------------------------------------------------------------------**
+
+**\*\*\* PROCESO GENERAL DE ALTA DE UN ALBARÁN DE COMPRAS VO PARA LA ADQUISICIÓN DE UN VEHÍCULO EXISTENTE EN LA BBDD:**
 
 A > Seleccionar Serie de Albarán de Compras VO
 
