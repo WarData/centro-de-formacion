@@ -6,7 +6,7 @@ description: >-
 
 # Factura: cambiar contenido
 
-**IMPORTANTE: Antes de cambiar el contenido, es imprescindible eliminar el apunte de cobro desde la pestaña "Tesorería" en la misma factura y pulsar el botón "Abrir Factura" para poder realizar cambios Véase **[**"factura con o sin cobro"**](factura-borrado-con-y-sin-cobro-asociado.md)****
+**IMPORTANTE: Antes de cambiar el contenido, es imprescindible eliminar el apunte de cobro desde la pestaña "Tesorería" en la misma factura y pulsar el botón "Abrir Factura" para poder realizar cambios Véase **[**"factura con o sin cobro"**](factura-borrado-con-y-sin-cobro-asociado.md)
 
 Ocurre frecuentemente que, una vez generada la factura, el cliente desee añadir alguna compra más mediante un albarán nuevo u OR de taller. Podemos modificar el contenido en ambos sentidos, añadir o quitar sin ningún problema:
 

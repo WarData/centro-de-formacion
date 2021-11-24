@@ -6,7 +6,7 @@
 
 **\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente:**
 
-****[**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255)** (descargar y ejecutar versión x64)**
+[**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255)** (descargar y ejecutar versión x64)**
 
 **Tenemos 2 tipos de ficheros posibles a importar:**
 
@@ -46,7 +46,7 @@ En la ventana emergente de la imagen seleccionamos el archivo Excel modificado, 
 
 Si tras comprobar los artículos importados, todo queda perfecto, repetir el paso del botón "IMPORTAR" cambiando la última fila 12 por la última fila que contenga datos que deseemos importar (podemos realizar la importación por partes, familias, etc...usando varios importadores y misma tarifa).
 
-**El proceso de importación se puede repetir todas las veces que queramos, no se duplica nada. **
+\*\*El proceso de importación se puede repetir todas las veces que queramos, no se duplica nada. \*\*
 
 **Tras finalizar el proceso, hay que actualizar los artículos existentes con los elementos de la tarifa de artículos nuevos desde la opción "Tarifa de Artículos" > botón "Actualizar Artículos"**
 

@@ -6,7 +6,6 @@
 
 ## ¿Cómo funciona el sistema que genera una reserva de un artículo o un pedido?
 
-Comprueba en el esquema superior cada paso y utiliza el sistema integrado de búsqueda del Centro de Ayuda Winmotor V7 para ampliar tus conocimientos de cada apartado, en particular en el [**Proceso General de Pedidos**](../../manuales/albaranes/pedidos/proceso-general-de-pedidos.md)****
+Comprueba en el esquema superior cada paso y utiliza el sistema integrado de búsqueda del Centro de Ayuda Winmotor V7 para ampliar tus conocimientos de cada apartado, en particular en el [**Proceso General de Pedidos**](../../manuales/albaranes/pedidos/proceso-general-de-pedidos.md)\*\*\*\*
 
-**\*\*\* Mejoras introducidas en septiembre de 2020 **[**ver información aquí**](../../manuales/albaranes/pedidos/proceso-general-de-pedidos.md)****
-
+**\*\*\* Mejoras introducidas en septiembre de 2020 **[**ver información aquí**](../../manuales/albaranes/pedidos/proceso-general-de-pedidos.md)
