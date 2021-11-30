@@ -2,13 +2,15 @@
 
 Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa (recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta). Es posible regular la cantidad de artículos en stock y también regular el PMC (precio medio de compra).
 
-**¿Qué es un inventario?**
+\*\*¿Qué es un inventario? \*\*
 
 **El inventario es una relación detallada, ordenada y valorada de los productos que tiene una empresa en stock.‌**
 
 **¿Qué sucede en cada artículo cuando se incluye en un inventario?‌**
 
-**Un inventario, reseteará el stock de un producto en un almacén concreto desde la fecha/hora marcada.**‌
+\*\*Un inventario, reseteará el stock de un producto en un almacén concreto desde la fecha/hora marcada.\*\*‌
+
+\*\*Si tras confirmar el inventario, pulsamos en la opción "Inicializar inventario", todas las referencias NO INCLUIDAS en el parte de almacén de tipo "Inventario" y que tienen como ubicación de almacenaje el almacén indicado en el parte, SE PONDRÁN A CERO STOCK.
 
 Por tanto, el stock de un artículo / almacén siempre será el resultado de las compras + entradas de almacén, menos las ventas + salidas de almacén en orden cronológico. Pero cuando hay un inventario, desde esa fecha/hora se impondrá como stock lo definido en ese inventario.‌
 
@@ -34,6 +36,8 @@ Pulsamos en "Confirmar" y regularizamos el inventario:
 
 Como vemos en la imagen superior, el artículo del que inicialmente no teníamos stock, tras el inventario tenemos la unidad incluida.
 
-Para regular el PMC simplemente hay que indicar la referencia y seleccionar el check "Regularización de precio medio del artículo" > si hay más de una ubicación del mismo artículo habrá que seleccionar sobre qué ubicación se realizará la regularización.
+A la vez, en la misma imagen vemos que tras "Confirmar" el parte de almacén de tipo inventario, aparece **el botón "Inicializar artículos" cuya función es poner todas las referencias NO INCLUIDAS  y que tienen como ubicación de almacenaje el almacén indicado en el parte, A CERO STOCK.**
+
+**Opción para regularizar el PMC:** simplemente hay que indicar la referencia y seleccionar el check "Regularización de precio medio del artículo" > si hay más de una ubicación del mismo artículo habrá que seleccionar sobre qué ubicación se realizará la regularización.
 
 ![](../../.gitbook/assets/imagen.png)
