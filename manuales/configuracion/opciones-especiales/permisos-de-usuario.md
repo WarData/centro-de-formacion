@@ -6,7 +6,7 @@ description: Perfiles definidos para uno o varios usuarios con permisos similare
 
 Los permisos se definen en los perfiles de usuarios. **A cada usuario solo se le puede definir un perfil.**
 
-Localizamos la opción "Perfiles" dentro de Configuración  > Opciones Especiales:
+Localizamos la opción "Perfiles" dentro de Configuración > Perfiles:
 
 ![](<../../../.gitbook/assets/image (165).png>)
 
@@ -36,9 +36,9 @@ La tabla de perfiles es "arbolada", por lo que podremos ordenar estos usando la 
 
 Permisos según el “Nivel del usuario”
 
-\-          **SUPERVISOR**
+\- **SUPERVISOR**
 
-·         Barra de opciones
+· Barra de opciones
 
 ![](<../../../.gitbook/assets/imagen (18).png>)
 
@@ -65,19 +65,19 @@ Permisos según el “Nivel del usuario”
   * Ver pestaña de configuración del operario de una entidad
   * Ver pestaña de configuración web de entidades
 
-\-          **MEDIO**
+\- **MEDIO**
 
-·         Barra de opciones
+· Barra de opciones
 
 ![](<../../../.gitbook/assets/imagen (20).png>)
 
 \*\*\* Permisos específicos
 
-* Botón  “Desbloquear “ en el formulario de pedidos de venta.
+* Botón “Desbloquear “ en el formulario de pedidos de venta.
 * **Automoción**: acciones especiales de compras (acceso desde el panel de compras).
 
-\-          **BÁSICO**
+\- **BÁSICO**
 
-·         Barra de opciones
+· Barra de opciones
 
 ![](<../../../.gitbook/assets/imagen (21).png>)
