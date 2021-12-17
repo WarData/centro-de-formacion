@@ -22,7 +22,7 @@ Ahora, con un doble clic en el perfil "TA - Taller" abriremos la edición de las
 
 ![](<../../../.gitbook/assets/image (168).png>)
 
-Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa (permisos), opciones especiales como bloqueos de precios y descuentos de venta, visualización de documentos de todas las series en listados, predefinición de centas en centros de costes, apertura de cuentas contabilizadas, ver costes y beneficios, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto (a nivel perfil afecta al conjunto de usuarios incluidos), etc...
+Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa (permisos), opciones especiales como bloqueos de precios y descuentos de venta, visualización de documentos de todas las series en listados, predefinición de cuentas en centros de costes, apertura de cuentas contabilizadas, ver costes y beneficios, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto (a nivel perfil afecta al conjunto de usuarios incluidos), etc...
 
 ![](<../../../.gitbook/assets/imagen (22).png>)
 
