@@ -8,9 +8,11 @@ Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/
 
 **¿Qué sucede en cada artículo cuando se incluye en un inventario?‌**
 
-\*\*Un inventario, reseteará el stock de un producto en un almacén concreto desde la fecha/hora marcada.\*\*‌
+**\* Un inventario, reseteará el stock de un producto en un almacén concreto desde la fecha/hora marcada.**
 
-\*\*Si tras confirmar el inventario, pulsamos en la opción "Inicializar inventario", todas las referencias NO INCLUIDAS en el parte de almacén de tipo "Inventario" y que tienen como ubicación de almacenaje el almacén indicado en el parte, SE PONDRÁN A CERO STOCK.
+\*\* **Si tras confirmar el inventario, pulsamos en la opción "Inicializar inventario",** todas las referencias **NO INCLUIDAS en el parte de almacén de tipo "Inventario" y que tienen como ubicación de almacenaje el almacén indicado en el parte, SE PONDRÁN A CERO STOCK.**
+
+**\*\*\* Si durante el inventario se localiza el mismo artículo en líneas distintas la aplicación Winmotor las fusionará en el momento que pulsemos el botón "Cerrar" tras confirmar el inventario (al confirmar aparece la opción "Inicializar"). La opción cerrar es reversible, abriendo el inventario (las unidades fusionadas quedan fusionadas siempre que sea el mismo almacén o sub-almacén, no se fusionan mismas referencias en ubicaciones distintas).**
 
 Por tanto, el stock de un artículo / almacén siempre será el resultado de las compras + entradas de almacén, menos las ventas + salidas de almacén en orden cronológico. Pero cuando hay un inventario, desde esa fecha/hora se impondrá como stock lo definido en ese inventario.‌
 
