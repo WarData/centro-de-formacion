@@ -2,7 +2,7 @@
 
 Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa (recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta). Es posible regular la cantidad de artículos en stock y también regular el PMC (precio medio de compra).
 
-\*\*¿Qué es un inventario? \*\*
+¿Qué es un inventario?
 
 **El inventario es una relación detallada, ordenada y valorada de los productos que tiene una empresa en stock.‌**
 
