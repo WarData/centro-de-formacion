@@ -15,4 +15,10 @@ Rellenamos los datos referentes a nombre de la marca, código de 2 dígitos de l
 
 ![](<../.gitbook/assets/image (406).png>)
 
+**IMPORTANTE:** El listado inicial de marcas del panel MAESTROS > Marcas presenta únicamente las marcas con el check superior derecho "Marca Representada". Para visualizar el resto hay que usar el botón inferior "Marcas (Todas)".
+
+**IMPORTANTE PARA ALTA DE MODELOS:** Sólo se presentarán modelos y marcas que tengan el check activado "Marca Representada" desde MAESTROS > Marcas
+
 Desde el momento del alta, podremos importar tarifas del proveedor indicado y añadir artículos o vehículos a los diferentes documentos de la aplicación.
+
+El proveedor es imprescindible para generar pedidos de compras automáticos desde pedidos de ventas y ORs. **Es necesario usar el código del proveedor en el campo "Proveedor preferente"**
