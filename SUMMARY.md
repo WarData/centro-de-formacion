@@ -2,7 +2,7 @@
 
 * [Centro de Ayuda - Winmotor V7](README.md)
 
-## Manual <a href="manuales" id="manuales"></a>
+## Manual <a href="#manuales" id="manuales"></a>
 
 * [Presentación](manuales/presentacion.md)
 * [Configuración](manuales/configuracion/README.md)
@@ -233,6 +233,7 @@
 
 ## FAQ
 
+* [Artículo sin Stock - Solución temporal](faq/articulo-sin-stock-solucion-temporal.md)
 * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
   * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
   * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
@@ -265,7 +266,7 @@
 * [Cómo aperturar / confirmar / cobrar y entregar operaciones comerciales](videos/como-aperturar-confirmar-cobrar-y-entregar-operaciones-comerciales.md)
 * [Filtros Rápidos - Uso](videos/filtros-rapidos-uso.md)
 
-## Manuales y Documentos Auxiliares <a href="manuales-documentos-auxiliares" id="manuales-documentos-auxiliares"></a>
+## Manuales y Documentos Auxiliares <a href="#manuales-documentos-auxiliares" id="manuales-documentos-auxiliares"></a>
 
 * [Manual Velneo vReport](manuales-documentos-auxiliares/manual-velneo-vreport.md)
 * [Manual de Usuario Contabilidad](manuales-documentos-auxiliares/manual-de-usuario-contabilidad.md)
