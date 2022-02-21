@@ -18,7 +18,7 @@ En la opción “Extractos” dentro de asientos contables contamos además de c
 
 **Cierres fiscales**
 
-![](<../.gitbook/assets/image (612).png>)
+![](<../.gitbook/assets/image (613).png>)
 
 Dado que Winmotor es una aplicación multiusuario y por lo tanto varios usuarios pueden tener acceso a las mismas opciones, existe la posibilidad de que el usuario administrador bloquee la modificación y grabación de documentos y apuntes porque afectan a los impuestos presentados en un período o por cualquier otra razón.
 
@@ -38,15 +38,13 @@ Dentro del menú de administración tenemos la opción para calcular tributos: p
 
 ![](<../.gitbook/assets/image (609).png>)
 
-
-
 Es fundamental tener en cuenta que el modelo 303 se calcula desde las facturas emitidas y recibidas por lo que Winmotor para presentarlo lee las facturas del período indicado y no asientos contables como otros programas.
 
 El programa calcula cada partida del modelo en base al régimen de IVA de las facturas implicadas en el período calculado. En las fichas de los tipos de IVA está el campo clasificador para el modelo 303 y se llama “Tipo de IVA repercutido” en el caso de los regímenes de IVA aplicados en las facturas emitidas y “Tipo de IVA soportado” en el caso de las facturas recibidas.&#x20;
 
 ![](<../.gitbook/assets/image (611).png>)
 
-&#x20;Los tipos posibles para facturas recibidas son:
+Los tipos posibles para facturas recibidas son:
 
 ·         Régimen general + recargo equivalencia
 
@@ -82,9 +80,9 @@ Para facturas emitidas:
 
 &#x20;
 
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image009.jpg)
+![](<../.gitbook/assets/image (616).png>)
 
-Al final de la página 1 veremos la totalización del cálculo del impuesto que está desglosado lógicamente en cada una de las partidas según sus tipos de iva como ya hemos indicado.
+Al final de la página 1 veremos la totalización del cálculo del impuesto que está desglosado lógicamente en cada una de las partidas según sus tipos de IVA como ya hemos indicado.
 
 Disponemos como herramientas de comprobación de dos botones:
 
@@ -92,7 +90,7 @@ Disponemos como herramientas de comprobación de dos botones:
 
 ·         Comprobación recibidas
 
-Cada uno de ellos presenta el informe resumen correspondiente a las facturas del período del tributo desglosado por el tipo de iva repercutido o soportado según el listado seleccionado. Este informe es exactamente el mismo que podemos obtener en el menú de facturas de ventas, compras y gastos en la opción “Listado Iva”, botón “listado comprobación” y modelo resumen.
+Cada uno de ellos presenta el informe resumen correspondiente a las facturas del período del tributo desglosado por el tipo de IVA repercutido o soportado según el listado seleccionado. Este informe es exactamente el mismo que podemos obtener en el menú de facturas de ventas, compras y gastos en la opción “Listado IVA”, botón “listado comprobación” y modelo resumen.
 
 El botón “Generar fichero” crea el archivo que podemos subir a la página de hacienda: al pulsarlo el programa pedirá la ruta para guardarlo.
 
@@ -102,8 +100,8 @@ El botón “Generar fichero” crea el archivo que podemos subir a la página d
 
 Para el cálculo de este modelo el programa sólo pedirá el ejercicio. Se generarán en la primera página los valores totalizados y en la segunda el detalle de cada entidad con la que hemos superado una facturación de 3.005,06 € en el ejercicio indicado. Por cada una de estas entidades se presenta el volumen trimestral y total calculado:
 
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image011.jpg)
+![](<../.gitbook/assets/image (612).png>)
 
-En ambos modelos los importes calculados por el programa que no son totalizaciones son editables: es decir, si por alguna razón queremos modificar un importe se puede hacer haciendo doble click en la línea correspondiente, el programa recalculará los importes a las que este cambio afecte.
+En ambos modelos los importes calculados por el programa que no son totalizaciones son editables: es decir, si por alguna razón queremos modificar un importe se puede hacer haciendo doble clic en la línea correspondiente, el programa recalculará los importes a las que este cambio afecte.
 
 &#x20;

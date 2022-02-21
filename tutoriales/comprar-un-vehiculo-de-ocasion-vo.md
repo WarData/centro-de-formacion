@@ -24,7 +24,7 @@ Hay una serie de **requisitos que deben estar bien configurados en su BBDD:**
 
 A > Seleccionar Serie de Albarán de Compras VO
 
-![](<../.gitbook/assets/image (613) (1).png>)
+![](<../.gitbook/assets/image (613) (1) (1).png>)
 
 B > Usar la lupa de búsqueda en cualquier caso para añadir tipo de entidad "Proveedor" a una entidad > si la entidad existe como proveedor, verificar régimen y tipo de proveedor (particular o sociedad). Si existe sólo como cliente, verificar igualmente régimen y tipo
 
@@ -66,7 +66,7 @@ D > Introducir el bastidor de un vehículo en el campo "Bastidor" y pulsar tabul
 
 Al pulsar el botón se rellenan los datos automáticamente y ahora rellenar precios y algún posible cambio y "Aceptar":
 
-![](<../.gitbook/assets/image (613).png>)
+![](<../.gitbook/assets/image (613) (1).png>)
 
 E > Aceptar y pulsar botón ![](<../.gitbook/assets/image (609) (1).png>) o F5 (Actualizar) > **aparecerá la línea del vehículo en el albarán**
 
