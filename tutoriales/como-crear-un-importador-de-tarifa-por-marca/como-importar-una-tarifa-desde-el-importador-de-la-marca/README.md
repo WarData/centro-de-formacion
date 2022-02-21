@@ -6,7 +6,7 @@
 
 **\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente:**
 
-[**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255)** (descargar y ejecutar versión x64)**
+[**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255) **(descargar y ejecutar versión x64)**
 
 **Tenemos 2 tipos de ficheros posibles a importar:**
 

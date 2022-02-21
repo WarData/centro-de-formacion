@@ -104,6 +104,6 @@ o \_Sustituciones: \_muestra un panel indicando Fecha, referencia anterior, refe
 
 ![](<../../../../.gitbook/assets/image (576).png>)
 
-o _Rotación y consumos: _[_véase "Gestión de la rotación de consumos y el stock mínimo"_](../gestion-de-la-rotacion-de-consumos-y-el-stock-minimo.md)
+o _Rotación y consumos:_ [_véase "Gestión de la rotación de consumos y el stock mínimo"_](../gestion-de-la-rotacion-de-consumos-y-el-stock-minimo.md)
 
 ![](<../../../../.gitbook/assets/image (577).png>)

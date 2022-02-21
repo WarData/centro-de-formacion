@@ -64,7 +64,7 @@ o Tramitación de fichas técnicas (Firma autorizada registro fabricante - edito
 
 ![](<../../.gitbook/assets/image (557).png>)
 
-\*\* o Artículos: **especifica los artículos incluidos en la marca**, **mostrando un panel similar al de la opción "Artículos" en "Maestros" > **[**Véase Panel de Artículos**](https://winmotor.gitbook.io/project/manuales/maestros/articulos/panel-de-articulos) \*\*para una información detallada de las funciones de los botones inferiores
+\*\* o Artículos: **especifica los artículos incluidos en la marca**, **mostrando un panel similar al de la opción "Artículos" en "Maestros" >** [**Véase Panel de Artículos**](https://winmotor.gitbook.io/project/manuales/maestros/articulos/panel-de-articulos) \*\*para una información detallada de las funciones de los botones inferiores
 
 ![](<../../.gitbook/assets/image (558).png>)
 

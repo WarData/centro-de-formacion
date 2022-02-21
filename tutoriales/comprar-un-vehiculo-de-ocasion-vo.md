@@ -32,13 +32,13 @@ B > Usar la lupa de búsqueda en cualquier caso para añadir tipo de entidad "Pr
 
 Verificar régimen de IVA en compras R7 / R8 para particulares
 
-![](<../.gitbook/assets/image (614).png>)
+![](<../.gitbook/assets/image (614) (1).png>)
 
 C > Botón "Crear entrada VO" > ![](<../.gitbook/assets/image (610).png>)
 
 **Único método para la entrada de un vehículo de ocasión VO. No usar ningún otro método ni botón**
 
-D > La ventana emergente mostrará los campos para el alta, de los cuales sólo es necesario usar "Marca", "Modelo", "Color", "Bastidor", "Matrícula", "Precio de compra" y opcionalmente "PVP" ya que este puede variar. En cualquier caso siempre se podrá modificar durante la venta, tanto si está a 0 como **si se rellena un importe PVP (incluye los impuestos sobre la parte del beneficio y exención sobre la base para REBU). **
+D > La ventana emergente mostrará los campos para el alta, de los cuales sólo es necesario usar "Marca", "Modelo", "Color", "Bastidor", "Matrícula", "Precio de compra" y opcionalmente "PVP" ya que este puede variar. En cualquier caso siempre se podrá modificar durante la venta, tanto si está a 0 como **si se rellena un importe PVP (incluye los impuestos sobre la parte del beneficio y exención sobre la base para REBU).**&#x20;
 
 Los campos "Gama - Versión" se pueden rellenar, pero **no es necesario ya que se puede hacer de forma manual en el campo "Modelo":**
 

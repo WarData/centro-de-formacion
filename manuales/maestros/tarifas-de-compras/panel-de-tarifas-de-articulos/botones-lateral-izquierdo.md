@@ -48,7 +48,7 @@ Este localizador nos permite buscar un artículo por los siguientes criterios:
 
 o \_Listar: \_muestra un listado con la referencia, denominación, familia, Precio Neto y Precio de Venta de todos los artículos de tarifa junto a los mismos botones del panel a fin de realizar modificaciones por conjuntos seleccionados, partir o multipartir lista, etc... [Véase Rejillas - Funciones Especiales](https://winmotor.gitbook.io/project/faq/rejillas-funciones-especiales) y [Menú Opciones (Navegante, Lista Partir / Multipartir, Utilidades de Lista y Exportador Avanzado)](https://winmotor.gitbook.io/project/faq/menu-opciones)
 
-o _Importador: permite acceder al panel de importación de tarifas _[_(Véase Importación de Tarifas - Crear Importador - Cómo importar tarifas desde el Importador)_](https://winmotor.gitbook.io/project/tutoriales/como-crear-un-importador-de-tarifa-por-marca)
+o _Importador: permite acceder al panel de importación de tarifas_ [_(Véase Importación de Tarifas - Crear Importador - Cómo importar tarifas desde el Importador)_](https://winmotor.gitbook.io/project/tutoriales/como-crear-un-importador-de-tarifa-por-marca)
 
 ![](<../../../../.gitbook/assets/image (578).png>)
 

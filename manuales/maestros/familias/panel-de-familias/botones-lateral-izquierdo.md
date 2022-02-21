@@ -14,7 +14,7 @@
 
 \*\*o Periodo de caducidad (meses): \*\*si los artículos o servicios son perecederos o tienen una caducidad por algún motivo, permite identificar el número en meses.
 
-**o Botón "Asistente" - Fórmula de cálculo de PVP: **[**véase "Fórmulas PVP"**](../../../submaestros/articulos/formulas-pvp.md)
+**o Botón "Asistente" - Fórmula de cálculo de PVP:** [**véase "Fórmulas PVP"**](../../../submaestros/articulos/formulas-pvp.md)
 
 \*\* o Check "No Aplicable": \*\*desactiva la familia.
 
