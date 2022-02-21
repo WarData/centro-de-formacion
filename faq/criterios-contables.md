@@ -26,7 +26,7 @@ Supongamos por ejemplo que se ha presentado el modelo 303 del primer trimestre, 
 
 Los cierres están separados en “gestión” y “contables”. Los cierres de gestión afectan a las facturas de ventas, compras y gastos y los contables a los asientos. De la misma forma el enlace contable desde gestión estará bloqueado para generar asientos con fecha anterior al último cierre contable.
 
-Se accede a la gestión de cierres desde la opción de parámetros en la pestaña “Administración / cierres fiscales”. Si por alguna razón quisiéramos modificar un documento o un asiento contable que está dentro de un período cerrado el sistema permite eliminar el último cierre creado de manera que la fecha de cierre pasaría a la del cierre anterior.
+Se accede a la gestión de cierres desde la opción de parámetros en la pestaña “Administración / cierres fiscales”. Si por alguna razón quisiéramos modificar un documento o un asiento contable que está dentro de un período cerrado el sistema permite eliminar el último cierre creado de manera que la fecha de cierre pasaría a la del cierre anterior. [Véase también Cierres Fiscales](../manuales/administracion/enlace-contable/cierres-fiscales.md)
 
 
 
