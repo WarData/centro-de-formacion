@@ -4,5 +4,5 @@ Esta opción permite gestionar asuntos dados de alta directamente desde la agend
 
 Para ello primero tenemos que activar en el menú Configuración > Parámetros > Comunicaciones > Check "Múltiples destinatarios en agenda"
 
-![](<../../.gitbook/assets/image (614).png>)
+![](<../../.gitbook/assets/image (614) (1).png>)
 

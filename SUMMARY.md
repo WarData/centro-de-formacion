@@ -233,6 +233,7 @@
 
 ## FAQ
 
+* [Criterios Contables](faq/criterios-contables.md)
 * [Artículo sin Stock - Solución temporal](faq/articulo-sin-stock-solucion-temporal.md)
 * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
   * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
