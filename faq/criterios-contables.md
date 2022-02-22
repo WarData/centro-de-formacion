@@ -18,7 +18,7 @@ En la opción “Extractos” dentro de asientos contables contamos además de c
 
 **Cierres fiscales**
 
-![](<../.gitbook/assets/image (613).png>)
+![](<../.gitbook/assets/image (613) (1).png>)
 
 Dado que Winmotor es una aplicación multiusuario y por lo tanto varios usuarios pueden tener acceso a las mismas opciones, existe la posibilidad de que el usuario administrador bloquee la modificación y grabación de documentos y apuntes porque afectan a los impuestos presentados en un período o por cualquier otra razón.
 
@@ -36,7 +36,7 @@ Se accede a la gestión de cierres desde la opción de parámetros en la pestañ
 
 Dentro del menú de administración tenemos la opción para calcular tributos: para calcular un tributo el programa nos pedirá si queremos hacerlo por un mes, un trimestre o un período libre (fecha desde / fecha hasta) y después nos pedirá el ejercicio.
 
-![](<../.gitbook/assets/image (609).png>)
+![](<../.gitbook/assets/image (609) (1).png>)
 
 Es fundamental tener en cuenta que el modelo 303 se calcula desde las facturas emitidas y recibidas por lo que Winmotor para presentarlo lee las facturas del período indicado y no asientos contables como otros programas.
 
@@ -80,7 +80,7 @@ Para facturas emitidas:
 
 &#x20;
 
-![](<../.gitbook/assets/image (616).png>)
+![](<../.gitbook/assets/image (616) (1).png>)
 
 Al final de la página 1 veremos la totalización del cálculo del impuesto que está desglosado lógicamente en cada una de las partidas según sus tipos de IVA como ya hemos indicado.
 
