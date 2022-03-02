@@ -253,6 +253,7 @@
   * [Navegante - ¿Cómo funciona?](faq/menu-opciones/navegante-como-funciona.md)
   * [Lista - Partir / Multipartir](faq/menu-opciones/lista-partir-multipartir.md)
   * [Exportar Listados a Excel - Vídeo](faq/menu-opciones/exportar-listados-a-excel-video.md)
+* [Vehículos robados - Sacar del stock](faq/vehiculos-robados-sacar-del-stock.md)
 
 ## Vídeos
 
