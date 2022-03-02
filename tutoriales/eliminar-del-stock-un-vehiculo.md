@@ -12,7 +12,7 @@ Desde el stock de vehículos, a veces se realizan devoluciones. Vamos a ver aqu�
 
 ![](<../.gitbook/assets/imagen (91).png>)
 
-3.- Ahora hay que añadir una línea de albarán con el modelo EXACTO del vehículo con el código que genera Winmotor. Para ello,** la forma más sencilla es entrar en la ficha del vehículo desde el stock, pulsar en el botón "Modificar Modelo" y copiar el modelo que se presenta:**
+3.- Ahora hay que añadir una línea de albarán con el modelo EXACTO del vehículo con el código que genera Winmotor. Para ello,\*\* la forma más sencilla es entrar en la ficha del vehículo desde el stock, pulsar en el botón "Modificar Modelo" y copiar el modelo que se presenta:\*\*
 
 ![Pulsar en este botón](<../.gitbook/assets/imagen (93).png>)
 
@@ -28,13 +28,13 @@ Desde el stock de vehículos, a veces se realizan devoluciones. Vamos a ver aqu�
 
 ![](<../.gitbook/assets/imagen (98).png>)
 
-&#x20;         A) Verificar que el importe a devolver es correcto
+A) Verificar que el importe a devolver es correcto
 
-&#x20;         B) Verificar que el IVA seleccionado (abajo derecha) es correcto
+B) Verificar que el IVA seleccionado (abajo derecha) es correcto
 
-&#x20;         C) Verificar de nuevo si el bastidor a devolver es el correcto así como el modelo - color
+C) Verificar de nuevo si el bastidor a devolver es el correcto así como el modelo - color
 
-&#x20;         D) Pulsamos en "Aceptar"
+D) Pulsamos en "Aceptar"
 
 5.- **Una vez completo el albarán de compras, sólo faltaría pulsar en el botón de la parte inferior "Confirmar":**
 
@@ -44,7 +44,8 @@ Desde el stock de vehículos, a veces se realizan devoluciones. Vamos a ver aqu�
 
 ![](<../.gitbook/assets/imagen (102).png>)
 
-7.- **Podemos verificar en el stock de vehículos que el vehículo seleccionado, tras pulsar en "Actualizar" **si teníamos abierta la pestaña con el stock, ha sido eliminado correctamente:
+7.- \*\*Podemos verificar en el stock de vehículos que el vehículo seleccionado, tras pulsar en "Actualizar" \*\*si teníamos abierta la pestaña con el stock, ha sido eliminado correctamente:
 
 ![](<../.gitbook/assets/imagen (103).png>)
 
+Véase también ["Vehículos robados"](../faq/vehiculos-robados-sacar-del-stock.md)
