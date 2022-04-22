@@ -177,7 +177,7 @@
   * [Uso de la Agenda de Taller sobre RRHH](manuales/recursos-humanos-1/uso-de-la-agenda-de-taller-sobre-rrhh.md)
   * [Control Presencial](manuales/recursos-humanos-1/control-presencial.md)
 * [CRM](manuales/crm.md)
-* [Cuadro de Mandos](manuales/cuadro-de-mandos/README.md)
+* [Cuadro de Mandos](manuales/cuadro-de-mandos.md)
   * [Clasificadores de marcas](manuales/cuadro-de-mandos/clasificadores-de-marcas.md)
 * [Utilidades](manuales/utilidades/README.md)
   * [Gestor de archivos](manuales/utilidades/gestor-de-archivos.md)

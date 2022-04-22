@@ -16,7 +16,7 @@ En la imagen anterior se indica la línea 1 y debemos buscar, aproximadamente el
 
 Hemos buscado la cifra aproximada y ahora tenemos que CORTAR (NO COPIAR) el texto de ahí al principio (hacia arriba) usando el botón derecho una vez seleccionada esa primera parte:
 
-![](<../../../.gitbook/assets/imagen (107).png>)
+![](<../../../.gitbook/assets/imagen (107) (1).png>)
 
 Quedarían seleccionadas de esta forma las líneas y pulsando el botón derecho saldría el menú donde pulsamos en “Cortar”:
 
@@ -24,11 +24,11 @@ Quedarían seleccionadas de esta forma las líneas y pulsando el botón derecho 
 
 Justo después de cortar, vamos al archivo vacío que creamos al principio y marcado como 1 y pegamos el contenido dentro de la misma forma, usando botón derecho y “Pegar”:
 
-\*\* ![](<../../../.gitbook/assets/imagen (106).png>)\*\*
+\*\* ![](<../../../.gitbook/assets/imagen (106) (1).png>)\*\*
 
 Se guarda el archivo y de nuevo se vuelve al archivo principal y se repite el proceso hasta que quede vacío y los 6 archivos con unas 26.000 líneas aproximadamente:
 
-\*\* ![](<../../../.gitbook/assets/imagen (114).png>)\*\*
+\*\* ![](<../../../.gitbook/assets/imagen (114) (1).png>)\*\*
 
 Podemos observar en la lista que el primero queda vacío y los 6 archivos quedan con un tamaño similar.\*\* \*\*
 
