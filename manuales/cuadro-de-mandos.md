@@ -1,2 +1,0 @@
-# Cuadro de Mandos
-
