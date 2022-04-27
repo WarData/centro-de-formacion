@@ -8,7 +8,7 @@ Una tarifa como la de Honda puede tener más de 150.000 referencias, por ello y 
 
 En el editor de textos de Windows, para elegir la línea correcta sólo debemos colocar el puntero y seleccionar donde indica la flecha roja, de esta manera sabremos qué línea es:
 
-![](<../../../.gitbook/assets/imagen (108).png>)
+![](<../../../.gitbook/assets/imagen (108) (1).png>)
 
 En la imagen anterior se indica la línea 1 y debemos buscar, aproximadamente el total de líneas del archivo y dividirlo entre 6 trozos o más si lo estimáis oportuno:
 
@@ -46,7 +46,7 @@ Cada fichero, teniendo en cuenta el número de líneas indicado, tarda unos 8 mi
 
 Aparecerá esta ventana emergente cuando el proceso haya terminado correctamente:
 
-\*\* ![](<../../../.gitbook/assets/imagen (105) (1).png>)\*\*
+\*\* ![](<../../../.gitbook/assets/imagen (105) (1) (1).png>)\*\*
 
 Pulsamos en salir y ejecutamos el mismo proceso para los 5 archivos restantes quedando la tarifa importada (aún no actualizada OJO).\*\* \*\*
 

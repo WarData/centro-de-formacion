@@ -16,7 +16,7 @@ Se ha montado una nueva opción, dentro del cierre de una cuenta, para que autom
 
 &#x20;
 
-![](<../../../.gitbook/assets/imagen (107).png>)
+![](<../../../.gitbook/assets/imagen (108).png>)
 
 o Código: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso el orden en el listado
 

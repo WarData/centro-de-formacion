@@ -14,7 +14,7 @@ Al acceder a la línea con doble clic, se muestra un menú de empresa y marcas p
 
 &#x20;A su vez, accediendo a las lupas muestra en profundidad cada venta con los gastos e ingresos (familia de servicios para las operaciones comerciales junto al servicio):
 
-![Comercial](<../.gitbook/assets/imagen (117).png>)
+![Comercial](<../.gitbook/assets/imagen (117) (1).png>)
 
 ![Recambios](<../.gitbook/assets/imagen (114).png>)
 

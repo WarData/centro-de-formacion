@@ -114,6 +114,7 @@
   * [Cartera de cobros](manuales/administracion/gastos/README.md)
     * [Facturas de Gastos](manuales/administracion/gastos/facturas-de-gastos.md)
   * [Tesorería](manuales/administracion/tesoreria/README.md)
+    * [Arqueo](manuales/administracion/tesoreria/arqueo.md)
     * [Cartera](manuales/administracion/tesoreria/cartera/README.md)
       * [Cobros y Pagos en Tanda](manuales/administracion/tesoreria/cartera/cobros-y-pagos-en-tanda.md)
     * [Apuntes de Tesorería](manuales/administracion/tesoreria/apuntes-de-tesoreria.md)
