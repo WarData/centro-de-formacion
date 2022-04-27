@@ -16,7 +16,7 @@ En la imagen anterior se indica la línea 1 y debemos buscar, aproximadamente el
 
 Hemos buscado la cifra aproximada y ahora tenemos que CORTAR (NO COPIAR) el texto de ahí al principio (hacia arriba) usando el botón derecho una vez seleccionada esa primera parte:
 
-![](<../../../.gitbook/assets/imagen (107) (1).png>)
+![](<../../../.gitbook/assets/imagen (107) (1) (1).png>)
 
 Quedarían seleccionadas de esta forma las líneas y pulsando el botón derecho saldría el menú donde pulsamos en “Cortar”:
 
@@ -38,7 +38,7 @@ Una vez dividida la tarifa vamos al menú MAESTROS > opción Tarifa de artículo
 
 ![](<../../../.gitbook/assets/imagen (110) (1).png>)
 
-![](<../../../.gitbook/assets/imagen (115).png>)
+![](<../../../.gitbook/assets/imagen (115) (1).png>)
 
 Seleccionamos el archivo 1 y esperamos (el proceso deja la sesión de Winmotor actual sin uso y si se trata de comprobar indica que el proceso está tardando y pregunta si el usuario quiere reiniciar > DEJAR QUE TERMINE EL PROCESO, aunque esté “pensando”)
 

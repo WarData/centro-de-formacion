@@ -6,7 +6,7 @@ description: Módulo opcional
 
 Este menú presenta las ventas acumuladas al día mostrado en cada línea por mes:
 
-![](<../.gitbook/assets/imagen (116).png>)
+![](<../.gitbook/assets/imagen (116) (1).png>)
 
 Al acceder a la línea con doble clic, se muestra un menú de empresa y marcas para filtrar por dichos datos y las ventas de cada departamento en detalle y con posibilidad de mostrar gráficas:
 
@@ -18,7 +18,7 @@ Al acceder a la línea con doble clic, se muestra un menú de empresa y marcas p
 
 ![Recambios](<../.gitbook/assets/imagen (114).png>)
 
-![](<../.gitbook/assets/imagen (107).png>)
+![](<../.gitbook/assets/imagen (107) (1).png>)
 
 Automáticamente cada noche, la aplicación genera un cálculo de dichas ventas tras el cierre presentándo el acumulado del mes, por lo que el último día de cada uno de ellos será el acumulado mensual.&#x20;
 
