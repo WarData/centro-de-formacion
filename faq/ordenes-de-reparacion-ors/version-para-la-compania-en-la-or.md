@@ -22,7 +22,9 @@ E> La pestaña "Facturación" mostrará la línea de facturación de la OR gener
 
 ![](<../../.gitbook/assets/imagen (17).png>)
 
-**2.- Dar de alta OR normal y facturar a la compañía parte de la reparación**. También se pueden _meter las líneas en la pestaña general_ (en esta pestaña, **si la orden ya está confirmada, si se crearán pedidos al proveedor si no hay stock o reservas y se podrá instalar el material descontando del stock).**
+**2.- Dar de alta OR normal y facturar a la compañía parte de la reparación**.&#x20;
+
+También se pueden _meter las líneas en la pestaña general_ (en esta pestaña, **si la orden ya está confirmada, si se crearán pedidos al proveedor si no hay stock o reservas y se podrá instalar el material descontando del stock).**
 
 A> Una vez metidas estas líneas, podemos dar ya por terminada la orden facturando desde la pestaña general de facturación (no desde la versión para la compañía, en este caso no hace falta puesto que ya hemos terminado la orden).
 
@@ -30,4 +32,6 @@ B> **Si el usuario quiere seguir metiendo artículos o servicios o trabajando so
 
 C> Usando el botón "Actualizar Versión Cia. Aseguradora" permite recoger los cambios realizados en la OR de la pestaña "General" hacia la versión para la compañía.
 
-**3.- Combinando ambas formas**, podríamos generar una OR general sin artículos, crear la versión para la compañía **(sólo se pasan líneas de general a versión compañía de seguros si la imputación es "Siniestro")**, meter líneas en cualquiera de las 2 versiones y facturar una parte al cliente usando cualquier de las 2 versiones y la otra a la compañía.
+**3.- Combinando ambas formas**
+
+Podríamos generar una OR general sin artículos, crear la versión para la compañía **(sólo se pasan líneas de general a versión compañía de seguros si la imputación es "Siniestro")**, meter líneas en cualquiera de las 2 versiones y facturar una parte al cliente usando cualquier de las 2 versiones y la otra a la compañía.

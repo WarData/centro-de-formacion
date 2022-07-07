@@ -20,7 +20,7 @@ En este gráfico (clic encima para ampliar) se muestran las tablas que intervien
 
 ![](<../../.gitbook/assets/image (174).png>)
 
-Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
+Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
 
 1 – Horarios/Jornadas
 
@@ -52,17 +52,19 @@ Haciendo doble clic en la rejilla “DEPARTAMENTOS” del menú de recursos huma
 
 En el primer campo definiremos el centro o empresa al que está asociado (También se puede acceder a este formulario desde la pestaña “Departamentos” de las fichas de Empresas o centros de trabajo en cuyo caso este campo aparecerá relleno).
 
-En el siguiente campo “Subdepartamento” definiremos el departamento de empresa al que estará relacionado el departamento laboral (normalmente “C”- Comercial o “T” - Taller por ejemplo).  En el ejemplo que presentamos arriba vamos a montar un departamento laboral con subdepartamento, en este caso “Taller” – “Electrónica”: rellenaremos por lo tanto el nombre del subdepartamento y un código de tres dígitos para identificarlo. Es importante recalcar que este campo es opcional y sólo lo utilizaremos en caso de querer gestionar varias agendas dentro de un mismo departamento de empresa.
+En el siguiente campo “Subdepartamento” definiremos el departamento de empresa al que estará relacionado el departamento laboral (normalmente “C”- Comercial o “T” - Taller por ejemplo). En el ejemplo que presentamos arriba vamos a montar un departamento laboral con subdepartamento, en este caso “Taller” – “Electrónica”: rellenaremos por lo tanto el nombre del subdepartamento y un código de tres dígitos para identificarlo. Es importante recalcar que este campo es opcional y sólo lo utilizaremos en caso de querer gestionar varias agendas dentro de un mismo departamento de empresa.
 
 El campo nombre con fondo gris se rellenará automáticamente con los datos anteriormente grabados.
 
+Departamento de gestión - check: Al activarlo, se activa un sistema de doble cita siempre que existan dos departamentos laborales en el centro, uno para la recepción de vehículos y otro para las intervenciones de taller, permitiendo asignar un tiempo de recepción y entrega del vehículo por el recepcionista y otro tiempo para las reparaciones del taller mostrando dos calendarios laborales distintos.
+
 A continuación, se nos pide “Tiempo mínimo para una cita (minutos)”: tendremos que definir por lo tanto el tiempo mínimo para el que daremos una cita; en el ejemplo hemos definido 15 minutos. Esto no sólo implica que no podremos dar citas de menos de 15 minutos, sino que todas las citas que demos serán de un múltiplo de este tiempo: partiendo de esta cifra podremos dar citas de 15, 30 ,45...minutos.
 
-El siguiente campo es para indicar al programa si permitiremos que se puedan calcular “citas partidas”:  imaginemos que tenemos para un día sólo dos huecos libres, de 11:00 a 11:30 y de 17:00 a 18:30, si un cliente nos solicita una cita de dos horas para este día sólo se la podremos asignar en caso de que este campo esté marcado. Es importante recalcar que luego en el formulario de la cita se podrá desmarcar el permiso puesto que no siempre es factible que una cita pueda partirse. Es decir, al marcar este campo cuando vayamos a dar una cita ésta por defecto también lo mantendrá marcado y podremos por lo tanto darle partida, pero en la cita se puede desmarcar con lo que el programa buscaría sólo citas continuas.
+El siguiente campo es para indicar al programa si permitiremos que se puedan calcular “citas partidas”: imaginemos que tenemos para un día sólo dos huecos libres, de 11:00 a 11:30 y de 17:00 a 18:30, si un cliente nos solicita una cita de dos horas para este día sólo se la podremos asignar en caso de que este campo esté marcado. Es importante recalcar que luego en el formulario de la cita se podrá desmarcar el permiso puesto que no siempre es factible que una cita pueda partirse. Es decir, al marcar este campo cuando vayamos a dar una cita ésta por defecto también lo mantendrá marcado y podremos por lo tanto darle partida, pero en la cita se puede desmarcar con lo que el programa buscaría sólo citas continuas.
 
 Una vez definidos los datos de cabecera hay que crear:
 
-**Jornadas **- se define el horario que tendremos en cada día de la semana que sea laborable:
+Horarios - se definen las jornadas asociadas a cada día de la semana contemplando múltiples posibilidades en caso de no repetirse cíclicamente como sería el caso de un horario de lunes a viernes y el sábado un horario de apertura y cierre disinto al resto:
 
 ![](<../../.gitbook/assets/image (215).png>)
 
@@ -72,9 +74,9 @@ Haciendo doble clic en la rejilla de Jornadas iremos definiendo estos datos por 
 
 Aunque no tiene mucho sentido, el programa contempla que para un mismo día se puedan definir hasta cuatro horarios. Es fundamental entender que éstos no se pueden pisar, es decir, no podemos definir un horario de mañana que termine a las 14:00 y un horario de tarde que empiece a las 13:30.
 
-**Operarios **- Se asignan al departamento laboral de los disponibles según el tipo de entidad. Aquellas entidades marcadas como "operarios" se podrán asignar a cualquiera de los departamentos creados entrando en la pestaña de la propia entidad "Operario" e introduciendo el código del departamento.
+Trabajadores - Se asignan al departamento laboral de los disponibles según el tipo de entidad. Aquellas entidades marcadas como "operarios" se podrán asignar a cualquiera de los departamentos creados entrando en la pestaña de la propia entidad "Operario" e introduciendo el código del departamento.
 
-Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Una vez asignado al departamento el operario, se deberá asignar la jornada (es posible que tenga horarios distintos a otros operarios).&#x20;
+Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Una vez asignado al departamento el operario, se deberá asignar la jornada (es posible que tenga horarios distintos a otros operarios).
 
 \*\*\* Es requisito imprescindible que el módulo RRHH esté activado por nuestros técnicos (Win ERP).
 
@@ -88,7 +90,7 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 ![](<../../.gitbook/assets/image (218).png>)
 
-**Una vez finalizada la configuración debemos ir a "Configuración" > Listar ejercicios > entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar. **
+Una vez finalizada la configuración debemos ir a "Configuración" > Listar ejercicios > entrar en el ejercico actual y pulsar en el botón "Crear Calendarios". Este proceso tarda unos minutos en finalizar.&#x20;
 
 Finalizado el proceso anterior, al pulsar en la opción RRHH obtenemos este panel de configuración de Recursos Humanos completo, a nivel administrador, en el que podremos visualizar citas por día, mes, año, operario, disponibilidad y un largo etcétera que iremos viendo a lo largo de este manual:
 
