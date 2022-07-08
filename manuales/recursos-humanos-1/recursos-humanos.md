@@ -20,7 +20,7 @@ En este gráfico (clic encima para ampliar) se muestran las tablas que intervien
 
 ![](<../../.gitbook/assets/image (174).png>)
 
-Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas:
+Vamos a definir las tablas que intervienen en el orden que hay que crearlas para poner en marcha el módulo y crear los calendarios laborales y las distintas agendas de citas <mark style="color:orange;">**(PREMISA: el módulo debe estar activado en PEC por Software Winmotor):**</mark>
 
 1 – Horarios/Jornadas
 
