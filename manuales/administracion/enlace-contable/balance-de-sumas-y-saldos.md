@@ -2,7 +2,7 @@
 
 Hemos montado un nuevo panel para el cálculo y presentación de balances de sumas y saldos con estas novedades **(Administración > Contabilidad > Informes > Balance de sumas y saldos)**
 
-![](<../../../.gitbook/assets/imagen (9).png>)
+![](<../../../.gitbook/assets/imagen (9) (1).png>)
 
 * Posibilidad de filtrar por mes "desde". Ahora podemos por ejemplo pedir un balance desde abril a Junio de un ejercicio.
 * Se puede pedir en pantalla el nivel de presentación del balance: por Auxiliar, por cuenta de mayor a 4,3,2 o 1 dígito.
