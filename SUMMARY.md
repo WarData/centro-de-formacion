@@ -203,6 +203,7 @@
 
 ## Tutoriales
 
+* [Adjuntar ficheros en fichas - Multi-selección](tutoriales/adjuntar-ficheros-en-fichas-multi-seleccion.md)
 * [Comprar un vehículo de ocasión VO](tutoriales/comprar-un-vehiculo-de-ocasion-vo.md)
 * [Abonar un vehículo desde su factura](tutoriales/abonar-un-vehiculo.md)
 * [Eliminar del stock un vehículo](tutoriales/eliminar-del-stock-un-vehiculo.md)
