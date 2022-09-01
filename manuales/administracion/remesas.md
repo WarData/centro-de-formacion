@@ -14,7 +14,7 @@ Para realizar una remesa de cobro los pasos son los siguiente:
 
 1.- Dar de alta una serie de remesas. La imagen muestra la opción de cobros y pagos, pero actualmente sólo existe una opción de remesa para cobros:
 
-<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el formato del archivo para el banco por defecto, aunque posteriormente veremos que se puede modificar antes de crear la remesa.
 
@@ -28,7 +28,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el form
 
 4.- En el formulario de alta seleccionaremos la cuenta (si en la serie indicamos una saldrá por defecto aunque es modificable en el alta), intervalo de vencimiento y tipo de pago:
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 5.- En el siguiente panel nos mostrará todas las facturas de ventas:
 
