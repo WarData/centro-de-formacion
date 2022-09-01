@@ -4,7 +4,7 @@ Se define como el reconocimiento de los caudales y documentos que existen en la 
 
 En la aplicación Winmotor está disponible la opción "F9 Arqueo" en el menú Administración > Tesorería > botón lateral izquierdo
 
-![](<../../../.gitbook/assets/imagen (105).png>)
+![](<../../../.gitbook/assets/imagen (105) (2).png>)
 
 Muestra la posibilidad de filtrar entre fecha, cuenta de tesorería y canal (si existe). En función de la configuración de la cuenta de tesorería, es posible que sea directamente una caja de efectivo o que la caja tenga canales de entrada y salida como por ejemplo efectivo, tarjeta, Bizum, etc...
 
