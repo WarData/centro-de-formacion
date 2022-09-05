@@ -76,44 +76,56 @@ Ponemos a continuación varios ejemplos de los indicado:
 
 Para añadir la totalización, basta con clicar con el botón secundario del ratón sobre la base de la columna entradas y seleccionar 'suma'. Lo mismo en la columna salidas:
 
-<figure><img src="../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
 
 Si también quiere quitar por ejemplo las dos últimas columnas, tiene que clicar en el icono superior izquierdo de la rejilla y deseleccione las columnas que no quiera:
 
-<figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (123).png" alt=""><figcaption></figcaption></figure>
 
 Para guardar esta configuración simplemente pulse sobre cualquier sitio de la rejilla con el botón secundario y pulse en opciones/guardar configuración. Verá que en estas opciones también está disponible aumentar / reducir el tamaño de letra:
 
-<figure><img src="../.gitbook/assets/imagen (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 Para convertir un listado con rejilla estandar (un listado estadístico de las ORs por ejemplo) a un panel de rejilla avanzada simplemente hay que seleccionar una de las líneas presentadas en el panel e ir a la barra de herrmientas principal > Opciones > Lista > Generar vista con otro visor y seleccionar una de las opciones que indique "rejilla avanzada". Ponemos el ejemplo del listado estadístico de las ORs:
 
-<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 Por defecto nos muestra una rejilla estandar:
 
-<figure><img src="../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 Para pasarlo a rejilla avanzada y poderlo configurar los pasos son los siguientes:
 
 1.- Seleccionar una línea, ir a Opciones > Lista > Generar vista con otro visor y seleccionar una de las opciones que indique "rejilla avanzada":
 
-<figure><img src="../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (108).png" alt=""><figcaption></figcaption></figure>
 
 2.- En el lateral izquierda tenemos el menú de columnas, donde podremos activar o desactivarlas:
 
-<figure><img src="../.gitbook/assets/imagen (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (116).png" alt=""><figcaption></figcaption></figure>
 
 3.- Las totalizaciones podemos quitarlas o activarlas pulsando botón derecho encima de los campos de suma, además de poder indicar la cifra máxima o mínima, la media, el número de elementos que componen la suma, totalización y por último ninguno:
 
-<figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (107).png" alt=""><figcaption></figcaption></figure>
 
 4.- Las agrupaciones nos pueden ayudar a gestionar los datos de la forma más interesante. Su uso es tan sencillo como arrastrar la parte superior de la columna a formar la agrupación:
 
 **Antes**
 
-<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (122).png" alt=""><figcaption></figcaption></figure>
 
 **Después (agrupando por imputación)**
+
+<figure><img src="../.gitbook/assets/imagen (121).png" alt=""><figcaption></figcaption></figure>
+
+**Resultado (imputación cliente)**
+
+<figure><img src="../.gitbook/assets/imagen (117).png" alt=""><figcaption></figcaption></figure>
+
+**Resultado (resto de imputaciones)**
+
+<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+Por último, una vez obtenida la configuración deseada, podemos pulsar con el botón derecho en la rejilla y guardar la configuración. Del mismo modo, podemos revertir la configuración usando el botón "Restaurar configuración":
 
 <figure><img src="../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>

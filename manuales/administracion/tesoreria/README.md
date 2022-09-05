@@ -16,7 +16,7 @@ Se ha montado una nueva opción, dentro del cierre de una cuenta, para que autom
 
 &#x20;
 
-![](<../../../.gitbook/assets/imagen (108).png>)
+![](<../../../.gitbook/assets/imagen (108) (2).png>)
 
 o Código: es un campo auto-numérico que nos servirá para identificar cada cuenta, en este caso el orden en el listado
 
@@ -48,7 +48,7 @@ La configuración "Banco" sería:
 
 &#x20;&#x20;
 
-![](<../../../.gitbook/assets/imagen (116).png>)
+![](<../../../.gitbook/assets/imagen (116) (2).png>)
 
 Se pueden añadir cuentas de tesorería tipo "Caja" con hasta 4 canales de entrada o añadir cuentas de forma independiente para cada canal, incluso cajas por departamento.
 

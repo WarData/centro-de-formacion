@@ -157,4 +157,4 @@ Del mismo modo que las tarifas de ventas, un documento de oferta puede incluir u
 
 Esta oferta se aplicará sobre todos los clientes excluyendo a los del tipo de pago "contado", aunque es posible activar el check "Oferta para contado" para que se aplique para esos casos:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (105).png" alt=""><figcaption></figcaption></figure>

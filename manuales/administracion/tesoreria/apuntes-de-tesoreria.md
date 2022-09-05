@@ -4,11 +4,11 @@ Como hemos visto en tesorería, podemos dar de alta cuentas para realizar pagos,
 
 Desde los propios documentos es posible generar estos apuntes en tesorería mediante el pago o cobro de las facturas, pero vamos a ver que también es posible generar apuntes de tesorería desde el propio panel, permitiendo al pago de varias facturas de una sola vez.
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 1.- En la botonera de la izquierda tenemos el botón para dar de alta un nuevo registro "F1 - Nuevo Registro"
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A) Indicamos la cuenta bancaria
 

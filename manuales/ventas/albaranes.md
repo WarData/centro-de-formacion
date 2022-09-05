@@ -10,15 +10,15 @@ Se ha hecho un cambio visual y operativo al menú de albaranes de ventas para qu
 
 Sustituye el anterior panel de albaranes de ventas, por lo que el acceso es el mismo VENTAS > ALBARANES
 
-![](<../../.gitbook/assets/imagen (7) (2).png>)
+![](<../../.gitbook/assets/imagen (7) (2) (1).png>)
 
 El nuevo diseño del panel:
 
-![](<../../.gitbook/assets/imagen (9) (2).png>)
+![](<../../.gitbook/assets/imagen (9) (2) (1).png>)
 
 Lo primero que se puede apreciar es el rango de fechas de los albaranes que queremos cargar. Se puede meter manualmente como hasta ahora, pero se ha añadido una nueva utilidad.
 
-![](<../../.gitbook/assets/imagen (6) (2).png>)
+![](<../../.gitbook/assets/imagen (6) (2) (1).png>)
 
 &#x20;               Al pulsar el botón del selector de períodos se podrá seleccionar que el rango de fechas sea en un rango fechas fijo como Hoy, Mes o Año. Pero a su vez en No seleccionado se puede seleccionar un rango diferente como por ejemplo desde hoy a 5 días atrás.
 
@@ -28,11 +28,11 @@ Como veremos más adelante **\*\*\*** se podrá guardar como **filtro por defect
 
 También se puede filtrar por Centro y cliente como la serie, el vendedor o si está facturado o no desde la ampliación de filtros.
 
-![](<../../.gitbook/assets/imagen (1) (2).png>)
+![](<../../.gitbook/assets/imagen (1) (2) (1).png>)
 
 Una vez se dé a cerrar o recalcular, se cargará con los filtros seleccionados. Dependiendo lo seleccionado se indicará un texto en el propio menú con los filtros extendidos.
 
-![](<../../.gitbook/assets/imagen (118) (1).png>)
+![](<../../.gitbook/assets/imagen (118).png>)
 
 En el botón de opciones se podrá buscar, listar o facturar en tanda, además de imprimir, cambiar de vista a una rejilla avanzada o vista en modo bloc.
 
