@@ -26,7 +26,7 @@ Una vez establecido para un artículo su precio de compras y de ventas entramos 
 
 **En Winmotor gestionamos los PRECIOS DE VENTA de los artículos** de manera que son ilimitados, un mismo artículo podrá tener múltiples precios de venta según a quién se vende y que se encuentre o no en oferta.
 
-Desde el menú principal MAESTROS > Tarifas de ventas disponemos de una panel para la gestión y alta de tarifas de ventas que se aplicarán por cada documento de tarifa a uno o varios conjuntos, es decir, una única tarifa puede incluir una tarifa para la familia GUANTES y a su vez incluir una tarifa para un artículo concreto y/o una marca.
+Desde el menú principal MAESTROS > Tarifas de ventas disponemos de una panel para la gestión y alta de tarifas de ventas que se aplicarán por cada documento de tarifa a uno o varios conjuntos, es decir, una única tarifa puede incluir una tarifa para la familia GUANTES y a su vez incluir una tarifa para un artículo concreto y/o una marca. Definida la tarifa de ventas en la ficha del cliente (pestaña "Comerciales"), aplicará dicha tarifa a los documentos de venta (albaranes, órdenes de reparación, pedidos, facturas y presupuestos)
 
 ![](<../../../.gitbook/assets/image (17).png>)
 
@@ -65,9 +65,9 @@ Para el caso de que en el momento de grabar un documento de venta haya varias co
 
 Se puede por lo tanto definir una condición sólo asignando el proveedor del artículo, pero tendrá más peso si se define con el proveedor y el clasificador de descuento.​
 
-En una línea de condición sólo se puede utilizar uno de estos criterios, es decir, sólo podremos rellenar un campo excepto para el caso de familia y marca  y proveedor - código de descuento y proveedor, que si se pueden usar combinadas y prevalecerán sobre una condición definida para la familia o la marca como se explica más abajo.
+En una línea de condición del documento de tarifa de ventas, sólo se puede utilizar uno de estos criterios, es decir, sólo podremos rellenar un campo excepto para el caso de familia y marca  y proveedor - código de descuento y proveedor, que si se pueden usar combinadas y prevalecerán sobre una condición definida para la familia o la marca como se explica más abajo.
 
-El programa utiliza la gestión de condiciones en el cálculo del precio de un artículo en una línea de presupuesto de ventas, pedido, albarán o factura.
+El programa utiliza la gestión de condiciones en el cálculo del precio de un artículo en una línea de presupuesto de ventas, pedido, albarán, orden de reparación o factura.
 
 Podemos definir una condición definiendo descuentos (Descuento 1, Descuento 2) o incrementos sobre el costo del producto. Sólo en el caso de definir una línea de condición sobre un artículo concreto podemos aplicar un precio directo. Este sistema es el menos aconsejable ya que si se cambia de precio de venta el artículo no lo van a hacer de forma automática las tarifas directas que tenga definidas, las tendrá que modificar el usuario manualmente.
 
@@ -146,3 +146,15 @@ Imaginemos que hemos definido para un artículo sus artículos dependientes que 
 ![](<../../../.gitbook/assets/image (21).png>)
 
 Para facilitar la consulta de los posibles precios de un artículo contamos con una utilidad en el formulario del artículo: la consulta de precios. Al pulsar ese botón el programa calculará según todas las condiciones de ventas que pueden afectar al artículo su precio final y las presentará en el orden en el que hemos indicado que se calculan en los documentos.
+
+**OFERTAS: en el menú VENTAS >** Ofertas&#x20;
+
+Está disponible un panel para la administración de ofertas. Estas funcionan de una forma similar a las tarifas de ventas, pero no se aplican directamente a clientes concretos aplicando las tarifas en las pestañas, sino que se aplican directamente al tipo de artículo, marca, proveedor, familia o artículo:
+
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+
+Del mismo modo que las tarifas de ventas, un documento de oferta puede incluir una o varias condiciones de líneas diferentes por ejemplo se abre la oferta X1 que incluye una línea de oferta del 10% sobre la familia guantes y otra línea de oferta sobre un artículo del 15%.
+
+Esta oferta se aplicará sobre todos los clientes excluyendo a los del tipo de pago "contado", aunque es posible activar el check "Oferta para contado" para que se aplique para esos casos:
+
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
