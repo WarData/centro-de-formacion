@@ -40,9 +40,32 @@ o Familia
 
 o Artículo
 
-Actualización 05/09/22 >&#x20;
+Actualización 05/09/22 > ​Hemos implantado un nuevo criterio para definir condiciones de ventas en base al proveedor de un artículo y/o a su clasificador de decuento. En Winmotor existe en la ficah de proveedores, pestaña "Comerciales" la posibilidad de definir clasificadores de descuento:
 
-En una línea de condición sólo se puede utilizar uno de estos criterios, es decir, sólo podremos rellenar un campo excepto para el caso de familia y marca que si se pueden usar combinadas y prevalecerán sobre una condición definida para la familia o la marca como se explica más abajo.
+​
+
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+Tenemos ahora la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
+
+<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+
+Para el caso de que en el momento de grabar un documento de venta haya varias condiciones que afecten al artículo la aplicación recogerá el descuento aplicado según el siguiente criterio de prioridad:
+
+* Artículo
+* Familia y marca
+* **Proveedor - código de descuento**
+* Familia
+* **Proveedor**
+* Marca
+* Tipo de artículo
+* Versión
+* Gama
+* Marca de vehículo
+
+Se puede por lo tanto definir una condición sólo asignando el proveedor del artículo, pero tendrá más peso si se define con el proveedor y el clasificador de descuento.​
+
+En una línea de condición sólo se puede utilizar uno de estos criterios, es decir, sólo podremos rellenar un campo excepto para el caso de familia y marca  y proveedor - código de descuento y proveedor, que si se pueden usar combinadas y prevalecerán sobre una condición definida para la familia o la marca como se explica más abajo.
 
 El programa utiliza la gestión de condiciones en el cálculo del precio de un artículo en una línea de presupuesto de ventas, pedido, albarán o factura.
 

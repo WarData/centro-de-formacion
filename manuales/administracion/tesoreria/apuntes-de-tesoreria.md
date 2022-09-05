@@ -8,7 +8,7 @@ Desde los propios documentos es posible generar estos apuntes en tesorería medi
 
 1.- En la botonera de la izquierda tenemos el botón para dar de alta un nuevo registro "F1 - Nuevo Registro"
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A) Indicamos la cuenta bancaria
 

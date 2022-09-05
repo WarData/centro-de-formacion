@@ -46,6 +46,6 @@ description: Exclusivamente para el ejercicio en curso
 
 1.3.1.- En cada servicio habrá que definir la cuenta de ingresos o de gastos según se utilice el servicio en compras y gastos o en ventas o en ambas
 
-![](<../../../.gitbook/assets/imagen (6) (1).png>)
+![](<../../../.gitbook/assets/imagen (6) (1) (1).png>)
 
 \*\*Las cuentas contables de servicios si se utilizan siempre estas. Es decir, la parametrización anterior es sólo para artículos y es variable, para los servicios el programa siempre lee la cuenta del propio servicio.
