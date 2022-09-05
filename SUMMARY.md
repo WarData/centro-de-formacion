@@ -252,7 +252,7 @@
 * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
 * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
 * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
-* [Rejillas - Funciones Especiales](faq/rejillas-funciones-especiales.md)
+* [Rejillas - Funciones Especiales - Rejillas avanzadas](faq/rejillas-funciones-especiales.md)
 * [Menú Opciones](faq/menu-opciones/README.md)
   * [Navegante - ¿Cómo funciona?](faq/menu-opciones/navegante-como-funciona.md)
   * [Lista - Partir / Multipartir](faq/menu-opciones/lista-partir-multipartir.md)
