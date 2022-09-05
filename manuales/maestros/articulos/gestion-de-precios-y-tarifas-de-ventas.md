@@ -44,11 +44,11 @@ Actualización 05/09/22 > ​Hemos implantado un nuevo criterio para definir con
 
 ​
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Tenemos ahora la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (26).png" alt=""><figcaption></figcaption></figure>
 
 Para el caso de que en el momento de grabar un documento de venta haya varias condiciones que afecten al artículo la aplicación recogerá el descuento aplicado según el siguiente criterio de prioridad:
 
