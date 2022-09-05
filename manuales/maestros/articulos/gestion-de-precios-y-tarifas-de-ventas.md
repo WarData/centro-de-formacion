@@ -8,11 +8,11 @@ Para el cálculo del precio de compras se utiliza la tarifa de compras en base a
 
 El programa se puede parametrizar para que cuando en un albarán de compras cambie el precio de un producto se haga lo siguiente en la tarifa de compras del artículo:
 
-&#x20;                o   Actualizar la tarifa automáticamente
+o Actualizar la tarifa automáticamente
 
-&#x20;                o   Preguntar al usuario: esto presentará el formulario de tarifa de compras del artículo con los nuevos precios calculados dando opción a que el usuario decida si es una modificación definitiva sobre el artículo o no.
+o Preguntar al usuario: esto presentará el formulario de tarifa de compras del artículo con los nuevos precios calculados dando opción a que el usuario decida si es una modificación definitiva sobre el artículo o no.
 
-&#x20;                o   No hacer nada: el precio de compras de los artículos nunca se cambiará desde el albarán de compras, habrá que entrar manualmente en la ficha para modificarlo.
+o No hacer nada: el precio de compras de los artículos nunca se cambiará desde el albarán de compras, habrá que entrar manualmente en la ficha para modificarlo.
 
 Para una gestión automatizada de los precios de ventas se aconseja no definir manualmente ningún precio de venta sino establecer una regla para su cálculo de manera que cuando cambie el precio de compra se modificará automáticamente el precio de venta del producto.
 
@@ -24,19 +24,23 @@ Para la edición de fórmulas de cálculo de pvp el programa presenta un asisten
 
 Una vez establecido para un artículo su precio de compras y de ventas entramos en la gestión de “condiciones de ventas” que explicamos a continuación.
 
-En Winmotor gestionamos los precios de venta de los artículos de manera que son ilimitados, un mismo artículo podrá tener múltiples precios de venta según a quién se vende y que se encuentre o no en oferta.
+**En Winmotor gestionamos los PRECIOS DE VENTA de los artículos** de manera que son ilimitados, un mismo artículo podrá tener múltiples precios de venta según a quién se vende y que se encuentre o no en oferta.
+
+Desde el menú principal MAESTROS > Tarifas de ventas disponemos de una panel para la gestión y alta de tarifas de ventas que se aplicarán por cada documento de tarifa a uno o varios conjuntos, es decir, una única tarifa puede incluir una tarifa para la familia GUANTES y a su vez incluir una tarifa para un artículo concreto y/o una marca.
 
 ![](<../../../.gitbook/assets/image (17).png>)
 
 Para la gestión de precios utilizamos las líneas de condiciones que se aplican luego en distintas fichas que veremos más abajo. Las líneas de condiciones se pueden definir según uno de estos criterios:
 
-&#x20;               o   Tipo de producto
+o Tipo de producto
 
-&#x20;               o   Marca
+o Marca
 
-&#x20;               o   Familia
+o Familia
 
-&#x20;               o   Artículo
+o Artículo
+
+Actualización 05/09/22 >&#x20;
 
 En una línea de condición sólo se puede utilizar uno de estos criterios, es decir, sólo podremos rellenar un campo excepto para el caso de familia y marca que si se pueden usar combinadas y prevalecerán sobre una condición definida para la familia o la marca como se explica más abajo.
 
@@ -52,9 +56,9 @@ Las líneas de tarifas se pueden definir en distintas opciones del programa que 
 
 Las tarifas definen una serie de condiciones de venta (líneas de tarifas) que se aplicarán sobre los clientes que tengan aplicada en su ficha dicha tarifa. La asignación de tarifa a un cliente se puede hacer de dos formas:
 
-&#x20;              o   Tarifa directa: rellenando el campo tarifa en la ficha del cliente
+o **Tarifa directa**: rellenando el campo tarifa en la ficha del cliente
 
-&#x20;              o   Tarifa por tipo de producto: pulsando el botón correspondiente que aparece en la pestaña “comerciales” de la ficha del cliente podremos asignar a un mismo cliente una tarifa por cada tipo de producto.
+o **Tarifa por tipo de producto**: pulsando el botón correspondiente que aparece en la pestaña “comerciales” de la ficha del cliente podremos asignar a un mismo cliente una tarifa por cada tipo de producto.
 
 También se puede definir una tarifa para una o varias “clases” de clientes. La clase es un clasificador de clientes que si se deja vinculado a una tarifa provocará que al aplicar una clase a un cliente se asigne por defecto la tarifa de la clase.
 
@@ -82,27 +86,27 @@ En el menú de Ventas tenemos el acceso al de ofertas, pero también se puede cr
 
 Criterios para el cálculo de precios en un documento de ventas
 
-Como hemos visto un artículo concreto que vamos a vender puede estar afectado por múltiples condiciones definidas en los documentos mencionados (tarifas, condiciones especiales de clientes u ofertas).  Hemos explicado ya la prioridad de estos documentos en el cálculo del precio de un artículo, el programa busca dichos documentos en este orden
+Como hemos visto un artículo concreto que vamos a vender puede estar afectado por múltiples condiciones definidas en los documentos mencionados (tarifas, condiciones especiales de clientes u ofertas). Hemos explicado ya la prioridad de estos documentos en el cálculo del precio de un artículo, el programa busca dichos documentos en este orden
 
-1\.       Oferta
+1\. Oferta
 
-2\.       Condición especial de cliente
+2\. Condición especial de cliente
 
-3\.       Tarifas
+3\. Tarifas
 
 En cualquiera de estos documentos un mismo artículo puede estar afectado por más de una condición, es decir, puede haber más de una línea en el documento que apunte a un artículo concreto. Imaginemos que en una tarifa hemos definido una línea con descuento para la marca “X” y en la misma tarifa un descuento específico para la familia “F”. Puede darse por lo tanto el caso de que artículos de esa familia además sean de la marca “X”: ¿Cómo actúa el programa en este caso?
 
 El criterio de la aplicación para aplicar la tarifa es el inverso al orden en el que se presentan los datos en las líneas de tarifas, es decir:
 
-&#x20;              o   Artículo
+o Artículo
 
-&#x20;              o   Familia y marca
+o Familia y marca
 
-&#x20;              o   Familia
+o Familia
 
-&#x20;              o   Marca
+o Marca
 
-&#x20;              o   Tipo de producto
+o Tipo de producto
 
 O sea, una condición definida específicamente para un artículo prevalecerá sobre una condición para una familia y marca, una por familia prevalecerá sobre una condición de marca y en último lugar se evaluará la condición del tipo de producto.
 
