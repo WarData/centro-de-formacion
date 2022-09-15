@@ -6,6 +6,8 @@ description: >-
 
 # Configuración Módulo Recursos Humanos
 
+**\*\*\* IMPRESCINDIBLE TENER ACTIVADO EL CONTROL PRESENCIAL EN EL USUARIO A NIVEL PERFIL, SINO NO SALDRÁ EL PANEL DE CONFIGURACIÓN**
+
 ![](<../../.gitbook/assets/image (219).png>)
 
 **Objetivo**
