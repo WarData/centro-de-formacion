@@ -82,7 +82,7 @@ Dicho código se corresponde con "empresa-departamento" como por ejemplo 1-T. Un
 
 \*\*\* Es requisito imprescindible que el módulo RRHH esté activado por nuestros técnicos (Win ERP).
 
-**\*\*\* Cuando se incorporan nuevos operarios a RRHH que no estaban dados de alta cuando se crearon los calendarios, una vez asignados al departamento correspondiente, hay que crear su calendarios desde su ficha de entidad > pestaña operario**
+**\*\*\* Cuando se incorporan nuevos operarios a RRHH que no estaban dados de alta cuando se crearon los calendarios, una vez asignados al departamento correspondiente, hay que crear su calendario desde su ficha de entidad > pestaña operario**
 
 ![](<../../.gitbook/assets/image (217).png>)
 
