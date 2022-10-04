@@ -217,7 +217,7 @@
 * [Importación de Tarifas](tutoriales/como-crear-un-importador-de-tarifa-por-marca/README.md)
   * [Crear un Importador de Tarifa de Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/crear-un-importador-de-tarifa-de-marca.md)
   * [Cómo importar una Tarifa desde el Importador de la Marca](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca/README.md)
-    * [Importación Tarifa Honda](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca/importacion-tarifa-honda.md)
+    * [Importación Tarifa Honda / Yamaha](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca/importacion-tarifa-honda.md)
 * [Albaranes](tutoriales/albaranes/README.md)
   * [Anular línea o líneas seleccionadas en albarán de compras confirmado](tutoriales/albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
 * [Facturas](tutoriales/facturas\_tutoriales/README.md)

@@ -1,8 +1,22 @@
-# Importación Tarifa Honda
+---
+description: Similar en tarifas txt de gran tamaño
+---
+
+# Importación Tarifa Honda / Yamaha
 
 **1.- DIVIDIR ARCHIVO TARIFA EN TROZOS**
 
-Una tarifa como la de Honda puede tener más de 150.000 referencias, por ello y para evitar que el proceso sea excesivamente largo y que se puedan provocar caídas del servicio vServer o problemas en la Base de Datos, es imprescindible cortar y pegar unas 25000 – 26000 referencias desde el archivo txt original a unos nuevos a los que hemos llamado Tarifa Honda fecha – 1, 2, 3…así sucesivamente hasta el 6:
+Una tarifa como la de Honda puede tener más de 150.000 referencias, por ello y para evitar que el proceso sea excesivamente largo y que se puedan provocar caídas del servicio vServer o problemas en la Base de Datos, es imprescindible cortar unas 25000 – 26000 referencias desde el archivo txt original a unos nuevos a los que hemos llamado Tarifa Honda fecha – 1, 2, 3…así sucesivamente hasta el 6.
+
+**Existe una aplicación llamada File Splitter Joiner gratuita que lo hace directamente. Podéis descargarla desde aquí >** [**DESCARGA FSJ**](https://hidrive.ionos.com/lnk/NmioCygu)****
+
+Simplemente hay que seguir estas instrucciones:
+
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
+**\*\*\* Los archivos obtenidos tienen extensión .001, .002, .003... Se pueden incorporar al importador sin necesidad de modificar la extensión a .txt**
+
+**Cortando y pegando manualmente sería:**
 
 ![](<../../../.gitbook/assets/imagen (109).png>)
 

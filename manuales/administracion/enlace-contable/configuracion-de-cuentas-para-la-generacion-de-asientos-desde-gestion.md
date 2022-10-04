@@ -26,7 +26,7 @@ description: Exclusivamente para el ejercicio en curso
 
 1.2.1.1.- Parámetros – Contables – Cuentas por tipo de producto
 
-![](<../../../.gitbook/assets/imagen (3) (1).png>)
+![](<../../../.gitbook/assets/imagen (3) (1) (1).png>)
 
 1.2.2.- A nivel Serie de documento
 

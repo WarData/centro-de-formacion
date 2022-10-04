@@ -42,4 +42,4 @@ A la vez, en la misma imagen vemos que tras "Confirmar" el parte de almacén de 
 
 **Opción para regularizar el PMC:** simplemente hay que indicar la referencia y seleccionar el check "Regularización de precio medio del artículo" > si hay más de una ubicación del mismo artículo habrá que seleccionar sobre qué ubicación se realizará la regularización.
 
-![](<../../.gitbook/assets/imagen (3).png>)
+![](<../../.gitbook/assets/imagen (3) (1).png>)
