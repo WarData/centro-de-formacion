@@ -16,6 +16,8 @@ Simplemente hay que seguir estas instrucciones:
 
 **\*\*\* Los archivos obtenidos tienen extensión .001, .002, .003... Se pueden incorporar al importador sin necesidad de modificar la extensión a .txt**
 
+**\*\*\* IMPORTANTE: la sesión donde se realiza la actualización queda inactiva hasta que aparece el mensaje de finalización del proceso de cada archivo.**
+
 **Cortando y pegando manualmente sería:**
 
 ![](<../../../.gitbook/assets/imagen (109).png>)
