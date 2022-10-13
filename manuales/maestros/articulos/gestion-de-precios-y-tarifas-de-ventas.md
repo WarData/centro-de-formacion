@@ -40,13 +40,13 @@ o Familia
 
 o Artículo
 
-Actualización 05/09/22 > ​Hemos implantado un nuevo criterio para definir condiciones de ventas en base al proveedor de un artículo y/o a su clasificador de decuento. En Winmotor existe en la ficah de proveedores, pestaña "Comerciales" la posibilidad de definir clasificadores de descuento:
+o Proveedor de un artículo y/o a su clasificador de descuento. En Winmotor existe en la ficah de proveedores, pestaña "Comerciales" la posibilidad de definir clasificadores de descuento:
 
 ​
 
 <figure><img src="../../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-Tenemos ahora la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
+Tenemos la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
 
 <figure><img src="../../../.gitbook/assets/imagen (26).png" alt=""><figcaption></figcaption></figure>
 
