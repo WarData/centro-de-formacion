@@ -203,6 +203,7 @@
 
 ## Tutoriales
 
+* [Uso del exportador avanzado junto con filtros de listados](tutoriales/uso-del-exportador-avanzado-junto-con-filtros-de-listados.md)
 * [Adjuntar ficheros en documentos - Multi-selección](tutoriales/adjuntar-ficheros-en-documentos-multi-seleccion.md)
 * [Comprar un vehículo de ocasión VO](tutoriales/comprar-un-vehiculo-de-ocasion-vo.md)
 * [Abonar un vehículo desde su factura](tutoriales/abonar-un-vehiculo.md)

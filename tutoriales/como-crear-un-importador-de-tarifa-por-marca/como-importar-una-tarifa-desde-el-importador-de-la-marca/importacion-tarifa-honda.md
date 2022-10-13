@@ -12,7 +12,7 @@ Una tarifa como la de Honda puede tener más de 150.000 referencias, por ello y 
 
 Simplemente hay que seguir estas instrucciones:
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 **\*\*\* Los archivos obtenidos tienen extensión .001, .002, .003... Se pueden incorporar al importador sin necesidad de modificar la extensión a .txt**
 

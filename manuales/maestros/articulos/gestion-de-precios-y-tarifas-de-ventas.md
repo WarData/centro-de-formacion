@@ -151,7 +151,7 @@ Para facilitar la consulta de los posibles precios de un artículo contamos con 
 
 Está disponible un panel para la administración de ofertas. Estas funcionan de una forma similar a las tarifas de ventas, pero no se aplican directamente a clientes concretos aplicando las tarifas en las pestañas, sino que se aplican directamente al tipo de artículo, marca, proveedor, familia o artículo:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Del mismo modo que las tarifas de ventas, un documento de oferta puede incluir una o varias condiciones de líneas diferentes por ejemplo se abre la oferta X1 que incluye una línea de oferta del 10% sobre la familia guantes y otra línea de oferta sobre un artículo del 15%.
 

@@ -20,7 +20,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el form
 
 2.- En el menú ADMINISTRACIÓN > Remesas (remesas de cobros para aquellos que cuenten con la opción remesas de pagos) obtendremos el panel de remesas con una serie de opciones (intervalo, serie a mostrar en la rejilla, cambio a rejilla avanzada, localizar remesa por código y definir el panel con las opciones elegidas como por defecto) y una rejilla con las remesas creadas indicando su código, fecha de alta, cuenta bancaria, registro, control de devoluciones y el importe total de la remesa:
 
-<figure><img src="../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 3.- Pulsando el siguiente botón daremos de alta una nueva remesa:
 
@@ -40,7 +40,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el form
 
 7.- Una vez remesados, nos aparece un nuevo botón "Crear archivo bancario" para guardar el archivo generado en el equipo pudiendo aquí cambiar el formato de la remesa, la fecha disco y la fecha cargo:
 
-<figure><img src="../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Antes de pasar las facturas, en la remesa de cobro ya dada de alta, tenemos opciones modificables como el vencimiento, tipo de pago y selección por texto con lo que podremos ir añadiendo facturas a una misma remesa con diferentes opciones tras modificar los parámetros indicados.
 
