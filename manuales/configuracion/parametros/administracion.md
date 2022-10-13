@@ -6,7 +6,7 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 
 ![](<../../../.gitbook/assets/image (416).png>)
 
-* **Contables **(a su vez incluye 5 pestañas de configuración)
+* Contables (a su vez incluye 5 pestañas de configuración)
 
 1.- General (enlazada o integrada en Winmotor, definición de cuentas, último cierre, opciones de contabilización básica...)
 
@@ -43,6 +43,3 @@ Dentro de la pestaña de Administración nos encontramos con 6 pestañas de conf
 * Cierres fiscales (ver [AQUÍ > Configuración de Cierres Fiscales](../../administracion/enlace-contable/cierres-fiscales.md))
 
 ![](<../../../.gitbook/assets/image (427).png>)
-
-
-
