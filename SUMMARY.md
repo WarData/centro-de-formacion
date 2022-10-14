@@ -234,7 +234,7 @@
 * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
 * [Uso de los Nuevos Filtros Rápidos](tutoriales/uso-de-los-nuevos-filtros-rapidos/README.md)
   * [Creación de Lupas](tutoriales/uso-de-los-nuevos-filtros-rapidos/creacion-de-lupas.md)
-* [Nueva Barra de Favoritos](tutoriales/nueva-barra-de-favoritos.md)
+* [Barra de Favoritos](tutoriales/nueva-barra-de-favoritos.md)
 
 ## FAQ
 

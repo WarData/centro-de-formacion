@@ -1,7 +1,7 @@
 ---
 description: >-
-  Para casos en los que la base de datos maneja un gran número de marcas hemos
-  montado un sistema para facilitar la consulta de éstas en el cuadro de mandos.
+  Para casos en los que la base de datos maneja un gran número de marcas existe
+  un sistema para facilitar la consulta de éstas en el cuadro de mandos.
 ---
 
 # Clasificadores de marcas

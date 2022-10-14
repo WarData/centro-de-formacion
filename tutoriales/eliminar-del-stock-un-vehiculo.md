@@ -44,7 +44,7 @@ D) Pulsamos en "Aceptar"
 
 ![](<../.gitbook/assets/imagen (102).png>)
 
-7.- \*\*Podemos verificar en el stock de vehículos que el vehículo seleccionado, tras pulsar en "Actualizar" \*\*si teníamos abierta la pestaña con el stock, ha sido eliminado correctamente:
+7.- Podemos verificar en el stock de vehículos que el vehículo seleccionado, tras pulsar en "Actualizar" si teníamos abierta la pestaña con el stock, ha sido eliminado correctamente:
 
 ![](<../.gitbook/assets/imagen (103).png>)
 

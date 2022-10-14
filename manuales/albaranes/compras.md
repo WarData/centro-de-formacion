@@ -56,9 +56,9 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 
 Al hacer doble click sobre cualquier línea vacía o pulsar el botón del lateral izquierdo "Nueva línea de artículo o concepto" se nos presentará el formulario de grabación de líneas con los siguientes campos:
 
-\*\* - Artículo\*\*: campo en el que introducimos la referencia del artículo que vamos a recepcionar. Se podrá meter la referencia manualmente, o utilizando la opción Buscar Artículo de los botones incrustados de este campo.\*\* \*\*
+\- Artículo: campo en el que introducimos la referencia del artículo que vamos a recepcionar. Se podrá meter la referencia manualmente, o utilizando la opción Buscar Artículo de los botones incrustados de este campo.
 
-\*\* - Almacén\*\*: indicamos aquí el almacén en el que entra la mercancía. Será por defecto el definido en la serie del albarán, y no se podrá modificar a menos que así lo indique también en la serie.
+\- Almacén: indicamos aquí el almacén en el que entra la mercancía. Será por defecto el definido en la serie del albarán, y no se podrá modificar a menos que así lo indique también en la serie.
 
 Si no localizamos la referencia en la base de datos de artículos, podemos utilizar la opción Referencia, siempre que hayamos importado una tarifa de artículos del proveedor. ["Véase Importador de Tarifas"](../../tutoriales/como-crear-un-importador-de-tarifa-por-marca/)
 
@@ -66,17 +66,17 @@ Los otros botones incrustados que contiene el campo de artículo, son para consu
 
 La descripción del artículo tomará por defecto la definida en su ficha, pero podrá ser modificada manualmente.
 
-\*\* - Unidades\*\*: es un campo manipulable por el usuario, y e indicaremos aquí las unidades que hemos recibido.
+\- Unidades: es un campo manipulable por el usuario, y e indicaremos aquí las unidades que hemos recibido.
 
-\*\* - Precio\*\*: importe de compra del artículo. Por defecto tomará el que tuviera el artículo antes de ser recepcionado. Si se modifica este precio, saltará la pantalla de control de precios (ver siguiente imagen), donde podremos modificar los precios directamente en la ficha del artículo:
+\- Precio: importe de compra del artículo. Por defecto tomará el que tuviera el artículo antes de ser recepcionado. Si se modifica este precio, saltará la pantalla de control de precios (ver siguiente imagen), donde podremos modificar los precios directamente en la ficha del artículo:
 
 ![](<../../.gitbook/assets/imagen (30).png>)
 
-\*\* - Descuento y Descuento 2\*\*: podremos indicar hasta dos posibles descuentos. Si se modifican, también saltará la pantalla de control de precios del artículo.
+\- Descuento y Descuento 2: podremos indicar hasta dos posibles descuentos. Si se modifican, también saltará la pantalla de control de precios del artículo.
 
-\*\* - Parcial\*\*: valor total del artículo (sin sumar los impuestos) resultante de multiplicar las unidades recibidas por el precio, menos los descuentos.
+\- Parcial: valor total del artículo (sin sumar los impuestos) resultante de multiplicar las unidades recibidas por el precio, menos los descuentos.
 
-\*\* - % IVA\*\*: tomará el porcentaje de IVA definido en la ficha del artículo si en el albarán se tienen que calcular los impuestos y permitirá su modificación mediante el desplegable:
+\- % IVA: tomará el porcentaje de IVA definido en la ficha del artículo si en el albarán se tienen que calcular los impuestos y permitirá su modificación mediante el desplegable:
 
 ![](<../../.gitbook/assets/imagen (28).png>)
 
@@ -102,7 +102,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 **Opciones desde un albarán de compra:**
 
 * **Guardar:** si pulsamos esta opción, quedarán guardados todos los cambios que hayamos realizado sobre la ficha del albarán.
-* \*\*Confirmar: \*\*activa el albarán moviendo los artículos a stock (compras)
+* Confirmar: activa el albarán moviendo los artículos a stock (compras)
 * **Reparto**: permite mostrar los repartos de los distintos artículos siempre que el albarán haya sido generado desde un pedido de compras con relación a un pedido de ventas u OR, sino se mostrará el contenido vacío al no existir relación a cliente.
 * **Cancelar:** con este botón, saldremos de la ficha del albarán sin guardar los posibles cambios que hayamos realizado. Se puede pulsar la tecla ESC para ejecutar esta opción.
 * **Eliminar:** el botón solo estará activo si el albarán no está facturado, si se pulsa, se eliminará completamente.

@@ -1,10 +1,4 @@
----
-description: Interface mejorada
----
-
-# Nueva Barra de Favoritos
-
-En la actualización de Winmotor que ya se está instalando, podréis encontrar la nueva opción de crear una barra de favoritos.
+# Barra de Favoritos
 
 Para poder activarla según vuestras necesidades, tenéis que seguir este procedimiento:
 
@@ -26,7 +20,7 @@ En este paso, pulsamos en guardar una vez hayamos seleccionado nuestros favorito
 
 ![](<../.gitbook/assets/image (347).png>)
 
-Aparece la nueva barra de herramientas que, al igual que el resto de barras, podemos colocar en los laterales**, **parte superior / inferior o flotante (segunda imagen)
+Aparece la nueva barra de herramientas que, al igual que el resto de barras, podemos colocar en los laterales\*\*, \*\*parte superior / inferior o flotante (segunda imagen)
 
 ![](<../.gitbook/assets/image (348).png>)
 
@@ -34,7 +28,7 @@ Aparece la nueva barra de herramientas que, al igual que el resto de barras, pod
 
 4.- Si deseamos eliminar la barra, pero manteniendo las opciones, pulsamos en la X superior derecha de la propia barra o desactivamos, con botón derecho en la zona de barras indicada con la flecha naranja, la opción "Favoritos"
 
-5.- Podemos variar en cualquier momento el contenido de la barra. Sólo tenemos que volver a Opciones > Mi Configuración > pestaña Favoritos y seleccionar en el panel izquierdo aquellas opciones que necesitemos quitar de la barra y pulsar en la flecha hacia la derecha para devolverlas a las opciones disponibles&#x20;
+5.- Podemos variar en cualquier momento el contenido de la barra. Sólo tenemos que volver a Opciones > Mi Configuración > pestaña Favoritos y seleccionar en el panel izquierdo aquellas opciones que necesitemos quitar de la barra y pulsar en la flecha hacia la derecha para devolverlas a las opciones disponibles
 
 ![](<../.gitbook/assets/image (350).png>)
 

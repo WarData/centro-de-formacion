@@ -11,41 +11,14 @@ Permite dar de alta un nuevo pedido de material rellenando el siguiente formular
 La imagen anterior nos muestra un formulario de pedidos de material, donde se graban tanto los datos generales, como las líneas con las referencias a pedir. La cabecera de un pedido está compuesta por los siguientes campos:
 
 * **Serie:** es un campo imprescindible de rellenar, y por defecto toma el valor definido en los parámetros del programa. Podemos utilizarlo para clasificar diferentes tipos de pedidos, como por ejemplo, serie B para pedidos de boutique y R para recambios. Además, en las series de los documentos se pueden definir distintas características que tomará el pedido por defecto, entre ellas, se puede indicar que calcule los impuestos, lo que significa que el pedido llevará calculado en sus bases el impuesto correspondiente.
-
-
-
 * **Número:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
-
-
-
 * **Fecha:** se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
-
-
-
 * **Situación:** este campo no es manipulable por el usuario, y nos indica la situación del pedido. Esta puede ser, PENDIENTE TRAMITAR, nos indica que todas las referencias solicitadas aún están pendiente de recibir y tramitar, TRAMITADO, indica que el pedido ha sido solicitado al proveedor y el documento pasará a esta situación si se imprime, envía por e-mail o se genera el fichero correspondiente para tramitarlo mediante algún método utilizado por el proveedor, INCOMPLETO, indica que se ha recibido parte del pedido, RECIBIDO, indica que todas las referencias han sido recibidas.
-
-
-
 * **Referencia:** se puede anotar aquí la referencia del pedido del proveedor y localizar el pedido mediante este campo en "Buscar" y el localizador "Referencia".
-
-
-
 * **Centro:** este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el pedido. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
-
-
-
 * **Tipo de pedido:** se indica aquí si el pedido es de reposición, urgente, campaña o garantía.
-
-
-
 * **Proveedor:** indicamos aquí el proveedor al que vamos a realizar el pedido. Y mediante botón insertado en el campo del código del proveedor, podremos localizarlo, grabar uno nuevo o modificar el seleccionado. Además, podremos cambiar los datos del proveedor seleccionado en este pedido a través de los campos situados justo debajo del código del proveedor. Estos campos solo afectarán a este pedido y no se cambiará la ficha del proveedor.
-
-
-
 * **Divisa:** presenta la divisa en la que se genera el pedido.
-
-
-
 * **Régimen de IVA:** en este campo se indica el régimen de IVA que afecta al conjunto de las líneas añadidas al pedido.
 
 **Barra de pestañas**
@@ -56,7 +29,7 @@ Para grabar una nueva línea de pedido, podemos utilizar cualquiera de los méto
 
 ![](<../../../.gitbook/assets/imagen (52).png>)
 
-&#x20;           \* **Artículo**: campo en el que introducimos la referencia del artículo que vamos a pedir. Se podrá meter la referencia manualmente, o utilizando la opción "Localizar Artículo" de los  botones incrustados de este campo. Una vez asignado el pedido no se puede cambiar el artículo pero si podemos ver su ficha, en el botón que se encuentra al lado del nombre.
+\* **Artículo**: campo en el que introducimos la referencia del artículo que vamos a pedir. Se podrá meter la referencia manualmente, o utilizando la opción "Localizar Artículo" de los botones incrustados de este campo. Una vez asignado el pedido no se puede cambiar el artículo pero si podemos ver su ficha, en el botón que se encuentra al lado del nombre.
 
 Si no localizamos la referencia en la base de datos de artículos, podemos utilizar la opción "Localizar Referencia".
 
@@ -72,65 +45,64 @@ Una vez **confirmado el pedido**, las líneas muestran este formulario:
 
 En la parte de "Gestión del pedido" muestras los siguientes campos:
 
-&#x20;           \- **Pedidas**: campo para insertar las unidades que solicitamos al proveedor.
+\- **Pedidas**: campo para insertar las unidades que solicitamos al proveedor.
 
-&#x20;           \- **Recibidas**: nos presenta las unidades que hemos recibido (no manipulable por el usuario)
+\- **Recibidas**: nos presenta las unidades que hemos recibido (no manipulable por el usuario)
 
-&#x20;           \- **Anuladas**: este campo podrá ser utilizado para anular unidades pendientes de recibir del proveedor y que vayamos a recibirlas.
+\- **Anuladas**: este campo podrá ser utilizado para anular unidades pendientes de recibir del proveedor y que vayamos a recibirlas.
 
-&#x20;           \- **Pendientes**: unidades pendientes de recibir (unidades pedidas, menos las recibidas y menos las rectificadas).
+\- **Pendientes**: unidades pendientes de recibir (unidades pedidas, menos las recibidas y menos las rectificadas).
 
 En el resto del formulario:
 
-&#x20;           \- **Precio**: importe del artículo.
+\- **Precio**: importe del artículo.
 
-&#x20;           \- **Descuento 1 y descuento 2**: podremos indicar hasta dos descuentos en las líneas de pedidos.
+\- **Descuento 1 y descuento 2**: podremos indicar hasta dos descuentos en las líneas de pedidos.
 
-&#x20;           \- **Parcial**: valor total del artículo (sin sumar los impuestos) resultante de multiplicar las unidades pedidas por el precio menos los descuentos.
+\- **Parcial**: valor total del artículo (sin sumar los impuestos) resultante de multiplicar las unidades pedidas por el precio menos los descuentos.
 
-&#x20;           \- **Acción**: es una rejilla en la que podemos ver si las unidades pedidas en esta línea han sido reservadas por algún cliente o agente. Muestra diferentes acciones como Pedido Proveedor, Recepción, Asignación y Anulación.
+\- **Acción**: es una rejilla en la que podemos ver si las unidades pedidas en esta línea han sido reservadas por algún cliente o agente. Muestra diferentes acciones como Pedido Proveedor, Recepción, Asignación y Anulación.
 
 ![](<../../../.gitbook/assets/imagen (55).png>)
 
-&#x20;           \- **Contador**: este campo es utilizado para ordenar todas las líneas del pedido. Mantendrán el orden de menor a mayor en la presentación de las rejillas y en los impresos. Se podrá modificar para variar el orden según las necesidades.
+\- **Contador**: este campo es utilizado para ordenar todas las líneas del pedido. Mantendrán el orden de menor a mayor en la presentación de las rejillas y en los impresos. Se podrá modificar para variar el orden según las necesidades.
 
 ![](<../../../.gitbook/assets/imagen (54).png>)
 
-&#x20;            \- **Fecha**: es en la que se produce la **acción**
+\- **Fecha**: es en la que se produce la **acción**
 
-&#x20;            \- **Documento**: tipo y número de documento que genera la **acción **(es posible la apertura del documento mostrado con doble clic del ratón o seleccionando y pulsando intro)
+\- **Documento**: tipo y número de documento que genera la \*\*acción \*\*(es posible la apertura del documento mostrado con doble clic del ratón o seleccionando y pulsando intro)
 
-&#x20;            \- **Entidad**: la asignada al documento generado por la **acción**
+\- **Entidad**: la asignada al documento generado por la **acción**
 
-&#x20;            \- **Unidades**: cantidad de artículos por cada **acción**
+\- **Unidades**: cantidad de artículos por cada **acción**
 
 **Opciones de las líneas de pedido**
 
-&#x20;           \-          **Aceptar**: con este botón guardamos los cambios realizados.
+\- **Aceptar**: con este botón guardamos los cambios realizados.
 
-&#x20;           \-          **Cancelar**: abortamos el alta o modificación de la línea.
+\- **Cancelar**: abortamos el alta o modificación de la línea.
 
-&#x20;           \-          **Borrar**: eliminamos la línea del pedido.
+\- **Borrar**: eliminamos la línea del pedido.
 
-**           ** - **         Tramitar: **activa el pedido de compras
+\- Tramitar: activa el pedido de compras
 
-**           \* Totales:** presenta el desglose de importe totales del pedido de material.
+Totales: presenta el desglose de importe totales del pedido de material.
 
 ![](<../../../.gitbook/assets/imagen (56).png>)
 
-**           \* Observaciones:** aquí podremos anotar todas las notas que necesitemos relativas al pedido de material.
+Observaciones: aquí podremos anotar todas las notas que necesitemos relativas al pedido de material.
 
-&#x20;          **\*** **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto.&#x20;
+* **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto.
 
-**           \* Seguimientos**: añade asuntos a la agendas de los usuarios para el control del documento, permitiendo en ésta añadir avisos a horas programables.
+Seguimientos: añade asuntos a la agendas de los usuarios para el control del documento, permitiendo en ésta añadir avisos a horas programables.
 
-&#x20;          **\* Email**: control de correos electrónicos enviados o no enviados generados desde el botón "Crear Email":
+* **Email**: control de correos electrónicos enviados o no enviados generados desde el botón "Crear Email":
 
 ![](<../../../.gitbook/assets/imagen (57).png>)
 
-**           \* Auditoría**: control de las modificaciones por usuario y evento
-
-**           \* Acciones**: control de acciones sobre el documento en función de qué, quién y cuándo se ha realizado.
+* Auditoría: control de las modificaciones por usuario y evento
+* Acciones: control de acciones sobre el documento en función de qué, quién y cuándo se ha realizado.
 
 **Opciones desde un pedido de material**
 
@@ -187,17 +159,8 @@ Localizador de pedidos de material a través de distintos criterios. Nos permite
 Este localizador nos permite buscar un pedido por los siguientes criterios:
 
 * **Número de documento:** el cursor se irá situando en el pedido cuyo número coincida con el seleccionado.
-
-
-
 * **Fecha:** el cursor se irá situando en el primer pedido cuya fecha coincida con la seleccionada.
-
-
-
 * **Referencia:** el cursor se irá situando en el pedido cuya referencia coincida con la seleccionada.
-
-
-
 * **Nombre de entidad:** el cursor se irá situando en el pedido cuya razón social vaya coincidiendo con lo introducido en el campo de edición.
 
 ![](<../../../.gitbook/assets/imagen (64).png>)
@@ -229,4 +192,3 @@ Y a continuación la rejilla con información sobre la recepción y reparto de l
 **5 - ARTÍCULOS BAJO MÍNIMO**
 
 Muestra un listado de los artículos bajo mínimo. Este listado se genera en base a lo indicado en el apartado ["Gestión de la rotación de consumos y stock mínimo" - enlace directo disponible](https://winmotor.gitbook.io/project/manuales/maestros/articulos/ficha-del-articulo/rotacion-consumos)
-

@@ -1,10 +1,10 @@
 # Balance de sumas y saldos
 
-Hemos montado un nuevo panel para el cálculo y presentación de balances de sumas y saldos con estas novedades **(Administración > Contabilidad > Informes > Balance de sumas y saldos)**
+El panel para el cálculo y presentación de balances de sumas y saldos muestra **(Administración > Contabilidad > Informes > Balance de sumas y saldos):**
 
 ![](<../../../.gitbook/assets/imagen (9) (1).png>)
 
-* Posibilidad de filtrar por mes "desde". Ahora podemos por ejemplo pedir un balance desde abril a Junio de un ejercicio.
+* Posibilidad de filtrar por mes "desde". Podemos por ejemplo pedir un balance desde abril a Junio de un ejercicio.
 * Se puede pedir en pantalla el nivel de presentación del balance: por Auxiliar, por cuenta de mayor a 4,3,2 o 1 dígito.
 * Posibilidad de pedir en pantalla que se presente el detalle del asiento de apertura.
 * Impresión de balances tal como se está viendo en pantalla. Es decir, si tenemos en pantalla un balance calculado a 4 dígitos con detalle de la apertura utilizará al imprimir exactamente el mismo criterio.

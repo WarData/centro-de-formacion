@@ -4,29 +4,29 @@ description: Módulo opcional Winmotor V7
 
 # SII - Suministro Inmediato de Información
 
-**Parametrización**&#x20;
+**Parametrización**
 
-La puesta en marcha del sistema SII implica la configuración y parametrización de una serie de datos, el principal es el certificado digital de la empresa proporcionado por la AEAT.&#x20;
+La puesta en marcha del sistema SII implica la configuración y parametrización de una serie de datos, el principal es el certificado digital de la empresa proporcionado por la AEAT.
 
 Dado que la generación del certificado y la clave privada desde el archivo .PEM que proporciona la AEAT es bastante complejo, en Winmotor haremos este proceso a partir del certificado que nos envíen y lo dejaremos registrado en los parámetros.
 
 ![\* Figura 1 – Parámetros](<../../../.gitbook/assets/image (370).png>)
 
-Al igual que el certificado y la clave, también dejaremos registrado toda la parametrización para la conexión con los servidores de la agencia tributaria, tanto para el envío de facturas emitidas y recibidas como para la consulta de entidades.
+Al igual que el certificado y la clave, también dejaremos registrado toda la parametrización para la conexión con los servidores de la agencia tributaria, tanto para el envío de facturas emitidas y recibidas como para la consulta de entidades.
 
-&#x20;La parametrización de los días de envío es en la que interviene el responsable de la empresa y se explica a continuación.
+La parametrización de los días de envío es en la que interviene el responsable de la empresa y se explica a continuación.
 
-**Operativa**
+**Operativa**
 
 * Alta de clientes, proveedores y acreedores
 
-**a.-** El SII exige que todo cliente, proveedor o acreedor que se identifique en cualquier factura que enviemos esté registrado en la AEAT por lo que el primer paso que hace el programa es controlar su registro en el proceso de alta.&#x20;
+**a.-** El SII exige que todo cliente, proveedor o acreedor que se identifique en cualquier factura que enviemos esté registrado en la AEAT por lo que el primer paso que hace el programa es controlar su registro en el proceso de alta.
 
 **b.-** En el momento del alta de uno de estos tipos de entidades la aplicación verificará con la AEAT que están registrados. Para el caso de particulares la AEAT verifica el NIF y el nombre dado que la ley de protección de datos así lo exige, pero para el caso de sociedades sólo verifica el NIF. En caso de que estemos dando de alta una sociedad y el nombre fiscal registrado en la aplicación sea distinto del que está registrado en la AEAT el programa lo modificará automáticamente.
 
 ![\* Figura 2 – Alta de entidad](<../../../.gitbook/assets/image (364).png>)
 
-\
+\
 **c.-** El uso del botón “Verificar DNI/CIF” es opcional por si queremos consultar; el programa hará la verificación automática en el momento de aceptar el alta de la ficha.
 
 * **Envío de facturas emitidas y recibidas**
@@ -37,21 +37,21 @@ Más información en el siguiente enlace de la Agencia Tributaria:
 
 {% embed url="https://www.agenciatributaria.es/AEAT.internet/Inicio/Ayuda/Modelos__Procedimientos_y_Servicios/Ayuda_P_G417____IVA__Llevanza_de_libros_registro__SII_/Informacion_general/Preguntas_frecuentes/1__Cuestiones_generales/1_12___Cuando_hay_que_enviar_los_registros_de_facturacion_a_la_AEAT__.shtml" %}
 
-**b.-** En la parametrización definiremos por tanto el número de días después de su creación que queremos que se cuenten para el envío de las facturas y lo mismo para las recibidas&#x20;
+**b.-** En la parametrización definiremos por tanto el número de días después de su creación que queremos que se cuenten para el envío de las facturas y lo mismo para las recibidas
 
 * Winmotor enviará todas las noches mediante una tarea programada todas las facturas no enviadas cuya antigüedad llegue a los días definidos según su tipo en la parametrización. Por cada envío se crea un registro indicando la fecha y hora del envío
 
-![\* Figura 3 – Consulta de envío  ](<../../../.gitbook/assets/image (367).png>)
+![\* Figura 3 – Consulta de envío](<../../../.gitbook/assets/image (367).png>)
 
-**a.-**&#x20;Cada uno de estos envíos queda registrado con un “Código seguro de verificación” que genera la AEAT y que facilita su consulta en su página en caso de necesitar hacer alguna comprobación.
+**a.-** Cada uno de estos envíos queda registrado con un “Código seguro de verificación” que genera la AEAT y que facilita su consulta en su página en caso de necesitar hacer alguna comprobación.
 
 **Verificación y corrección de errores**
 
-Winmotor después de cada envío generará un correo electrónico a los destinatarios definidos en la parametrización (último campo de la figura 1) indicando el resultado de los envíos de esa noche.
+Winmotor después de cada envío generará un correo electrónico a los destinatarios definidos en la parametrización (último campo de la figura 1) indicando el resultado de los envíos de esa noche.
 
 Todo el sistema de consultas y listados del SII está en un menú especial al que sólo tiene acceso un usuario supervisor. La ruta es “Configuración/Opciones especiales/SII”. En este menú encontraremos opciones para listar tanto facturas emitidas como recibidas, así como para listar y consultar registros de envíos y sus detalles.
 
-Al consultar una factura desde este menú veremos un botón especial donde se muestra el estado de sus envíos al SII.
+Al consultar una factura desde este menú veremos un botón especial donde se muestra el estado de sus envíos al SII.
 
 ![\* Figura 4 – Consulta de factura desde SII](<../../../.gitbook/assets/image (368).png>)
 
@@ -63,7 +63,7 @@ Realmente hay que entender que estas opciones no son de uso normal sino para cir
 
 **Detalles importantes a tener en cuenta en la operativa SII**
 
-**a.- **Tipos de facturas
+a.- Tipos de facturas
 
 Winmotor calculará automáticamente uno de estos tipos de factura según sus datos:
 
@@ -89,6 +89,6 @@ Estando relleno no se permitirá crear una factura a un cliente genérico con un
 
 **c.-** Facturas intracomunitarias
 
-A nivel del SII son facturas tipo “F1 – Factura” pero su régimen de IVA la identificará como intracomunitaria y el cliente lógicamente será de un país fuera de España e intracomunitario. Es importante tener en cuenta que la AEAT rechazará una factura con el tipo de IVA “Régimen Intracomunitario” que no cumpla estos requisitos.&#x20;
+A nivel del SII son facturas tipo “F1 – Factura” pero su régimen de IVA la identificará como intracomunitaria y el cliente lógicamente será de un país fuera de España e intracomunitario. Es importante tener en cuenta que la AEAT rechazará una factura con el tipo de IVA “Régimen Intracomunitario” que no cumpla estos requisitos.
 
 Por otro lado, para este tipo de facturas es fundamental tener en cuenta que la lista de países intracomunitarios debe estar actualizada y que el código del país identificado debe ser el correcto. Inicialmente Winmotor actualizará la base de datos de países correcta.

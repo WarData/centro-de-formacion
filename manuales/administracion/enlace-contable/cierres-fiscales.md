@@ -1,10 +1,6 @@
----
-description: Nueva Opción Agosto 2019
----
-
 # Cierres Fiscales
 
-Como mejora en la seguridad de la base de datos hemos creado la opción de **“Cierres fiscales”**.&#x20;
+Con el objetivo de tener la máxima seguridad en la base de datos, existe la opción de **“Cierres fiscales”**.
 
 Consiste básicamente en definir una fecha hasta la que todos los datos fiscales de la aplicación dejan de poder modificarse. **Al definir un cierre fiscal, el programa bloquea la posibilidad de grabar, borrar o modificar facturas de ventas, compras y gastos, así como asientos contables con fecha anterior o igual a la del cierre fiscal.**
 
