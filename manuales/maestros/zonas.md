@@ -7,23 +7,23 @@ Con esta opción accederemos a un menú donde podremos grabar las diferentes zon
 * En el lateral izquierdo se presentan las zonas dadas de alta indicando código y nombre de forma arbolada
 * Botones superiores:
 
-&#x20;                    o   F1 Nueva Zona: Permite dar de alta una zona y asignarla directamente a un vendedor y determinados clientes y/o códigos postales
+o F1 Nueva Zona: Permite dar de alta una zona y asignarla directamente a un vendedor y determinados clientes y/o códigos postales
 
 ![](<../../.gitbook/assets/image (547).png>)
 
-**                               CÓDIGO:** es un campo obligatorio y alfanumérico que nos servirá para identificar a cada zona. Para seguir un orden arbolado, es aconsejable utilizar el código postal para identificar la zona. De tal manera que a Sevilla, por ejemplo, le pondríamos como código el 41, a Alcalá de Guadaira, el 41500, a Madrid el 28, etc.
+CÓDIGO: es un campo obligatorio y alfanumérico que nos servirá para identificar a cada zona. Para seguir un orden arbolado, es aconsejable utilizar el código postal para identificar la zona. De tal manera que a Sevilla, por ejemplo, le pondríamos como código el 41, a Alcalá de Guadaira, el 41500, a Madrid el 28, etc.
 
-**                                NOMBRE:** descripción de la zona.
+NOMBRE: descripción de la zona.
 
-**                                VENDEDOR:** se podrá definir un vendedor por defecto por zona. Cada campo contiene botones incrustados para poder localizar y editar más fácilmente un vendedor.
+VENDEDOR: se podrá definir un vendedor por defecto por zona. Cada campo contiene botones incrustados para poder localizar y editar más fácilmente un vendedor.
 
-&#x20;                                Para guardar la ficha creada, utilizaremos el botón **Aceptar**, y si queremos salir sin guardarla pulsaremos sobre **Cancelar**.
+Para guardar la ficha creada, utilizaremos el botón **Aceptar**, y si queremos salir sin guardarla pulsaremos sobre **Cancelar**.
 
-&#x20;                    o   F2 Buscar Zona: localizador de zona por los índices "Código", "Alfabético", "Palabras", "Trozos de palabras" y "Vendedor"
+o F2 Buscar Zona: localizador de zona por los índices "Código", "Alfabético", "Palabras", "Trozos de palabras" y "Vendedor"
 
 ![](<../../.gitbook/assets/image (548).png>)
 
-&#x20;                     o   F3 Listar Zonas: genera un listado sobre el que poder usar las opciones disponibles como Navegante o Exportador Avanzado
+o F3 Listar Zonas: genera un listado sobre el que poder usar las opciones disponibles como Navegante o Exportador Avanzado
 
 ![](<../../.gitbook/assets/image (549).png>)
 
