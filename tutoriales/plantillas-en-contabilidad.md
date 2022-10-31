@@ -1,10 +1,14 @@
+---
+description: Uso de plantilla al final del tutorial
+---
+
 # Plantillas en contabilidad
 
 El sistema de contabilidad Winmotor ofrece la posibilidad de dar de alta plantillas para procesos de alta de asientos más rápidos y sencillos.
 
 La opción la encontramos en Administración > Contabilidad > Maestros > Plantillas de asientos
 
-<figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Mostrará la rejilla con todas las plantillas disponibles y que se podrán editar desde aquí una vez dadas de alta.
 
@@ -20,7 +24,7 @@ Y la segunda opción sería introduciendo todos los apuntes en el asiento del qu
 
 2.- Le asignamos un nombre (Traspaso en este ejemplo) y vamos a la opción "Plantillas de asientos" indicada al inicio:
 
-<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Ahora configuraremos cada apunte para que Winmotor permita asistir el alta del asiento mediante la plantilla:
 
@@ -39,3 +43,21 @@ Y la segunda opción sería introduciendo todos los apuntes en el asiento del qu
 \*\*\* Existen numerosos parámetros en la configuración de un apunte de una plantilla dentro de la pestaña "Registros auxiliares" que le ayudarán a automatizar los procesos de alta manual de asientos:
 
 <figure><img src="../.gitbook/assets/imagen (120).png" alt=""><figcaption></figcaption></figure>
+
+**USO DE LA PLANTILLA CREADA**
+
+1.- Alta de un nuevo asiento
+
+2.- Indicamos fecha contable, seleccionamos la plantilla "Traspaso" y pulsamos en "Generar":
+
+<figure><img src="../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
+3.- Como hemos configurado los asientos de la plantilla para que sólo pregunte por importes, nos aparecerá la siguiente ventana emergente:
+
+<figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+
+4.- Rellenamos importe y pulsamos aceptar generando automáticamente el apunte de contrapartida completamente relleno:
+
+<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+\*\*\* Si no queremos hacer uso de las plantillas en algún momento, podremos indicar en el asiento inicial del apunte los datos y al hacer el siguiente apunte, indicar la cuenta auxiliar y pulsar en el botón "Cuadrar", rellenando importe, concepto y número de documento.
