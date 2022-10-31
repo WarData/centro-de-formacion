@@ -36,7 +36,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el form
 
 6.- Ahora seleccionamos aquellas que queremos incorporar al fichero para el banco y pulsamos en la flecha que indica hacia abajo. De igual modo, podemos seleccionar facturas añadidas al fichero y pulsar en la flecha que indica hacia arriba para que sea "remesable" no "remesada":
 
-<figure><img src="../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 7.- Una vez remesados, nos aparece un nuevo botón "Crear archivo bancario" para guardar el archivo generado en el equipo pudiendo aquí cambiar el formato de la remesa, la fecha disco y la fecha cargo:
 
