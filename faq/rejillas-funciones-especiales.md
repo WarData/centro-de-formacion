@@ -120,7 +120,7 @@ Para pasarlo a rejilla avanzada y poderlo configurar los pasos son los siguiente
 
 **Resultado (imputación cliente)**
 
-<figure><img src="../.gitbook/assets/imagen (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (117) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Resultado (resto de imputaciones)**
 
