@@ -16,19 +16,19 @@ Se detallarán además por cada vehículo vendido los conceptos variables de gas
 
 En caso de haber utilizado en algún documento un concepto que no tenga definida familia aparecerá para este caso una cabecera en gastos o ingresos (según su importe) indicando “Concepto sin clasificar”.
 
-El número máximo de conceptos variables a presentar en el informe es de 10 columnas de gastos y 10 columnas de ventas, en caso de superar en alguno de los dos casos el número de columnas el programa le avisará.
+El número máximo de columnas para conceptos variables a presentar en el informe es de 10 columnas de gastos y 10 columnas de ventas, en caso de superar en alguno de los dos casos el número de columnas el programa parará el proceso y no emitirá el informe.
 
 **Pasamos a continuación a mostrarle como calcular la “estadística de vehículos” y emitir todos sus posibles informes:**
 
-1\.       Desde el Menú lateral del panel de inicio podremos seleccionar la opción ‘Comercial’, que mostrará el panel de ‘Vehículos’ y ‘Modelos’.
+1\. Desde el Menú lateral del panel de inicio podremos seleccionar la opción ‘Comercial’, que mostrará el panel de ‘Vehículos’ y ‘Modelos’.
 
 ![](<../../../.gitbook/assets/image (1).png>)
 
-2\.       Seleccionaremos ‘Estadísticas de producción’ y aparecerá un formulario donde podremos indicar las condiciones de filtrado para el listado que necesitemos.
+2\. Seleccionaremos ‘Estadísticas de producción’ y aparecerá un formulario donde podremos indicar las condiciones de filtrado para el listado que necesitemos.
 
 ![](<../../../.gitbook/assets/image (2).png>)
 
-3\.       Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
+3\. Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
 
 ![](<../../../.gitbook/assets/image (3).png>)
 
@@ -36,32 +36,32 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 **Una vez obtenidos los resultados según los filtros necesarios podremos realizar distintas acciones:**
 
-\-          En la parte inferior izquierda tendremos las opciones para imprimir o exportar los resultados por diferentes medios y criterios (cliente/vendedor):
+\- En la parte inferior izquierda tendremos las opciones para imprimir o exportar los resultados por diferentes medios y criterios (cliente/vendedor):
 
 ![](<../../../.gitbook/assets/image (4).png>)
 
-\-          Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
+\- Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
 ![](<../../../.gitbook/assets/image (5).png>)
 
-\-          Muestran las totalizaciones de datos por cada cliente/vendedor:
+\- Muestran las totalizaciones de datos por cada cliente/vendedor:
 
 ![](<../../../.gitbook/assets/image (7).png>)
 
-\-          Además del total acumulado por página:
+\- Además del total acumulado por página:
 
 ![](<../../../.gitbook/assets/image (8).png>)
 
-\-          Y el total del informe en la última página:
+\- Y el total del informe en la última página:
 
 ![](<../../../.gitbook/assets/image (9).png>)
 
-\-          Un ejemplo del informe agrupado por Vendedores:
+\- Un ejemplo del informe agrupado por Vendedores:
 
 ![](<../../../.gitbook/assets/image (10).png>)
 
-\-          Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
+\- Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
 
 ![](<../../../.gitbook/assets/image (11).png>)
 
-\-          Disponemos también de la opción “Exportación a Excel”: generará un archivo Excel con los resultados presentados en la pantalla añadiendo también la totalización. La aplicación abrirá automáticamente el documento generado. Hay que tener en cuenta que realmente el archivo generado tiene la extensión “.csv” (comma-separated values) por lo que si en el Excel damos la opción de guardar nos dará opción a guardarlo como Excel puro ( .xlsx)
+\- Disponemos también de la opción “Exportación a Excel”: generará un archivo Excel con los resultados presentados en la pantalla añadiendo también la totalización. La aplicación abrirá automáticamente el documento generado. Hay que tener en cuenta que realmente el archivo generado tiene la extensión “.csv” (comma-separated values) por lo que si en el Excel damos la opción de guardar nos dará opción a guardarlo como Excel puro ( .xlsx)
