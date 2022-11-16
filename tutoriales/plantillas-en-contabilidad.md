@@ -8,7 +8,7 @@ La contabilidad de Winmotor ofrece la posibilidad de grabar asientos mediante pl
 
 La opción la encontramos en Administración > Contabilidad > Maestros > Plantillas de asientos
 
-<figure><img src="../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Mostrará la rejilla con todas las plantillas disponibles y que se podrán editar desde aquí una vez dadas de **alta**:
 
@@ -22,7 +22,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 3.- Ahora configuraremos cada apunte para que Winmotor permita asistir el alta del asiento mediante la plantilla:
 
-<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/imagen (26).png" alt=""><figcaption><p>Asiento contrapartida</p></figcaption></figure>
 
@@ -32,7 +32,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 También se pueden crear las plantillas desde su opción dentro del menú de maestros de contabilidad:
 
-<figure><img src="../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* La plantilla se podrá seleccionar en el alta del asiento, así como darla de alta (punto 1) o editar una existente previamente seleccionada:
 

@@ -14,4 +14,4 @@ También, pero solo en algunas opciones, existe un sistema para adjuntar archivo
 
 ​
 
-![](<../.gitbook/assets/imagen (15) (2).png>)
+![](<../.gitbook/assets/imagen (15) (2) (1).png>)
