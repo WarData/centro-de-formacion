@@ -18,7 +18,7 @@ A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen
 
 B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 * El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
 * Marca la hora de separación entre los turnos de mañana y tarde
@@ -27,7 +27,7 @@ C.- Eliminar festivos anteriores si ya existen (error de cabecera de documento: 
 
 D.- Rellenar festivos > desde el panel de citas de asesor, pulsar en el botón con 3 líneas > configuración y pulsar doble clic en el espacio en blanco (rejilla de festivos) o pulsar botón derecho "Alta de ficha"
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 E.- Asignar asesores de servicio desde el departamento pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad.
 
@@ -35,7 +35,7 @@ E.- Asignar asesores de servicio desde el departamento pasando de derecha a izqu
 
 F.- Definir los turnos desde el departamento pulsando en el botón +:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
 
@@ -54,7 +54,7 @@ G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (
 
 * Por último pulsar en el botón "Aplicar":
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña "Trabajadores" > "Configuración"), aunque será opcional asignar los turnos a operarios concretos. La agenda de taller indicará únicamente el número total de horas disponibles en función del número de operarios. Aparecerán como no asignados aquellas entidades definidas como operarios que aún no estén asignados y, en caso de ser multicentro, aparecerán sólo los que sean de ese centro:
 
