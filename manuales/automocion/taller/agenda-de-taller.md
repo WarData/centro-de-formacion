@@ -6,19 +6,19 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 1.- Activar usuarios que son Asesores de servicio:
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 2.- Al entrar por primera vez en la agenda de taller indicará que requiere **configurar** el departamento. Aceptar y pulsar en configuración según indica la siguiente imagen:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
 
 A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen (lo realizará Winmotor):
 
-<figure><img src="../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
 
 B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
 
-<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
 * El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
 * El campo "Tiempo mínimo para una cita (minutos)" es referente al tiempo de la cita de taller
@@ -28,40 +28,44 @@ C.- Eliminar festivos anteriores si ya existen (error de cabecera de documento: 
 
 D.- Rellenar festivos > desde el panel de citas de asesor, pulsar en el botón con 3 líneas > configuración y pulsar doble clic en el espacio en blanco (rejilla de festivos) o pulsar botón derecho "Alta de ficha"
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
-E.- Definir trabajadores
+E.- Asignar asesores de servicio desde el departamento pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad.
 
-F.- Definir asesores de servicio
+<figure><img src="../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
 
-G.- Definir los turnos
+F.- Definir los turnos desde el departamento pulsando en el botón +:
 
-H.- Definir vehículos de cortesía
+<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
 
-OPCIONAL > Aplicar trabajadores a calendario
+Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
 
-6.- Creación de turnos
+<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
 
-![Captura de pantalla de un celular
+G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (en el departamento pestaña "Asesores" > pestaña "Diario" > pestaña "Asignación).
 
-Descripción generada automáticamente](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image008.jpg)
+* Indicar intervalo de fecha
+* Seleccionar turno
+* Opcional > día de la semana (si se intercalan distintos asesores entre días de semana, en caso contrario dejar en blanco)
+* Actualizar o F5 para mostrar los turnos y días
+* En el botón lupa indicar asesor de servicio
+* Pulsar en todas las fechas a asignar al asesor (para seleccionar todo pulsar en un cuadro superior):
 
-7.- Asignar diario al asesor
+<figure><img src="../../../.gitbook/assets/imagen (20).png" alt=""><figcaption></figcaption></figure>
 
-![Interfaz de usuario gráfica
+* Por último pulsar en el botón "Aplicar":
 
-Descripción generada automáticamente](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image010.jpg)
+<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
-8.- Asignar operarios al departamento
+H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña "Trabajadores" > "Configuración"), aunque será opcional asignar los turnos a operarios concretos. La agenda de taller indicará únicamente el número total de horas disponibles en función del número de operarios. Aparecerán como no asignados aquellas entidades definidas como operarios que aún no estén asignados y, en caso de ser multicentro, aparecerán sólo los que sean de ese centro:
 
-![Interfaz de usuario gráfica, Aplicación
+<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
-Descripción generada automáticamente](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image012.jpg)
+* En el diario de los trabajadores pestaña "Consulta" podremos ver la asignación de operarios a distintos turnos. Recordamos que esto es opcional siempre que queramos activar bajas, eventos o vacaciones, casos en los que sí hay que indicar el operario afectado:
 
-·         Aparecerán como no asignados aquellas entidades definidas como operarios que aún no estén asignados y, en caso de ser multicentro, aparecerán sólo los que sean de ese centro
+<figure><img src="../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
 
-9.- Mecánicos asignados a diario taller
+I.- Definir vehículos de cortesía del mismo modo que asignar asesores y trabajadores (operarios) desde la pestaña "Vehículos":
 
-![Interfaz de usuario gráfica, Sitio web
+<figure><img src="../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
 
-Descripción generada automáticamente](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image014.jpg)

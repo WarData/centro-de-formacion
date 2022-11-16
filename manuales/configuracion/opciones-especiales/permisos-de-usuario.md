@@ -40,7 +40,7 @@ Permisos según el “Nivel del usuario”
 
 · Barra de opciones
 
-![](<../../../.gitbook/assets/imagen (18).png>)
+![](<../../../.gitbook/assets/imagen (18) (1).png>)
 
 \*\*\* Permisos específicos:
 
@@ -69,7 +69,7 @@ Permisos según el “Nivel del usuario”
 
 · Barra de opciones
 
-![](<../../../.gitbook/assets/imagen (20).png>)
+![](<../../../.gitbook/assets/imagen (20) (1).png>)
 
 \*\*\* Permisos específicos
 
