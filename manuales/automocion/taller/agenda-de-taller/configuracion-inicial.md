@@ -18,10 +18,9 @@ A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen
 
 B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
 
 * El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
-* El campo "Tiempo mínimo para una cita (minutos)" es referente al tiempo de la cita de taller
 * Marca la hora de separación entre los turnos de mañana y tarde
 
 C.- Eliminar festivos anteriores si ya existen (error de cabecera de documento: festivos) por vDataclient (requiere [contactar con Winmotor](mailto:soporte@winmotor.net))
