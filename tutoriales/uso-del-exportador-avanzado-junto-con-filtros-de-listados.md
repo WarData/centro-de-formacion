@@ -10,7 +10,7 @@ Empezaremos obteniendo un listado filtrado de entidades con la fecha de alta ind
 
 &#x20;2.- Seleccionáis tipo de entidad “Cliente” y vais directamente a la pestaña de “Filtros avanzados”
 
-<figure><img src="../.gitbook/assets/imagen (6) (4) (1).png" alt=""><figcaption><p>En Filtros avanzados indicas el intervalo de fecha de alta</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (4).png" alt=""><figcaption><p>En Filtros avanzados indicas el intervalo de fecha de alta</p></figcaption></figure>
 
 &#x20;3.- Con el resultado en pantalla, verás que tienes todos los datos menos la fecha. Para ello, selecciona una de las líneas de cliente y pulsa el botón de la parte superior Opciones > Exportador Avanzado:
 

@@ -20,7 +20,7 @@ D> Generará una factura a la compañía sin haber añadido ningún pedido de co
 
 E> La pestaña "Facturación" mostrará la línea de facturación de la OR general, en este caso a 0 €uros por lo que no será facturable:
 
-![](<../../.gitbook/assets/imagen (17).png>)
+![](<../../.gitbook/assets/imagen (17) (1).png>)
 
 **2.- Dar de alta OR normal y facturar a la compañía parte de la reparación**.&#x20;
 
