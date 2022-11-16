@@ -6,7 +6,7 @@ Empezaremos obteniendo un listado filtrado de entidades con la fecha de alta ind
 
 1.- Desde el panel de entidades pulsar el botón F3 Listar Entidades
 
-<figure><img src="../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;2.- Seleccionáis tipo de entidad “Cliente” y vais directamente a la pestaña de “Filtros avanzados”
 
