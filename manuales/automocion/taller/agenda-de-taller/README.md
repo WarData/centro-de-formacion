@@ -1,3 +1,3 @@
 # Agenda de Taller
 
-Configuración inicial y usos prácticos de la agenda de taller actualizada.
+Acceso a [configuración inicial](configuracion-inicial.md) y [usos prácticos](uso.md) de la agenda de taller actualizada.
