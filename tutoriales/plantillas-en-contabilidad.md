@@ -18,11 +18,11 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 2.- Le asignamos un nombre (Traspaso en este ejemplo) y vamos a la opción "Plantillas de asientos" indicada al inicio:
 
-<figure><img src="../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Ahora configuraremos cada apunte para que Winmotor permita asistir el alta del asiento mediante la plantilla:
 
-<figure><img src="../.gitbook/assets/imagen (6) (2).png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/imagen (26).png" alt=""><figcaption><p>Asiento contrapartida</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ También se pueden crear las plantillas desde su opción dentro del menú de mae
 
 2.- Indicamos fecha contable, seleccionamos la plantilla "Traspaso" y pulsamos en "Generar":
 
-<figure><img src="../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Como hemos configurado los asientos de la plantilla para que sólo pregunte por importes, nos aparecerá la siguiente ventana emergente:
 

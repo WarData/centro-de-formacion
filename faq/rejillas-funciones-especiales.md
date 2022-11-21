@@ -88,7 +88,7 @@ Para guardar esta configuración simplemente pulse sobre cualquier sitio de la r
 
 Para convertir un listado con rejilla estandar (un listado estadístico de las ORs por ejemplo) a un panel de rejilla avanzada simplemente hay que seleccionar una de las líneas presentadas en el panel e ir a la barra de herrmientas principal > Opciones > Lista > Generar vista con otro visor y seleccionar una de las opciones que indique "rejilla avanzada". Ponemos el ejemplo del listado estadístico de las ORs:
 
-<figure><img src="../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Por defecto nos muestra una rejilla estandar:
 

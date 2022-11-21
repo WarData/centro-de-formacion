@@ -22,7 +22,7 @@ Lo primero que se puede apreciar es el rango de fechas de los albaranes que quer
 
 &#x20;               Al pulsar el botón del selector de períodos se podrá seleccionar que el rango de fechas sea en un rango fechas fijo como Hoy, Mes o Año. Pero a su vez en No seleccionado se puede seleccionar un rango diferente como por ejemplo desde hoy a 5 días atrás.
 
-![](<../../.gitbook/assets/imagen (5) (2).png>)
+![](<../../.gitbook/assets/imagen (5) (2) (1).png>)
 
 Como veremos más adelante **\*\*\*** se podrá guardar como **filtro por defecto** el rango de fechas que más utilicemos para que cuando entremos al panel siempre tenga ese rango de fechas cargado de serie (si no se define como filtro por defecto, la selección de fecha volverá al estado anterior la próxima vez)
 
