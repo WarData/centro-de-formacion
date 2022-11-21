@@ -6,7 +6,7 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 1.- Activar usuarios que son Asesores de servicio:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.- Al entrar por primera vez en la agenda de taller indicará que requiere **configurar** el departamento. Aceptar y pulsar en configuración según indica la siguiente imagen:
 
@@ -39,7 +39,7 @@ F.- Definir los turnos desde el departamento pulsando en el botón +:
 
 Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
 
-<figure><img src="../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (en el departamento pestaña "Asesores" > pestaña "Diario" > pestaña "Asignación).
 
@@ -62,7 +62,7 @@ H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña 
 
 * En el diario de los trabajadores pestaña "Consulta" podremos ver la asignación de operarios a distintos turnos. Recordamos que esto es opcional siempre que queramos activar bajas, eventos o vacaciones, casos en los que sí hay que indicar el operario afectado:
 
-<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 I.- Definir vehículos de cortesía del mismo modo que asignar asesores y trabajadores (operarios) desde la pestaña "Vehículos":
 
