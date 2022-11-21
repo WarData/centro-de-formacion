@@ -159,7 +159,7 @@
     * [Departamentos internos](manuales/automocion/taller/departamentos-internos.md)
     * [Agenda de Taller](manuales/automocion/taller/agenda-de-taller/README.md)
       * [Configuración inicial](manuales/automocion/taller/agenda-de-taller/configuracion-inicial.md)
-      * [Uso](manuales/automocion/taller/agenda-de-taller/uso.md)
+      * [Uso general](manuales/automocion/taller/agenda-de-taller/uso-general.md)
       * [Alta de una cita de asesor](manuales/automocion/taller/agenda-de-taller/alta-de-una-cita-de-asesor.md)
     * [Tipos OR](manuales/automocion/taller/tipos-or.md)
   * [Comercial](manuales/automocion/comercial-de-vehiculos/README.md)
