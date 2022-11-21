@@ -10,7 +10,7 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 2.- Al entrar por primera vez en la agenda de taller indicará que requiere **configurar** el departamento. Aceptar y pulsar en configuración según indica la siguiente imagen:
 
-<figure><img src="../../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen (lo realizará Winmotor):
 
@@ -18,7 +18,7 @@ A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen
 
 B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
 * Marca la hora de separación entre los turnos de mañana y tarde

@@ -10,7 +10,7 @@ Para evitar que salga este mensaje hay que reducir el número de familias de ser
 
 Al listar las familias en F3 se presentarán todas las familias que haya para servicios:
 
-<figure><img src="../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Es aquí donde habrá que estudiar cómo agrupar correctamente en familias los servicios que haya. Si por ejemplo hay varias familias de servicios que sean para una marca en concreto, lo idóneo sería agruparlas y ponerlas en una sola como 'SERVICIOS %NOMBRE\_MARCA%'. Sobre todo habrá que evitar que haya familias que tengan un solo servicio.
 
