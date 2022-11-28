@@ -206,6 +206,7 @@
 
 ## Tutoriales
 
+* [Reasignación de artículos ya asignados a pedido](tutoriales/reasignacion-de-articulos-ya-asignados-a-pedido.md)
 * [Plantillas en contabilidad](tutoriales/plantillas-en-contabilidad.md)
 * [Uso del exportador avanzado junto con filtros de listados](tutoriales/uso-del-exportador-avanzado-junto-con-filtros-de-listados.md)
 * [Adjuntar ficheros en documentos - Multi-selección](tutoriales/adjuntar-ficheros-en-documentos-multi-seleccion.md)
