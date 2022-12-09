@@ -24,7 +24,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago de nóminas:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (37).png" alt=""><figcaption></figcaption></figure>
 
 5.- En el siguiente panel nos mostrará todas las nóminas / empleados disponibles para remesar:
 

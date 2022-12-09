@@ -172,6 +172,6 @@ El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar
 
 Permite facturar directamente todos los albaranes seleccionados previo filtro de serie, fecha, entidad y/o tipo de pago:
 
-![](<../../.gitbook/assets/imagen (37).png>)
+![](<../../.gitbook/assets/imagen (37) (1).png>)
 
 ![](<../../.gitbook/assets/imagen (38).png>)
