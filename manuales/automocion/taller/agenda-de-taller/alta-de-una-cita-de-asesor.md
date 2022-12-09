@@ -12,7 +12,7 @@ Introducción de datos de vehículo / cliente:
 
 * El siguiente paso es "Temparios". Se pueden añadir desde 1 a 5 temparios de forma simultánea, pudiendo añadir mediante el botón "Notas" texto a cada tempario:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 * Es posible añadir citas sobre [operaciones de taller](../operaciones-de-taller.md) con vehículo seleccionando el campo desplegable junto al tiempo de la operación:
 
