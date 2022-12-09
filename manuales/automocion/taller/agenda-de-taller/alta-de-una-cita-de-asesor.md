@@ -12,7 +12,7 @@ Introducción de datos de vehículo / cliente:
 
 * El siguiente paso es "Temparios". Se pueden añadir desde 1 a 5 temparios de forma simultánea, pudiendo añadir mediante el botón "Notas" texto a cada tempario:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Es posible añadir citas sobre [operaciones de taller](../operaciones-de-taller.md) con vehículo seleccionando el campo desplegable junto al tiempo de la operación:
 
@@ -20,7 +20,7 @@ Introducción de datos de vehículo / cliente:
 
 * En la parte inferior obtendremos "Datos de interés" informando de kilómetros de la última OR, fin de garantía y fecha de la última OR y un campo "Notas" para añadir a la cita cualquier dato adicional.
 
-<figure><img src="../../../../.gitbook/assets/imagen (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (107) (5).png" alt=""><figcaption></figcaption></figure>
 
 * Por último podremos seleccionar la cita sin o con vehículo de cortesía, si se da de alta la OR de forma simultánea a la cita y si se marca como de "alta prioridad" (la cita se marca en rojo en el panel de citas):
 

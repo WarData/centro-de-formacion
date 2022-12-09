@@ -22,10 +22,10 @@ Se ha añadido una mejora sobre esta función para artículos ya asignados. Pone
 
 5.- En el menú de reasignación de reservas de pedidos de clientes seleccionamos el pedido a modificar, pulsamos en el botón menos para quitar el reparto y seleccionamos al que queramos añadir la unidad:
 
-<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 6.- El resultado quedaría de la siguiente forma:
 
-<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Este proceso sería similar para múltples pedidos y unidades pedidas, pudiendo rehacer la asignación de varios pedidos hacia múltiples desde esa única ventana.

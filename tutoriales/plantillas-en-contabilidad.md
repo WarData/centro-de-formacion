@@ -32,7 +32,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 También se pueden crear las plantillas desde su opción dentro del menú de maestros de contabilidad:
 
-<figure><img src="../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* La plantilla se podrá seleccionar en el alta del asiento, así como darla de alta (punto 1) o editar una existente previamente seleccionada:
 

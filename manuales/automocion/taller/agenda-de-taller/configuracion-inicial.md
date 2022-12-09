@@ -31,7 +31,7 @@ D.- Rellenar festivos > desde el panel de citas de asesor, pulsar en el botón c
 
 E.- Asignar asesores de servicio desde el departamento pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad.
 
-<figure><img src="../../../../.gitbook/assets/imagen (8) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 F.- Definir los turnos desde el departamento pulsando en el botón +:
 
@@ -39,7 +39,7 @@ F.- Definir los turnos desde el departamento pulsando en el botón +:
 
 Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
 
-<figure><img src="../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (en el departamento pestaña "Asesores" > pestaña "Diario" > pestaña "Asignación).
 
@@ -62,7 +62,7 @@ H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña 
 
 * En el diario de los trabajadores pestaña "Consulta" podremos ver la asignación de operarios a distintos turnos. Recordamos que esto es opcional siempre que queramos activar bajas, eventos o vacaciones, casos en los que sí hay que indicar el operario afectado:
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 I.- Definir vehículos de cortesía del mismo modo que asignar asesores y trabajadores (operarios) desde la pestaña "Vehículos":
 

@@ -44,7 +44,7 @@ o Proveedor de un artículo y/o a su clasificador de descuento. En Winmotor exis
 
 ​
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Tenemos la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
 
