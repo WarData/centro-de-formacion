@@ -76,7 +76,7 @@ Ponemos a continuación varios ejemplos de los indicado:
 
 Para añadir la totalización, basta con clicar con el botón secundario del ratón sobre la base de la columna entradas y seleccionar 'suma'. Lo mismo en la columna salidas:
 
-<figure><img src="../.gitbook/assets/imagen (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (7) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Si también quiere quitar por ejemplo las dos últimas columnas, tiene que clicar en el icono superior izquierdo de la rejilla y deseleccione las columnas que no quiera:
 

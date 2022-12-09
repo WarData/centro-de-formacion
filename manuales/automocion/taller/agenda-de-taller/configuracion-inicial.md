@@ -18,7 +18,7 @@ A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen
 
 B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
 * Marca la hora de separación entre los turnos de mañana y tarde
@@ -31,7 +31,7 @@ D.- Rellenar festivos > desde el panel de citas de asesor, pulsar en el botón c
 
 E.- Asignar asesores de servicio desde el departamento pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad.
 
-<figure><img src="../../../../.gitbook/assets/imagen (8) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 F.- Definir los turnos desde el departamento pulsando en el botón +:
 
