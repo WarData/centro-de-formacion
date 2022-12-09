@@ -6,9 +6,9 @@ En Winmotor disponemos de la opción de remesas de cobros [(véase remesa de cob
 
 Para realizar una remesa de pagos los pasos son los siguientes:
 
-1.- Dar de alta una serie de remesas. La imagen muestra la opción de cobros y pagos por lo que es importante diferenciarla al inicio de la configuración:
+1.- Dar de alta una serie de remesas de pagos. La imagen muestra la opción de cobros y pagos por lo que es importante diferenciarla al inicio de la configuración:
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el formato del archivo para el banco por defecto, aunque posteriormente veremos que se puede modificar antes de crear la remesa.
 

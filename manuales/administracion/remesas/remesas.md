@@ -6,7 +6,7 @@ En Winmotor disponemos de la opción de remesas de cobros, pagos [(véase remesa
 
 Para realizar una remesa de cobros los pasos son los siguientes:
 
-1.- Dar de alta una serie de remesas. La imagen muestra la opción de cobros y pagos por lo que es importante diferenciarla al inicio de la configuración:
+1.- Dar de alta una serie de remesas de cobros. La imagen muestra la opción de cobros y pagos por lo que es importante diferenciarla al inicio de la configuración:
 
 <figure><img src="../../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>
 
