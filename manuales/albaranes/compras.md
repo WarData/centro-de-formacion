@@ -27,7 +27,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 * **Referencia:** podemos guardar en este campo la referencia del albarán que hemos recibido del proveedor. Será una buena forma de identificar un documento concreto en los localizadores de albaranes de compras.
 * **Factura:** se presenta aquí el número del documento y la fecha en la que se ha facturado el albarán de compra además de un botón "Ver" que permite la apertura de la factura desde el propio albarán:
 
-![](<../../.gitbook/assets/imagen (25).png>)
+![](<../../.gitbook/assets/imagen (25) (1).png>)
 
 * **Centro:** este campo solo será visible por aquellas aplicaciones Winmotor Multi-Centro, en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se graba el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 * **Régimen de IVA:** este campo tomará por defecto el tipo de IVA definido en la ficha del proveedor seleccionado en el albarán. Se podrá modificar manualmente.
@@ -95,7 +95,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 **Totales (tipo de impuesto IGIC)**
 
-![](<../../.gitbook/assets/imagen (31).png>)
+![](<../../.gitbook/assets/imagen (31) (1).png>)
 
 * **Observaciones:** aquí podremos anotar todas las notas que necesitemos relativas al albarán de compra.
 
