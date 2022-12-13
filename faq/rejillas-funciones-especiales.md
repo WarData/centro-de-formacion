@@ -92,7 +92,7 @@ Para convertir un listado con rejilla estandar (un listado estadístico de las O
 
 Por defecto nos muestra una rejilla estandar:
 
-<figure><img src="../.gitbook/assets/imagen (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para pasarlo a rejilla avanzada y poderlo configurar los pasos son los siguientes:
 

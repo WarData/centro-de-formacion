@@ -2,7 +2,7 @@
 
 Una remesa de cobro es un conjunto de efectos a cobrar que el usuario incluye en el documento 'remesa' y que envía al banco en un fichero generado por la aplicación. Este fichero admite varios formatos que hay que acordar con el banco.
 
-En Winmotor disponemos de la opción de remesas de cobros, pagos [(véase remesa de pagos)](remesa-de-pagos.md) y nóminas [(véase remesa de nóminas)](remesa-de-nominas.md)
+En Winmotor disponemos de la opción de remesas de cobros, pagos [(véase remesa de pagos)](remesa-de-pagos/) y nóminas [(véase remesa de nóminas)](remesa-de-pagos/remesa-de-nominas.md)
 
 Para realizar una remesa de cobros los pasos son los siguientes:
 
