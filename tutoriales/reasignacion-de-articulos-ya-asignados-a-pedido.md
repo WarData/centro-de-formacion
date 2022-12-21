@@ -20,7 +20,7 @@ Se ha añadido una mejora sobre esta función para artículos ya asignados. Pone
 
 \*\*\* Para que se de este caso, como mínimo debe haber una unidad en "Reservado (stock)" y una unidad en "Reservado (pedido)"
 
-5.- En el menú de reasignación de reservas de pedidos de clientes seleccionamos el pedido a modificar, pulsamos en el botón menos para quitar el reparto y seleccionamos al que queramos añadir la unidad:
+5.- En el formulario de reasignación de reservas de pedidos de clientes seleccionamos el pedido a modificar, pulsamos en el botón menos para quitar el reparto y seleccionamos al que queramos añadir la unidad:
 
 <figure><img src="../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
