@@ -12,7 +12,11 @@ En el **importador de tarifas de artículos**:
 
 ![](<../../.gitbook/assets/imagen (1) (1) (1) (1).png>)
 
-**Al final de este tutorial encontrará claves fundamentales para un procedimiento correcto \*\*\***
+**\*\*\*Al final de este tutorial encontrará claves fundamentales para un procedimiento correcto\*\*\***
+
+**IMPORTANTE CAMPO FAMILIA > Para usar y/o crear una familia existente o no en Winmotor, es imprescindible añadir al nombre de la familia una A delante. Por ejemplo, familia CASCOS tendría en el archivo que llamarse ACASCOS al usarse la línea del importador "Familia".**
+
+**Si la familia se añade en la cabecera del importador, no se debe añadir también como línea.**
 
 ![Abrir "Maestros" > abrir "Tarifa de artículos"](<../../.gitbook/assets/image (74).png>)
 

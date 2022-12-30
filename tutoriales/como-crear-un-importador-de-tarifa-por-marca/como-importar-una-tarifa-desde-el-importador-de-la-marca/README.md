@@ -4,6 +4,12 @@
 
 **\*\*\* Si ha seguido los pasos de "Crear un Importador de Tarifa de Marca" habrá introducido en observaciones qué ha modificado en el archivo Excel o Texto de la tarifa. En caso de que no lo tenga incluido, recomendamos incorporar las modificaciones y características de importación de la tarifa (columnas, qué se elimina, etc...) para poder importarla dentro del importador, en la pestaña "Observaciones".**
 
+**\*\*\*Al final de este tutorial encontrará claves fundamentales para un procedimiento correcto\*\*\***
+
+**IMPORTANTE CAMPO FAMILIA > Para usar y/o crear una familia existente o no en Winmotor, es imprescindible añadir al nombre de la familia una A delante. Por ejemplo, familia CASCOS tendría en el archivo que llamarse ACASCOS al usarse la línea del importador "Familia".**
+
+**Si la familia se añade en la cabecera del importador, no se debe añadir también como línea.**
+
 **\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente:**
 
 [**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255) **(descargar y ejecutar versión x64)**
