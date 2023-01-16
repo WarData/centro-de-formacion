@@ -6,21 +6,25 @@ Se gestiona en este panel las entradas y salidas del personal de la empresa a su
 
 Funcionamiento
 
-· Impresión del carné
+**IMPRESIÓN DEL CARNÉ**
 
 Lo primero que hay que realizar, es la impresión del carné de cada trabajador. Lo podemos hacer desde la ficha de cada usuario, en cualquiera de los formularios disponibles:
 
-o Barra opciones / opciones / mi configuración
+* Barra opciones / opciones / mi configuración
+* Formulario de entidad (botón en el formulario principal si estamos en un usuario, botón en la pestaña operario si estamos en un operario)
+* Formulario de edición de entidad en listado de entidades del panel de control presencial
 
-o Formulario de entidad (botón en el formulario principal si estamos en un usuario, botón en la pestaña operario si estamos en un operario)
+**LECTURA DE USUARIO ENTRADA / SALIDA**
 
-o Formulario de edición de entidad en listado de entidades del panel de control presencial
+* **Lector de códigos de barras**
 
-· **Lector de códigos de barras**
+Instalar y configurar un lector de códigos de barras para leer en el panel los carnés de los trabajadores.
 
-Hay que con instalar y configurar un lector de códigos de barras para leer en el panel los carnés de los trabajadores.
+* **Lector de huellas dactilares** (Módulo opcional)
 
-· **Panel**
+Mediante el uso de lectores marca ZKTeco el sistema incorporará las huellas de los usuarios a la base de datos para el control de entradas y salidas. Véase "Huella dactilar"
+
+**PANEL**
 
 A continuación hay que crear y configurar un usuario para acceder exclusivamente a este panel. Esta configuración se realiza en el gestor del servidor (Winmotor le ayudará con este punto). En aplicaciones multicentro, habrá que crear un usuario por centro.
 
@@ -36,11 +40,11 @@ En el panel distinguimos 3 partes:
 
 Un trabajador solo tendrá que pasar su carné cuando entre en su puesto de trabajo, y pasar de nuevo su carné cuando se vaya:
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 El panel será distinto si lo abre un usuario supervisor. En el podremos ver opciones para sacar listados, crear un nuevo trabajador o listar todos los ya creados
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 Listados
 

@@ -6,7 +6,7 @@ Panel de Intervenciones general activo
 
 ![](<../.gitbook/assets/image (136).png>)
 
-**Pasar el carné del operario siempre que no aparezca su nombre en el panel y luego pasar la **[**intervención**](../manuales/automocion/taller/intervenciones.md)** / partida de la OR o alguna de las **[**operaciones de taller**](../manuales/automocion/taller/operaciones-de-taller.md)** \***
+**Pasar el carné del operario siempre que no aparezca su nombre en el panel y luego pasar la** [**intervención**](../manuales/automocion/taller/intervenciones.md) **/ partida de la OR o alguna de las** [**operaciones de taller**](../manuales/automocion/taller/operaciones-de-taller.md) **\***
 
 Pestaña "Intervenciones" dentro de la OR (exclusivo para esa orden de reparación)
 
@@ -14,7 +14,7 @@ Pestaña "Intervenciones" dentro de la OR (exclusivo para esa orden de reparaci�
 
 ## Cuando algún operario realiza operaciones no imputables \* u [operaciones de taller](../manuales/automocion/taller/operaciones-de-taller.md) \* a una OR o está de baja médica, ¿cómo puedo añadir esas operaciones a Winmotor?
 
-**Las **[**operaciones de taller**](../manuales/automocion/taller/operaciones-de-taller.md)** son aquellas que no son imputables a una OR y afectan a cualquier operario o usuario con carné para acceder al **[**control presencial**](../manuales/recursos-humanos-1/control-presencial.md)**, como limpieza de taller, bajas médicas, vacaciones, días libres, desayuno, comida, cursos de formación, etc...**
+**Las** [**operaciones de taller**](../manuales/automocion/taller/operaciones-de-taller.md) **son aquellas que no son imputables a una OR y afectan a cualquier operario o usuario con carné para acceder al** [**control presencial**](../manuales/recursos-humanos-1/control-presencial/)**, como limpieza de taller, bajas médicas, vacaciones, días libres, desayuno, comida, cursos de formación, etc...**
 
 Se crean en el apartado Taller > Maestros (Panel de Operaciones de Taller)
 
@@ -32,7 +32,7 @@ Si quisiéramos modificar, introducir o comprobar los fichajes por fechas, iremo
 
 ![](<../.gitbook/assets/image (139).png>)
 
-Se abre una ventana con posibles filtros para generar listados generales o particulares de operarios&#x20;
+Se abre una ventana con posibles filtros para generar listados generales o particulares de operarios
 
 ![](<../.gitbook/assets/image (140).png>)
 
