@@ -22,7 +22,7 @@ Instalar y configurar un lector de códigos de barras para leer en el panel los 
 
 * **Lector de huellas dactilares** (Módulo opcional)
 
-Mediante el uso de lectores marca ZKTeco el sistema incorporará las huellas de los usuarios a la base de datos para el control de entradas y salidas. Véase "Huella dactilar"
+Mediante el uso de lectores marca ZKTeco el sistema incorporará las huellas de los usuarios a la base de datos para el control de entradas y salidas. [Véase "Reconocimiento por huella dactilar"](control-presencial/reconocimiento-por-huella-dactilar.md)
 
 **PANEL**
 
@@ -40,11 +40,11 @@ En el panel distinguimos 3 partes:
 
 Un trabajador solo tendrá que pasar su carné cuando entre en su puesto de trabajo, y pasar de nuevo su carné cuando se vaya:
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 El panel será distinto si lo abre un usuario supervisor. En el podremos ver opciones para sacar listados, crear un nuevo trabajador o listar todos los ya creados
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 Listados
 

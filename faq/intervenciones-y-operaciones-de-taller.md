@@ -14,7 +14,7 @@ Pestaña "Intervenciones" dentro de la OR (exclusivo para esa orden de reparaci�
 
 ## Cuando algún operario realiza operaciones no imputables \* u [operaciones de taller](../manuales/automocion/taller/operaciones-de-taller.md) \* a una OR o está de baja médica, ¿cómo puedo añadir esas operaciones a Winmotor?
 
-**Las** [**operaciones de taller**](../manuales/automocion/taller/operaciones-de-taller.md) **son aquellas que no son imputables a una OR y afectan a cualquier operario o usuario con carné para acceder al** [**control presencial**](../manuales/recursos-humanos-1/control-presencial/)**, como limpieza de taller, bajas médicas, vacaciones, días libres, desayuno, comida, cursos de formación, etc...**
+**Las** [**operaciones de taller**](../manuales/automocion/taller/operaciones-de-taller.md) **son aquellas que no son imputables a una OR y afectan a cualquier operario o usuario con carné para acceder al** [**control presencial**](../manuales/recursos-humanos-1/control-presencial.md)**, como limpieza de taller, bajas médicas, vacaciones, días libres, desayuno, comida, cursos de formación, etc...**
 
 Se crean en el apartado Taller > Maestros (Panel de Operaciones de Taller)
 

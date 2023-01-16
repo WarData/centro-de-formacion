@@ -8,7 +8,7 @@ La contabilidad de Winmotor ofrece la posibilidad de grabar asientos mediante pl
 
 La opción la encontramos en Administración > Contabilidad > Maestros > Plantillas de asientos
 
-<figure><img src="../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Mostrará la rejilla con todas las plantillas disponibles y que se podrán editar desde aquí una vez dadas de **alta**:
 
