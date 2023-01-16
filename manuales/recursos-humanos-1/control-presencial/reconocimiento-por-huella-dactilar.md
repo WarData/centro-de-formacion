@@ -8,7 +8,7 @@ description: Módulo opcional
 
 <figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
-* Al pulsar en el botón "Grabar huella" mostrará el programa del lector de huellas y tendremos que añadir el mismo dedo 3 veces, levantándolo cada vez que reconozca la huella y darle a grabar una vez haya finalizado:
+* Al pulsar en el botón "Grabar huella" mostrará la ventana de grabación de huellas del lector y tendremos que añadir el mismo dedo 3 veces, levantándolo cada vez que reconozca la huella y darle a grabar una vez haya finalizado:
 
 <figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ description: Módulo opcional
 <figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 * Mientras no se pulse en el botón "Huella" el control presencial funcionará en modo lector de códigos de barras
-* Cuando se pulsa "Huella" mostrará la aplicación del lector de huellas para pulsar y leer, reconociendo al usuario que tenga la huella guardada:
+* Cuando se pulsa "Huella" mostrará la ventana del lector de huellas para pulsar y leer, reconociendo al usuario que tenga la huella guardada:
 
 <figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
