@@ -20,7 +20,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 4.- En el formulario de alta seleccionaremos la cuenta (si en la serie indicamos una saldrá por defecto aunque es modificable en el alta), intervalo de vencimiento y tipo de pago:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago de nóminas:
 
@@ -34,6 +34,6 @@ Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago d
 
 <figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
-7.- Una vez estén las nóminas en "remesado" aparecerá el botón "Crear archivo bancario" ![](<../../../../.gitbook/assets/imagen (1).png>) y configurar fecha de cargo y carpeta de destino:
+7.- Una vez estén las nóminas en "remesado" aparecerá el botón "Crear archivo bancario" ![](<../../../../.gitbook/assets/imagen (1) (6).png>) y configurar fecha de cargo y carpeta de destino:
 
-<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6) (5).png" alt=""><figcaption></figcaption></figure>
