@@ -197,6 +197,12 @@
   * [Clasificadores de marcas](manuales/cuadro-de-mandos/clasificadores-de-marcas.md)
   * [Consideraciones](manuales/cuadro-de-mandos/consideraciones.md)
 * [Utilidades](manuales/utilidades/README.md)
+  * [WEB](manuales/utilidades/web-1/README.md)
+    * [Web - Documentación API REST](manuales/utilidades/web-1/web.md)
+    * [Opciones Específicas](manuales/utilidades/web-1/opciones-especificas/README.md)
+      * [API de pedidos](manuales/utilidades/web-1/opciones-especificas/api-de-pedidos.md)
+      * [API de compras](manuales/utilidades/web-1/opciones-especificas/api-de-compras.md)
+    * [Ejemplos](manuales/utilidades/web-1/ejemplos.md)
   * [Gestor de archivos](manuales/utilidades/gestor-de-archivos.md)
   * [Correo electrónico](manuales/utilidades/correo-electronico.md)
   * [Mailings](manuales/utilidades/mailings.md)
@@ -204,12 +210,6 @@
   * [SMS](manuales/utilidades/sms.md)
   * [Agenda](manuales/utilidades/agenda.md)
   * [Log](manuales/utilidades/log.md)
-  * [WEB](manuales/utilidades/web-1/README.md)
-    * [Web - Documentación API REST](manuales/utilidades/web-1/web.md)
-    * [Opciones Específicas](manuales/utilidades/web-1/opciones-especificas/README.md)
-      * [API de pedidos](manuales/utilidades/web-1/opciones-especificas/api-de-pedidos.md)
-      * [API de compras](manuales/utilidades/web-1/opciones-especificas/api-de-compras.md)
-    * [Ejemplos](manuales/utilidades/web-1/ejemplos.md)
 
 ## Módulos PDA / Tablets / Móviles
 
