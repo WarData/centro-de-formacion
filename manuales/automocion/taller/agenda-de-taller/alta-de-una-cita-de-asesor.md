@@ -34,7 +34,7 @@ Se selecciona fecha de recepción (se marcará para próximas citas en azul clar
 
 * Con vehículo de cortesía mostrará los días partidos en bloques de mañana y tarde, vehículos disponibles y ocupados (blanco y azul respectivamente). Se marcan bloques contínuos de mañana y tarde y mostrará hora de recepción y entrega, después verificar datos y aceptar creando la cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/imagen (116).png" alt=""><figcaption></figcaption></figure>
 

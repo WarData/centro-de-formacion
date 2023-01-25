@@ -16,7 +16,7 @@ Se ha añadido una mejora sobre esta función para artículos ya asignados. Pone
 
 3.- Hasta aquí es el proceso habitual de asignación de pedidos en la recepción
 
-4.- En caso de necesitar modificar el reparto de la unidad recibida al segundo pedido de ventas (PEDR2022-2), una vez creado el albarán de compras, iremos al artículo, donde tendremos la posibilidad de rehacerlo pulsando en el botón <img src="../.gitbook/assets/imagen (9).png" alt="" data-size="original">&#x20;
+4.- En caso de necesitar modificar el reparto de la unidad recibida al segundo pedido de ventas (PEDR2022-2), una vez creado el albarán de compras, iremos al artículo, donde tendremos la posibilidad de rehacerlo pulsando en el botón <img src="../.gitbook/assets/imagen (9) (3).png" alt="" data-size="original">&#x20;
 
 \*\*\* Para que se de este caso, como mínimo debe haber una unidad en "Reservado (stock)" y una unidad en "Reservado (pedido)"
 

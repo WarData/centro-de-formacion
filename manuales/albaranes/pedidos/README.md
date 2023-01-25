@@ -85,7 +85,7 @@ En el resto del formulario:
 
 \- **Borrar**: eliminamos la línea del pedido.
 
-\- Tramitar: activa el pedido de compras
+\- **Tramitar**: activa el pedido de compras
 
 Totales: presenta el desglose de importe totales del pedido de material.
 

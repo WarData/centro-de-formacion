@@ -96,6 +96,7 @@
   * [Facturas](manuales/albaranes/facturas.md)
   * [Pedidos](manuales/albaranes/pedidos/README.md)
     * [Proceso General de Pedidos](manuales/albaranes/pedidos/proceso-general-de-pedidos.md)
+    * [Gestión de descuentos de compras](manuales/albaranes/pedidos/gestion-de-descuentos-de-compras.md)
   * [Propuestas](manuales/albaranes/propuesta.md)
   * [Estadísticas](manuales/albaranes/estadisticas.md)
 * [Ventas](manuales/ventas/README.md)
