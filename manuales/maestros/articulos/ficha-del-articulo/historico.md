@@ -84,7 +84,7 @@ o Actualizar muestra información actualizada en la rejilla
 
 o Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
 
-* \*\*Pestaña Todos los Movimientos: \*\*permite obtener la información sobre todos los movimientos. Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
+* Pestaña Todos los Movimientos: permite obtener la información sobre todos los movimientos. Es necesario **actualizar** con botón inferior o F5 para mostrar resultados actualizados:
 
 ![](<../../../../.gitbook/assets/image (501).png>)
 
@@ -108,17 +108,17 @@ o Stock Artículo indica el resultado que provoca el movimiento sobre el anterio
 
 o **Botones y campos inferiores:**
 
-o Imprimir Extracto presenta el cuadro de impresoras instaladas en el equipo
+&#x20;    o Imprimir Extracto presenta el cuadro de impresoras instaladas en el equipo
 
-o Actualizar muestra información actualizada en la rejilla
+&#x20;    o Actualizar muestra información actualizada en la rejilla
 
-o Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
+&#x20;    o Filtro por fecha permite realizar un filtrado de los movimientos del artículo limitados al intervalo desde - hasta
 
-o Filtro por almacén permite realizar un filtrado de los movimientos limitado a un tipo de documento
+&#x20;    o Filtro por almacén permite realizar un filtrado de los movimientos limitado a un tipo de documento
 
 ![](<../../../../.gitbook/assets/image (502).png>)
 
-* \*\*Pestaña Consumos: \*\*dispondremos de dos pestañas donde se muestran las estadísticas de consumo en modo gráfico y en modo valores
+* Pestaña Consumos: dispondremos de dos pestañas donde se muestran las estadísticas de consumo en modo gráfico y en modo valores
 
 ![Gráfico](<../../../../.gitbook/assets/image (504).png>)
 

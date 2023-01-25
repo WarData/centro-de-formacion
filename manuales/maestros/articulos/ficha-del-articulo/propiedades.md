@@ -20,4 +20,4 @@ o Canon residuos: en función del tipo de artículo, es posible introducir un ca
 
 ![](<../../../../.gitbook/assets/image (507).png>)
 
-* Pestaña Se Utiliza en la Formulación de: sin uso
+* Pestaña Se Utiliza en la Formulación de: en caso de que se usen packs o se fabriquen [véase "Fabricaciones"](https://winmotor.gitbook.io/project/manuales/almacenes/fabricaciones)
