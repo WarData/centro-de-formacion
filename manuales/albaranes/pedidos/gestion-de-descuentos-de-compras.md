@@ -1,6 +1,6 @@
 # Gestión de descuentos de compras
 
-Dado que algunas marcas imponen que según el artículo que se inserte en un pedido de compras éste será urgente o de reposición, hemos montado un nuevo sistema de gestión de descuentos de compras para automatizar esta división al generar pedidos de compras desde pedidos de ventas y órdenes de reparación.&#x20;
+Dado que algunas marcas imponen que, según el artículo que se inserte en un pedido de compras, este será urgente o de reposición, hemos montado un nuevo sistema de gestión de descuentos de compras para automatizar esta división al generar pedidos de compras desde pedidos de ventas y órdenes de reparación.&#x20;
 
 Esto implica que cada artículo en su tarifa de compra tendrá un código específico de clasificador de descuento de compra y que éste código implica un tipo de pedido (urgente, reposición, garantía).&#x20;
 
