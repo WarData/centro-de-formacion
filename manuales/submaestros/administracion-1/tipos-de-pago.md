@@ -1,22 +1,8 @@
 # Tipos de Pago
 
-Son las transacciones para la consumación del acto de compra.
+Son los medios mediante los que se paga o cobra una factura
 
-**Convencionales:** aquellas que donde las transacción no requieren forzosamente de dispositivos electrónicos para la consumación del acto de compra. Muchas se utilizan cada vez menos; sin embargo, otras aún son muy usadas por las personas.
-
-* Efectivo como forma de pago.
-* Cheque como forma de pago.
-* Contrareembolso como forma de pago.
-
-**Electrónicas:**
-
-* Tarjetas de crédito y débito como formas de pago.
-* Transferencia electrónica como forma de pago.
-* Pago en línea sin necesidad directa de tarjeta.
-* Pagos a través de dispositivos móviles.
-* Moneda virtual.
-
-En la aplicación es posible definir una o varias, incluso incluir formas de pago internas como puntos acumulados o cheques regalo.
+En la aplicación es posible definir uno o varios, incluso incluir formas de pago internas como puntos acumulados o cheques regalo.
 
 Dentro del listado de pagos, con doble clic podemos crear un tipo nuevo. El tipo de pago efectivo sería de la siguiente forma:
 
