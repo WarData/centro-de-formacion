@@ -1,6 +1,6 @@
 # Ficha de familia
 
-\*\*o Pestaña "Detalles": \*\*permite introducir líneas de texto y una imagen que puede ser editada, incluso una captura desde una cámara integrada en el equipo.
+o Pestaña "Detalles": permite introducir líneas de texto y una imagen que puede ser editada, incluso una captura desde una cámara integrada en el equipo.
 
 ![](<../../../.gitbook/assets/image (523).png>)
 
@@ -18,6 +18,6 @@ o Pestaña "Tarifas":
 
 ![](<../../../.gitbook/assets/image (526).png>)
 
-o Pestaña "Archivos": [véase - Archivos](../articulos/ficha-del-articulo/archivos.md) - esta pestaña es común al resto de fichas de la aplicación (fichas de entidad, OR, documentos como albaranes, facturas, etc...) y su función igualmente similar, **permite adjuntar y almacenar en el servidor cualquier tipo de archivo para, posteriormente, poderlo visualizar o descargar directamente del servidor donde se almacena la aplicación Winmotor.**
+o Pestaña "Archivos": [véase - Archivos](../articulos/ficha-del-articulo/archivos.md) - esta pestaña es común al resto de fichas de la aplicación (fichas de entidad, OR, documentos como albaranes, facturas, etc...) y su es función similar, **permite adjuntar y almacenar en el servidor cualquier tipo de archivo para, posteriormente, poderlo visualizar o descargar directamente del servidor donde se almacena la aplicación Winmotor.**
 
 o Pestaña "Auditoría": Permite controlar la creación del documento / ficha y la última modificación (usuarios). Además, se ha incorporado el control log de cada ficha que contenga la pestaña "Auditoría" que muestra el historial de modificaciones por parte de usuarios con fecha / hora / operación y acción realizada
