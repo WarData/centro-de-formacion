@@ -16,13 +16,13 @@ Esto implica que cada artículo en su tarifa de compra tendrá un código espec�
 
 ●     Por cada artículo hay que definir en su tarifa de compras principal el clasificador de descuento que nos aporte el proveedor. Verás que al definir el clasificador el programa calculará automáticamente el tipo de pedido de compras según lo definido en la tabla de descuentos del proveedor y el porcentaje de descuento en caso de haberlo definido también:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 A partir de este momento verás que si grabas una línea de pedido de cliente con un artículo en el que hayas definido el clasificador descuento el programa calcula y rellena un nuevo campo en la línea del pedido de ventas: “Tipo de pedido compra”. Lo mismo pasa si lo haces desde una orden de reparación.&#x20;
 
 <mark style="color:orange;">**Series de de pedidos de ventas y de órdenes de reparación**</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 El programa permite ahora definir una serie de pedido de compras “destino” por cada tipo de pedido que estamos definiendo en las líneas de pedidos de ventas y órdenes de reparación; es decir, desde un pedido de ventas u orden de reparación podríamos si se diera el caso, crear tres pedidos de compras según los artículos que se incluyan en el documento.
 
