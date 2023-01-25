@@ -64,7 +64,7 @@ o Pestañas:
 
 ![](<../../.gitbook/assets/image (557).png>)
 
-&#x20;        o Artículos: **especifica los artículos incluidos en la marca**, **mostrando un panel similar al de la opción "Artículos" en "Maestros" >** [**Véase Panel de Artículos**](https://winmotor.gitbook.io/project/manuales/maestros/articulos/panel-de-articulos) \*\*para una información detallada de las funciones de los botones inferiores
+&#x20;        o Artículos: **especifica los artículos incluidos en la marca**, **mostrando un panel similar al de la opción "Artículos" en "Maestros" >** [**Véase Panel de Artículos**](https://winmotor.gitbook.io/project/manuales/maestros/articulos/panel-de-articulos) para una información detallada de las funciones de los botones inferiores
 
 ![](<../../.gitbook/assets/image (558).png>)
 
