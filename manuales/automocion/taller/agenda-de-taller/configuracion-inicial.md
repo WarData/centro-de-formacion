@@ -66,5 +66,5 @@ H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña 
 
 I.- Definir vehículos de cortesía del mismo modo que asignar asesores y trabajadores (operarios) desde la pestaña "Vehículos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (12) (2) (1).png" alt=""><figcaption></figcaption></figure>
 

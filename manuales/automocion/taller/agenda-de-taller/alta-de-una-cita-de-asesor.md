@@ -1,6 +1,6 @@
 # Alta de una cita de asesor
 
-Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook/assets/imagen (12).png" alt="" data-size="original"> nos aparece el formulario de alta:
+Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook/assets/imagen (12) (2).png" alt="" data-size="original"> nos aparece el formulario de alta:
 
 <figure><img src="../../../../.gitbook/assets/imagen (5) (5).png" alt=""><figcaption></figcaption></figure>
 
