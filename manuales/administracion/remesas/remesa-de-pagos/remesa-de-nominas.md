@@ -32,7 +32,7 @@ Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago d
 
 6.- Las nóminas se pueden configurar en la ficha de usuarios y/o operarios, dentro de la pestaña "Nómina":
 
-<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 7.- Una vez estén las nóminas en "remesado" aparecerá el botón "Crear archivo bancario" ![](<../../../../.gitbook/assets/imagen (1) (6).png>) y configurar fecha de cargo y carpeta de destino:
 

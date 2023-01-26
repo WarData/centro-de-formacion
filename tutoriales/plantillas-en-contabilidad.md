@@ -22,7 +22,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 3.- Ahora configuraremos cada apunte para que Winmotor permita asistir el alta del asiento mediante la plantilla:
 
-<figure><img src="../.gitbook/assets/imagen (6) (1) (1).png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (1) (1) (2).png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/imagen (26).png" alt=""><figcaption><p>Asiento contrapartida</p></figcaption></figure>
 
