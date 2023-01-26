@@ -58,7 +58,7 @@ G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (
 
 H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña "Trabajadores" > "Configuración"), aunque será opcional asignar los turnos a operarios concretos. La agenda de taller indicará únicamente el número total de horas disponibles en función del número de operarios. Aparecerán como no asignados aquellas entidades definidas como operarios que aún no estén asignados y, en caso de ser multicentro, aparecerán sólo los que sean de ese centro:
 
-<figure><img src="../../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 * En el diario de los trabajadores pestaña "Consulta" podremos ver la asignación de operarios a distintos turnos. Recordamos que esto es opcional siempre que queramos activar bajas, eventos o vacaciones, casos en los que sí hay que indicar el operario afectado:
 

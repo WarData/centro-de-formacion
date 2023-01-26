@@ -48,7 +48,7 @@ También se pueden crear las plantillas desde su opción dentro del menú de mae
 
 3.- Como hemos configurado los asientos de la plantilla para que sólo pregunte por importes, nos aparecerá la siguiente ventana emergente:
 
-<figure><img src="../.gitbook/assets/imagen (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 4.- Rellenamos importe y pulsamos aceptar generando automáticamente el apunte de contrapartida completamente relleno:
 
