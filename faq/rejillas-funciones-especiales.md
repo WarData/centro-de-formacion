@@ -128,4 +128,4 @@ Para pasarlo a rejilla avanzada y poderlo configurar los pasos son los siguiente
 
 Por último, una vez obtenida la configuración deseada, podemos pulsar con el botón derecho en la rejilla y guardar la configuración. Del mismo modo, podemos revertir la configuración usando el botón "Restaurar configuración":
 
-<figure><img src="../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (9) (1) (1).png" alt=""><figcaption></figcaption></figure>

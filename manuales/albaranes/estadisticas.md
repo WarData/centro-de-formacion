@@ -6,6 +6,8 @@ La opción estadísticas de compras permite filtrar las compras por tipo de docu
 
 ![Imagen 2](<../../.gitbook/assets/imagen (73).png>)
 
+Este menú permite crear filtros nuevo tanto sobre ventas como compras, artículos o servicios, agentes, clientes o todos, con tipos de documento y con intervalos de fechas. Además su puede guardar de forma pública o privada.
+
 ![Imagen 3](<../../.gitbook/assets/imagen (74).png>)
 
 ![Imagen 4](<../../.gitbook/assets/imagen (75).png>)
