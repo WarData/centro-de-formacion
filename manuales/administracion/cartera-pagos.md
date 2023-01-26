@@ -1,2 +1,0 @@
-# Cartera Pagos
-
