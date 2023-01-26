@@ -16,6 +16,6 @@ Proceso para dar de alta packs de piezas que tengan que formarse a partir de pie
 
 5.- Al ir completándose el parte, irán apareciendo en stock los packs (artículo A en este ejemplo).
 
-\*\*\* En la ficha de los artículos que forman parte de un pack > pestaña propiedades > pestaña “se utiliza en la formulación de” se muestran los packs donde se asocia y las unidades requeridas:
+En la ficha de los artículos que forman parte de un pack > pestaña propiedades > pestaña “se utiliza en la formulación de” se muestran los packs donde se asocia y las unidades requeridas:
 
 <figure><img src="../../.gitbook/assets/imagen (72).png" alt=""><figcaption></figcaption></figure>
