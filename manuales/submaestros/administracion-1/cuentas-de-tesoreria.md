@@ -1,6 +1,6 @@
 # Cuentas de Tesorería
 
-Es el área de una empresa en la cual se organizan y gestionan todas las acciones relacionadas con operaciones de flujo monetario o flujo de caja. ... Esto incluye los cobros por actividades de la empresa, los pagos a proveedores, las gestiones bancarias y cualquier otro movimiento de la caja de una empresa.
+En esta opción se gestionan todas las acciones relacionadas con operaciones de flujo monetario o flujo de caja. Esto incluye los cobros de facturas, los pagos a proveedores, las gestiones bancarias y cualquier otro movimiento de la caja de una empresa.
 
 **\* LAS CUENTAS DE TESORERÍA SE APLICAN A LOS PERFILES DE LOS USUARIOS (para que un usuario o grupo de usuarios de un perfil puedan asignar una cuenta de tesorería, ésta tiene que haberse añadido anteriormente desde Configuración > Permisos / Perfiles > Perfiles > seleccionar perfil y en la pestaña "Cuentas" añadir las cuentas de tesorería que podrá usar ese perfil)**
 
@@ -15,6 +15,8 @@ Dentro del cierre de una cuenta existe la opción de que, automáticamente, se c
 1.- ¿Cuándo funciona? Se debe tener relleno el parámetro "concepto apertura caja" dentro del formulario de Parámetros, en la pestaña Administración / Generales. En cada cuenta, se podrá definir si se crea este asiento de apertura o no : para ello, hay un nuevo campo en el formulario de cuentas: "crear asiento apertura al cerrar cuenta"
 
 2.- ¿Cómo funciona? En la opción F6 - Cerrar cuenta, del panel de tesorería, cuando seleccionemos una cuenta que tenga marcado el check mencionado anteriomente, nos aparecerán campos para definir la fecha del asiento (por defecto un día después a la fecha de cierre seleccionada), y el saldo de apertura (por defecto el saldo de la cuenta hasta el día de cierre. Solo tiene en cuenta movimientos con canal efectivo, es decir, que el canal del asiento sea igual al canal definido como canal de efectivo en la cuenta). Después de rellenar estos datos, el programa automáticamente creará en el día indicado una asiento de la caja correspodiente, con el concepto definido en el parámetro "concepto apertura caja", y el importe o saldo indicado.
+
+**La configuración "Caja" sería:**
 
 ![](<../../../.gitbook/assets/image (598).png>)
 
@@ -36,7 +38,7 @@ o Cuentas contables (de cada canal): por cada uno de los 4 posibles canales de u
 
 o Pestañas:
 
-o Cierres: muestra los cierres de caja a su fecha (opción cierrar cuenta F6 del panel de tesorería), es decir, si el anterior cierre que se muestra es de hace una semana, el último acumulará el cierre de la cuenta de tesorería por intervalo de una semana.
+o Cierres: muestra los cierres de caja a su fecha (opción cerrar cuenta F6 del panel de tesorería), es decir, si el anterior cierre que se muestra es de hace una semana, el último acumulará el cierre de la cuenta de tesorería por intervalo de una semana.
 
 o Perfiles: muestra los perfiles que tienen acceso a la cuenta de tesorería, además de permitir añadir o eliminar el acceso perfiles.
 
@@ -44,7 +46,7 @@ o Pagarés: permite configurar la impresión de pagarés
 
 o Auditoría: datos sobre fecha de creación, usuario y fecha de modificación y usuario.
 
-La configuración "Banco" sería:
+**La configuración "Banco" sería:**
 
 ![](<../../../.gitbook/assets/image (599).png>)
 
