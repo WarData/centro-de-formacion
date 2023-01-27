@@ -48,4 +48,4 @@ description: Exclusivamente para el ejercicio en curso
 
 ![](<../../../.gitbook/assets/imagen (6) (1) (1) (1) (1).png>)
 
-\*\* Las cuentas contables de servicios si se utilizan siempre estas. Es decir, la parametrización anterior es sólo para artículos y es variable, para los servicios el programa siempre lee la cuenta del propio servicio.
+\*\* Las cuentas contables de servicios sí se utilizan siempre estas. Es decir, la parametrización anterior es sólo para artículos y es variable, para los servicios el programa siempre lee la cuenta del propio servicio.
