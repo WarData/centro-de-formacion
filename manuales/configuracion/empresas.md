@@ -12,27 +12,27 @@ Ejemplo de ficha de entidad marcada también como "Empresa":
 
 **PESTAÑAS:**
 
-* Generales:&#x20;
+* Generales:
 
-&#x20;              o   Inscripción en el registro para su impresión en los informes
+o Inscripción en el registro para su impresión en los informes
 
-&#x20;              o   Permite la identificación del almacén principal asignado
+o Permite la identificación del almacén principal asignado
 
-&#x20;              o   Control de almacenes por líneas de documentos
+o Control de almacenes por líneas de documentos
 
-&#x20;              o   Tipo de empresa (central o punto de venta): En distribuciones multicentro nos permite indicar qué sede sería la central y cual o cuales serían los puntos de venta o tiendas (dependen fiscalmente de la central).
+o Tipo de empresa (central o punto de venta): En distribuciones multicentro nos permite indicar qué sede sería la central y cual o cuales serían los puntos de venta o tiendas (dependen fiscalmente de la central).
 
-&#x20;              o   Identificación de la serie de traspaso de VO si fuera necesario.
+o Identificación de la serie de traspaso de VO si fuera necesario.
 
 ![](<../../.gitbook/assets/image (452).png>)
 
 * Series de documentos: Aquí disponemos de 2 pestañas:
 
-&#x20;                 o   Series por defecto: podemos definir qué series por defecto aparecerán al dar de alta documentos como por ejemplo albaranes, facturas, pero a nivel empresa, ya que también podemos asignar series por defecto a perfiles que a su vez incluyen usuarios, por lo que el nivel de control en la asignación se realizará a un nivel más detallado.&#x20;
+o Series por defecto: podemos definir qué series por defecto aparecerán al dar de alta documentos como por ejemplo albaranes, facturas, pero a nivel empresa, ya que también podemos asignar series por defecto a perfiles que a su vez incluyen usuarios, por lo que el nivel de control en la asignación se realizará a un nivel más detallado.
 
 ![](<../../.gitbook/assets/image (453).png>)
 
-&#x20;                 o   Réplica de documentos: si la empresa dispone de la distribución multicentro y cuenta con una central y un punto de venta, es posible configurar la réplica de documentos generando el documento contrario al creado con pulsar únicamente el botón "Replicar documento". Aparece en pedidos y albaranes (depende de las necesidades del cliente): creando un albarán de ventas cuyo proveedor sea la central, permitirá crear el albarán de compras automáticamente en el punto de venta.
+o Réplica de documentos: si la empresa dispone de la distribución multicentro y cuenta con una central y un punto de venta, es posible configurar la réplica de documentos generando el documento contrario al creado con pulsar únicamente el botón "Replicar documento". Aparece en pedidos y albaranes (depende de las necesidades del cliente): creando un albarán de ventas cuyo proveedor sea la central, permitirá crear el albarán de compras automáticamente en el punto de venta.
 
 ![](<../../.gitbook/assets/image (454).png>)
 
@@ -40,13 +40,10 @@ Ejemplo de ficha de entidad marcada también como "Empresa":
 
 ![](<../../.gitbook/assets/image (455).png>)
 
-Ficha del departamento laboral Taller > [Véase módulo de RRHH](../recursos-humanos-1/recursos-humanos.md)
+Ficha del departamento laboral Taller > [Véase módulo de RRHH](../recursos-humanos-1/recursos-humanos/)
 
 ![Ficha del departamento laboral (2-T > Demo-Taller)](<../../.gitbook/assets/image (456).png>)
 
 ![Horarios a nivel empresa - RRHH](<../../.gitbook/assets/image (459).png>)
 
 ![Festivos a nivel empresa - RRHH](<../../.gitbook/assets/image (458).png>)
-
-
-
