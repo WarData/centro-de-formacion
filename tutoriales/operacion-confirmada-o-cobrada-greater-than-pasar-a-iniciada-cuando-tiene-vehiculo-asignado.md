@@ -4,7 +4,7 @@ Existen casos en los que, tras confirmar la operación y asignar un vehículo a 
 
 Vamos a mostraros cómo volver a iniciada una operación confirmada con bastidor asignado y también el caso en que esté cobrada.
 
-1.- Operación confirmada:
+<mark style="color:orange;">**1.- Operación confirmada:**</mark>
 
 <figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ D) Pulsamos en "Aceptar" y la operación quedará como "Iniciada":
 
 <figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
-2.- Operación confirmada y cobrada:
+<mark style="color:orange;">**2.- Operación confirmada y cobrada:**</mark>
 
 <figure><img src="../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
