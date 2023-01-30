@@ -8,7 +8,7 @@ Esto implica que cada artículo en su tarifa de compra tendrá un código espec�
 
 ●     Definir el tipo de pedido de compra por cada clasificador de descuento en las condiciones de compras del proveedor (pestaña “Comerciales” en la ficha del proveedor)
 
-<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * La última es una nueva columna “Forzar a descuento” que admite los valores “Urgente”, “Reposición” o “Garantía”.
   * Rellenar este campo con uno de estos valores implica que el programa forzará a ese tipo de pedido a proveedor cualquier artículo que utilice el clasificador de descuento definido en la línea.

@@ -218,6 +218,7 @@
 
 ## Tutoriales
 
+* [Operación confirmada o cobrada > pasar a iniciada cuando tiene vehículo asignado](tutoriales/operacion-confirmada-o-cobrada-greater-than-pasar-a-iniciada-cuando-tiene-vehiculo-asignado.md)
 * [Reasignación de artículos ya asignados a pedido](tutoriales/reasignacion-de-articulos-ya-asignados-a-pedido.md)
 * [Plantillas en contabilidad](tutoriales/plantillas-en-contabilidad.md)
 * [Uso del exportador avanzado junto con filtros de listados](tutoriales/uso-del-exportador-avanzado-junto-con-filtros-de-listados.md)
