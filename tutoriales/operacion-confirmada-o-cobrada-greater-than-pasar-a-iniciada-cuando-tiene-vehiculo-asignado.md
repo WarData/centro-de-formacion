@@ -6,22 +6,38 @@ Vamos a mostraros cómo volver a iniciada una operación confirmada con bastidor
 
 1.- Operación confirmada:
 
-<figure><img src="../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 A) Pasar a iniciada requiere entrar en la operación, ir a la pestaña "Gestión" y pulsar en "Sustituir bastidor":
 
-<figure><img src="../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 B) Pulsar en "Eliminar reserva" para desbloquear la operación:
 
-<figure><img src="../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (75).png" alt=""><figcaption></figcaption></figure>
 
 C) Una vez eliminado el bastidor reservado pulsar en "Acciones especiales" y posteriormente en "Volver a iniciada":
 
-<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (77).png" alt=""><figcaption></figcaption></figure>
 
 D) Pulsamos en "Aceptar" y la operación quedará como "Iniciada":
 
-<figure><img src="../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
-2.- Operación confirmada y cobrada
+2.- Operación confirmada y cobrada:
+
+<figure><img src="../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
+A) Seguimos los pasos A y B del punto 1 para eliminar la reserva del bastidor:
+
+<figure><img src="../.gitbook/assets/imagen (76).png" alt=""><figcaption></figcaption></figure>
+
+B) Seguimos en la pestaña "Gestión" y pulsamos en "Cobros" y entramos en la/s línea/s de cobros para posteriormente pulsar en "Eliminar" para borrar la línea.
+
+C) Eliminando reserva de bastidor y cobro, podemos volver a "Iniciada" pulsando en "Acciones especiales" y luego en "Volver a iniciada":
+
+<figure><img src="../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+
+D) Pulsamos en "Aceptar" y la operación quedará como "Iniciada":
+
+<figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>

@@ -6,10 +6,10 @@ La opción estadísticas de ventas permite filtrar las ventas por tipo de docume
 
 En la edición de filtros obtenemos el siguiente formulario donde seleccionar los que permitan ajustar la estadística a analizar de forma concreta:
 
-<figure><img src="../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (10) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Este menú permite crear filtros nuevo tanto sobre ventas como compras, artículos o servicios, agentes, clientes o todos, con tipos de documento y con intervalos de fechas. Además su puede guardar de forma pública o privada:
 
-<figure><img src="../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (6) (6).png" alt=""><figcaption></figcaption></figure>
 
 La pestaña observaciones permite incluir toda aquella información en texto referente al filtro creado.

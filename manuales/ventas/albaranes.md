@@ -46,7 +46,7 @@ En el botón de opciones se podrá buscar, listar o facturar en tanda, además d
 
 Permite dar de alta a un nuevo albarán de venta rellenando el siguiente formulario. Un albarán está compuesto por la cabecera, donde se introducen los datos generales, como la serie, la fecha o cliente, y las líneas, donde se van grabando las referencias y la cantidad que se pide:
 
-![](<../../.gitbook/assets/imagen (76).png>)
+![](<../../.gitbook/assets/imagen (76) (1).png>)
 
 La imagen anterior nos muestra un formulario de albaranes de venta, donde se graban todos los datos. La cabecera está compuesta por los siguientes campos:
 

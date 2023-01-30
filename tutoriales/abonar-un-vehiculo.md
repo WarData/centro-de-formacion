@@ -2,7 +2,7 @@
 
 Una vez facturado el vehículo desde cualquier procedimiento (operación comercial, entrega desde stock de vehículos o albarán y factura) para abonar el vehículo debemos seguir los siguientes pasos:
 
-![](<../.gitbook/assets/imagen (77).png>)
+![](<../.gitbook/assets/imagen (77) (1).png>)
 
 1.- Desde la factura de ventas pulsar el botón "Abonar" situado en la barra de botones inferior
 
@@ -33,4 +33,3 @@ Una vez facturado el vehículo desde cualquier procedimiento (operación comerci
 7.- **En la factura origen del abono** aparecerá una nueva **pestaña llamada "Abonos"** donde podremos consultar el albarán de abono, fecha, motivo de abono y el total abonado:
 
 ![](<../.gitbook/assets/imagen (88).png>)
-

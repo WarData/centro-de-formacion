@@ -10,6 +10,6 @@ Este menú permite crear filtros nuevo tanto sobre ventas como compras, artícul
 
 ![Imagen 3](<../../.gitbook/assets/imagen (74).png>)
 
-![Imagen 4](<../../.gitbook/assets/imagen (75).png>)
+![Imagen 4](<../../.gitbook/assets/imagen (75) (1).png>)
 
 La pestaña observaciones permite incluir toda aquella información en texto referente al filtro creado.

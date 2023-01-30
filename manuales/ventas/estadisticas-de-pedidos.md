@@ -6,4 +6,4 @@ La opción estadísticas de pedidos permite filtrar las exclusivamente pedidos d
 
 El alta de nuevo filtro muestra el siguiente formulario donde podemos observar que se centra en fecha y serie de pedidos de ventas:
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (8).png" alt=""><figcaption></figcaption></figure>
