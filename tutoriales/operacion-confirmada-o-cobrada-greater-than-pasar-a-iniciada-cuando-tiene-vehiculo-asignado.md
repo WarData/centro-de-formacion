@@ -10,7 +10,7 @@ Vamos a mostraros cómo volver a iniciada una operación confirmada con bastidor
 
 A) Pasar a iniciada requiere entrar en la operación, ir a la pestaña "Gestión" y pulsar en "Sustituir bastidor":
 
-<figure><img src="../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (20).png" alt=""><figcaption></figcaption></figure>
 
 B) Pulsar en "Eliminar reserva" para desbloquear la operación:
 
@@ -26,7 +26,7 @@ D) Pulsamos en "Aceptar" y la operación quedará como "Iniciada":
 
 <mark style="color:orange;">**2.- Operación confirmada y cobrada:**</mark>
 
-<figure><img src="../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (3) (6).png" alt=""><figcaption></figcaption></figure>
 
 A) Seguimos los pasos A y B del punto 1 para eliminar la reserva del bastidor:
 
