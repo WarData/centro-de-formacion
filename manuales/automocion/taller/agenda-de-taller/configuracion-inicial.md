@@ -10,11 +10,11 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 2.- Al entrar por primera vez en la agenda de taller indicará que requiere **configurar** el departamento. Aceptar y pulsar en configuración según indica la siguiente imagen:
 
-<figure><img src="../../../../.gitbook/assets/imagen (16) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (16) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen (lo realizará Winmotor):
 
-<figure><img src="../../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
 
@@ -50,7 +50,7 @@ G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (
 * En el botón lupa indicar asesor de servicio
 * Pulsar en todas las fechas a asignar al asesor (para seleccionar todo pulsar en un cuadro superior):
 
-<figure><img src="../../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Por último pulsar en el botón "Aplicar":
 

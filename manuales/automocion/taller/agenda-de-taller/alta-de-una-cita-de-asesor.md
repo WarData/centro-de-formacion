@@ -40,7 +40,7 @@ Se selecciona fecha de recepción (se marcará para próximas citas en azul clar
 
 * La cita pasará al listado del día correspondiente mostrando estado pendiente hasta dar de alta la OR y confirmarla (recordar que desde el mismo panel es posible realizarlo):
 
-<figure><img src="../../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 Cita con OR de alta y confirmada cambia de situación a "Realizada" y color azul claro según los códigos de color del botón paleta (debajo del filtro de fecha en el panel de citas):
 

@@ -16,7 +16,7 @@ description: Módulo opcional
 
 2.- Además añade el botón "Huella" en el menú del control presencial a fin de realizar la lectura por huella cuando se pulsa o permitiendo el acceso mediante el carné usando el lector de códigos de barras:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Mientras no se pulse en el botón "Huella" el control presencial funcionará en modo lector de códigos de barras
 * Cuando se pulsa "Huella" mostrará la ventana del lector de huellas para pulsar y leer, reconociendo al usuario que tenga la huella guardada:
