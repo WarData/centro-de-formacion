@@ -16,7 +16,7 @@ C> Tras confirmar la OR, en la pestaña "Versión para la compañía de seguros"
 
 D> Generará una factura a la compañía sin haber añadido ningún pedido de compras o reserva de stock, ya que la OR general sigue como inicialmente:
 
-![](<../../.gitbook/assets/imagen (16) (1).png>)
+![](<../../.gitbook/assets/imagen (16) (1) (1).png>)
 
 E> La pestaña "Facturación" mostrará la línea de facturación de la OR general, en este caso a 0 €uros por lo que no será facturable:
 

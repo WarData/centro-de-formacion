@@ -18,7 +18,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 2.- Le asignamos un nombre (Traspaso en este ejemplo) y vamos a la opción "Plantillas de asientos" indicada al inicio:
 
-<figure><img src="../.gitbook/assets/imagen (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Ahora configuraremos cada apunte para que Winmotor permita asistir el alta del asiento mediante la plantilla:
 

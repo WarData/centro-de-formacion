@@ -14,11 +14,11 @@ Entramos en el listado de los diferentes perfiles y pulsamos botón derecho del 
 
 Usaremos el perfil existente "OPE - Operarios" y abriremos la edición de las opciones y permisos para todos los usuarios a los que indiquemos que tienen perfil "OPE - Operarios":
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Como se puede comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa (permisos), opciones especiales como bloqueos de precios y descuentos de venta, visualización de documentos de todas las series en listados, predefinición de cuentas en centros de costes, apertura de cuentas contabilizadas, ver costes y beneficios, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto (a nivel perfil afecta al conjunto de usuarios incluidos), etc...
 
-<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para incluir un usuario en un perfil, tan solo tendremos que entrar en la **entidad - usuario > pestaña configuración de usuario > seleccionamos el perfil en la siguiente línea:**
 
@@ -52,7 +52,7 @@ Entidades
 
 \- **MEDIO**· Barra de opciones
 
-<figure><img src="../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Permisos específicos
 
