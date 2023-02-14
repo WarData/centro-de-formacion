@@ -6,7 +6,7 @@ La asignación de citas se realiza desde el panel principal de la agenda de tall
 
 Las citas se asignan a un asesor y el total de horas de la suma de los temparios indicados en la cita, ocupará horas de las disponibles en el día asignado en el taller (véase diario de taller):
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 El panel de la agenda de taller presenta los siguientes campos y rejillas:
 

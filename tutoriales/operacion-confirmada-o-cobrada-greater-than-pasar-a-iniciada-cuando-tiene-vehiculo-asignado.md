@@ -40,4 +40,4 @@ C) Eliminando reserva de bastidor y cobro, podemos volver a "Iniciada" pulsando 
 
 D) Pulsamos en "Aceptar" y la operación quedará como "Iniciada":
 
-<figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (2).png" alt=""><figcaption></figcaption></figure>

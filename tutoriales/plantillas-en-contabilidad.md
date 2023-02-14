@@ -24,7 +24,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 <figure><img src="../.gitbook/assets/imagen (6) (1) (1) (2).png" alt=""><figcaption><p>Asiento inicial</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagen (26).png" alt=""><figcaption><p>Asiento contrapartida</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (26) (3).png" alt=""><figcaption><p>Asiento contrapartida</p></figcaption></figure>
 
 4.- La configuración de la cuenta, auxiliar, concepto, etc. permitirá definir las directrices que ejecutará el alta del asiento en función de la plantilla seleccionada:
 
@@ -32,7 +32,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 También se pueden crear las plantillas desde su opción dentro del menú de maestros de contabilidad:
 
-<figure><img src="../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* La plantilla se podrá seleccionar en el alta del asiento, así como darla de alta (punto 1) o editar una existente previamente seleccionada:
 
