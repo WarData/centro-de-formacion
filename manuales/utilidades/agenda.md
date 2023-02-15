@@ -12,7 +12,7 @@ La agenda es personal de cada usuario, pudiendo generar desde las pestañas de s
 
 <mark style="color:orange;">**Opciones disponibles en el alta del asunto:**</mark>
 
-**1.- Botón lupa > Para** Permite seleccionar uno o más destinatarios además del propio usuario que da de alta el asunto o el seguimiento
+**1.- Botón lupa >** Permite seleccionar uno o más destinatarios además del propio usuario que da de alta el asunto o el seguimiento
 
 **2.- Relacionado con >** campo que permite seleccionar una entidad sobre la que se hace referencia en el asunto, obteniendo información visual sobre teléfono/s de contacto e email
 
