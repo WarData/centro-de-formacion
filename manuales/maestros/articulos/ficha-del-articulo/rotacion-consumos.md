@@ -10,7 +10,7 @@ En el panel encontramos campos siguientes:
 
 o **Rotación:**
 
-o Consumo medio: este campo presenta
+o Consumo medio:
 
 o Stock mínimo automático:
 
@@ -24,7 +24,7 @@ o Fórmula para calcular el consumo medio: botón para acceder al editor de fór
 
 o Estado: se presenta el estado actual del artículo (estados posibles >
 
-**o** Movimientos: listado de movimientos principales
+o Movimientos: listado de movimientos principales
 
 o Última compra
 
@@ -48,6 +48,6 @@ o Unidades y plazo de aprovisionamiento: número de unidades para solicitar en a
 
 o Check "Controlar fuera del periodo estacional": permite el control de stock fuera de los plazos establecidos en los periodos estacionales.
 
-* \*\*Pestaña Consumo: \*\*resumen mensual de unidades consumidas / importe
+* Pestaña Consumo: resumen mensual de unidades consumidas / importe
 
 ![](<../../../../.gitbook/assets/image (496).png>)
