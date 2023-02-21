@@ -24,4 +24,4 @@ El alta de una cuenta requiere:
 
 8.- En conexiones indicar si es la cuenta preferente de un usuario (sólo es posible una cuenta por usuario como preferente), si muestra avisos emergentes al recibir correo, código de cuenta de correo que se va a conectar al usuario, el usuario al que se conecta la cuenta seleccionada en el campo anterior y una firma en formato HTML
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (9).png" alt=""><figcaption></figcaption></figure>
