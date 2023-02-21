@@ -2,7 +2,7 @@
 
 En Winmotor es posible definir uno o varios, incluso incluir formas de pago internas como puntos acumulados o cheques regalo.
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">Existen dos tipos de pago:</mark>
 
@@ -27,7 +27,7 @@ Dentro del listado de pagos, con doble clic podemos crear un tipo nuevo.&#x20;
 * Crear apunte automático de pago > activa el alta automático del pago en contabilidad
 * Control cambio > en pagos de contado mostrará el cambio a la entrega de efectivo o usando distintos pagos como tarjeta y efectivo, mostrando las cantidades requeridas para completar el pago o el exceso del mismo:
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 El tipo de pago permite definir campos que veremos posteriormente como "Conceptos" y "Cuentas" (de tesorería). También es posible definir mediante checks la posibilidad de crear apuntes automáticos en contabilidad de cobros y pagos y general control sobre posibles cambios a fin de evitar errores contables.
 
