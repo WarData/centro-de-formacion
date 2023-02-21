@@ -27,7 +27,7 @@ La imagen anterior nos muestra un formulario de pedidos de material, donde se gr
 
 Para grabar una nueva línea de pedido, podemos utilizar cualquiera de los métodos utilizados sobre cualquier otra rejilla. Se nos presentará el formulario de grabación de líneas con los siguientes campos:
 
-![](<../../../.gitbook/assets/imagen (52).png>)
+![](<../../../.gitbook/assets/imagen (52) (1).png>)
 
 \* **Artículo**: campo en el que introducimos la referencia del artículo que vamos a pedir. Se podrá meter la referencia manualmente, o utilizando la opción "Localizar Artículo" de los botones incrustados de este campo. Una vez asignado el pedido no se puede cambiar el artículo pero si podemos ver su ficha, en el botón que se encuentra al lado del nombre.
 

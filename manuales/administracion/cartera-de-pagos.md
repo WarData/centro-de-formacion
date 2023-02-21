@@ -10,7 +10,7 @@ Tenemos las siguientes opciones dentro del panel:
 
 En el alta podremos indicar datos como tipo de pago, factura, entidad, vendedor y cuenta y relativo a las fechas la de emisión, vencimiento inicial y último, importe inicial, gastos y su suma, el realizado y el pendiente. Además contamos con un campo "observaciones" para añadir cualquier detalle sobre el derecho.
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 En las pestañas encontramos situación, donde podemos indicar gestor de cobros, compromisos insertados y seguimientos.
 
@@ -36,4 +36,4 @@ Permite realizar una comparativa entre cartera de cobros y saldos contables por 
 
 Ejemplo con la entidad 13 - Honda Motor Europe LTD:
 
-<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>

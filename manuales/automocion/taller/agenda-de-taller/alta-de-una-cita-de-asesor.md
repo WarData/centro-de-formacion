@@ -28,7 +28,7 @@ Introducción de datos de vehículo / cliente:
 
 * Sin vehículo de cortesía mostrará el diario de taller para poder controlar las horas libres cada día y poder orientar la carga de trabajo a días y horas más adecuadas simplemente seleccionando uno de los días disponibles:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 Se selecciona fecha de recepción (se marcará para próximas citas en azul claro) y <mark style="color:yellow;">**se pulsa en la hora seleccionada (cualquiera de las marcadas en gris y señaladas con la flecha roja en la imagen)**</mark> y luego fecha de entrega (se marcará para próximas citas en verde lima).
 

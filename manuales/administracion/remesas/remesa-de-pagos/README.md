@@ -26,7 +26,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 4.- En el formulario de alta seleccionaremos la cuenta (si en la serie indicamos una saldrá por defecto aunque es modificable en el alta), intervalo de vencimiento y tipo de pago:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 5.- En el siguiente panel nos mostrará todas las facturas de compras:
 

@@ -34,7 +34,7 @@ Dentro de la ficha de un servicio encontramos una serie de “checks” que tien
 
 * **Tramitación de vehículos**
 
-&#x20;         o Obsoleto – no tiene utilidad
+&#x20;         o Habilita la capacidad del servicio de tramitar traspasos cuando se activa junto a "Transferencia" y "Aplicable a vehículos"
 
 * **Transferencia**
 
