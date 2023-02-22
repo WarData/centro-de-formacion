@@ -28,4 +28,4 @@ o **Valor de Stock**: muestra dicho dato en función del parámetro marcado en e
 
 o **Ubicaciones (Almacén - Stock - Valor de Stock)**: Situación o lugar en el que se encuentra el artículo donde además, se controla de forma individualizada su rotación, movimientos, etc... Muestra la información sobre el stock disponible y su valor..
 
-o **Botón "Traspasar Stock"**: facilita el alta de un parte de almacén que traslada todo el stock de un artículo de una ubicación a otra ([véase "Traspaso del stock completo de un artículo"](../../../../tutoriales/partes-de-almacen-inventarios-y-traspasos/traspaso-del-stock-completo-de-un-articulo.md)).
+o **Botón "Traspasar Stock"**: facilita el alta de un parte de almacén que traslada todo el stock de un artículo de una ubicación a otra ([véase "Traspaso del stock completo de un artículo"](../../../../tutoriales/almacen/partes-de-almacen-inventarios-y-traspasos/traspaso-del-stock-completo-de-un-articulo.md)).

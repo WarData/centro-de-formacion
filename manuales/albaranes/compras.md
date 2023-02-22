@@ -107,7 +107,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 * **Cancelar:** con este botón, saldremos de la ficha del albarán sin guardar los posibles cambios que hayamos realizado. Se puede pulsar la tecla ESC para ejecutar esta opción.
 * **Eliminar:** el botón solo estará activo si el albarán no está facturado, si se pulsa, se eliminará completamente.
 * **Imprimir:** podemos imprimir el albarán mediante este botón.
-* **Imprimir Etiquetas:** mediante esta opción podremos emitir las etiquetas de los artículo recibidos. Nos aparecerá la siguiente rejilla. Véase ["Impresión de etiquetas"](../../faq/impresion-de-etiquetas.md)
+* **Imprimir Etiquetas:** mediante esta opción podremos emitir las etiquetas de los artículo recibidos. Nos aparecerá la siguiente rejilla. Véase ["Impresión de etiquetas"](../../faq/recambios/impresion-de-etiquetas.md)
 * **Importar GREC**: opción exclusiva de Yamaha para la importación de albaranes electrónicos
 * **Facturar:** este botón sirve para facturar el albarán. Se nos pedirá confirmación del proceso, y a continuación aparecerá en pantalla la factura generada.
 
