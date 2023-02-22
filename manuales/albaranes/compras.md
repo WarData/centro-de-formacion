@@ -95,7 +95,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 **Totales (tipo de impuesto IGIC)**
 
-![](<../../.gitbook/assets/imagen (31) (1).png>)
+![](<../../.gitbook/assets/imagen (31) (1) (1).png>)
 
 * **Observaciones:** aquí podremos anotar todas las notas que necesitemos relativas al albarán de compra.
 
