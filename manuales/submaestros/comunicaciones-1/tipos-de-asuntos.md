@@ -12,4 +12,4 @@ Doble clic o botón derecho alta de ficha para crear un nuevo tipo de asunto:
 
 3.- Imagen pulsando doble clic en el espacio en blanco o copiando y pegando en el espacio en blanco:
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (1).png" alt=""><figcaption></figcaption></figure>

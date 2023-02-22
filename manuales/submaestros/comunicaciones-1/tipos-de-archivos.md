@@ -6,4 +6,4 @@ Rejilla que muestra los tipos de archivo permitidos para agregarlos a las fichas
 
 Ficha de ejemplo > JPEG:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (10).png" alt=""><figcaption></figcaption></figure>
