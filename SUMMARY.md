@@ -221,7 +221,7 @@
 ## Tutoriales
 
 * [General](tutoriales/general/README.md)
-  * [Uso de los Nuevos Filtros Rápidos](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/README.md)
+  * [Uso de los Filtros Rápidos](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/README.md)
     * [Creación de Lupas](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/creacion-de-lupas.md)
   * [Uso del exportador avanzado junto con filtros de listados](tutoriales/general/uso-del-exportador-avanzado-junto-con-filtros-de-listados.md)
   * [Adjuntar ficheros en documentos - Multi-selección](tutoriales/general/adjuntar-ficheros-en-documentos-multi-seleccion.md)

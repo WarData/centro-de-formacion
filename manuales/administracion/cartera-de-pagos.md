@@ -2,7 +2,7 @@
 
 En este panel obtenemos información relativa a los efectos de pagos con datos como nº de compromiso, referencia del proveedor, emisión y último vencimiento, entidad, nombre fiscal, importe original, pagado, pendiente y situación del pago (en cartera o pagado). Disponemos de filtros por fecha, incluyendo semana y mes que viene además de los habituales, entidad y vendedor.
 
-<figure><img src="../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (6) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 Tenemos las siguientes opciones dentro del panel:
 

@@ -8,9 +8,9 @@ description: Ventas
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los presupuestos de ventas que hemos realizado. Al entrar en ella, nos aparece un menú con filtros de intervalo de fecha y cliente y se presenta una botonera en el lateral izquierdo con opciones para dar de alta un presupuesto nuevo, buscar presupuesto y listar presupuestos usando un filtro avanzado:
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (4).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
+Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (4) (1).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
 
 **1 - F1 Nuevo Presupuesto**
 

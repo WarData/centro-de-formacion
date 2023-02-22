@@ -1,4 +1,4 @@
-# Uso de los Nuevos Filtros Rápidos
+# Uso de los Filtros Rápidos
 
 Los nuevos filtros rápidos permiten seleccionar los registros que desees, filtrando aquellos cuyo valor sea igual a los registros seleccionados de una columna, quitando de la lista los seleccionados, filtrando por valores de una columna e incluso aplicando criterios sobre una columna. Todo de forma visual, sencilla y rápida para el usuario. **Filtra rápidamente.**
 
@@ -6,11 +6,11 @@ Veamos algún caso práctico sobre nuestra aplicación Winmotor V7:
 
 Por ejemplo, listamos pedidos de compras o directamente desde el panel y, haciendo clic en un campo concreto de una columna con el botón derecho, localizamos "filtros" aplicables a la selección (es posible seleccionar más de una fila):
 
-![](<../../../.gitbook/assets/image (306).png>)
+<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
 
 Seleccionando más de una fila, el filtro se aplicará sobre el conjunto seleccionado:
 
-![](<../../../.gitbook/assets/image (307).png>)
+<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 Entrando más en detalle, este submenú incluye una serie de opciones para filtrar una lista, es decir, para quitar de la lista aquellos registros que no cumplan una determinada condición. Las opciones disponibles son:
 
@@ -28,11 +28,17 @@ Presenta una lista con todos los valores distintos que tenga la columna seleccio
 
 Podemos seleccionar uno o varios valores:
 
-![](https://doc.velneo.es/assets/filtro\_valores.png)
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 O escribir directamente el valor a buscar, en cuyo caso en la lista quedarán solamente los valores coincidentes con la cadena escrita y todos seleccionados:
 
-![](https://doc.velneo.es/assets/filtro\_valores\_edicion.png)
+<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+
+**Criterio**
+
+Presenta un localizador que filtra por campo vacío, no vacío, contiene o no contiene:
+
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 Para localizar el dato podemos usar caracteres comodín:
 
@@ -43,7 +49,7 @@ Para localizar el dato podemos usar caracteres comodín:
 | Un carácter cualquiera del conjunto                      | \[ ]     | Coincidencia con cualquier carácter especificado en el juego de caracteres que se incluya entre los corchetes. Por ejemplo \[ABC].                                                                                                |
 | Un carácter cualquiera del rango indicado en el conjunto | \[ - ]   | Coincidencia con cualquier carácter especificado en el juego de caracteres que se incluya entre los corchetes. Por ejemplo \[B-E], devolverá todos los registros que contengan caracteres comprendidos en es rango (B, C, D o E). |
 
-Si pulsamos el botón _aceptar_ se aplicará el filtro.
+Si pulsamos el botón "Filtrar" se aplicará el filtro.
 
 **Criterio**
 
@@ -72,7 +78,7 @@ Una vez establecida la condición, pulsar el botón _aceptar_ para ejecutar el f
 
 **Quitar seleccionados (Control + Shift + U)**
 
-Como su propio nombre indica, permite quitar de la lista todos los registros que estén seleccionados.
+Como su propio nombre indica, permite quitar de la lista todos los registros que estén seleccionados, NO LOS BORRA.
 
 Para más información y detalle, os dejamos un vídeo de Velneo sobre los nuevos filtros rápidos aplicados a la versión 25.
 
