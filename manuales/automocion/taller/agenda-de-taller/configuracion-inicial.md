@@ -31,7 +31,7 @@ D.- Rellenar festivos > desde el panel de citas de asesor, pulsar en el botón c
 
 E.- Asignar asesores de servicio desde el departamento pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad.
 
-<figure><img src="../../../../.gitbook/assets/imagen (8) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 F.- Definir los turnos desde el departamento pulsando en el botón +:
 

@@ -34,6 +34,6 @@ Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago d
 
 <figure><img src="../../../../.gitbook/assets/imagen (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-7.- Una vez estén las nóminas en "remesado" aparecerá el botón "Crear archivo bancario" ![](<../../../../.gitbook/assets/imagen (1) (6) (1).png>) y configurar fecha de cargo y carpeta de destino:
+7.- Una vez estén las nóminas en "remesado" aparecerá el botón "Crear archivo bancario" ![](<../../../../.gitbook/assets/imagen (1) (6).png>) y configurar fecha de cargo y carpeta de destino:
 
 <figure><img src="../../../../.gitbook/assets/imagen (6) (5).png" alt=""><figcaption></figcaption></figure>

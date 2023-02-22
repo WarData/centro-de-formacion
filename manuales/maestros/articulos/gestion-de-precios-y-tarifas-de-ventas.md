@@ -44,7 +44,7 @@ o Proveedor de un artículo y/o a su clasificador de descuento. En Winmotor exis
 
 ​
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Tenemos la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
 
@@ -151,7 +151,7 @@ Para facilitar la consulta de los posibles precios de un artículo contamos con 
 
 Está disponible un panel para la administración de ofertas. Estas funcionan de una forma similar a las tarifas de ventas, pero no se aplican directamente a clientes concretos aplicando las tarifas en las pestañas, sino que se aplican directamente al tipo de artículo, marca, proveedor, familia o artículo:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Del mismo modo que las tarifas de ventas, un documento de oferta puede incluir una o varias condiciones de líneas diferentes por ejemplo se abre la oferta X1 que incluye una línea de oferta del 10% sobre la familia guantes y otra línea de oferta sobre un artículo del 15%.
 

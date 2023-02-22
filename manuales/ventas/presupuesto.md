@@ -4,11 +4,13 @@ description: Ventas
 
 # Presupuestos
 
+<figure><img src="../../.gitbook/assets/imagen (8).png" alt=""><figcaption><p>Panel de presupuestos de ventas</p></figcaption></figure>
+
 Mediante esta opción, podremos grabar, modificar o consultar todos los presupuestos de ventas que hemos realizado. Al entrar en ella, nos aparece un menú con filtros de intervalo de fecha y cliente y se presenta una botonera en el lateral izquierdo con opciones para dar de alta un presupuesto nuevo, buscar presupuesto y listar presupuestos usando un filtro avanzado:
 
 <figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
-Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (6).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
+Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (4).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
 
 **1 - F1 Nuevo Presupuesto**
 
@@ -32,7 +34,7 @@ La cabecera está compuesta por los siguientes campos:
 
 \-TIPO DE IVA: este campo tomará por defecto el tipo de IVA definido en la ficha del cliente seleccionado. Se podrá modificar manualmente. Los diferentes tipos de IVA y de exentos, se explican en la sección
 
-PESTAÑERO
+_PESTAÑERO_
 
 \-CONTENIDO: se presentará una rejilla diferente para cada tipo de presupuesto.
 

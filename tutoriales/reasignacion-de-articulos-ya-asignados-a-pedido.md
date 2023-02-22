@@ -2,7 +2,7 @@
 
 En Winmotor existe la opción de cambiar la asignación en la recepción de un pedido de compras mediante el menú "Recepción y reparto de pedidos de compras:
 
-<figure><img src="../.gitbook/assets/imagen (19) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (19) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Confirmando la recepción podremos añadir o quitar unidades a los diferentes pedidos de ventas existentes con la misma referencia pedida.
 
