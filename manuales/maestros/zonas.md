@@ -27,4 +27,4 @@ o F3 Listar Zonas: genera un listado sobre el que poder usar las opciones dispon
 
 ![](<../../.gitbook/assets/image (549).png>)
 
-* En la parte central podemos obtener la rejilla con entidades o códigos postales de la zona para poder añadir las entidades a [Mailings](../../tutoriales/mailing/mailing-como-funciona-y-trucos-para-sacarle-partido.md) existentes, crear uno directamente desde los botones inferiores o imprimirla.
+* En la parte central podemos obtener la rejilla con entidades o códigos postales de la zona para poder añadir las entidades a [Mailings](../../tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md) existentes, crear uno directamente desde los botones inferiores o imprimirla.

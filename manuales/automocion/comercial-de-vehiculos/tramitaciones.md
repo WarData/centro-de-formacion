@@ -1,3 +1,3 @@
 # Tramitaciones
 
-[Véase el tutorial](../../../tutoriales/comercial/tramitaciones-transferencia-de-vehiculos.md)
+[Véase el tutorial](../../../tutoriales/tramitaciones-transferencia-de-vehiculos.md)
