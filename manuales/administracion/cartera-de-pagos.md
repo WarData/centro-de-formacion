@@ -20,7 +20,7 @@ En la botonera inferior podremos partir en varios vencimientos el derecho así c
 
 Permite localizar efectos por los siguientes índices factura - derechos de cobro, cliente, vencimiento final y si es derecho de cobro si o no:
 
-<figure><img src="../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **3.- LISTAR**
 
@@ -36,4 +36,4 @@ Permite realizar una comparativa entre cartera de cobros y saldos contables por 
 
 Ejemplo con la entidad 13 - Honda Motor Europe LTD:
 
-<figure><img src="../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (11) (2).png" alt=""><figcaption></figcaption></figure>

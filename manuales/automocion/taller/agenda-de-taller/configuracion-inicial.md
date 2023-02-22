@@ -35,7 +35,7 @@ E.- Asignar asesores de servicio desde el departamento pasando de derecha a izqu
 
 F.- Definir los turnos desde el departamento pulsando en el botón +:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
 
@@ -58,7 +58,7 @@ G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (
 
 H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña "Trabajadores" > "Configuración"), aunque será opcional asignar los turnos a operarios concretos. La agenda de taller indicará únicamente el número total de horas disponibles en función del número de operarios. Aparecerán como no asignados aquellas entidades definidas como operarios que aún no estén asignados y, en caso de ser multicentro, aparecerán sólo los que sean de ese centro:
 
-<figure><img src="../../../../.gitbook/assets/imagen (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (11) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * En el diario de los trabajadores pestaña "Consulta" podremos ver la asignación de operarios a distintos turnos. Recordamos que esto es opcional siempre que queramos activar bajas, eventos o vacaciones, casos en los que sí hay que indicar el operario afectado:
 

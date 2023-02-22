@@ -6,7 +6,7 @@ description: Módulo opcional
 
 1.- Realizada la activación del módulo de reconocimiento de huellas por parte de Winmotor, se añadirá la grabación y borrado de huella existente a los usuarios, accediendo a la entidad > Datos Trabajador > Control Huella:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Al pulsar en el botón "Grabar huella" mostrará la ventana de grabación de huellas del lector y tendremos que añadir el mismo dedo 3 veces, levantándolo cada vez que reconozca la huella y darle a grabar una vez haya finalizado:
 

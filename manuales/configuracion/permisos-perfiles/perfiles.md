@@ -10,7 +10,7 @@ Localizamos la opción "Perfiles" dentro de Configuración > Permisos / Perfiles
 
 Entramos en el listado de los diferentes perfiles y pulsamos botón derecho del ratón y pulsamos en "Alta de Perfil" para crear uno nuevo:
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
 Usaremos el perfil existente "OPE - Operarios" y abriremos la edición de las opciones y permisos para todos los usuarios a los que indiquemos que tienen perfil "OPE - Operarios":
 

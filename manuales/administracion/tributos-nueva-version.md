@@ -2,7 +2,7 @@
 
 Permite el cálculo automático de los modelos 303 y 347. Se irán añadiendo nuevos modelos.
 
-<figure><img src="../../.gitbook/assets/imagen (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Formulario de selección de modelo con filtro de periodo y ejercicio:
 

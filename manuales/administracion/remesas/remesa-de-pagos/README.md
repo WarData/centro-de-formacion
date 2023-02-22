@@ -12,7 +12,7 @@ Para realizar una remesa de pagos los pasos son los siguientes:
 
 1.- Dar de alta una serie de remesas de pagos. La imagen muestra la opción de cobros y pagos por lo que es importante diferenciarla al inicio de la configuración (al seleccionar pagos a proveedores y acreedores dejar seleccionada la opción general):
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-14 como única opción) y detalle del cargo, con un único cargo o un cargo por operación.
 
