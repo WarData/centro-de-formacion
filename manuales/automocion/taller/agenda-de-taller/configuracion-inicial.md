@@ -35,7 +35,7 @@ E.- Asignar asesores de servicio desde el departamento pasando de derecha a izqu
 
 F.- Definir los turnos desde el departamento pulsando en el botón +:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
 

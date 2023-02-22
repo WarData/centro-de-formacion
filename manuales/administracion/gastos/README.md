@@ -32,7 +32,7 @@ Permite listar mediante filtros en la cartera de cobros:
 
 Permite realizar una comparativa entre cartera de cobros y saldos contables por entidad:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo con la entidad 8 - Multiservicios Winmotor
 

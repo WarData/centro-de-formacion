@@ -6,7 +6,7 @@ Existen **3** formas de trabajar sobre la versión para la compañía dentro de 
 
 A> **El primer paso es dar de alta una OR sin artículos, simplemente una breve explicación de las operaciones a realizar en texto. Se puede añadir el servicio M.O. a fin de controlar las primeras intervenciones**:
 
-![](<../../.gitbook/assets/imagen (13) (1).png>)
+![](<../../.gitbook/assets/imagen (13) (1) (1).png>)
 
 B> El segundo paso sería ir a la pestaña "Versión para la compañía de seguros", seleccionar una compañía aseguradora y pulsar el botón "Crear versión Cia. Aseguradora". En ella, introducir las líneas necesarias a facturar y confirmar la OR.
 
