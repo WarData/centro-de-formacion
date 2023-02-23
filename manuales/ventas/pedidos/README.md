@@ -4,13 +4,13 @@
 
 Mediante este menú, podremos grabar, modificar o consultar todos los pedidos que han realizado nuestros clientes. Al entrar en ella, nos aparece un panel en el que se nos presentan opciones para crear un nuevo pedido, buscar uno ya creado, sacar listados de pedidos y consultar las unidades pendientes de recibir de un determinado artículo. Además de estas opciones, podemos ver una rejilla con todos los pedidos en curso y su situación, con al menos una referencia pendiente de entregar o recibir:
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (143).png" alt=""><figcaption></figcaption></figure>
 
 **1 - NUEVO PEDIDO**
 
 Permite dar de alta un nuevo pedido de material rellenando el siguiente formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (142).png" alt=""><figcaption></figcaption></figure>
 
 Un pedido está compuesto por la cabecera, donde se introducen los datos generales del pedido, como la serie, la fecha o cliente, y las líneas, donde se va grabando en cada una de ellas la referencia y la cantidad que se va a añadir al pedido.
 
@@ -33,13 +33,13 @@ La imagen anterior nos muestra un formulario de pedidos de material, donde se gr
 
 Para grabar una nueva línea de pedido, podemos utilizar cualquiera de los métodos utilizados sobre cualquier otra rejilla. Se nos presentará el formulario de grabación de líneas con los siguientes campos:
 
-<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (130).png" alt=""><figcaption></figcaption></figure>
 
 \* **Artículo**: campo en el que introducimos la referencia del artículo que vamos a pedir. Se podrá meter la referencia manualmente, o utilizando la opción "Localizar Artículo" de los botones incrustados de este campo. Una vez asignado el pedido no se puede cambiar el artículo pero si podemos ver su ficha, en el botón que se encuentra al lado del nombre.
 
 Si no localizamos la referencia en la base de datos de artículos, podemos utilizar  el campo "Referencia". Con esta opción, el programa buscará en primer lugar en el fichero de artículos, y si no la encontrara, buscará en el de tarifas. Una vez localizada, se nos presentará el siguiente formulario, desde el que podremos crear la referencia directamente (es imprescindible indicar tipo de artículo para el alta):
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (135).png" alt=""><figcaption></figcaption></figure>
 
 Los otros dos botones incrustados que contiene el campo de artículo, son para consultar/editar la referencia seleccionada, o para crear una nueva.
 
@@ -47,7 +47,7 @@ La descripción del artículo tomará por defecto la definida en su ficha, pero 
 
 Una vez añadida la línea, se muestra su contenido con doble clic. Especial atención a que, cada artículo puede tener asociado en su tarifa de proveedor un tipo de pedido de compras por defecto, modificable, pero si no lo tiene, se puede seleccionar directamente entrando en la línea del pedido de ventas:
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (152).png" alt=""><figcaption></figcaption></figure>
 
 Una vez se confirma el pedido, automáticamente se reservarán los artículos en stock y/o se realizarán los pedidos de compras en caso de falta de stock de algún artículo. Se darán de alta nuevos pedidos por proveedor o se usarán si son del mismo proveedor en situación "Pendiente de tramitar".
 
@@ -59,25 +59,25 @@ En la parte de gestión del pedido se muestran los siguientes campos:
 
 \- **Reservadas de stock**: unidades reservadas del stock. En la ficha del artículo se mostrará en la pestaña "Stock" las unidades físicas totales, las reservadas de stock y un botón info\* arriba para ver qué pedidos tienen la reserva, el stock disponible más las unidades pendientes de recibirse y las unidades reservadas por pedido de compras dando un total previsto:
 
-<figure><img src="../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (145).png" alt=""><figcaption></figcaption></figure>
 
 \*Botón info:
 
-<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (129).png" alt=""><figcaption></figcaption></figure>
 
 
 
 También es posible anular y [reasignar artículos ya asignados a pedidos (pulse para ir a la página)](../../../tutoriales/reasignacion-de-articulos-ya-asignados-a-pedido.md) - **Recibidas**: nos presenta las unidades que hemos recibido (no manipulable por el usuario). Para anular el total de reservas hay que pulsar en el botón al lado de info\* (una papelera), indicando el sistema lo que va a realizar (sólo para usuarios supervisores):
 
-<figure><img src="../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (136).png" alt=""><figcaption></figcaption></figure>
 
 Indicará las unidades anuladas y cambiará la línea de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (141).png" alt=""><figcaption></figcaption></figure>
 
 A la vez, en los pedidos de ventas se indicará anuladas en la línea de alta:
 
-<figure><img src="../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (155).png" alt=""><figcaption></figcaption></figure>
 
 \- **Pendientes de recibir**: unidades pedidas aún no recepcionadas mediante albarán de compras o recepción del pedido de compras
 
@@ -97,7 +97,7 @@ En el resto del formulario:
 
 \- **Acción**: es una rejilla en la que podemos ver si las unidades pedidas en esta línea han sido reservadas por algún cliente o agente. Muestra diferentes acciones como Pedido Proveedor, Recepción, Asignación y Anulación:
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (140).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../../.gitbook/assets/imagen (55).png>)
 
@@ -129,7 +129,7 @@ En el resto del formulario:
 
 **Totales**: presenta el desglose de importe totales del pedido de material:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (151).png" alt=""><figcaption></figcaption></figure>
 
 **Observaciones**: aquí podremos anotar todas las notas que necesitemos relativas al pedido de material.
 
@@ -157,43 +157,13 @@ En el resto del formulario:
 
 **Crear E-mail:** también podremos enviar el pedido por correo electrónico. Si pulsamos esta opción, el programa creará un correo electrónico adjuntando un fichero de texto con el contenido del pedido. La dirección de correo del destinatario será por defecto la definida en la ficha del proveedor, aunque se podrá modificar antes de ser enviado el correo. Para poder enviarlo, tendremos que hacerlo desde nuestra bandeja de salidas de correos electrónicos. Al igual que con la opción imprimir, la situación del pedido pasará a tramitada, si la situación actual del pedido es pendiente.
 
-**Fichero Yamaha, Honda, Suzuki, Harley, Kawasaki o cualquier marca que disponga de este sistema de pedido:** dependiendo del proveedor, el programa emite un fichero con el contenido del pedido. Este fichero, podrá ser utilizado posteriormente, para tramitar el pedido directamente a nuestro proveedor utilizando el método que él le facilite (FTP, vía Web, E-mail, intranet, etc.)
+**Entregar**: muestra un formulario de unidades entregables a fin de entregarlas al cliente generando un albarán de ventas
 
-El fichero se guardará en la ruta indicada en los parámetros del programa. Además de esta ruta, para poder utilizar este sistema, será necesario configurar otros parámetros correspondientes al sistema de cada proveedor.
+**Anticipo**: permite recibir anticipos de pagos (sólo entidades no genéricas - no cliente contado o mostrador sin CIF) asociados al pedido de ventas
 
-**Recepcionar:** pulsando este botón, accederemos a una pantalla para poder crear los albaranes de recepción de la mercancía, recibir las unidades solicitadas. Se nos presentará la siguiente pantalla, y a continuación se describen las diferentes opciones que podemos realizar desde ella:
+**SMS**: permite enviar un SMS predefinido (similar al que se genera a la recepción del material pedido por compras) y que es editable en todo su contenido:
 
-![](<../../../.gitbook/assets/imagen (58).png>)
-
-Esta rejilla es multi-selección, y contiene, en la parte de inferior, cuatro botones que actuarán sobre las líneas seleccionadas. Todas estas líneas, corresponden a aquellas con unidades pendientes de recibir.
-
-Podremos modificar las unidades que recibimos en este momento haciendo doble click en la línea deseada. El campo cantidad a recibir se seleccionará y podremos modificar la cantidad (siempre deberá se inferior o igual a lo pendiente de recibir).
-
-Con el primero, "sustituir" referencia seleccionada, podremos modificar la referencia que inicialmente habíamos pedido por la que realmente hayamos recibido. Estos casos se pueden dar por ejemplo cuando se ha pedido una referencia obsoleta, y el proveedor nos envía la que le sustituye. Otro caso puede ser, que el proveedor, al no tener en stock de la referencia solicitada, nos envíe otra de similares características.
-
-Con el segundo de los campos, daremos por recepcionadas las líneas seleccionadas, creando así una nueva ventana de reparto donde podremos dar de alta un albarán de compras:
-
-![](<../../../.gitbook/assets/imagen (59).png>)
-
-Con el tercero "Salir", cancelamos el proceso de recepción y también el reparto.
-
-Y con el cuarto botón, podremos recuperar una recepción. Este proceso recuperar una recepción que estaba en proceso y se perdió conexión con el servidor. Winmotor bloquea la recepción para evitar duplicarla por parte de otro usuario.
-
-En la última imagen, la ventana de reparto, es donde podemos crear el albarán de compras de las unidades seleccionadas en la anterior ventana de recepción.
-
-En la ventana de reparto además, podremos obtener muchos más datos por línea entrando en cualquiera de ellas mediante doble clic o seleccionado y pulsando intro:
-
-![](<../../../.gitbook/assets/imagen (60).png>)
-
-Pedidos Proveedor Origen:
-
-![](<../../../.gitbook/assets/imagen (61).png>)
-
-Muestra en la rejilla el origen del pedido de compras si este ha sido dado de alta mediante un pedido de ventas o una OR de taller, indicando fecha del pedido de ventas, cliente, número de pedido, artículo, descripción, unidades pendientes de entregar y entregadas.
-
-**Anular unidades pendientes de recepcionar:** botón utilizado para anular todas las unidades pendientes de recibir:
-
-![](<../../../.gitbook/assets/imagen (62).png>)
+<figure><img src="../../../.gitbook/assets/imagen (131).png" alt=""><figcaption></figcaption></figure>
 
 **2 - BUSCAR**
 
@@ -206,7 +176,7 @@ Este localizador nos permite buscar un pedido por los siguientes criterios:
 * **Referencia:** el cursor se irá situando en el pedido cuya referencia coincida con la seleccionada.
 * **Nombre de entidad:** el cursor se irá situando en el pedido cuya razón social vaya coincidiendo con lo introducido en el campo de edición.
 
-![](<../../../.gitbook/assets/imagen (64).png>)
+<figure><img src="../../../.gitbook/assets/imagen (154).png" alt=""><figcaption></figcaption></figure>
 
 Para acceder a la ficha del pedido seleccionado, se puede hacer doble clic sobre él o seleccionar la línea y teclear el botón intro del teclado.
 
@@ -216,22 +186,28 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Esta opción lanza una búsqueda que nos presentará un listado de pedidos. Este listado se puede acotar a través del filtro de búsqueda que se presenta a continuación:
 
-![](<../../../.gitbook/assets/imagen (65).png>)
+<figure><img src="../../../.gitbook/assets/imagen (134).png" alt=""><figcaption></figcaption></figure>
 
 Después de indicar los criterios deseados, nos aparecerá una rejilla con todos los pedidos que los cumplan. La rejilla presentada es similar a la del menú:
 
-![](<../../../.gitbook/assets/imagen (66).png>)
+<figure><img src="../../../.gitbook/assets/imagen (148).png" alt=""><figcaption></figcaption></figure>
 
-**4 - RECEPCIONAR**
+**4 - ENTREGAR MATERIAL**
 
-Mediante esta opción, podremos sacar un listado de todas las líneas de pedidos pendiente por un determinado proveedor y serie.
+Mediante esta opción, podremos sacar un listado de todas las líneas de pedidos pendientes por un determinado cliente y serie de pedido de ventas:
 
-![](<../../../.gitbook/assets/imagen (68).png>)
+<figure><img src="../../../.gitbook/assets/imagen (138).png" alt=""><figcaption></figcaption></figure>
 
-Y a continuación la rejilla con información sobre la recepción y reparto de las unidades pendientes de recibir, recibidas ahora, importe, artículo y recepción:
+Y a continuación la rejilla con información sobre la recepción y reparto de las unidades reservadas de stock, pendientes de entregar, stock actual, entregadas ahora, importe, artículo, cliente y pedido:
 
-![](<../../../.gitbook/assets/imagen (69).png>)
+<figure><img src="../../../.gitbook/assets/imagen (133).png" alt=""><figcaption></figcaption></figure>
 
-**5 - ARTÍCULOS BAJO MÍNIMO**
+En la rejilla anterior es posible seleccionar varios pedidos y crear albaranes para entregar, así como mostrar los pedidos relacionados.
 
-Muestra un listado de los artículos bajo mínimo. Este listado se genera en base a lo indicado en el apartado ["Gestión de la rotación de consumos y stock mínimo" - enlace directo disponible](https://winmotor.gitbook.io/project/manuales/maestros/articulos/ficha-del-articulo/rotacion-consumos)
+**5 - MATERIAL PENDIENTE DE ENTREGAR**
+
+Muestra un listado de los artículos pendientes de entregar por cliente con campos diferentes al punto 4:
+
+<figure><img src="../../../.gitbook/assets/imagen (139).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>

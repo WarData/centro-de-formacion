@@ -25,4 +25,4 @@ description: Módulo opcional
 
 * Panel con entradas y salidas de usuarios usando el reconocimiento de huellas:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (4).png" alt=""><figcaption></figcaption></figure>
