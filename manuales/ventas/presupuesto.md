@@ -8,7 +8,7 @@ description: Ventas
 
 Mediante este menú accedemos al panel de presupuestos de ventas donde podremos filtrar por fecha, ver importes y situación (pendiente de pedir, pendiente de entregar, borrador, cerrado, anulado). Los filtros de intervalo de fecha y cliente se presentan en la parte superior y en el lateral izquierdo tenemos una botonera con opciones para dar de alta un presupuesto nuevo, buscar presupuesto y listar presupuestos usando un filtro avanzado:
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (4) (1).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
 
@@ -16,7 +16,7 @@ Y cambio de versión que permite pasar de una versión del presupuesto a otra si
 
 Permite dar de alta a un nuevo presupuesto de venta de manera directa rellenando el siguiente formulario:
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (131).png" alt=""><figcaption></figcaption></figure>
 
 Un presupuesto está compuesto por su cabecera, donde se introducen los datos generales, como la serie, la fecha o cliente, y las líneas.
 
@@ -42,32 +42,45 @@ _PESTAÑERO_
 * ESTADíSTICA: presenta una rejilla similar a líneas, pero añadiendo los campos costo, beneficio y % de beneficio. Además, añade botones en la parte inferior para aumentar el % de beneficio sobre el mostrado en la línea seleccionada y para modificar el incremento sobre el costo mostrado.
 * TOTALES: muestra una tabla con las bases, % IVA, impuesto de IVA y parcial de cada tipo de IVA junto a la totalización del presupuesto
 
-<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (133).png" alt=""><figcaption></figcaption></figure>
 
-* VERSIONES: Si se usa el botón inferior ![](<../../.gitbook/assets/imagen (2).png>) se darán de alta sucesivas versiones que se presentarán en esta pestaña a fin de trabajar con la versión seleccionada por el cliente.
+* VERSIONES: Si se usa el botón inferior ![](../../.gitbook/assets/imagen.png) se darán de alta sucesivas versiones que se presentarán en esta pestaña a fin de trabajar con la versión seleccionada por el cliente.
 * OBSERVACIONES: permite grabar texto para el cliente y observaciones internas que sólo se reflejarán en el documento dado de alta
 * ARCHIVOS: [véase "Archivos"](../maestros/articulos/ficha-del-articulo/archivos.md)
 * SEGUIMIENTOS: En las fichas de los documentos como presupuestos, facturas, albaranes...disponemos de la pestaña "Seguimientos" donde podemos añadir directamente asuntos tanto a nuestra agenda como a la de otros usuarios con el documento embebido desde el que se genera dicho asunto, pudiendo añadir fecha, avisos, y cualquier información que queramos. Este seguimiento quedará registrado en el documento de origen y en la agenda o agendas de los usuarios destinatarios del asunto
-* EMAIL:&#x20;
+* EMAIL: muestra las pestañas enviados y no enviados para controlar los envíos por email del presupuesto
+* ACCIONES: rejilla que indica las acciones realizadas por un usuario y cuando las realizó (similar a un log)
 
 Opciones desde un presupuesto de venta
 
 Aceptar: si pulsamos esta opción, quedarán guardados todos los cambios que hayamos realizado sobre la ficha del presupuesto.
 
-Cancelar: con este botón, saldremos de la ficha del presupuesto sin guardar los posibles cambios que hayamos realizado. Se puede pulsar la tecla ESC para ejecutar esta opción.
+Confirmar presupuesto: esta acción realiza la reserva de los artículos en stock permitiendo su entrega mediante albarán y realiza los pedidos al proveedor o proveedores de los artículos sin stock y que quedarán asociados al presupuesto, indicando en el panel la situación de los artículos del pedido de compras.
 
-Borrar: sirve para eliminar el presupuesto, y solo lo podrán hacer usuarios supervisores.
+Anular presupuesto: con este botón, cancelará el presupuesto no eliminándolo, por lo que se podrá gestionar a modo control posteriormente.
+
+Eliminar: elimina el presupuesto, y solo lo podrán hacer usuarios supervisores.
+
+Nueva versión: genera una versión del presupuesto anterior guardándose el anterior en la pestaña "Versiones", siendo accesibles en cualquier momento.
 
 Imprimir: imprime el presupuesto de venta con el modelo indicado en la serie del presupuesto.
 
-Impresión selectiva: imprime el presupuesto de venta con el modelo que se seleccione al pulsar el botón. Nos aparecerá un recuadro en el que tendremos que indicar el modelo informe.
+Crear email: genera un correo electrónico con el documento adjunto en PDF. El email se podrá contolar desde la pestaña "Email"
+
+Despiece: si la marca tiene un despiece que genera archivos de texto o csv, es posible importarlos mediante este botón al presupuesto, rellenando automáticamente las líneas.
 
 **2 – F2 - Buscar Presupuesto**
 
 Localizador de presupuestos de ventas a través de distintos criterios. Nos permite consultar, borrar o modificar la información de un presupuesto. Al acceder a esta opción encontraremos la siguiente pantalla:
 
+<figure><img src="../../.gitbook/assets/imagen (130).png" alt=""><figcaption></figcaption></figure>
+
 Criterios de búsqueda:
 
-**3 - F3 - Listado**
+<figure><img src="../../.gitbook/assets/imagen (134).png" alt=""><figcaption></figcaption></figure>
 
-**4.- F4 - Cambiar versión**
+**3 - F3 - Listado:** muestra un listado en función de los filtros aplicados en este formulario:
+
+<figure><img src="../../.gitbook/assets/imagen (132).png" alt=""><figcaption></figcaption></figure>
+
+**4.- F4 - Cambiar versión:** permite moverse entre versiones desde el panel principal del menú sin necesidad de acceder al presupuesto y pestaña "Versiones".
