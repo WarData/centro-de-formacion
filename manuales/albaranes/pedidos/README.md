@@ -6,7 +6,11 @@ Mediante esta opción, podremos grabar, modificar o consultar todos los pedidos 
 
 **1 - NUEVO PEDIDO**
 
-Permite dar de alta un nuevo pedido de material rellenando el siguiente formulario. Un pedido está compuesto por la cabecera, donde se introducen los datos generales del pedido, como la serie, la fecha o proveedor, y las líneas, donde se va grabando en cada una de ellas la referencia y la cantidad que se va a pedir.
+Permite dar de alta un nuevo pedido de material rellenando el siguiente formulario:
+
+<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+
+Un pedido está compuesto por la cabecera, donde se introducen los datos generales del pedido, como la serie, la fecha o proveedor, y las líneas, donde se va grabando en cada una de ellas la referencia y la cantidad que se va a pedir.
 
 La imagen anterior nos muestra un formulario de pedidos de material, donde se graban tanto los datos generales, como las líneas con las referencias a pedir. La cabecera de un pedido está compuesta por los siguientes campos:
 
