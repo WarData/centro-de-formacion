@@ -10,7 +10,7 @@ Por ejemplo, listamos pedidos de compras o directamente desde el panel y, hacien
 
 Seleccionando más de una fila, el filtro se aplicará sobre el conjunto seleccionado:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 Entrando más en detalle, este submenú incluye una serie de opciones para filtrar una lista, es decir, para quitar de la lista aquellos registros que no cumplan una determinada condición. Las opciones disponibles son:
 
@@ -38,7 +38,7 @@ O escribir directamente el valor a buscar, en cuyo caso en la lista quedarán so
 
 Presenta un localizador que filtra por campo vacío, no vacío, contiene o no contiene:
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para localizar el dato podemos usar caracteres comodín:
 
