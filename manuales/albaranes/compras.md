@@ -12,7 +12,7 @@ Permite dar de alta a un nuevo albarán de compra mediante el siguiente formular
 
 ![](<../../.gitbook/assets/imagen (24).png>)
 
-Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia decepcionada, cantidad, importe, etc.
+Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia relacionada, cantidad, importe, etc.
 
 La cabecera de los albaranes de compras está compuesta por los siguientes campos:
 
@@ -27,18 +27,18 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 
 * **Centro:** este campo solo será visible por aquellas aplicaciones Winmotor Multi-Centro, en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se graba el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 * **Régimen de IVA:** este campo tomará por defecto el tipo de IVA definido en la ficha del proveedor seleccionado en el albarán. Se podrá modificar manualmente.
-* **Proveedor:** indicamos aquí el proveedor de la mercancía. Contiene cuatro botones insertados para poder localizar el proveedor deseado, crear uno nuevo, editrlo y cambiar los datos:
+* **Proveedor:** indicamos aquí el proveedor de la mercancía. Contiene cuatro botones insertados para poder localizar el proveedor deseado, crear uno nuevo, editarlo y cambiar los datos:
 
 ![](<../../.gitbook/assets/imagen (26) (1).png>)
 
 * **Dirección, CIF, tipo de pago y vencimientos:** muestra, respectivamente, la dirección, CIF, tipo de pago y vencimientos del proveedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha del proveedor. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado Maestros del menú Administración.
 * **IMPORTE y % de IGIC:** presenta el importe pagado de IGIC por la recepción de la mercancía. El porcentaje se calculará en base al valor total del albarán (quitando el importe de IGIC y de GASTOS añadidos). Para añadir a un albarán el importe de IGIC podemos utilizar el botón situado justo encima de estos campos “insertar importe de IGIC”.
-* **Tipo pedido y Gastos de transporte:** muestra los tipos urgente, reposición, garantía y vental al por mayor y presenta el importe pagado de GASTOS por la recepción de la mercancía. El porcentaje se calculará en base al valor total del albarán.
+* **Tipo pedido y Gastos de transporte:** muestra los tipos urgente, reposición, garantía y venta al por mayor y presenta el importe pagado de GASTOS por la recepción de la mercancía. El porcentaje se calculará en base al valor total del albarán.
 
 **Barra de pestañas**
 
-* **Artículos:** contiene una rejilla en la que se nos presentan las líneas del albarán de compra ordenadas por el campo contador de cada línea. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de albarán.
-* **Totales**: muestra la información totalizada de bases, porcetajes de IVA, importe de IVA y parciales, así como importe pagado y pendiente si es que han existido anticipos de pago asociados al documento.
+* **Artículos:** contiene una rejilla en la que se nos presentan las líneas del albarán de compra ordenadas por el campo contador de cada línea. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea del albarán.
+* **Totales**: muestra la información totalizada de bases, porcentajes de IVA, importe de IVA y parciales, así como importe pagado y pendiente si es que han existido anticipos de pago asociados al documento.
 * **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte (es posible que la realización incluya costes de programación)
 * **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto.
 

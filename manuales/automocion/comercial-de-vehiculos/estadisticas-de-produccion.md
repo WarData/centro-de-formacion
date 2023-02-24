@@ -22,15 +22,15 @@ El número máximo de columnas para conceptos variables a presentar en el inform
 
 1\. Desde el Menú lateral del panel de inicio podremos seleccionar la opción ‘Comercial’, que mostrará el panel de ‘Vehículos’ y ‘Modelos’.
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 2\. Seleccionaremos ‘Estadísticas de producción’ y aparecerá un formulario donde podremos indicar las condiciones de filtrado para el listado que necesitemos.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 3\. Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 En el caso de que en el período indicado existan abonos de vehículos éstos aparecerán en una línea específica en negativo afectando sólo a las columnas de “Importe compra” e “Importe venta”. Lógicamente en la acumulación de unidades vendidas “Ventas” este tipo de líneas restan una unidad en lugar de sumarla.
 
@@ -42,19 +42,19 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 \- Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 \- Muestran las totalizaciones de datos por cada cliente/vendedor:
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 \- Además del total acumulado por página:
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 \- Y el total del informe en la última página:
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 \- Un ejemplo del informe agrupado por Vendedores:
 
@@ -62,6 +62,6 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 \- Este muestra la información totalizada por Modelos indicando las unidades acumuladas de dicho modelo:
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (11) (1).png>)
 
 \- Disponemos también de la opción “Exportación a Excel”: generará un archivo Excel con los resultados presentados en la pantalla añadiendo también la totalización. La aplicación abrirá automáticamente el documento generado. Hay que tener en cuenta que realmente el archivo generado tiene la extensión “.csv” (comma-separated values) por lo que si en el Excel damos la opción de guardar nos dará opción a guardarlo como Excel puro ( .xlsx)

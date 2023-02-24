@@ -8,11 +8,11 @@ Procedimiento:
 
 Una vez la factura esté totalmente pendiente de cobro, nos aparecerá un botón con un icono de una carpeta, en la parte superior de la factura, justo entre el código de la serie y el nombre de la misma.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 Pulsamos dicho botón y se nos abrirá un formulario de modificación donde podremos, o bien cambiar el número, o bien cambiar la serie poniendo la que queramos.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 Lógicamente se controlará que el número serie resultante tras el cambio no exista, en cuyo caso no se permitirá dicho cambio.
 

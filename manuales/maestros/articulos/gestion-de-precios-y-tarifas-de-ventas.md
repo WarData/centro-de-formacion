@@ -16,7 +16,7 @@ o No hacer nada: el precio de compras de los artículos nunca se cambiará desde
 
 Para una gestión automatizada de los precios de ventas se aconseja no definir manualmente ningún precio de venta sino establecer una regla para su cálculo de manera que cuando cambie el precio de compra se modificará automáticamente el precio de venta del producto.
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16) (1).png>)
 
 Estas reglas se pueden definir en su opción correspondiente en el menú de submaestros “Fórmulas PVP” o manualmente desde una ficha de familia o de artículo. Si definimos en una familia una “fórmula para el cálculo del pvp” ésta se aplicará automáticamente a los artículos a los que se asigne dicha familia.
 
@@ -28,7 +28,7 @@ Una vez establecido para un artículo su precio de compras y de ventas entramos 
 
 Desde el menú principal MAESTROS > Tarifas de ventas disponemos de una panel para la gestión y alta de tarifas de ventas que se aplicarán por cada documento de tarifa a uno o varios conjuntos, es decir, una única tarifa puede incluir una tarifa para la familia GUANTES y a su vez incluir una tarifa para un artículo concreto y/o una marca. Definida la tarifa de ventas en la ficha del cliente (pestaña "Comerciales"), aplicará dicha tarifa a los documentos de venta (albaranes, órdenes de reparación, pedidos, facturas y presupuestos)
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (1).png>)
 
 Para la gestión de precios utilizamos las líneas de condiciones que se aplican luego en distintas fichas que veremos más abajo. Las líneas de condiciones se pueden definir según uno de estos criterios:
 
@@ -75,7 +75,7 @@ Las líneas de tarifas se pueden definir en distintas opciones del programa que 
 
 **Tarifas**
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (18) (1).png>)
 
 Las tarifas definen una serie de condiciones de venta (líneas de tarifas) que se aplicarán sobre los clientes que tengan aplicada en su ficha dicha tarifa. La asignación de tarifa a un cliente se puede hacer de dos formas:
 
@@ -99,7 +99,7 @@ Las condiciones especiales de un cliente prevalecerán sobre su tarifa, por lo t
 
 **Ofertas**
 
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (20) (1).png>)
 
 Una oferta es un documento especial con una fecha de caducidad. La oferta se define con el mismo formulario de líneas de tarifas que utilizamos en los documentos anteriores pero la oferta prevalece sobre cualquier condición definida para un producto o grupo de productos. Es decir, si en una tarifa hemos definido un descuento para una familia “X” y utilizamos esa misma familia en una oferta, las condiciones aquí definidas prevalecerán sobre la tarifa o las condiciones especiales de un cliente. Como excepción a esta norma hay que tener en cuenta que si un cliente tiene marcado en su ficha que su tarifa es “de exclusividad” no se tendrán en cuenta para él las condiciones definidas en ofertas.
 
