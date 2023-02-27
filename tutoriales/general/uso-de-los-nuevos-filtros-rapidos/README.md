@@ -6,7 +6,7 @@ Veamos algún caso práctico sobre nuestra aplicación Winmotor V7:
 
 Por ejemplo, listamos pedidos de compras o directamente desde el panel y, haciendo clic en un campo concreto de una columna con el botón derecho, localizamos "filtros" aplicables a la selección (es posible seleccionar más de una fila):
 
-<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 Seleccionando más de una fila, el filtro se aplicará sobre el conjunto seleccionado:
 
@@ -28,17 +28,17 @@ Presenta una lista con todos los valores distintos que tenga la columna seleccio
 
 Podemos seleccionar uno o varios valores:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 O escribir directamente el valor a buscar, en cuyo caso en la lista quedarán solamente los valores coincidentes con la cadena escrita y todos seleccionados:
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (6).png" alt=""><figcaption></figcaption></figure>
 
 **Criterio**
 
 Presenta un localizador que filtra por campo vacío, no vacío, contiene o no contiene:
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para localizar el dato podemos usar caracteres comodín:
 

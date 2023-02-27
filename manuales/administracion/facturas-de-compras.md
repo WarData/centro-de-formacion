@@ -2,7 +2,7 @@
 
 **ALBARANES DE GASTOS**
 
-Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de gastos de los servicios o productos recibidos de nuestros acreedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentaré todos los albaranes de compras con la fecha indicada en el calendario.
+Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de gastos de los servicios o productos recibidos de nuestros acreedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentará todos los albaranes de gastos con la fecha indicada en el calendario.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

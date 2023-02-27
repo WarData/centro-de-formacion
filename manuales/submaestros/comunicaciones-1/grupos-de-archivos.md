@@ -2,7 +2,7 @@
 
 Rejilla que muestra los grupos a los que se pueden asociar archivos añadidos a las fichas de la aplicación:
 
-<figure><img src="../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (14) (4).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de alta de un grupo:
 

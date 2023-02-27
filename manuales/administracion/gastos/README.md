@@ -26,7 +26,7 @@ Permite localizar efectos por los siguientes índices factura - derechos de cobr
 
 Permite listar mediante filtros en la cartera de cobros:
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **4.- CARTERA / SALDO CONTABLE**
 
@@ -36,4 +36,4 @@ Permite realizar una comparativa entre cartera de cobros y saldos contables por 
 
 Ejemplo con la entidad 8 - Multiservicios Winmotor
 
-<figure><img src="../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10) (3).png" alt=""><figcaption></figcaption></figure>
