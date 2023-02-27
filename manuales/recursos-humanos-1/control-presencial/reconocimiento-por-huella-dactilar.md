@@ -21,7 +21,7 @@ description: Módulo opcional
 * Mientras no se pulse en el botón "Huella" el control presencial funcionará en modo lector de códigos de barras
 * Cuando se pulsa "Huella" mostrará la ventana del lector de huellas para pulsar y leer, reconociendo al usuario que tenga la huella guardada:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Panel con entradas y salidas de usuarios usando el reconocimiento de huellas:
 

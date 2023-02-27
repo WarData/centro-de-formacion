@@ -8,9 +8,9 @@ description: Ventas
 
 Mediante este menú accedemos al panel de presupuestos de ventas donde podremos filtrar por fecha, ver importes y situación (pendiente de pedir, pendiente de entregar, borrador, cerrado, anulado). Los filtros de intervalo de fecha y cliente se presentan en la parte superior y en el lateral izquierdo tenemos una botonera con opciones para dar de alta un presupuesto nuevo, buscar presupuesto y listar presupuestos usando un filtro avanzado:
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (4) (1) (6).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
+Y cambio de versión que permite pasar de una versión del presupuesto a otra siempre que exista alguna versión creada usando el botón ![](<../../.gitbook/assets/imagen (4) (1) (5).png>) dentro de un presupuesto. Todas las versiones quedarán registradas en la pestaña "Versiones" del presupuesto.
 
 **1 - F1 Nuevo Presupuesto**
 

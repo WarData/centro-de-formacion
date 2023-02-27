@@ -6,7 +6,7 @@ Permite el cálculo automático de los modelos 303 y 347. Se irán añadiendo nu
 
 Formulario de selección de modelo con filtro de periodo y ejercicio:
 
-<figure><img src="../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (10) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de modelo 303 calculado, permitiendo generar el fichero XML para Hacienda y comprobar facturas emitidas y recibidas mediante los botones inferiores:
 

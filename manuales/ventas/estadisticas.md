@@ -18,8 +18,8 @@ La pestaña "Filtros y agrupaciones" añade al filtrado la posibilidad de defini
 
 La pestaña "Observaciones" permite incluir toda aquella información en texto referente al filtro creado:
 
-<figure><img src="../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (7).png" alt=""><figcaption></figcaption></figure>
 
 La ejecución del filtro puede ser única, aunque es posible guardar el filtro y ejecutarlo de forma simultánea usando el botón "Guardar y Ejecutar" mostrando en ambos casos una rejilla con el listado de todos los elementos que coincidan con los filtros seleccionados:
 
-<figure><img src="../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (19) (2).png" alt=""><figcaption></figcaption></figure>

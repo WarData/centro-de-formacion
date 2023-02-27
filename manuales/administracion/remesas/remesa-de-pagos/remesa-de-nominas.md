@@ -6,7 +6,7 @@ En Winmotor disponemos de la opción de remesas de cobros [(véase remesa de cob
 
 1.- Dar de alta una serie de remesas de pagos de tipo nómina. La imagen muestra la opción de cobros y pagos por lo que es importante diferenciarla al inicio de la configuración y seleccionar pagos a proveedores y acreedores y luego seleccionar la opción nóminas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-14 como única opción) y detalle del cargo, con un único cargo o un cargo por operación.
 
@@ -28,7 +28,7 @@ Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago d
 
 5.- En el siguiente panel nos mostrará todas las nóminas / empleados disponibles para remesar y sólo tendremos que **seleccionar las que queremos añadir** a la remesa y pulsar en el botón ![](<../../../../.gitbook/assets/imagen (4) (3) (1).png>):
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.- Las nóminas se pueden configurar en la ficha de usuarios y/o operarios, dentro de la pestaña "Nómina":
 
