@@ -23,35 +23,25 @@ Algo característico de los documentos orden de reparación son el campo [tipo d
 
 1 - NUEVA OR
 
-Permite dar de alta a un nuevo albarán de venta rellenando el siguiente formulario. Un albarán está compuesto por la cabecera, donde se introducen los datos generales, como la serie, la fecha o cliente, y las líneas, donde se van grabando las referencias y la cantidad que se pide:
+Permite dar de alta a una nueva orden de reparación, rellenando el siguiente formulario:
 
-La imagen anterior nos muestra un formulario de albaranes de venta, donde se graban todos los datos. La cabecera está compuesta por los siguientes campos:
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
-Serie: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba el albarán. Si este no tuviera definida ninguna serie de albarán en su ficha, se tomará la de los parámetros del programa. En la serie del albarán se define, por ejemplo, el almacén que tomará por defecto las líneas del albarán. Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
+Una OR está compuesta por la cabecera, donde se introducen los datos generales, como la serie, la fecha, [tipo de orden](../tipos-or.md), matrícula / bastidor / cliente (pulsando tabulador después de introducir cualquiera de los datos anteriores rellenará automáticamente el resto), imputación, avería / síntoma, [tempario](../temparios.md), sección de taller, fechas de recepción y entrega prevista, kilometraje / horas, combustible, teléfono de la entidad y permite añadir y efectos personales.
 
-Número: todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
+**Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba el albarán. Si este no tuviera definida ninguna serie de albarán en su ficha, se tomará la de los parámetros del programa. En la serie del albarán se define, por ejemplo, el almacén que tomará por defecto las líneas del albarán. Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
 
-Fecha: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
+**Fecha de apertura**: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
-Hora: presenta la hora de grabación del albarán, no es manipulable por los usuarios.
+**Centro**: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será editable por aquellos usuarios autorizados.
 
-Referencia: campo libre para incluir datos. Un ejemplo puede ser añadir en él nombre y número del cliente en caso de ser el cliente contado (genérico sin NIF o CIF)
+**Vendedor**: tomará por defecto el vendedor definido en la ficha del cliente o agente. Se podrá modificar manualmente.
 
-Centro: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
+**Cliente**: tipo de entidad propietaria del vehículo y a la que se facturará por defecto la OR, aunque es posible modificar la línea de facturación para cambiar la entidad a petición del cliente. Contiene botones incrustados para localizar, grabar o editar el cliente.
 
-Vendedor: tomará por defecto el vendedor definido en la ficha del cliente o agente. Se podrá modificar manualmente.
+**Imputación**:
 
-Agencia de transportes: tomará por defecto la agencia definida en la ficha del cliente o agente. Se podrá modificar manualmente.
-
-Cliente o Agente: en los documentos de ventas, se podrá indicar si se está vendiendo a un cliente o a un agente. Hay que recordar que son tablas de datos diferentes y solo se podrá indicar uno de ellos por albarán. Ambos campos contienen botones incrustados para localizar, grabar o editar el cliente o agente seleccionado. Los campos situados justo debajo, presentarán la razón social, saldo, tipo de pago, régimen de IVA, vencimiento y, en caso de estar activado en la serie, vehículo al que se asigna la venta.
-
-\- Si el cliente tiene anticipos activos de alguna operación que haya realizado, se presentará en el campo "Saldo", al igual si tiene alguna deuda saldrá valor en negativo. En la factura, aparecerá un botón "Aplicar anticipo" que mostrará una ventana con los anticipos disponibles indicando la cantidad que se aplicará.
-
-Documento acreditativo: si el cliente es intracomunitario, y tiene documento acreditativo, se presentarán los campos relativos a este documento en esta pantalla. Si fuera intracomunitario y no tuviera documento acreditativo, saltará un mensaje indicándolo.
-
-Tipo de IVA: este campo tomará por defecto el tipo de IVA definido en la ficha del cliente o del agente seleccionado en el albarán. Se podrá modificar manualmente. Los diferentes tipos de IVA y de exentos, se explican en la sección proveedores – tipos de IVA.
-
-Departamento interno: si la serie del albarán es INTERNA, se podrá seleccionar el departamento para el que se graba dicho albarán.
+**Departamento interno**: si la serie del albarán es INTERNA, se podrá seleccionar el departamento para el que se graba dicho albarán.
 
 Observaciones: campo para introducir observaciones relacionadas con el albarán. Se podrá configurar para que salgan en el impreso, aunque por defecto no se imprime.
 

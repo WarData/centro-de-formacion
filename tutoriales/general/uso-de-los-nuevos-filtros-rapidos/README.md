@@ -38,7 +38,7 @@ O escribir directamente el valor a buscar, en cuyo caso en la lista quedarán so
 
 Presenta un localizador que filtra por campo vacío, no vacío, contiene o no contiene:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Para localizar el dato podemos usar caracteres comodín:
 
