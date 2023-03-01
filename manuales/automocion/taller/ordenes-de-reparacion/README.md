@@ -64,11 +64,37 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 * Interna: el cargo irá a la empresa y habrá que especificar un departamento
 * Garantía: en función de la marca, las garantías que requieran una facturación de la mano de obra se podrán efectuar usando este tipo
 
-**Departamento interno**: si la imputación es interna, aparcerá un nuevo campo con el localizador de departamentos, teniendo que indicar qué departamento se hago cargo:
+**Departamento interno**: si la imputación es interna, aparcerá un nuevo campo con el localizador de departamentos internos, teniendo que indicar qué departamento se hago cargo. Véase ["Departamentos internos"](../departamentos-internos.md):
 
 <figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
+**Avería / Síntoma:** campo cuya función es la de indicar el trabajo principal a realizar en el vehículo. El texto completará la línea de imputación marcándola en amarillo en la OR. En la OR se podrán añadir tantas como se deseen, tanto a un tipo de imputación como a otros, siendo la suma de las imputaciones la línea de facturación total en la pestaña de la OR "Facturación".
+
+**Tempario**: es un tipo de servicio especial que además de un tiempo de mano de obra con su coste y precio de venta específico, permite añadir líneas de artículo y texto de los trabajos a realizar, simplificando las tareas habituales rellenando únicamente la referencia del tempario. Dentro del tempario podremos además duplicarlo para completar temparios similares cuyo contenido varíe poco y así agilizar el alta de nuevos. [Véase "Temparios"](../temparios.md)
+
+**Sección de taller**: permite organizar las ORs por secciones de taller como soldadura, lavado, mecánica, chapa, etc. [Véase "Secciones de taller"](../secciones-de-taller.md)
+
+**Almacén**: identifica el almacén general por defecto, pudiendo seleccionar otro del que se abastecerán las líneas de artículo de la OR. [Véase "Almacenes"](../../../almacenes/configuracion-1.md) y tutorial ["Almancén"](../../../../tutoriales/almacen/)
+
 **Vendedor**: tomará por defecto el vendedor definido en la ficha del cliente. Se podrá modificar manualmente.
+
+**Check - Vehículo recepcionado:** activa la recepción del vehículo por el taller y junto con la agenda de citas marca la cita como "Realizada", mostrando información sobre día y hora de recepción. Si la OR no existe y sí una cita por parte de un recepcionista, en el momento en el que se da de alta la OR y confirma, marca este check automáticamente.
+
+**Fec. Prevista Recepción**: muestra una hora prevista de llegada del vehículo y, si se marca el check "Vehículo recepcionado", cambia el campo a "Fec. Recepción" como confirmación de la entrada del vehículo en el taller. Al igual que el check anterior, la agenda de citas en la recepción del vehículo y alta de la OR, tras su confirmación marca este campo con fecha y hora.
+
+**Fec. Prevista Entrega**: muestra una fecha y hora a la que se estima se entregará el vehículo terminado. Al igual que los campos anteriores, la agenda de citas en la entrega alimentará este campo con la hora de entrega del vehículo, pudiéndose en todos los casos modificarlos manualmente.
+
+**Recepcionista**: campo informativo sobre el usuario que está dando de alta la orden de reparación. Al igual que cualquier campo de Winmotor, se podrá presentar en los informes de impresión a modo informativo o con intención de valorar su atención por parte del cliente.
+
+**CIF / NIF**: muestra el documento alimentado por el campo existente en la entidad
+
+**Kilómetros**: campo de edición manual que <mark style="color:yellow;">servirá para alimentar información en otros campos como "Información de interés" en las citas que muestra los kilómetros de la última OR</mark>, fecha de la misma, fecha de venta del vehículo si fue vendido por la empresa y fecha de fin de garantía.
+
+**Combustible**: permite grabar el nivel al alta de la OR para control
+
+Teléfono: el primer campo es libre a fin de grabar únicamente un número cualquier para avisos en la OR y el segundo campo coge el campo teléfono móvil del cliente, no es editable.
+
+Efectos personales: campo que permite grabar cualquier detalle que el cliente deje en la moto y requiera de control como un casco, un mono, maletas, etc. Como hemos comentado anteriormente, este y cualquier campo se puede presentar en el informe de impresión de la OR de taller y cliente.
 
 
 
