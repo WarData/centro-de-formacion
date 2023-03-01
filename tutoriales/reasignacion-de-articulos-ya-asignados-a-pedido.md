@@ -26,6 +26,6 @@ Se ha añadido una mejora sobre esta función para artículos ya asignados. Pone
 
 6.- El resultado quedaría de la siguiente forma:
 
-<figure><img src="../.gitbook/assets/imagen (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Este proceso sería similar para múltples pedidos y unidades pedidas, pudiendo rehacer la asignación de varios pedidos hacia múltiples desde esa única ventana.

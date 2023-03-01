@@ -31,11 +31,11 @@ El alta de una OR está compuesta por un formulario, donde se introducen los dat
 
 **Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba la OR. Esta serie permite multitud de ajustes debido a su <mark style="color:blue;">capacidad de generar distintos pedidos de compra en función del tipo de pedido del artículo</mark> (urgente, reposición o garantía), <mark style="color:blue;">hasta 4 líneas de facturación</mark>, una por cada imputación posible y <mark style="color:yellow;">avisos por llegada de mercancia reservada a la OR en la pestaña "Avisos"</mark>:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Fecha de apertura**: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
@@ -43,15 +43,32 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Centro**: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será editable por aquellos usuarios autorizados.
 
-**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](../../../../.gitbook/assets/imagen.png) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
+**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (6).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
 
-**Vendedor**: tomará por defecto el vendedor definido en la ficha del cliente o agente. Se podrá modificar manualmente.
+**Matrícula y bastidor**: ambos campos pertenecen al mismo vehículo por lo que, rellenando total o parcialmente uno de ellos y tabulando rellenará el contrario y el cliente. Al dar de alta una nueva matrícula o bastidor, uno completa el otro en el alta y permite asociar el vehículo a un cliente nuevo o existente en la base de datos, quedando asignado a él:
+
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
+
+<mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark>
 
 **Cliente**: tipo de entidad propietaria del vehículo y a la que se facturará por defecto la OR, aunque es posible modificar la línea de facturación para cambiar la entidad a petición del cliente. Contiene botones incrustados para localizar, grabar o editar el cliente.
 
-**Imputación**:
+<mark style="color:yellow;">\*\*\* Si un vehículo asociado a un cliente cambia de propietario, es posible rellenar la matrícula, cliente o bastidor, tabular para que se rellenen todos los datos y cambiar la entidad. Aparecerá un botón "Crear transferencia" que activará el histórico del nuevo propietario y mantendrá el histórico del anterior:</mark>
 
-**Departamento interno**: si la serie del albarán es INTERNA, se podrá seleccionar el departamento para el que se graba dicho albarán.
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+**Imputación**: indica hacia qué departamento irá el cargo de la reparación. Existen 4 tipos estándar y se pueden dar de alta adicionales para servicios especiales como Honda ARE:
+
+* Cliente: por defecto será el propietario del vehículo, pero se podrá modificar aunque siempre será hacia una entidad tipo cliente
+* Siniestro: permite el uso de la pestaña ["Versión para la compañía" - pulse para ver instrucciones de uso](../../../../faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
+* Interna: el cargo irá a la empresa y habrá que especificar un departamento
+* Garantía: en función de la marca, las garantías que requieran una facturación de la mano de obra se podrán efectuar usando este tipo
+
+**Departamento interno**: si la imputación es interna, aparcerá un nuevo campo con el localizador de departamentos, teniendo que indicar qué departamento se hago cargo:
+
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+**Vendedor**: tomará por defecto el vendedor definido en la ficha del cliente. Se podrá modificar manualmente.
 
 
 
