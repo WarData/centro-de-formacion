@@ -25,7 +25,7 @@ Algo característico de los documentos orden de reparación son el campo [tipo d
 
 Permite dar de alta a una nueva orden de reparación, rellenando el siguiente formulario:
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
 
 El alta de una OR está compuesta por un formulario, donde se introducen los datos generales, como la serie, la fecha, [tipo de orden](../tipos-or.md), respecto al vehículo la matrícula, bastidor y cliente (pulsando tabulador después de introducir cualquiera de los datos anteriores rellenará automáticamente el resto), imputación, avería / síntoma, [tempario](../temparios.md), sección de taller, fechas de recepción y entrega prevista, kilometraje / horas, combustible, teléfono de la entidad y permite añadir y efectos personales.
 
@@ -35,7 +35,7 @@ El alta de una OR está compuesta por un formulario, donde se introducen los dat
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 **Fecha de apertura**: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
@@ -43,7 +43,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Centro**: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será editable por aquellos usuarios autorizados.
 
-**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (2).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
+**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](../../../../.gitbook/assets/imagen.png) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
 
 **Vendedor**: tomará por defecto el vendedor definido en la ficha del cliente o agente. Se podrá modificar manualmente.
 
@@ -55,7 +55,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 
 
-Barra de pestañas
+**Barra de pestañas de la OR**
 
 CONCEPTOS: contiene una rejilla en la que se nos presentan las líneas de albaranes de venta ordenadas por el campo contador de cada línea. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de albarán.
 
