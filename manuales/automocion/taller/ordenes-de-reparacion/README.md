@@ -27,9 +27,11 @@ Permite dar de alta a una nueva orden de reparación, rellenando el siguiente fo
 
 <figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
-Una OR está compuesta por la cabecera, donde se introducen los datos generales, como la serie, la fecha, [tipo de orden](../tipos-or.md), matrícula / bastidor / cliente (pulsando tabulador después de introducir cualquiera de los datos anteriores rellenará automáticamente el resto), imputación, avería / síntoma, [tempario](../temparios.md), sección de taller, fechas de recepción y entrega prevista, kilometraje / horas, combustible, teléfono de la entidad y permite añadir y efectos personales.
+El alta de una OR está compuesta por un formulario, donde se introducen los datos generales, como la serie, la fecha, [tipo de orden](../tipos-or.md), respecto al vehículo la matrícula, bastidor y cliente (pulsando tabulador después de introducir cualquiera de los datos anteriores rellenará automáticamente el resto), imputación, avería / síntoma, [tempario](../temparios.md), sección de taller, fechas de recepción y entrega prevista, kilometraje / horas, combustible, teléfono de la entidad y permite añadir y efectos personales.
 
-**Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba el albarán. Si este no tuviera definida ninguna serie de albarán en su ficha, se tomará la de los parámetros del programa. En la serie del albarán se define, por ejemplo, el almacén que tomará por defecto las líneas del albarán. Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
+**Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba la OR. Esta serie permite multitud de ajustes debido a su capacidad de generar distintos pedidos de compra en función del tipo de pedido del artículo (urgente, reposición o garantía) y hasta 4 líneas de facturación, una por cada imputación posible:
+
+
 
 **Fecha de apertura**: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
@@ -43,15 +45,7 @@ Una OR está compuesta por la cabecera, donde se introducen los datos generales,
 
 **Departamento interno**: si la serie del albarán es INTERNA, se podrá seleccionar el departamento para el que se graba dicho albarán.
 
-Observaciones: campo para introducir observaciones relacionadas con el albarán. Se podrá configurar para que salgan en el impreso, aunque por defecto no se imprime.
 
-Tipo de pago 1 y 2, vencimientos e importes: un albarán de venta podrá tener hasta 2 tipos de pago diferentes. En ese caso, habrá que utilizar los campos IMP situados justo a la derecha de cada tipo de pago, para indicar el importe que corresponde a cada tipo. Cuando el albarán corresponde a un cheque regalo, el tipo de pago tomará por defecto modelo VALE.
-
-Dto: en este campo se guarda el importe de descuento calculado a través de un formulario que nos pedirá el porcentaje cuando pulsemos el botón correspondiente. El descuento se calculará sobre la base del albarán.
-
-Portes: valor de los portes del albarán. Para grabar el dato, tendremos que pulsar sobre el botón portes, e introducir el importe.
-
-Total IVA incluido: presenta el importe total de pedido con impuesto incluido.
 
 Barra de pestañas
 
