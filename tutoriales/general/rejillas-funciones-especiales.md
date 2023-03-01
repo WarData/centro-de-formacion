@@ -84,7 +84,7 @@ Si también quiere quitar por ejemplo las dos últimas columnas, tiene que clica
 
 Para guardar esta configuración simplemente pulse sobre cualquier sitio de la rejilla con el botón secundario y pulse en opciones/guardar configuración. Verá que en estas opciones también está disponible aumentar / reducir el tamaño de letra:
 
-<figure><img src="../../.gitbook/assets/imagen (2) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para convertir un listado con rejilla estandar (un listado estadístico de las ORs por ejemplo) a un panel de rejilla avanzada simplemente hay que seleccionar una de las líneas presentadas en el panel e ir a la barra de herrmientas principal > Opciones > Lista > Generar vista con otro visor y seleccionar una de las opciones que indique "rejilla avanzada". Ponemos el ejemplo del listado estadístico de las ORs:
 

@@ -35,7 +35,7 @@ El alta de una OR está compuesta por un formulario, donde se introducen los dat
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Fecha de apertura**: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
@@ -43,7 +43,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Centro**: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será editable por aquellos usuarios autorizados.
 
-**Check - Presupuesto**:
+**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (2).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
 
 **Vendedor**: tomará por defecto el vendedor definido en la ficha del cliente o agente. Se podrá modificar manualmente.
 
