@@ -6,19 +6,21 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 1.- Activar usuarios que son Asesores de servicio:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
-2.- Al entrar por primera vez en la agenda de taller indicará que requiere **configurar** el departamento. Aceptar y pulsar en configuración según indica la siguiente imagen:
+2.- La agenda se entregará configurada al inicio tras un cuestionario inicial de Winmotor con el responsable sobre:
 
-<figure><img src="../../../../.gitbook/assets/imagen (16) (2) (1).png" alt=""><figcaption></figcaption></figure>
+* Tiempo mínimo por cita
+* Usuarios tipo "Asesor de servicio"
+* Usuarios tipo "Operario"
+* Turnos de cada asesor y operario (incluir cambios en periodos estivales)
+* Vehículos de cortesía
+* En caso de multi-centro indicar horarios, personal y vehículos de cada centro
+* Indicar si hay horarios especiales (trabajos en sábado / domingo o guardias) y qué operarios lo realizan
 
-A.- Crear el departamento laboral pulsando en "Crear" según la siguiente imagen (lo realizará Winmotor):
+La agenda de taller requerirá que el usuario "Administrador" configure cambios en horarios, festivos, bajas, vacaciones y eventos, así como el alta y baja de asesores, operarios e invitados posteriormente. Para ello accedería a la <mark style="color:yellow;">configuración de la agenda de citas desde Automoción > Taller > Agenda Taller > Configuración:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (17) (2).png" alt=""><figcaption></figcaption></figure>
-
-B.- Acceder al departamento correspondiente (en distribuciones multicentro habrá más de un departamento) mediante un doble clic y rellenar los siguientes campos:
-
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 * El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
 * Marca la hora de separación entre los turnos de mañana y tarde

@@ -37,7 +37,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 
 * **Detalle:** presenta la rejilla que corresponde en función del tipo de factura que estemos grabando. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de factura. Al hacer doble click sobre cualquier línea vacía o pulsar el botón del lateral izquierdo "Nueva línea de servicio" se nos presentará el formulario de grabación de líneas correspondiente a cada tipo de factura:
 
-<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (3) (8).png" alt=""><figcaption></figcaption></figure>
 
 * **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente:
 

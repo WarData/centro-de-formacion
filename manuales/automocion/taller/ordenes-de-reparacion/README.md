@@ -31,7 +31,7 @@ El alta de una OR está compuesta por un formulario, donde se introducen los dat
 
 **Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba la OR. Esta serie permite multitud de ajustes debido a su <mark style="color:blue;">capacidad de generar distintos pedidos de compra en función del tipo de pedido del artículo</mark> (urgente, reposición o garantía), <mark style="color:blue;">hasta 4 líneas de facturación</mark>, una por cada imputación posible y <mark style="color:yellow;">avisos por llegada de mercancia reservada a la OR en la pestaña "Avisos"</mark>:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
@@ -43,19 +43,19 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Centro**: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será editable por aquellos usuarios autorizados.
 
-**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (6).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
+**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (6) (8).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
 
 **Matrícula y bastidor**: ambos campos pertenecen al mismo vehículo por lo que, rellenando total o parcialmente uno de ellos y tabulando rellenará el contrario y el cliente. Al dar de alta una nueva matrícula o bastidor, uno completa el otro en el alta y permite asociar el vehículo a un cliente nuevo o existente en la base de datos, quedando asignado a él:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (8).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
 
 <mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark>
 
 **Cliente**: tipo de entidad propietaria del vehículo y a la que se facturará por defecto la OR, aunque es posible modificar la línea de facturación para cambiar la entidad a petición del cliente. Contiene botones incrustados para localizar, grabar o editar el cliente.
 
-<mark style="color:yellow;">\*\*\* Si un vehículo asociado a un cliente cambia de propietario, es posible rellenar la matrícula, cliente o bastidor, tabular para que se rellenen todos los datos y cambiar la entidad. Aparecerá un botón "Crear transferencia" que activará el histórico del nuevo propietario y mantendrá el histórico del anterior:</mark>
+<mark style="color:yellow;">\*\*\* Si un vehículo asociado a un cliente cambia de propietario, es posible rellenar la matrícula, cliente o bastidor, tabular para que se rellenen todos los datos y cambiar la entidad. Aparecerá un botón "Crear transferencia" \* que activará el histórico del nuevo propietario y mantendrá el histórico del anterior:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 **Imputación**: indica hacia qué departamento irá el cargo de la reparación. Existen 4 tipos estándar y se pueden dar de alta adicionales para servicios especiales como Honda ARE:
 
@@ -64,9 +64,9 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 * Interna: el cargo irá a la empresa y habrá que especificar un departamento
 * Garantía: en función de la marca, las garantías que requieran una facturación de la mano de obra se podrán efectuar usando este tipo
 
-**Departamento interno**: si la imputación es interna, aparcerá un nuevo campo con el localizador de departamentos internos, teniendo que indicar qué departamento se hago cargo. Véase ["Departamentos internos"](../departamentos-internos.md):
+**Departamento interno**: si la imputación es interna, aparecerá un nuevo campo con el localizador de departamentos internos, teniendo que indicar qué departamento se hago cargo. Véase ["Departamentos internos"](../departamentos-internos.md):
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Avería / Síntoma:** campo cuya función es la de indicar el trabajo principal a realizar en el vehículo. El texto completará la línea de imputación marcándola en amarillo en la OR. En la OR se podrán añadir tantas como se deseen, tanto a un tipo de imputación como a otros, siendo la suma de las imputaciones la línea de facturación total en la pestaña de la OR "Facturación".
 
@@ -92,11 +92,19 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Combustible**: permite grabar el nivel al alta de la OR para control
 
-Teléfono: el primer campo es libre a fin de grabar únicamente un número cualquier para avisos en la OR y el segundo campo coge el campo teléfono móvil del cliente, no es editable.
+**Teléfono**: el primer campo es libre a fin de grabar únicamente un número cualquier para avisos en la OR y el segundo campo coge el campo teléfono móvil del cliente, no es editable.
 
-Efectos personales: campo que permite grabar cualquier detalle que el cliente deje en la moto y requiera de control como un casco, un mono, maletas, etc. Como hemos comentado anteriormente, este y cualquier campo se puede presentar en el informe de impresión de la OR de taller y cliente.
+**Efectos personales**: campo que permite grabar cualquier detalle que el cliente deje en la moto y requiera de control como un casco, un mono, maletas, etc. Como hemos comentado anteriormente, este y cualquier campo se puede presentar en el informe de impresión de la OR de taller y cliente.
 
+**Botonera inferior del alta de OR**
 
+**Aceptar:** da de alta la OR con los datos introducidos en el formulario
+
+**Aceptar y entregar vehículo de cortesía:** similar a aceptar y además abre formulario de entrega de vehículo de cortesía asociado al cliente del alta de la OR:
+
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+**Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 
 **Barra de pestañas de la OR**
 
