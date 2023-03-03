@@ -2,7 +2,7 @@
 
 En este panel obtenemos información relativa a los efectos de cobros con datos como nº de derecho, emisión y último vencimiento, entidad y su código de entidad, importe original y agrupado, si está cobrado y cuánto queda pendiente así como el tipo de pago y su situación (en cartera o cobrado). Disponemos de filtros por fecha, incluyendo semana y mes que viene además de los habituales, entidad y vendedor.
 
-<figure><img src="../../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tenemos las siguientes opciones dentro del panel:
 
@@ -26,7 +26,7 @@ Permite localizar efectos por los siguientes índices factura - derechos de cobr
 
 Permite listar mediante filtros en la cartera de cobros:
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.- CARTERA / SALDO CONTABLE**
 
@@ -36,4 +36,4 @@ Permite realizar una comparativa entre cartera de cobros y saldos contables por 
 
 Ejemplo con la entidad 8 - Multiservicios Winmotor
 
-<figure><img src="../../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 3.- Pulsando el siguiente botón daremos de alta una nueva remesa:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4.- En el formulario de alta seleccionaremos la cuenta (si en la serie indicamos una saldrá por defecto aunque es modificable en el alta), intervalo de vencimiento y tipo de pago:
 
@@ -24,7 +24,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago de nóminas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 5.- En el siguiente panel nos mostrará todas las nóminas / empleados disponibles para remesar y sólo tendremos que **seleccionar las que queremos añadir** a la remesa y pulsar en el botón ![](<../../../../.gitbook/assets/imagen (4) (3) (1).png>):
 

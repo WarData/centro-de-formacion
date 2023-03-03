@@ -23,7 +23,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 * **Referencia:** podemos guardar en este campo la referencia del albarán que hemos recibido del proveedor. Será una buena forma de identificar un documento concreto en los localizadores de albaranes de compras.
 * **Factura:** se presenta aquí el número del documento y la fecha en la que se ha facturado el albarán de compra además de un botón "Ver" que permite la apertura de la factura desde el propio albarán:
 
-![](<../../.gitbook/assets/imagen (25) (1).png>)
+![](<../../.gitbook/assets/imagen (25) (1) (1).png>)
 
 * **Centro:** este campo solo será visible por aquellas aplicaciones Winmotor Multi-Centro, en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se graba el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 * **Régimen de IVA:** este campo tomará por defecto el tipo de IVA definido en la ficha del proveedor seleccionado en el albarán. Se podrá modificar manualmente.
@@ -91,7 +91,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 **Totales (tipo de impuesto IGIC)**
 
-![](<../../.gitbook/assets/imagen (31) (1).png>)
+![](<../../.gitbook/assets/imagen (31) (1) (1).png>)
 
 * **Observaciones:** aquí podremos anotar todas las notas que necesitemos relativas al albarán de compra.
 
@@ -107,13 +107,13 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 * **Importar GREC**: opción exclusiva de Yamaha para la importación de albaranes electrónicos
 * **Facturar:** este botón sirve para facturar el albarán. Se nos pedirá confirmación del proceso, y a continuación aparecerá en pantalla la factura generada.
 
-![Botones de albarán SIN CONFIRMAR](<../../.gitbook/assets/imagen (32).png>)
+![Botones de albarán SIN CONFIRMAR](<../../.gitbook/assets/imagen (32) (1).png>)
 
 ![Botones de albarán CONFIRMADO](<../../.gitbook/assets/imagen (33) (1).png>)
 
-![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34).png>)
+![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34) (1).png>)
 
-![Albarán CERRADO](<../../.gitbook/assets/imagen (35).png>)
+![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1).png>)
 
 **2 - BUSCAR**
 
@@ -134,7 +134,7 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Esta opción lanza una búsqueda que nos presentará un listado de albaranes de compras. Este listado se puede acotar a través del filtro de búsqueda que se presenta a continuación:
 
-![](<../../.gitbook/assets/imagen (36).png>)
+![](<../../.gitbook/assets/imagen (36) (1).png>)
 
 Se podrá filtrar por una determinada serie o todas, por un intervalo de fechas, proveedor, centro, tipo de pago, estado (facturado o pendiente) y por la situación del albarán (facturados, pendientes de facturar o todos). Después de indicar los criterios deseados, nos aparecerá una rejilla con los albaranes que cumplan esas condiciones.
 
@@ -158,7 +158,7 @@ Mediante esta opción, podremos crear facturas de compras en tanda por todos aqu
 
 El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar los albaranes que se quieran facturar, y a continuación pulsar sobre el botón situado en la barra de herramientas inferior. El programa se encargará de crear una factura dividiendo los albaranes por series, tipos de pagos, proveedor y régimen de IVA.
 
-![](<../../.gitbook/assets/imagen (39).png>)
+![](<../../.gitbook/assets/imagen (39) (1).png>)
 
 ![Selección de 6 albaranes de compras](<../../.gitbook/assets/imagen (40).png>)
 
@@ -168,6 +168,6 @@ El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar
 
 Permite facturar directamente todos los albaranes seleccionados previo filtro de serie, fecha, entidad y/o tipo de pago:
 
-![](<../../.gitbook/assets/imagen (37) (1).png>)
+![](<../../.gitbook/assets/imagen (37) (1) (1).png>)
 
-![](<../../.gitbook/assets/imagen (38).png>)
+![](<../../.gitbook/assets/imagen (38) (1).png>)

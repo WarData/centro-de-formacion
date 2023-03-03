@@ -6,17 +6,17 @@ Existen **3** formas de trabajar sobre la versión para la compañía dentro de 
 
 A> **El primer paso es dar de alta una OR sin artículos, simplemente una breve explicación de las operaciones a realizar en texto. Se puede añadir el servicio M.O. a fin de controlar las primeras intervenciones**:
 
-![](<../../.gitbook/assets/imagen (13) (1).png>)
+![](<../../.gitbook/assets/imagen (13) (1) (1).png>)
 
 B> El segundo paso sería ir a la pestaña "Versión para la compañía de seguros", seleccionar una compañía aseguradora y pulsar el botón "Crear versión Cia. Aseguradora". En ella, introducir las líneas necesarias a facturar y confirmar la OR.
 
 C> Tras confirmar la OR, en la pestaña "Versión para la compañía de seguros" aparecerá el botón "Facturar" que mostrará 2 opciones de facturación "Compañía seguros" o "Cliente":
 
-![](<../../.gitbook/assets/imagen (15) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (15) (1).png>)
 
 D> Generará una factura a la compañía sin haber añadido ningún pedido de compras o reserva de stock, ya que la OR general sigue como inicialmente:
 
-![](<../../.gitbook/assets/imagen (16) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (16) (1) (1) (1).png>)
 
 E> La pestaña "Facturación" mostrará la línea de facturación de la OR general, en este caso a 0 €uros por lo que no será facturable:
 

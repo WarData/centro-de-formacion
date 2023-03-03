@@ -2,7 +2,7 @@
 
 Muestra el panel de las nuevas configuraciones CSS de colores y fuentes de la aplicación:
 
-<figure><img src="../../.gitbook/assets/imagen (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (33) (2).png" alt=""><figcaption></figcaption></figure>
 
 Se podrán modificar los códigos de color en cada elemento, clasificador de iconos, bordes, etc. pudiendo incluso crear uno propio usando un nombre y códigos de color personalizados.
 

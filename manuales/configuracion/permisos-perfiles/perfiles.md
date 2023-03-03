@@ -52,7 +52,7 @@ Entidades
 
 \- **MEDIO**· Barra de opciones
 
-<figure><img src="../../../.gitbook/assets/imagen (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Permisos específicos
 

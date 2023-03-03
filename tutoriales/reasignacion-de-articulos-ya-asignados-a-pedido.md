@@ -12,7 +12,7 @@ Se ha añadido una mejora sobre esta función para artículos ya asignados. Pone
 
 2.- Se genera un pedido de compras que se tramita y confirma recepción de una única unidad de las dos pedidas:
 
-<figure><img src="../.gitbook/assets/imagen (15) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (15) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 3.- Hasta aquí es el proceso habitual de asignación de pedidos en la recepción
 
@@ -22,7 +22,7 @@ Se ha añadido una mejora sobre esta función para artículos ya asignados. Pone
 
 5.- En el formulario de reasignación de reservas de pedidos de clientes seleccionamos el pedido a modificar, pulsamos en el botón menos para quitar el reparto y seleccionamos al que queramos añadir la unidad:
 
-<figure><img src="../.gitbook/assets/imagen (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 6.- El resultado quedaría de la siguiente forma:
 
