@@ -12,7 +12,7 @@ B> El segundo paso sería ir a la pestaña "Versión para la compañía de segur
 
 C> Tras confirmar la OR, en la pestaña "Versión para la compañía de seguros" aparecerá el botón "Facturar" que mostrará 2 opciones de facturación "Compañía seguros" o "Cliente":
 
-![](<../../.gitbook/assets/imagen (15) (1).png>)
+![](<../../.gitbook/assets/imagen (15) (1) (1).png>)
 
 D> Generará una factura a la compañía sin haber añadido ningún pedido de compras o reserva de stock, ya que la OR general sigue como inicialmente:
 

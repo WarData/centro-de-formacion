@@ -24,7 +24,7 @@ Ahora, con un doble clic en el perfil "TA - Taller" abriremos la edición de las
 
 Como podéis comprobar, aquí se define qué podrá dar de alta y de baja, modificar, consultar referente a cada una de las opciones del programa (permisos), opciones especiales como bloqueos de precios y descuentos de venta, visualización de documentos de todas las series en listados, predefinición de cuentas en centros de costes, apertura de cuentas contabilizadas, ver costes y beneficios, qué usuarios están incluidos dentro de dicho perfil, series de documentos por defecto (a nivel perfil afecta al conjunto de usuarios incluidos), etc...
 
-![](<../../../.gitbook/assets/imagen (22).png>)
+![](<../../../.gitbook/assets/imagen (22) (1).png>)
 
 ![Series de documentos por defecto para el perfil](<../../../.gitbook/assets/image (170).png>)
 
@@ -40,7 +40,7 @@ Permisos según el “Nivel del usuario”
 
 · Barra de opciones
 
-![](<../../../.gitbook/assets/imagen (18) (1).png>)
+![](<../../../.gitbook/assets/imagen (18) (1) (1).png>)
 
 \*\*\* Permisos específicos:
 
@@ -80,4 +80,4 @@ Permisos según el “Nivel del usuario”
 
 · Barra de opciones
 
-![](<../../../.gitbook/assets/imagen (21).png>)
+![](<../../../.gitbook/assets/imagen (21) (1).png>)

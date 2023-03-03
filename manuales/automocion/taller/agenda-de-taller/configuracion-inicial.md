@@ -6,7 +6,7 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 1.- Activar usuarios que son Asesores de servicio:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 2.- La agenda se entregará configurada al inicio tras un cuestionario inicial de Winmotor con el responsable sobre:
 
@@ -20,53 +20,60 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 La agenda de taller requerirá que el usuario "Administrador" configure cambios en horarios, festivos, bajas, vacaciones y eventos, así como el alta y baja de asesores, operarios e invitados posteriormente. Para ello accedería a la <mark style="color:yellow;">configuración de la agenda de citas desde Automoción > Taller > Agenda Taller > Configuración:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (30).png" alt=""><figcaption></figcaption></figure>
 
-* El primero indica el tiempo mínimo de la cita del asesor de servicio (se podrán seleccionar tantos intervalos de 10 minutos que se deseen al añadir una nueva cita)
-* Marca la hora de separación entre los turnos de mañana y tarde
+A) Rellenar festivos para cada ejercicio > desde el panel de configuración pulsar el botón "Festivos":
 
-C.- Eliminar festivos anteriores si ya existen (error de cabecera de documento: festivos) por vDataclient (requiere [contactar con Winmotor](mailto:soporte@winmotor.net))
+<figure><img src="../../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
 
-D.- Rellenar festivos > desde el panel de citas de asesor, pulsar en el botón con 3 líneas > configuración y pulsar doble clic en el espacio en blanco (rejilla de festivos) o pulsar botón derecho "Alta de ficha"
+En el formulario es posible ir creando uno a uno cada día o importar desde otro ejercicio e ir modificando fechas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
 
-E.- Asignar asesores de servicio desde el departamento pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad.
+B) Dar de alta turnos y asignarlos a los asesores de servicio pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad. El menú de alta y edición de turnos y asesores de servicio se encuentra en el botón indicado en la imagen, en el panel de configuración:
 
-<figure><img src="../../../../.gitbook/assets/imagen (8) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (27).png" alt=""><figcaption></figcaption></figure>
 
-F.- Definir los turnos desde el departamento pulsando en el botón +:
+* Definir los turnos del departamento pulsando en el botón +:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
 
-Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles):**
+Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles) y que sea igual a los que asignemos posteriormente:**
 
-<figure><img src="../../../../.gitbook/assets/imagen (10) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (28).png" alt=""><figcaption></figcaption></figure>
 
-G.- Asignar turnos a los asesores de servicio pulsando en Diario > Asignación (en el departamento pestaña "Asesores" > pestaña "Diario" > pestaña "Asignación).
+Al pulsar en la flecha a izquierda, aparecerá el siguiente formulario para indicar qué turnos tendrán los asesores seleccionados en la imagen anterior, seleccionar mañanas y tardes y pulsar botón asignar:
 
-* Indicar intervalo de fecha
-* Seleccionar turno
-* Opcional > día de la semana (si se intercalan distintos asesores entre días de semana, en caso contrario dejar en blanco)
-* Actualizar o F5 para mostrar los turnos y días
-* En el botón lupa indicar asesor de servicio
-* Pulsar en todas las fechas a asignar al asesor (para seleccionar todo pulsar en un cuadro superior):
+<figure><img src="../../../../.gitbook/assets/imagen (21).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/imagen (13) (2).png" alt=""><figcaption></figcaption></figure>
+En el panel del departamento laboral será posible:
 
-* Por último pulsar en el botón "Aplicar":
+<figure><img src="../../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (5).png" alt=""><figcaption></figcaption></figure>
+* Borrar > muestra la rejilla de turnos seleccionables y botón inferior borrar
+* Modificar fechas > muestra la rejilla de turnos y, seleccionando los que se desee modificar y pulsando en "Modificar" mostrará un pequeño formulario de fecha para editar
 
-H.- Asignar operarios al departamento del mismo modo que los asesores (pestaña "Trabajadores" > "Configuración"), aunque será opcional asignar los turnos a operarios concretos. La agenda de taller indicará únicamente el número total de horas disponibles en función del número de operarios. Aparecerán como no asignados aquellas entidades definidas como operarios que aún no estén asignados y, en caso de ser multicentro, aparecerán sólo los que sean de ese centro:
+<figure><img src="../../../../.gitbook/assets/imagen (23).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/imagen (11) (2) (1).png" alt=""><figcaption></figcaption></figure>
+* Aumentar y disminuir asesores a o de un turno de la rejilla de turnos, permitiendo añadir o quitar un asesor de servicio no asignado a un turno ya completo
 
-* En el diario de los trabajadores pestaña "Consulta" podremos ver la asignación de operarios a distintos turnos. Recordamos que esto es opcional siempre que queramos activar bajas, eventos o vacaciones, casos en los que sí hay que indicar el operario afectado:
+C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "Operarios" > "Operarios y turnos" > botón lápiz ![](<../../../../.gitbook/assets/imagen (15).png>)):
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (22).png" alt=""><figcaption></figcaption></figure>
 
-I.- Definir vehículos de cortesía del mismo modo que asignar asesores y trabajadores (operarios) desde la pestaña "Vehículos":
+Asignación de turnos a los operarios:
 
-<figure><img src="../../../../.gitbook/assets/imagen (12) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (29).png" alt=""><figcaption></figcaption></figure>
+
+* En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
+
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+D) Definir vehículos de cortesía desde la pestaña "Vehículos":
+
+<figure><img src="../../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+
+Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
+
+<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 

@@ -20,7 +20,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 * **Fecha Emisión:** podremos indicar aquí la fecha de emisión del documento. La fecha contable se podrá elegir en el momento del traspaso a contabilidad. Donde podremos seleccionar la fecha de grabación, o la de origen.
 * **Acreedor:** mediante este campo podremos seleccionar un acreedor, localizarlo, editar el seleccionado o incluso modificar el seleccionado editando sus datos desde la siguiente opción (sólo válido para el documento generado, no modifica la ficha):
 
-<figure><img src="../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Nombre, tipo de pago y vencimientos:** muestra, respectivamente, el nombre, tipo de pago y vencimientos del acreedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado **Submaestros > Administración >** [**Tipos de pago**](../submaestros/administracion-1/tipos-de-pago.md) **y** [**Vencimientos**](../submaestros/administracion-1/vencimientos.md)****
 * **Referencia:** podemos guardar en este campo el código o referencia de la factura que nos ha emitido el acreedor.
@@ -41,11 +41,11 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 
 * **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente:
 
-<figure><img src="../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (8) (5).png" alt=""><figcaption></figcaption></figure>
 
 * **Totales**: muestra la información totalizada de bases, porcentajes de IVA, importe de IVA y parciales, así como importe pagado y pendiente si es que han existido anticipos de pago asociados al documento:
 
-<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4) (5).png" alt=""><figcaption></figcaption></figure>
 
 * **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte (es posible que la realización incluya costes de programación)
 * **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto [(véase "Archivos")](../maestros/articulos/ficha-del-articulo/archivos.md)
@@ -59,7 +59,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 * **Eliminar**: si la factura no está contabilizada, se podrá borrar la línea mediante este botón. Si está pagada habrá que eliminar el pago desde la pestaña "Pagos".
 * **Auditoría**: muestra el momento y usuario que creó y/o modificó la línea
 
-<figure><img src="../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (10) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Opciones desde una factura de gastos:**
 
@@ -94,7 +94,7 @@ Permite obtener un listado de facturas por varios filtros como serie, ejercicio,
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-<figure><img src="../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (5) (8).png" alt=""><figcaption></figcaption></figure>
 
 **4 – LISTADO DE IVA**
 
@@ -104,7 +104,7 @@ Muestra un listado de facturas para IVA por intervalo de fechas con las bases e 
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-<figure><img src="../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel
