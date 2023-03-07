@@ -175,6 +175,7 @@
       * [Vacaciones - Bajas - Eventos](manuales/automocion/taller/agenda-de-taller/vacaciones-bajas-eventos.md)
       * [Alta de una cita por un invitado](manuales/automocion/taller/agenda-de-taller/alta-de-una-cita-por-un-invitado.md)
       * [Alta de una cita de asesor](manuales/automocion/taller/agenda-de-taller/alta-de-una-cita-de-asesor.md)
+      * [Google Calendar](manuales/automocion/taller/agenda-de-taller/google-calendar.md)
     * [Tipos OR](manuales/automocion/taller/tipos-or.md)
   * [Comercial](manuales/automocion/comercial-de-vehiculos/README.md)
     * [Stocks vehículos](manuales/automocion/comercial-de-vehiculos/stocks-vehiculos.md)
