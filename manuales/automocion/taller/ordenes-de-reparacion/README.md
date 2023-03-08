@@ -13,7 +13,7 @@ Algo característico de los documentos orden de reparación son el campo [tipo d
   * Sobre los artículos reservados en stock o que hayan sido recibidos (en azul - véase código de colores abajo) se puede realizar la instalación, seleccionado todas las líneas pulsando en el recuadro en blanco situado a la izquierda de "Almacén" o de una en una y pulsando en el botón "Instalar material", pasando las líneas instaladas a color verde.
   * Tras instalar la OR puede quedar "Pte. Facturar", "Facturada" y "Parc. Facturada" para aquellas aún sin facturar, facturadas y las que tienen más de una imputación y sólo se ha facturado una parte de ellas.
 
-<figure><img src="../../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:orange;">Imputaciones estándar de la OR</mark>: <mark style="color:yellow;">indican hacia dónde va el cargo del conjunto de líneas incluidas en ella. Si se modifica la línea de la imputación, se modifica el conjunto de líneas:</mark>
   * Cliente: por defecto será el propietario del vehículo, pero se podrá modificar aunque siempre será hacia una entidad tipo cliente
@@ -25,7 +25,7 @@ Algo característico de los documentos orden de reparación son el campo [tipo d
 
 Permite dar de alta a una nueva orden de reparación, rellenando el siguiente formulario:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 El alta de una OR está compuesta por un formulario, donde se introducen los datos generales, como la serie, la fecha, [tipo de orden](../tipos-or.md), respecto al vehículo la matrícula, bastidor y cliente (pulsando tabulador después de introducir cualquiera de los datos anteriores rellenará automáticamente el resto), imputación, avería / síntoma, [tempario](../temparios.md), sección de taller, fechas de recepción y entrega prevista, kilometraje / horas, combustible, teléfono de la entidad y permite añadir y efectos personales.
 
@@ -43,11 +43,11 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Centro**: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será editable por aquellos usuarios autorizados.
 
-**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (6) (1).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
+**Check - Presupuesto**: al marcar el check nos permite rellenar un nuevo campo "Referencia" a fin de control posterior por parte del cliente. La situación de la OR quedará como "Presupuesto" hasta que se confirme la OR que pasará a "En curso". Desde la versión presupuesto es posible crear nuevas versiones usando el botón ![](<../../../../.gitbook/assets/imagen (6) (1) (1).png>) mientras no se haya confirmado. Tanto si se genera una OR como presupuesto como las posteriores versiones del mismo quedarán registradas para su control y posible lectura desde la pestaña "Versiones del presupuesto" (sólo activa cuando se genera una OR como presupuesto).
 
 **Matrícula y bastidor**: ambos campos pertenecen al mismo vehículo por lo que, rellenando total o parcialmente uno de ellos y tabulando rellenará el contrario y el cliente. Al dar de alta una nueva matrícula o bastidor, uno completa el otro en el alta y permite asociar el vehículo a un cliente nuevo o existente en la base de datos, quedando asignado a él:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (2).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
 
 <mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark>
 
@@ -88,7 +88,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **CIF / NIF**: muestra el documento alimentado por el campo existente en la entidad
 
-**Kilómetros**: campo de edición manual que <mark style="color:yellow;">servirá para alimentar información en otros campos como "Información de interés" en las citas que muestra los kilómetros de la última OR</mark>, fecha de la misma, fecha de venta del vehículo si fue vendido por la empresa y fecha de fin de garantía.
+**Kilómetros / Horas**: campo de edición manual que <mark style="color:yellow;">servirá para alimentar información en otros campos como "Información de interés" en las citas que muestra los kilómetros / horas de la última OR</mark>, fecha de la misma, fecha de venta del vehículo si fue vendido por la empresa y fecha de fin de garantía.
 
 **Combustible**: permite grabar el nivel al alta de la OR para control
 
@@ -102,45 +102,53 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Aceptar y entregar vehículo de cortesía:** similar a aceptar y además abre formulario de entrega de vehículo de cortesía asociado al cliente del alta de la OR:
 
-<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 
-**Barra de pestañas de la OR**
+<mark style="color:orange;">**Barra de pestañas de la OR**</mark>
 
-CONCEPTOS: contiene una rejilla en la que se nos presentan las líneas de albaranes de venta ordenadas por el campo contador de cada línea. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de albarán.
+**General**: contiene una rejilla en la que se nos presentan las líneas de la orden de reparación ordenadas por el campo contador de cada línea y por una imputación / incidencia (línea amarilla que indica hacia quien va el cargo y la incidencia ocurrida). Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de la OR o imputación.
 
-Para grabar una nueva línea, podemos utilizar cualquiera de los métodos utilizados sobre cualquier otra rejilla. Se nos presentará el formulario de grabación de líneas con los siguientes campos:
+<mark style="color:green;">Botonera en General:</mark>
 
-\- Almacén: indicamos aquí el almacén del que saldrá el material. Estará activo si la serie tiene marcado que permite varios almacenes. De lo contrario, tomará por defecto el almacén definido en la serie.
+**A) IMPUTACIÓN** ![](<../../../../.gitbook/assets/imagen (12).png>) > Al grabar una nueva imputación se nos presentará el formulario de grabación de línea de imputación con los siguientes campos:
 
-\- Artículo: campo en el que introducimos la referencia del artículo. Se podrá meter la referencia manualmente, o utilizando la opción Buscar Artículo de los botones incrustados de este campo.
+<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
-Si no localizamos la referencia en la base de datos de artículos, podemos utilizar la opción Referencia.
+1.- **Imputación** > muestra las opciones disponible de cargo (cliente, siniestro, interno y garantía - algunas marcas requieren una imputación adicional siendo posible su configuración)
 
-Con esta opción, el programa buscará en primer lugar en el fichero de artículos, y si no la encontrara, buscará en el de tarifas. Una vez localizada, se nos presentará el siguiente formulario, desde el que podremos crear la referencia directamente.
+2.- **Tempario** > selección de tempario asociado al alta de la imputación [(véase temparios)](../temparios.md)
 
-Los otros dos botones incrustados que contiene el campo de artículo, son para consultar/editar la referencia seleccionada, o para crear una nueva.
+3.- **Sección de taller** > departamento del taller a la que pertenecería la intervención a realizar [(véase secciones de taller)](../secciones-de-taller.md)
 
-La descripción del artículo tomará por defecto la definida en su ficha, y solo se podrá modificar si el artículo no está incluido en la tarifa.
+4.- **Título** > nombre que recibe la avería a intervenir
 
-\- Stock disponible, ubicaciones y descuento: son campos que muestran información directa del artículo, el stock disponible, las ubicaciones del artículo y el descuento de compra.
+5.- **Avería / Síntoma** > breve explicación de la avería que permite incluir varias líneas de texto
 
-\- Cantidad: indicamos aquí las unidades que vayan a salir.
+<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
 
-\- Precio: importe de venta del artículo. En los presupuestos, pedidos, albaranes de venta y en las órdenes de reparación, tanto el precio de venta como el descuento se calcularán en función a la tabla de descuento definida en el vendedor, y si no tuviera, la definida en el cliente. El funcionamiento específico de las tablas de descuentos se explicarán en el menú comercial, opción B – tablas de descuentos. Si no se hubiera indicado ninguna tabla de descuentos, el precio será el definido en la ficha de la referencia.
+B) **NUEVA LÍNEA DE ARTÍCULO O SERVICIO** ![](<../../../../.gitbook/assets/imagen (10).png>) > Al grabar una nueva línea de artículo o servicio se nos presentará el formulario de grabación con los siguientes campos:
 
-\- Descuento: porcentaje de descuento que se le realizará al cliente.
+<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
-\- Parcial: valor total del artículo (sin sumar los impuestos) resultante de multiplicar las unidades pedidas por el precio menos los descuentos.
+1.- **Partida** > indica la imputación destino de la línea pudiendo, en caso de haber más de 1 imputación, pulsar en el botón y seleccionar el destino de la línea entre las distintas imputaciones de la OR.
 
-\- Costo: valor de compra del artículo.
+2.- **Artículo** > campo para introducir la referencia del artículo o servicio tanto usando el localizador como de forma manual. Permite además dar de alta un artículo / servicio o crear buscar una referencia en la tarifa de artículos como "Localizar Referencia":
 
-\- Tipo de IVA: tomará por defecto el tipo de IVA definido en la ficha del artículo si el albarán tiene el tipo de IVA general. De lo contrario, será el 0 %.
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
-\- Contador: campo destinado a ordenar todas las líneas del albarán. Mantendrán el orden de menor a mayor en la presentación de las rejillas y en los impresos. Se podrá modificar para variar el orden según las necesidades.
+3.- **Check "Pedir a proveedor"** > fuerza pedir al proveedor la línea de artículo / servicio aunque haya stock del artículo
 
-\- Operación: estos campos se utilizan para imputar una línea de albarán de venta a un cheque regalo de una operación. Mediante el localizador presentado, veremos los vales activos que tiene el cliente / agente. Al seleccionar uno de ellos, se presentarán en la línea del albarán los datos relativos al cheque regalo.
+4.- **Imputación** > indicación a modo de aviso de a quien se cargará la línea (no es editable)
+
+5.- **Proveedor** > al rellenar el campo artículo, se rellenará con el proveedor preferente del mismo. Al pulsar la lupa nos mostrará los distintos proveedores disponibles del artículo, así como ver la ficha del seleccionado
+
+6.- **Unidades / Precio / Descuento / Parcial** > campos estandar para aumentar o disminuir la cantidad a añadir a la OR, su precio de venta, el descuento y el parcial. Los 3 primeros campos son editables aunque vengan marcados por la tarifa del artículo, tarifas de ventas o descuentos promocionales.
+
+7.- **Check "Interna"** > la línea irá a la imputación principal, pero no se imprimirá en la OR ni en la factura:
+
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 Opciones de las líneas de albarán
 

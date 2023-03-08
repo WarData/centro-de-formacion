@@ -113,7 +113,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 ![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34) (1).png>)
 
-![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1) (1).png>)
+![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1).png>)
 
 **2 - BUSCAR**
 
@@ -158,7 +158,7 @@ Mediante esta opción, podremos crear facturas de compras en tanda por todos aqu
 
 El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar los albaranes que se quieran facturar, y a continuación pulsar sobre el botón situado en la barra de herramientas inferior. El programa se encargará de crear una factura dividiendo los albaranes por series, tipos de pagos, proveedor y régimen de IVA.
 
-![](<../../.gitbook/assets/imagen (39) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (39) (1).png>)
 
 ![Selección de 6 albaranes de compras](<../../.gitbook/assets/imagen (40).png>)
 

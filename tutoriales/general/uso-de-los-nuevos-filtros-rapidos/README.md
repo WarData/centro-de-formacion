@@ -28,7 +28,7 @@ Presenta una lista con todos los valores distintos que tenga la columna seleccio
 
 Podemos seleccionar uno o varios valores:
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 O escribir directamente el valor a buscar, en cuyo caso en la lista quedarán solamente los valores coincidentes con la cadena escrita y todos seleccionados:
 
@@ -38,7 +38,7 @@ O escribir directamente el valor a buscar, en cuyo caso en la lista quedarán so
 
 Presenta un localizador que filtra por campo vacío, no vacío, contiene o no contiene:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Para localizar el dato podemos usar caracteres comodín:
 

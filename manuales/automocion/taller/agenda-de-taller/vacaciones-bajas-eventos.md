@@ -20,7 +20,7 @@ El calendario mostrará en azul las vacaciones, en rojo las bajas y amarillo los
 
 En el diario de citas de la agenda de taller habrá un cambio en los días afectados, mostrando los asesores disponibles para ambos turnos, poniendo en rojo aquellos días en los que hay menos disponibles de lo habitual:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cancelar eventos en el calendario laboral de un trabajador**
 
