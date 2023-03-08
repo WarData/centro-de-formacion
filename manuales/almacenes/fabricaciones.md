@@ -8,7 +8,7 @@ Proceso para dar de alta packs de piezas que tengan que formarse a partir de pie
 
 2.- Indicar serie de documento, artículo (pack) a fabricar y número de unidades del pack:
 
-<figure><img src="../../.gitbook/assets/imagen (5) (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (5) (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Añadir artículos que forman el pack
 
