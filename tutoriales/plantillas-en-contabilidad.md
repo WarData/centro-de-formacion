@@ -36,7 +36,7 @@ También se pueden crear las plantillas desde su opción dentro del menú de mae
 
 \*\*\* La plantilla se podrá seleccionar en el alta del asiento, así como darla de alta (punto 1) o editar una existente previamente seleccionada:
 
-<figure><img src="../.gitbook/assets/imagen (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (108) (4).png" alt=""><figcaption></figcaption></figure>
 
 **USO DE LA PLANTILLA CREADA**
 

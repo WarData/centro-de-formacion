@@ -8,7 +8,7 @@ Requiere que el perfil del usuario tenga activa la opción "Citas" en Automoció
 
 El alta de los usuarios "Invitados" se realiza desde el panel de configuración de la agenda de taller:
 
-<figure><img src="../../../../.gitbook/assets/imagen (39) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (39) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 El alta de la cita se realiza accediendo a la opción indicada "Citas" obteniendo el siguiente panel donde además podrá ver las citas solicitadas por su usuario:
 
@@ -16,7 +16,7 @@ El alta de la cita se realiza accediendo a la opción indicada "Citas" obteniend
 
 Pulsar "Nueva cita" y solicitará el asesor sobre el que realizarla:
 
-<figure><img src="../../../../.gitbook/assets/imagen (38).png" alt=""><figcaption><p>Doble clic en asesor seleccionado</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (38) (2).png" alt=""><figcaption><p>Doble clic en asesor seleccionado</p></figcaption></figure>
 
 [Véase "Alta de una cita de asesor"](alta-de-una-cita-de-asesor.md) para completar el formulario de cita:
 

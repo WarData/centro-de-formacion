@@ -102,11 +102,11 @@ Para pasarlo a rejilla avanzada y poderlo configurar los pasos son los siguiente
 
 2.- En el lateral izquierda tenemos el menú de columnas, donde podremos activar o desactivarlas:
 
-<figure><img src="../../.gitbook/assets/imagen (116) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (116) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Las totalizaciones podemos quitarlas o activarlas pulsando botón derecho encima de los campos de suma, además de poder indicar la cifra máxima o mínima, la media, el número de elementos que componen la suma, totalización y por último ninguno:
 
-<figure><img src="../../.gitbook/assets/imagen (107) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (107) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 4.- Las agrupaciones nos pueden ayudar a gestionar los datos de la forma más interesante. Su uso es tan sencillo como arrastrar la parte superior de la columna a formar la agrupación:
 

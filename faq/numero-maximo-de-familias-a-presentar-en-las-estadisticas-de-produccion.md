@@ -6,7 +6,7 @@ El listado de estadísticas de producción > Automoción > Comercial > Estadíst
 
 Para evitar que salga este mensaje hay que reducir el número de familias de servicios que haya en el programa yendo a Maestros > Familias:​
 
-<figure><img src="../.gitbook/assets/imagen (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (105) (4).png" alt=""><figcaption></figcaption></figure>
 
 Al listar las familias en F3 se presentarán todas las familias que haya para servicios:
 

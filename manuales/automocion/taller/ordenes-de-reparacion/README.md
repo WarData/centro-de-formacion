@@ -130,7 +130,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 B) **NUEVA LÍNEA DE ARTÍCULO O SERVICIO** ![](<../../../../.gitbook/assets/imagen (164).png>) > Al grabar una nueva línea de artículo o servicio se nos presentará el formulario de grabación con los siguientes campos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (102) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.- **Partida** > indica la imputación destino de la línea pudiendo, en caso de haber más de 1 imputación, pulsar en el botón y seleccionar el destino de la línea entre las distintas imputaciones de la OR.
 
@@ -148,17 +148,17 @@ B) **NUEVA LÍNEA DE ARTÍCULO O SERVICIO** ![](<../../../../.gitbook/assets/ima
 
 7.- **Check "Interna"** > la línea irá a la imputación principal, pero no se imprimirá en la OR ni en la factura:
 
-<figure><img src="../../../../.gitbook/assets/imagen (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (94) (1).png" alt=""><figcaption></figcaption></figure>
 
 C) **AÑADIR LÍNEAS DE TEXTO** ![](<../../../../.gitbook/assets/imagen (160).png>) > añade líneas de texto a la OR. Permite seleccionar la partida de destino:
 
 <figure><img src="../../../../.gitbook/assets/imagen (156).png" alt=""><figcaption></figcaption></figure>
 
-D) **ELIMINAR LÍNEAS SELECCIONADAS** ![](<../../../../.gitbook/assets/imagen (39).png>) > permite eliminar cualquier tipo de línea salvo las imputaciones, que hay que proceder desde la propia línea con doble clic <mark style="color:yellow;">(se avisa que elimina la imputación y las líneas que contiene)</mark> y de los artículos instalados, que hay que proceder del mismo modo, entrando en la línea con doble clic y pulsar "Opciones" > "Eliminar". En líneas con pedidos de compras relacionados, se procederá a la anulación de la línea del pedido de compras.
+D) **ELIMINAR LÍNEAS SELECCIONADAS** ![](<../../../../.gitbook/assets/imagen (39) (2).png>) > permite eliminar cualquier tipo de línea salvo las imputaciones, que hay que proceder desde la propia línea con doble clic <mark style="color:yellow;">(se avisa que elimina la imputación y las líneas que contiene)</mark> y de los artículos instalados, que hay que proceder del mismo modo, entrando en la línea con doble clic y pulsar "Opciones" > "Eliminar". En líneas con pedidos de compras relacionados, se procederá a la anulación de la línea del pedido de compras.
 
 E) **REFRESCAR VISTA DE LÍNEAS** ![](<../../../../.gitbook/assets/imagen (37).png>) > tras modificar algún elemento como la posición de las líneas en la OR, sirve para actualizar y mostrar el resultado final
 
-F) **ABONAR LÍNEA/S SELECCIONADA/S** ![](../../../../.gitbook/assets/imagen.png) > realiza un abono de línea creando una nueva línea idéntica a la seleccionada, pero con valor negativo.
+F) **ABONAR LÍNEA/S SELECCIONADA/S** ![](<../../../../.gitbook/assets/imagen (108).png>) > realiza un abono de línea creando una nueva línea idéntica a la seleccionada, pero con valor negativo.
 
 <mark style="color:green;">Opciones de las líneas de la OR:</mark>
 

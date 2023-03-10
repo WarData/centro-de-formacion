@@ -20,7 +20,7 @@ Introducción de datos de vehículo / cliente:
 
 * En la parte inferior obtendremos "Datos de interés" informando de kilómetros de la última OR, fin de garantía y fecha de la última OR y un campo "Notas" para añadir a la cita cualquier dato adicional.
 
-<figure><img src="../../../../.gitbook/assets/imagen (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (107) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Por último podremos seleccionar la cita sin o con vehículo de cortesía, si se da de alta la OR de forma simultánea a la cita y si se marca como de "alta prioridad" (la cita se marca en rojo en el panel de citas):
 
@@ -36,7 +36,7 @@ Se selecciona fecha de recepción (se marcará para próximas citas en azul clar
 
 <figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/imagen (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (116) (3).png" alt=""><figcaption></figcaption></figure>
 
 * La cita pasará al listado del día correspondiente mostrando estado pendiente hasta dar de alta la OR y confirmarla (recordar que desde el mismo panel es posible realizarlo):
 

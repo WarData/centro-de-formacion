@@ -16,7 +16,7 @@ Desde el stock de vehículos, a veces se realizan devoluciones. Vamos a ver aqu�
 
 ![Pulsar en este botón](<../.gitbook/assets/imagen (93).png>)
 
-![Copiar modelo completo según se ve en la imagen](<../.gitbook/assets/imagen (94) (1).png>)
+![Copiar modelo completo según se ve en la imagen](<../.gitbook/assets/imagen (94) (1) (1).png>)
 
 ![](<../.gitbook/assets/imagen (95).png>)
 
@@ -42,7 +42,7 @@ D) Pulsamos en "Aceptar"
 
 6.- Al confirmar hay que **indicar que SI**:
 
-![](<../.gitbook/assets/imagen (102) (1).png>)
+![](<../.gitbook/assets/imagen (102) (1) (1).png>)
 
 7.- Podemos verificar en el stock de vehículos que el vehículo seleccionado, tras pulsar en "Actualizar" si teníamos abierta la pestaña con el stock, ha sido eliminado correctamente:
 
