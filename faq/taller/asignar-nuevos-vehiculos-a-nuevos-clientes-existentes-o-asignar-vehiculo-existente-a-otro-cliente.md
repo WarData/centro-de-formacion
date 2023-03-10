@@ -14,7 +14,7 @@ Para ambos casos, el procedimiento es muy similar y aquí os contamos las excepc
 
 1.- Si el cliente existe rellenará automáticamente los datos de vehículo en el alta de la OR, de la misma forma si se rellena la matrícula, identificará el cliente al tabular:
 
-<figure><img src="../../.gitbook/assets/imagen (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (39) (3).png" alt=""><figcaption></figcaption></figure>
 
 2.- Si el vehículo pertenece a otro cliente existente en la base de datos, localizarlo y cambiarlo en el alta, apareciendo el botón "Crear transferencia" y de igual modo si no existe, darlo de alta pulsando en el botón ![](<../../.gitbook/assets/imagen (116).png>) señalado en la imagen siguiente y proceder pulsando "Crear transferencia":
 
@@ -27,11 +27,11 @@ Para ambos casos, el procedimiento es muy similar y aquí os contamos las excepc
 
 * Desde el alta de la OR pulsar en el localizador > Nuevo y aparecerá un formulario de alta:
 
-<figure><img src="../../.gitbook/assets/imagen (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (94) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Formulario de alta de vehículo en el que hay que <mark style="color:yellow;">**indicar marca y color mediante el localizador**</mark> y <mark style="color:yellow;">**rellenar manualmente modelo (no rellenar gama ni versión):**</mark>
 
-<figure><img src="../../.gitbook/assets/imagen (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (34) (3).png" alt=""><figcaption></figcaption></figure>
 
 * En el caso de existir el cliente, localizarlo en el campo propietario:
 
@@ -39,7 +39,7 @@ Para ambos casos, el procedimiento es muy similar y aquí os contamos las excepc
 
 * En el caso de no existir el cliente, darlo de alta usando el campo "Nuevo" en el campo propietario:
 
-<figure><img src="../../.gitbook/assets/imagen (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (107) (5).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**\*\*\* Rellenar todos los datos necesarios de la entidad y seleccionar tipo "Cliente"**</mark>
 
@@ -47,7 +47,7 @@ Para ambos casos, el procedimiento es muy similar y aquí os contamos las excepc
 
 4.- Una vez asignado el cliente a un vehículo dado de alta desde la OR y aceptando el formulario y tabulando posteriormente, asignará el nuevo vehículo al cliente:
 
-<figure><img src="../../.gitbook/assets/imagen (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (102) (2).png" alt=""><figcaption></figcaption></figure>
 
 Tras aceptar la OR y tabular:
 

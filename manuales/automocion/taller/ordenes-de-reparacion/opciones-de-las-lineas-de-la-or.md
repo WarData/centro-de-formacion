@@ -12,7 +12,7 @@
 
 <figure><img src="../../../../.gitbook/assets/imagen (168).png" alt=""><figcaption></figcaption></figure>
 
-* Aunque existan las mismas opciones que un artículo, al no requerir control de stock no es necesaria su eliminación desde "Opciones", es posible simplemente seleccionando la línea de la OR y pulsar en el botón "Eliminar" ![](<../../../../.gitbook/assets/imagen (36).png>)
+* Aunque existan las mismas opciones que un artículo, al no requerir control de stock no es necesaria su eliminación desde "Opciones", es posible simplemente seleccionando la línea de la OR y pulsar en el botón "Eliminar" ![](<../../../../.gitbook/assets/imagen (36) (3).png>)
 
 3.- Líneas de imputación > se permite la edición del título y la imputación, así como su eliminación de línea y líneas contenidas mediante "Eliminar":
 
