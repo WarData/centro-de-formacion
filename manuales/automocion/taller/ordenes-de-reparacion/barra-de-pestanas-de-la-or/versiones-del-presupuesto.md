@@ -10,4 +10,4 @@ En caso de estar activada, mostrará las diferentes versiones que ha tenido la o
 
 Revisión de la versión 1 de la OR como presupuesto:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (39) (4).png" alt=""><figcaption></figcaption></figure>

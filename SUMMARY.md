@@ -167,6 +167,7 @@
         * [General](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or/general.md)
         * [Intervenciones](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or/intervenciones.md)
         * [Versiones del presupuesto](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or/versiones-del-presupuesto.md)
+        * [Recepción](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or/recepcion.md)
       * [Opciones de las líneas de la OR](manuales/automocion/taller/ordenes-de-reparacion/opciones-de-las-lineas-de-la-or.md)
       * [Proceso General de Pedidos](manuales/automocion/taller/ordenes-de-reparacion/proceso-general-de-pedidos.md)
     * [Temparios](manuales/automocion/taller/temparios.md)
