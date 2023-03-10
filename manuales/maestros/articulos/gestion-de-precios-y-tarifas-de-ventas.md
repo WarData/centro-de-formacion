@@ -40,7 +40,7 @@ o Familia
 
 o Artículo
 
-o Proveedor de un artículo y/o a su clasificador de descuento. En Winmotor existe en la ficah de proveedores, pestaña "Comerciales" la posibilidad de definir clasificadores de descuento:
+o Proveedor de un artículo y/o a su clasificador de descuento. En Winmotor existe en la ficha de proveedores, pestaña "Comerciales" la posibilidad de definir clasificadores de descuento:
 
 ​
 
