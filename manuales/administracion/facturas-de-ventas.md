@@ -59,7 +59,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 * **Eliminar**: si la factura no está contabilizada, se podrá borrar la línea mediante este botón. Si está pagada habrá que eliminar el pago desde la pestaña "Pagos".
 * **Auditoría**: muestra el momento y usuario que creó y/o modificó la línea
 
-<figure><img src="../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Opciones desde una factura de gastos:**
 
