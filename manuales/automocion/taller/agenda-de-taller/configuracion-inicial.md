@@ -48,12 +48,12 @@ Al pulsar en la flecha a izquierda, aparecerá el siguiente formulario para indi
 
 En el panel del departamento laboral será posible:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 * Borrar > muestra la rejilla de turnos seleccionables y botón inferior borrar
 * Modificar fechas > muestra la rejilla de turnos y, seleccionando los que se desee modificar y pulsando en "Modificar" mostrará un pequeño formulario de fecha para editar
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Aumentar y disminuir asesores a o de un turno de la rejilla de turnos, permitiendo añadir o quitar un asesor de servicio no asignado a un turno ya completo
 
@@ -63,7 +63,7 @@ C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "
 
 Asignación de turnos a los operarios:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
 

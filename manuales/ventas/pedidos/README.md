@@ -210,4 +210,4 @@ Muestra un listado de los artículos pendientes de entregar por cliente con camp
 
 <figure><img src="../../../.gitbook/assets/imagen (139).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (4) (1).png" alt=""><figcaption></figcaption></figure>

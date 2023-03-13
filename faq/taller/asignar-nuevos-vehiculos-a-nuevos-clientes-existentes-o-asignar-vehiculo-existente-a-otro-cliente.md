@@ -35,7 +35,7 @@ Para ambos casos, el procedimiento es muy similar y aquí os contamos las excepc
 
 * En el caso de existir el cliente, localizarlo en el campo propietario:
 
-<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 * En el caso de no existir el cliente, darlo de alta usando el campo "Nuevo" en el campo propietario:
 

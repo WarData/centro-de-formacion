@@ -37,15 +37,15 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 
 * **Detalle:** presenta la rejilla que corresponde en función del tipo de factura que estemos grabando. Mediante está rejilla podremos consultar, grabar, modificar o eliminar cualquier línea de factura. Al hacer doble click sobre cualquier línea vacía o pulsar el botón del lateral izquierdo "Nueva línea de servicio" se nos presentará el formulario de grabación de líneas correspondiente a cada tipo de factura:
 
-<figure><img src="../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (3) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 * **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente:
 
-<figure><img src="../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (8) (5).png" alt=""><figcaption></figcaption></figure>
 
 * **Totales**: muestra la información totalizada de bases, porcentajes de IVA, importe de IVA y parciales, así como importe pagado y pendiente si es que han existido anticipos de pago asociados al documento:
 
-<figure><img src="../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4) (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 * **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte (es posible que la realización incluya costes de programación)
 * **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto [(véase "Archivos")](../maestros/articulos/ficha-del-articulo/archivos.md)
@@ -90,11 +90,11 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Permite obtener un listado de facturas por varios filtros como serie, ejercicio, fechas de recepción y emisión, entidad, tipo de pago, estado de pago, régimen de IVA y país:
 
-<figure><img src="../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-<figure><img src="../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (5) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **4 – LISTADO DE IVA**
 
