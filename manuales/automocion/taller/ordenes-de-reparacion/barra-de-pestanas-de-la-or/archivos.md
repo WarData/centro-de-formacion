@@ -8,15 +8,15 @@ Esta pestaña es común al resto de fichas de la aplicación (fichas de entidad,
 
 o Pulsar F4 - Añadir adjunto para abrir la ventana emergente de selección de archivo:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:yellow;">También es posible arrastrar múltiples archivos para adjuntarlos a la ficha al campo indicado con la flecha en la siguiente imagen:</mark>
 
-<figure><img src="../../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 o Seleccionamos uno o más archivos de cualquier tipo de nuestro equipo y pulsamos en "Abrir" para adjuntar y quedarán registrados en la rejilla de adjuntos con los datos "Archivo", "Comentarios", "Fecha" y "tamaño Fichero":
 
-<figure><img src="../../../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 o Apertura del fichero con doble clic en la línea: abrirá la aplicación que ejecuta el archivo automáticamente.
 

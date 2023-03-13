@@ -111,7 +111,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 ![Botones de albarán CONFIRMADO](<../../.gitbook/assets/imagen (33) (1).png>)
 
-![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34) (1).png>)
+![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34) (1) (1).png>)
 
 ![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1).png>)
 
@@ -160,9 +160,9 @@ El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar
 
 ![](<../../.gitbook/assets/imagen (39) (1).png>)
 
-![Selección de 6 albaranes de compras](<../../.gitbook/assets/imagen (40).png>)
+![Selección de 6 albaranes de compras](<../../.gitbook/assets/imagen (40) (1).png>)
 
-![Al facturar, se muestra el resultado de la facturación](<../../.gitbook/assets/imagen (41).png>)
+![Al facturar, se muestra el resultado de la facturación](<../../.gitbook/assets/imagen (41) (1).png>)
 
 **6 - FACTURACIÓN POR SELECCIÓN**
 

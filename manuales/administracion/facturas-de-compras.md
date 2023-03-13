@@ -133,6 +133,6 @@ Mediante esta opción, podremos crear facturas de gastos en tanda por todos aque
 
 El funcionamiento de esta opción es bastante sencillo, bastará con seleccionar los albaranes que se quieran facturar, y a continuación pulsar sobre el botón situado en la barra de herramientas inferior. El programa se encargará de crear una factura dividiendo los albaranes por series, tipos de pagos, proveedor y régimen de IVA.
 
-![Selección de 6 albaranes de gastos](<../../.gitbook/assets/imagen (40).png>)
+![Selección de 6 albaranes de gastos](<../../.gitbook/assets/imagen (40) (1).png>)
 
-![Al facturar, se muestra el resultado de la facturación](<../../.gitbook/assets/imagen (41).png>)
+![Al facturar, se muestra el resultado de la facturación](<../../.gitbook/assets/imagen (41) (1).png>)

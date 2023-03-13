@@ -12,7 +12,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 2.- En el menú ADMINISTRACIÓN > Remesas de pagos > obtendremos el panel de remesas con una serie de opciones (intervalo, serie a mostrar en la rejilla, cambio a rejilla avanzada, localizar remesa por código y definir el panel con las opciones elegidas como por defecto) y una rejilla con las remesas creadas indicando su código, fecha de alta, cuenta bancaria, registro, control de devoluciones y el importe total de la remesa:
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 3.- Pulsando el siguiente botón daremos de alta una nueva remesa:
 

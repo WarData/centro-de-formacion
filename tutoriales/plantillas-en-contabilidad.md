@@ -52,6 +52,6 @@ También se pueden crear las plantillas desde su opción dentro del menú de mae
 
 4.- Rellenamos importe y pulsamos aceptar generando automáticamente el apunte de contrapartida completamente relleno:
 
-<figure><img src="../.gitbook/assets/imagen (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Si no queremos hacer uso de las plantillas en algún momento, podremos indicar en el asiento inicial del apunte los datos y al hacer el siguiente apunte, indicar la cuenta auxiliar y pulsar en el botón "Cuadrar", rellenando importe, concepto y número de documento.

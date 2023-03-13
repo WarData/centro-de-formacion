@@ -24,7 +24,7 @@ Introducción de datos de vehículo / cliente:
 
 * Por último podremos seleccionar la cita sin o con vehículo de cortesía, si se da de alta la OR de forma simultánea a la cita y si se marca como de "alta prioridad" (la cita se marca en rojo en el panel de citas):
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Sin vehículo de cortesía mostrará el diario de taller para poder controlar las horas libres cada día y poder orientar la carga de trabajo a días y horas más adecuadas simplemente seleccionando uno de los días disponibles:
 

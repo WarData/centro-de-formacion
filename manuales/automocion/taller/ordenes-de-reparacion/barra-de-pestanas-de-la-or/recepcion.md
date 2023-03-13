@@ -6,6 +6,6 @@ Esta pestaña ofrece multitud de información realmente importante, como el cont
 
 Es posible modificar el tipo de OR o seleccionar uno si no se seleccionó inicialmente y también dispone del control de los vehículos de cortesía pudiendo hacer entrega de una unidad desde esta misma pestaña.
 
-<figure><img src="../../../../../.gitbook/assets/imagen (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Recomendamos la lectura del manual[ "Agenda de Taller" - enlace al manual "Alta de una cita de asesor"](../../agenda-de-taller/alta-de-una-cita-de-asesor.md) y ["Alta de una OR"](../alta-de-una-or.md) para comprender el proceso completo y los conceptos básicos de los campos de tiempo en el alta de la OR / Cita.

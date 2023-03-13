@@ -28,7 +28,7 @@ A) Rellenar festivos para cada ejercicio > desde el panel de configuración puls
 
 En el formulario es posible ir creando uno a uno cada día o importar desde otro ejercicio e ir modificando fechas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
 
 B) Dar de alta turnos y asignarlos a los asesores de servicio pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad. El menú de alta y edición de turnos y asesores de servicio se encuentra en el botón indicado en la imagen, en el panel de configuración:
 

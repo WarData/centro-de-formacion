@@ -48,6 +48,6 @@ C) **AÑADIR LÍNEAS DE TEXTO** ![](<../../../../../.gitbook/assets/imagen (160)
 
 D) **ELIMINAR LÍNEAS SELECCIONADAS** ![](<../../../../../.gitbook/assets/imagen (39) (2).png>) > permite eliminar cualquier tipo de línea salvo las imputaciones, que hay que proceder desde la propia línea con doble clic <mark style="color:yellow;">(se avisa que elimina la imputación y las líneas que contiene)</mark> y de los artículos instalados, que hay que proceder del mismo modo, entrando en la línea con doble clic y pulsar "Opciones" > "Eliminar". En líneas con pedidos de compras relacionados, se procederá a la anulación de la línea del pedido de compras.
 
-E) **REFRESCAR VISTA DE LÍNEAS** ![](<../../../../../.gitbook/assets/imagen (37).png>) > tras modificar algún elemento como la posición de las líneas en la OR, sirve para actualizar y mostrar el resultado final
+E) **REFRESCAR VISTA DE LÍNEAS** ![](<../../../../../.gitbook/assets/imagen (37) (3).png>) > tras modificar algún elemento como la posición de las líneas en la OR, sirve para actualizar y mostrar el resultado final
 
 F) **ABONAR LÍNEA/S SELECCIONADA/S** ![](<../../../../../.gitbook/assets/imagen (108).png>) > realiza un abono de línea creando una nueva línea idéntica a la seleccionada, pero con un valor negativo.
