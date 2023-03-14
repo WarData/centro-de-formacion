@@ -38,7 +38,7 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa (SEPA 34-
 
 7.- Una vez remesados, nos aparece un nuevo botón "Crear archivo bancario" para guardar el archivo generado en el equipo pudiendo aquí cambiar el formato de la remesa, la fecha disco y la fecha cargo:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Antes de pasar las facturas, en la remesa de pago ya dada de alta, tenemos opciones modificables como el vencimiento, tipo de pago y selección por texto con lo que podremos ir añadiendo facturas a una misma remesa con diferentes opciones tras modificar los parámetros indicados.
 

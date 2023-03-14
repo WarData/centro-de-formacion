@@ -4,7 +4,7 @@ description: Ventas
 
 # Presupuestos
 
-<figure><img src="../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption><p>Panel de presupuestos de ventas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (8) (1) (1).png" alt=""><figcaption><p>Panel de presupuestos de ventas</p></figcaption></figure>
 
 Mediante este menú accedemos al panel de presupuestos de ventas donde podremos filtrar por fecha, ver importes y situación (pendiente de pedir, pendiente de entregar, borrador, cerrado, anulado). Los filtros de intervalo de fecha y cliente se presentan en la parte superior y en el lateral izquierdo tenemos una botonera con opciones para dar de alta un presupuesto nuevo, buscar presupuesto y listar presupuestos usando un filtro avanzado:
 

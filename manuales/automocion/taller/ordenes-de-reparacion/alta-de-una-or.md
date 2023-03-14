@@ -4,13 +4,13 @@
 
 Permite dar de alta a una nueva orden de reparación, rellenando el siguiente formulario:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 El alta de una OR está compuesta por un formulario, donde se introducen los datos generales, como la serie, la fecha, [tipo de orden](../tipos-or.md), respecto al vehículo la matrícula, bastidor y cliente (pulsando tabulador después de introducir cualquiera de los datos anteriores rellenará automáticamente el resto), imputación, avería / síntoma, [tempario](../temparios.md), sección de taller, fechas de recepción y entrega prevista, kilometraje / horas, combustible, teléfono de la entidad y permite añadir y efectos personales.
 
 **Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba la OR. Esta serie permite multitud de ajustes debido a su <mark style="color:blue;">capacidad de generar distintos pedidos de compra en función del tipo de pedido del artículo</mark> (urgente, reposición o garantía), <mark style="color:blue;">hasta 4 líneas de facturación</mark>, una por cada imputación posible y <mark style="color:yellow;">avisos por llegada de mercancia reservada a la OR en la pestaña "Avisos"</mark>:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
@@ -26,7 +26,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Matrícula y bastidor**: ambos campos pertenecen al mismo vehículo por lo que, rellenando total o parcialmente uno de ellos y tabulando rellenará el contrario y el cliente. Al dar de alta una nueva matrícula o bastidor, uno completa el otro en el alta y permite asociar el vehículo a un cliente nuevo o existente en la base de datos, quedando asignado a él:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
 
 <mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark> [<mark style="color:orange;">**Véase enlace a FAQ - "Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente"**</mark>](../../../../faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)<mark style="color:orange;">****</mark>
 
@@ -81,7 +81,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Aceptar y entregar vehículo de cortesía:** similar a aceptar y además abre formulario de entrega de vehículo de cortesía asociado al cliente del alta de la OR:
 
-<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 

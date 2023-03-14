@@ -38,7 +38,7 @@ description: Exclusivamente para el ejercicio en curso
 
 1.2.3.1.- Definir cuentas de ventas y gastos en la pantalla principal de familias
 
-![](<../../../.gitbook/assets/imagen (5) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/imagen (5) (1) (1) (1) (1).png>)
 
 **\*** El programa utilizará estos sistemas de configuración de cuentas de gastos e ingresos de artículos en este orden. Es decir, si se detecta que están definidas las cuentas a nivel tipo de producto, utilizará esta configuración, si no, las buscará en las series de documentos y si están vacías en las propias familias de productos. Como se ve y por simplificar digamos que se pueden definir de menor detalle (tipo de producto) a mayor detalle (familias); últimamente dado que todas las estadísticas y análisis se pueden hacer en contabilidad los contables suelen elegir el menor detalle por simplificar. Como es lógico de lo que se trata es de simplificar y que no haya que definir una cuenta contable de gastos y de ingresos en cada artículo.
 

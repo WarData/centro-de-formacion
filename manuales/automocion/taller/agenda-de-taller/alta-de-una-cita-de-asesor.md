@@ -8,7 +8,7 @@ Introducción de datos de vehículo / cliente:
 
 * Se puede introducir matrícula, bastidor o cliente en su campo correspondiente, pero recomendamos el uso del campo múltiple "Localizar vehículo" ya que permite introducir cualquier dato referente al cliente o vehículo, haciendo el proceso mucho más ágil (realiza la búsqueda automáticamente a partir de 3 caracteres):
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * El siguiente paso es "Temparios". Se pueden añadir desde 1 a 5 temparios de forma simultánea, pudiendo añadir mediante el botón "Notas" texto a cada tempario:
 
@@ -34,7 +34,7 @@ Se selecciona fecha de recepción (se marcará para próximas citas en azul clar
 
 * Con vehículo de cortesía mostrará los días partidos en bloques de mañana y tarde, vehículos disponibles y ocupados (blanco y azul respectivamente). Se marcan bloques continuos de mañana y tarde y mostrará hora de recepción y entrega, después verificar datos y aceptar creando la cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/imagen (116) (3).png" alt=""><figcaption></figcaption></figure>
 

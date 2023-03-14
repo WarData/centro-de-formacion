@@ -1,6 +1,6 @@
 # Observaciones
 
-<figure><img src="../../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 El campo "Observaciones cliente" permite añadir una línea de texto al rellenar documentos así como incluirlo en los informes de impresión.
 
