@@ -1,6 +1,6 @@
 # Estadística
 
-<figure><img src="../../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 Presenta una rejilla con la suma de los trabajos por tipo de imputación, detallando los ingresos por materiales, mano de obra y servicios, así como el beneficio de cada uno y su porcentaje de beneficio. Todo diferenciado por colores como puede observarse en la imagen.
 

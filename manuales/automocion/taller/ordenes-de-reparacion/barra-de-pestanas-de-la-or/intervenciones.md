@@ -19,7 +19,7 @@ Esta rejilla se alimenta de [la opción "Intervenciones" en "Automoción" > "Tal
 * Indicamos fecha y hora de inicio y fin
 * Añadimos alguna observación si es necesario
 
-<figure><img src="../../../../../.gitbook/assets/imagen (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (94) (3).png" alt=""><figcaption></figcaption></figure>
 
 La rejilla de datos nos mostrará las diferentes línea de intervención, pudiendo editarlas mientras la OR no esté realizada  o facturada:
 
