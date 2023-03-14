@@ -6,7 +6,7 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 1.- Activar usuarios que son Asesores de servicio:
 
-<figure><img src="../../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (15) (3).png" alt=""><figcaption></figcaption></figure>
 
 2.- La agenda se entregará configurada al inicio tras un cuestionario inicial de Winmotor con el responsable sobre:
 
@@ -44,7 +44,7 @@ Se indicará el nombre del turno (si hay más de un turno de mañana o tarde esp
 
 Al pulsar en la flecha a izquierda, aparecerá el siguiente formulario para indicar qué turnos tendrán los asesores seleccionados en la imagen anterior, seleccionar mañanas y tardes y pulsar botón asignar:
 
-<figure><img src="../../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 En el panel del departamento laboral será posible:
 
@@ -63,11 +63,11 @@ C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "
 
 Asignación de turnos a los operarios:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
@@ -75,5 +75,5 @@ D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
 Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 

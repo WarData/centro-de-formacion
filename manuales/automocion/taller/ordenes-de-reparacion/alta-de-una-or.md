@@ -10,7 +10,7 @@ El alta de una OR está compuesta por un formulario, donde se introducen los dat
 
 **Serie**: es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba la OR. Esta serie permite multitud de ajustes debido a su <mark style="color:blue;">capacidad de generar distintos pedidos de compra en función del tipo de pedido del artículo</mark> (urgente, reposición o garantía), <mark style="color:blue;">hasta 4 líneas de facturación</mark>, una por cada imputación posible y <mark style="color:yellow;">avisos por llegada de mercancia reservada a la OR en la pestaña "Avisos"</mark>:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
@@ -34,7 +34,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 <mark style="color:yellow;">\*\*\* Si un vehículo asociado a un cliente cambia de propietario, es posible rellenar la matrícula, cliente o bastidor, tabular para que se rellenen todos los datos y cambiar la entidad. Aparecerá un botón "Crear transferencia" \* que activará el histórico del nuevo propietario y mantendrá el histórico del anterior:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Imputación**: indica hacia qué departamento irá el cargo de la reparación. Existen 4 tipos estándar y se pueden dar de alta adicionales para servicios especiales como Honda ARE:
 
@@ -81,7 +81,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Aceptar y entregar vehículo de cortesía:** similar a aceptar y además abre formulario de entrega de vehículo de cortesía asociado al cliente del alta de la OR:
 
-<figure><img src="../../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 

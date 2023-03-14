@@ -10,4 +10,4 @@ Ejemplo de alta de un grupo:
 
 En una ficha de artículo > pestaña archivos > añadimos grupo a un archivo existente en la ficha:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

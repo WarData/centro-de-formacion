@@ -10,7 +10,7 @@ description: Módulo opcional
 
 * Al pulsar en el botón "Grabar huella" mostrará la ventana de grabación de huellas del lector y tendremos que añadir el mismo dedo 3 veces, levantándolo cada vez que reconozca la huella y darle a grabar una vez haya finalizado:
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Se mostrarán 4 confirmaciones de huella como 1, 2, 3 y 4 para generar y guardar la huella en formato XML.
 

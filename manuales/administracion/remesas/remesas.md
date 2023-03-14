@@ -14,11 +14,11 @@ En la serie nos permite seleccionar la cuenta bancaria, tipo de remesa y el form
 
 2.- En el menú ADMINISTRACIÓN > Remesas de cobros > obtendremos el panel de remesas con una serie de opciones (intervalo, serie a mostrar en la rejilla, cambio a rejilla avanzada, localizar remesa por código y definir el panel con las opciones elegidas como por defecto) y una rejilla con las remesas creadas indicando su código, fecha de alta, cuenta bancaria, registro, control de devoluciones y el importe total de la remesa:
 
-<figure><img src="../../../.gitbook/assets/imagen (15) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (15) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.- Pulsando el siguiente botón daremos de alta una nueva remesa:
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 4.- En el formulario de alta seleccionaremos la cuenta (si en la serie indicamos una saldrá por defecto aunque es modificable en el alta), intervalo de vencimiento y tipo de pago:
 

@@ -26,7 +26,7 @@ Permite localizar efectos por los siguientes índices factura - derechos de cobr
 
 Permite listar mediante filtros en la cartera de cobros:
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.- CARTERA / SALDO CONTABLE**
 

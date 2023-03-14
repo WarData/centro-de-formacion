@@ -6,4 +6,4 @@ Presenta una rejilla con la suma de los trabajos por tipo de imputación, detall
 
 Cada línea de imputación y detalle se puede abrir mostrado la siguiente ventana en la que mostraría las intervenciones de los técnicos de forma independiente:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
