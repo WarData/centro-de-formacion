@@ -44,4 +44,4 @@ Se selecciona fecha de recepción (se marcará para próximas citas en azul clar
 
 Cita con OR de alta y confirmada cambia de situación a "Realizada" y color azul claro según los códigos de color del botón paleta (debajo del filtro de fecha en el panel de citas):
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
