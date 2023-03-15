@@ -10,7 +10,7 @@ El panel de operaciones de trabajo muestra una rejilla con el código y nombre d
 
 <figure><img src="../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:yellow;">El objetivo es registrar las operaciones del mismo modo que las intervenciones de los operarios en las OR, pero sobre el taller</mark>. Para ello se deberán imprimir las operaciones de taller seleccionadas en la rejilla pulsando en el botón inferior "Imprimir seleccionadas" ![](<../../../.gitbook/assets/imagen (7).png>) obteniendo un código de barras y su nombre para plastificar y posicionar cerca del equipo lector a fin de que los operarios pasen su carné y luego la operación de taller. De esta forma quedará registrada:
+<mark style="color:yellow;">El objetivo es registrar las operaciones del mismo modo que las intervenciones de los operarios en las OR, pero sobre el taller</mark>. Para ello se deberán imprimir las operaciones de taller seleccionadas en la rejilla pulsando en el botón inferior "Imprimir seleccionadas" ![](<../../../.gitbook/assets/imagen (7) (4).png>) obteniendo un código de barras y su nombre para plastificar y posicionar cerca del equipo lector a fin de que los operarios pasen su carné y luego la operación de taller. De esta forma quedará registrada:
 
 <figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 

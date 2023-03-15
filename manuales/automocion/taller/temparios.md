@@ -47,7 +47,7 @@ A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario
 
 * Temparios: añade temparios existentes - no requiere indicar unidades al ser trabajos (servicios)
 
-<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (5).png" alt=""><figcaption></figcaption></figure>
 
 * Auditoría: muestra la fecha y hora de creación y modificación así como el usuario que realizó cada operación y el log de cada modificación o borrado del tempario
 
@@ -70,7 +70,7 @@ B) **F2 - Buscar**:
 
 Muestra un formulario de búsqueda con diferentes localizadores (ver imagen) y una rejilla con el filtrado obtenido de temparios:
 
-<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 C) **F3 - Listar**:
 

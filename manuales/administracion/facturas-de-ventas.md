@@ -41,7 +41,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 
 * **Pagos**: en esta pestaña se visualizará la rejilla de apuntes cuando el tipo de pago sea contado, o la de recibos de pago para tipos de pago aplazados. La creación de los apuntes o recibos se realizará automáticamente cuando así se indique en el tipo de pago, o manualmente. También se podrán realizar manualmente grabándolos directamente desde la rejilla o mediante los botones rehacer pagos o pago directo. La opción de rehacer pagos, eliminará los que ya se hayan creado y los volverá a crear de nuevo. Y la opción de pago directo, presentará el formulario de alta de apuntes para grabarlos manualmente:
 
-<figure><img src="../../.gitbook/assets/imagen (8) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (8) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Totales**: muestra la información totalizada de bases, porcentajes de IVA, importe de IVA y parciales, así como importe pagado y pendiente si es que han existido anticipos de pago asociados al documento:
 

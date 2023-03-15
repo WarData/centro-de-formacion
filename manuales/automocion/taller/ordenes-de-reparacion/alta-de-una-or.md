@@ -14,7 +14,7 @@ El alta de una OR está compuesta por un formulario, donde se introducen los dat
 
 Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Fecha de apertura**: se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 

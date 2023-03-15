@@ -48,7 +48,7 @@ Al pulsar en la flecha a izquierda, aparecerá el siguiente formulario para indi
 
 En el panel del departamento laboral será posible:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Borrar > muestra la rejilla de turnos seleccionables y botón inferior borrar
 * Modificar fechas > muestra la rejilla de turnos y, seleccionando los que se desee modificar y pulsando en "Modificar" mostrará un pequeño formulario de fecha para editar
@@ -63,7 +63,7 @@ C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "
 
 Asignación de turnos a los operarios:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
 
@@ -75,5 +75,5 @@ D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
 Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
