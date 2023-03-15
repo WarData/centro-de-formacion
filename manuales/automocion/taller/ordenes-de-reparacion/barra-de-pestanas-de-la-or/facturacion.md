@@ -14,12 +14,12 @@ Accediendo a cada línea se podrá editar la serie de facturación, el cliente a
 
 Los campos en gris no son editables (la entidad mediante el código o el localizador se podrá editar):
 
-<figure><img src="../../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (1) (11).png" alt=""><figcaption></figcaption></figure>
 
 * Factura: rejilla que presenta las facturas generadas en las líneas de la pestaña "Facturación" y a las que se puede acceder con doble clic:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (34) (5).png" alt=""><figcaption></figcaption></figure>
 
 Acceso a la factura desde la línea (hasta 4 líneas de facturas):
 
-<figure><img src="../../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (6) (4).png" alt=""><figcaption></figcaption></figure>

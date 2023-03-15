@@ -6,7 +6,7 @@ El conjunto forma una referencia que puede ser añadida a una línea de OR o a u
 
 En la opción obtenemos un panel que muestra varias funciones y una rejilla con las referencias de los temparios, la denominación, modelo (si uso) y sección de taller , unidad de tiempo usada y el P.V.P.:
 
-<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (5).png" alt=""><figcaption></figcaption></figure>
 
 Opciones del panel:
 
@@ -82,6 +82,6 @@ D) **F4 - Copiar tempario**:
 
 Permite mostrar el formulario de copia del tempario seleccionado en la rejilla del panel de temparios, evitando la necesidad de acceder a la ficha del tempario a copiar. Mostraría el mismo formulario de copia:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">\*\*\* Los temparios son fundamentales para obtener la máxima agilidad, imagen cara al cliente y rendiemiento en la agenda de taller.</mark> <mark style="color:orange;"></mark> [<mark style="color:orange;">Recomendamos ver el manual "Agenda de taller"</mark>](agenda-de-taller/)<mark style="color:orange;"></mark>
