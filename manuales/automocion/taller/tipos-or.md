@@ -20,7 +20,7 @@ El panel de tipos de OR presenta un listado arbolado en el lateral izquierdo que
 
 * Para crear tipos de OR en árbol debemos crear primero una rama y después agragar ramas a la anterior añadiendo uno o más caracteres a la referencia. Ponemos el ejemplo del tipo PRE - Pre-entrega:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">Rama origen</mark>
 

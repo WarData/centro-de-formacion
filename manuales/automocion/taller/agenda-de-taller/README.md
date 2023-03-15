@@ -4,4 +4,4 @@ Acceso a [configuración inicial / modificación de datos](configuracion-inicial
 
 Se añade también información sobre [cómo dar de alta y baja eventos, vacaciones y bajas](vacaciones-bajas-eventos.md)
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>

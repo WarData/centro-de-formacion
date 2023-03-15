@@ -104,7 +104,7 @@ Muestra un listado de facturas para IVA por intervalo de fechas con las bases e 
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-<figure><img src="../../.gitbook/assets/imagen (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (18) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel

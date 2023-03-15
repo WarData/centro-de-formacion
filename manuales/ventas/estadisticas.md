@@ -22,4 +22,4 @@ La pestaña "Observaciones" permite incluir toda aquella información en texto r
 
 La ejecución del filtro puede ser única, aunque es posible guardar el filtro y ejecutarlo de forma simultánea usando el botón "Guardar y Ejecutar" mostrando en ambos casos una rejilla con el listado de todos los elementos que coincidan con los filtros seleccionados:
 
-<figure><img src="../../.gitbook/assets/imagen (19) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (19) (2) (3).png" alt=""><figcaption></figcaption></figure>
