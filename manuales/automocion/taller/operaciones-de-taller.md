@@ -6,7 +6,7 @@ El panel de operaciones de trabajo muestra una rejilla con el código y nombre d
 
 <figure><img src="../../../.gitbook/assets/imagen (34).png" alt=""><figcaption></figcaption></figure>
 
-**El alta de una nueva operación de taller** se realiza pulsando el botón inferior "Nueva operación" ![](../../../.gitbook/assets/imagen.png) o pulsando botón derecho en la rejilla y luego en "Alta de ficha" obteniendo el formulario de alta donde introduciremos el código y el nombre de la operación:
+**El alta de una nueva operación de taller** se realiza pulsando el botón inferior "Nueva operación" ![](<../../../.gitbook/assets/imagen (8).png>) o pulsando botón derecho en la rejilla y luego en "Alta de ficha" obteniendo el formulario de alta donde introduciremos el código y el nombre de la operación:
 
 <figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
