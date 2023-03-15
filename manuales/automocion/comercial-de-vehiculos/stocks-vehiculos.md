@@ -13,7 +13,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 * Color: de cada modelo, identifica su color para facilitar el control de stock
 * Ubicación: lugar donde se encuentra el vehículo. Puede mostrar el almacén principal, uno de tránsito e incluso el nombre de un agente que tiene el vehículo en depósito:
 
-<figure><img src="../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 * Reservado: muestra si el vehículo se encuentra en pre-reserva o reserva en una operación indicando el nombre de la entidad cliente
 * Días Stock: indica el número de días que han pasado desde la entrada del vehículo en el stock mediante albarán de compras
@@ -26,13 +26,20 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 <figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
-* Modelo:
-* Stock (nuevos - ocasión - empresa):
-* Reservados (nuevos - ocasión - empresa):
-* Pedidos a proveedor:
-* Pedidos a proveedor reservados:
-* Stock disponible:
-* Stock Previsto:
+* Modelo: muestra marca, modelos y el total de modelos de la marca
+* Stock (nuevos - ocasión - empresa): estos campos muestran el stock físico de los vehículos (no afecta a la reserva ya que se presentan en el siguiente campo)
+* Reservados (nuevos - ocasión): identifican las reservas de los vehículos en stock físico&#x20;
+* Pedidos a proveedor: vehículos pedidos sin reserva en operaciones
+* Pedidos a proveedor reservados: vehículos pedidos con reserva en operaciones
+* Stock disponible: disponibilidad para asignar a operaciones o documentos de ventas
+* Stock Previsto: resultado de sumar el stock físico, reservado y disponible
+
+<mark style="color:yellow;">BOTONERA SUPERIOR</mark>
+
+* F1 - Buscar Vehículo Stock
+* F2 - Buscar Vehículo
+* F3 - Listar Stocks
+* F4 - Ampliar
 
 <mark style="color:blue;"></mark>
 

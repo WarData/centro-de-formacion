@@ -73,7 +73,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 
 Localizador de facturas de gastos a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una factura. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-<figure><img src="../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (16) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
@@ -104,7 +104,7 @@ Muestra un listado de facturas para IVA por intervalo de fechas con las bases e 
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-<figure><img src="../../.gitbook/assets/imagen (18) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel
