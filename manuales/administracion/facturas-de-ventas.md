@@ -8,7 +8,7 @@ Accederemos con esta opción al menú de facturas de gastos, donde podremos grab
 
 Permite dar de alta a una nueva factura de gastos mediante el siguiente formulario:
 
-<figure><img src="../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Están compuestos por su cabecera, donde se guardan todos los datos generales de la factura, y las líneas, donde se va a guardar el detalle de la factura. Dependiendo de la serie de la factura, el contenido de ella será diferente. Definiremos el tipo de factura en la [serie de los documentos](../configuracion/series-de-documentos.md) de facturas de gastos.
 
