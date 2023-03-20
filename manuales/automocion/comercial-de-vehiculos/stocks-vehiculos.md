@@ -60,7 +60,7 @@ Muestra un localizador idéntico a la función anterior, pero su operativa no ll
 
 Permite listar el stock a fecha de hoy, a una fecha determinada, de vehículos nuevos o de ocasión o de empresa o todos y por marca, gama y versión mediante el uso de un ligero formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (8).png" alt=""><figcaption></figcaption></figure>
 
 Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehículos:
 
@@ -74,7 +74,7 @@ Muestra un pequeño formulario que presentará rejillas de datos similares a la 
 
 En este caso se muestra la rejilla basada en datos de ventas, no apareciendo costes de compra:
 
-<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (6).png" alt=""><figcaption></figcaption></figure>
 
 En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
@@ -86,13 +86,13 @@ Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin p
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (4).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear / Devolver depósito</mark>
 
 Realiza el alta de un albarán de depósito hacia un agente (cambia la ubicación mostrada en la rejilla del stock) o desde un agente, creando el albarán de devolución de depósito en caso de estar el vehículo ya en el agente:
 
-<figure><img src="../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (14) (5).png" alt=""><figcaption></figcaption></figure>
 
 Sólo requiere indicar la entidad agente y que la serie de depósitos de vehículos esté dada de alta [(véase "Series")](../../configuracion/series-de-documentos.md)
 
@@ -104,7 +104,7 @@ Movimiento entre almacenes o ubicaciones. Muestra el parte de almacén con el or
 
 Una vez creado el traslado, se muestra el parte de almacén para confirmar y que sea efectivo o para guardarlo a fin de realizar la operativa en otro momento:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (6).png" alt=""><figcaption></figcaption></figure>
 
 Se indica una regularización de las líneas para el control de stock:
 
@@ -112,29 +112,29 @@ Se indica una regularización de las líneas para el control de stock:
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (5).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear Pedido</mark>
 
 Da de alta un pedido de ventas hacia un cliente del vehículo seleccionado en la rejilla, ejecutándose la venta del vehículo mediante la facturación del albarán del pedido:
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (8).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Entregar</mark>
 
 Da de alta un albarán de ventas hacia un cliente del vehículo seleccionado en la rejilla, ejecutándose la venta del vehículo mediante la facturación del mismo. Al ser similar a la entrega en la operación de un vehículo, mostrará la posibilidad de actualizar los datos de matriculación y el siguiente formulario en caso de aceptar la actualización:
 
-<figure><img src="../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (17) (4).png" alt=""><figcaption></figcaption></figure>
 
 Tras actualizar los datos de matriculación, aparecerá el formulario de alta del albarán de ventas, donde únicamente tendremos que rellenar la entidad cliente, ya que el documento recogerá el precio de venta estipulado en la ficha del vehículo seleccionado <mark style="color:yellow;">**(por ello es importante verificar que el importe del albarán es correcto o no está a 0 ya que no se podrá facturar**</mark>):
 
-<figure><img src="../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (15) (6).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Imprimir</mark>
 
 Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y el sistema operativo para imprimir el listado de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (8).png" alt=""><figcaption></figcaption></figure>
 
 PDF de ejemplo - Página 1 del listado de stock de vehículos:
 
