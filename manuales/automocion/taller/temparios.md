@@ -12,7 +12,7 @@ Opciones del panel:
 
 A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (12) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Referencia: campo con el objetivo de facilitar la localización / grabación de la línea en las ORs mediante una abreviatura o de la denominación del tempario
 * Denominación: nombre que identifica el trabajo a realizar

@@ -42,7 +42,7 @@ Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar 
 
 Botones de opciones sobre el stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F1 - Buscar Vehículo Stock</mark>
 
@@ -82,7 +82,7 @@ En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
 Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin precios", eliminando de la rejilla los campos de compra y venta:
 
-<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
@@ -100,7 +100,7 @@ Sólo requiere indicar la entidad agente y que la serie de depósitos de vehícu
 
 Movimiento entre almacenes o ubicaciones. Muestra el parte de almacén con el origen teniendo que indicar el almacén de destino:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
 
 Una vez creado el traslado, se muestra el parte de almacén para confirmar y que sea efectivo o para guardarlo a fin de realizar la operativa en otro momento:
 
@@ -108,7 +108,7 @@ Una vez creado el traslado, se muestra el parte de almacén para confirmar y que
 
 Se indica una regularización de las líneas para el control de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 

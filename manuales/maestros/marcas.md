@@ -42,6 +42,8 @@ o Pestañas:
 
 &#x20;         o Tramitación de fichas técnicas (Firma autorizada registro fabricante - editor de imágenes):
 
+&#x20;         o Proveedor de > checks relativos al tipo de producto que suministra la marca. <mark style="color:yellow;">**El check "Vehículos" es imprescindible que esté marcado para poder dar de alta un nuevo modelo**</mark>
+
 &#x20;    **o Imagen / Observaciones:**
 
 ![](<../../.gitbook/assets/image (553).png>)
