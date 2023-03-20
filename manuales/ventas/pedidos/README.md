@@ -99,11 +99,11 @@ En el resto del formulario:
 
 <figure><img src="../../../.gitbook/assets/imagen (140).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/imagen (55).png>)
+![](<../../../.gitbook/assets/imagen (55) (1).png>)
 
 \- **Contador**: este campo es utilizado para ordenar todas las líneas del pedido. Mantendrán el orden de menor a mayor en la presentación de las rejillas y en los impresos. Se podrá modificar para variar el orden según las necesidades.
 
-![](<../../../.gitbook/assets/imagen (54).png>)
+![](<../../../.gitbook/assets/imagen (54) (1).png>)
 
 \- **Fecha**: es en la que se produce la **acción**
 
@@ -139,7 +139,7 @@ En el resto del formulario:
 
 **Email**: control de correos electrónicos enviados o no enviados generados desde el botón "Crear Email":
 
-![](<../../../.gitbook/assets/imagen (57).png>)
+![](<../../../.gitbook/assets/imagen (57) (1).png>)
 
 **SMS:** pestaña que muestra los SMS enviados al cliente referentes al pedidos de ventas (si se completa o de forma manual), indicando fecha y hora, teléfono / entidad, mensaje y estado de entrega.
 
