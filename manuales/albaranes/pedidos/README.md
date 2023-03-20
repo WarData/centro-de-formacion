@@ -45,7 +45,7 @@ La descripción del artículo tomará por defecto la definida en su ficha, pero 
 
 Una vez **confirmado el pedido**, las líneas muestran este formulario:
 
-![](<../../../.gitbook/assets/imagen (53) (1).png>)
+![](<../../../.gitbook/assets/imagen (53).png>)
 
 En la parte de "Gestión del pedido" muestras los siguientes campos:
 
@@ -67,11 +67,11 @@ En el resto del formulario:
 
 \- **Acción**: es una rejilla en la que podemos ver si las unidades pedidas en esta línea han sido reservadas por algún cliente o agente. Muestra diferentes acciones como Pedido Proveedor, Recepción, Asignación y Anulación.
 
-![](<../../../.gitbook/assets/imagen (55) (1).png>)
+![](<../../../.gitbook/assets/imagen (55).png>)
 
 \- **Contador**: este campo es utilizado para ordenar todas las líneas del pedido. Mantendrán el orden de menor a mayor en la presentación de las rejillas y en los impresos. Se podrá modificar para variar el orden según las necesidades.
 
-![](<../../../.gitbook/assets/imagen (54) (1).png>)
+![](<../../../.gitbook/assets/imagen (54).png>)
 
 \- **Fecha**: es en la que se produce la **acción**
 
@@ -93,7 +93,7 @@ En el resto del formulario:
 
 Totales: presenta el desglose de importe totales del pedido de material.
 
-![](<../../../.gitbook/assets/imagen (56) (1).png>)
+![](<../../../.gitbook/assets/imagen (56).png>)
 
 Observaciones: aquí podremos anotar todas las notas que necesitemos relativas al pedido de material.
 
@@ -103,7 +103,7 @@ Seguimientos: añade asuntos a la agendas de los usuarios para el control del do
 
 * **Email**: control de correos electrónicos enviados o no enviados generados desde el botón "Crear Email":
 
-![](<../../../.gitbook/assets/imagen (57) (1).png>)
+![](<../../../.gitbook/assets/imagen (57).png>)
 
 * Auditoría: control de las modificaciones por usuario y evento
 * Acciones: control de acciones sobre el documento en función de qué, quién y cuándo se ha realizado.
@@ -124,7 +124,7 @@ El fichero se guardará en la ruta indicada en los parámetros del programa. Ade
 
 **Recepcionar:** pulsando este botón, accederemos a una pantalla para poder crear los albaranes de recepción de la mercancía, recibir las unidades solicitadas. Se nos presentará la siguiente pantalla, y a continuación se describen las diferentes opciones que podemos realizar desde ella:
 
-![](<../../../.gitbook/assets/imagen (58) (1).png>)
+![](<../../../.gitbook/assets/imagen (58).png>)
 
 Esta rejilla es multi-selección, y contiene, en la parte de inferior, cuatro botones que actuarán sobre las líneas seleccionadas. Todas estas líneas, corresponden a aquellas con unidades pendientes de recibir.
 
@@ -134,7 +134,7 @@ Con el primero, "sustituir" referencia seleccionada, podremos modificar la refer
 
 Con el segundo de los campos, daremos por recepcionadas las líneas seleccionadas, creando así una nueva ventana de reparto donde podremos dar de alta un albarán de compras:
 
-![](<../../../.gitbook/assets/imagen (59) (1).png>)
+![](<../../../.gitbook/assets/imagen (59).png>)
 
 Con el tercero "Salir", cancelamos el proceso de recepción y también el reparto.
 
@@ -144,11 +144,11 @@ En la última imagen, la ventana de reparto, es donde podemos crear el albarán 
 
 En la ventana de reparto además, podremos obtener muchos más datos por línea entrando en cualquiera de ellas mediante doble clic o seleccionado y pulsando intro:
 
-![](<../../../.gitbook/assets/imagen (60) (1).png>)
+![](<../../../.gitbook/assets/imagen (60).png>)
 
 Pedidos Proveedor Origen:
 
-![](<../../../.gitbook/assets/imagen (61) (1).png>)
+![](<../../../.gitbook/assets/imagen (61).png>)
 
 Muestra en la rejilla el origen del pedido de compras si este ha sido dado de alta mediante un pedido de ventas o una OR de taller, indicando fecha del pedido de ventas, cliente, número de pedido, artículo, descripción, unidades pendientes de entregar y entregadas.
 

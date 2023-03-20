@@ -36,8 +36,8 @@ B) Seguimos en la pestaña "Gestión" y pulsamos en "Cobros" y entramos en la/s 
 
 C) Eliminando reserva de bastidor y cobro, podemos volver a "Iniciada" pulsando en "Acciones especiales" y luego en "Volver a iniciada":
 
-<figure><img src="../.gitbook/assets/imagen (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (10) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 D) Pulsamos en "Aceptar" y la operación quedará como "Iniciada":
 
-<figure><img src="../.gitbook/assets/imagen (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (6) (2) (3).png" alt=""><figcaption></figcaption></figure>

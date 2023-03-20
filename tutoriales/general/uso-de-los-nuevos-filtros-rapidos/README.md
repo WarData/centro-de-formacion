@@ -6,7 +6,7 @@ Veamos algún caso práctico sobre nuestra aplicación Winmotor V7:
 
 Por ejemplo, listamos pedidos de compras o directamente desde el panel y, haciendo clic en un campo concreto de una columna con el botón derecho, localizamos "filtros" aplicables a la selección (es posible seleccionar más de una fila):
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Seleccionando más de una fila, el filtro se aplicará sobre el conjunto seleccionado:
 

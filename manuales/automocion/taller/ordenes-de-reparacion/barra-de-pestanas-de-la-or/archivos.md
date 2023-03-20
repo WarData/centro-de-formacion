@@ -2,7 +2,7 @@
 
 Esta pestaña es común al resto de fichas de la aplicación (fichas de entidad, OR, documentos como albaranes, facturas, etc...) y su función es igualmente similar, **permite adjuntar y almacenar en el servidor cualquier tipo de archivo para, posteriormente, poderlo visualizar o descargar directamente del servidor donde se almacena la aplicación Winmotor.**
 
-<figure><img src="../../../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Funcionamiento:
 

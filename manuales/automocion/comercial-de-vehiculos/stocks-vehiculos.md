@@ -2,7 +2,7 @@
 
 La primera opción que nos muestra el menú comercial nos presenta una rejilla con un filtrado automático de vehículos por marca, presentando la cabecera de cada una seguida de los vehículos pertenecientes a la misma, situación de los vehículos (stock / reservados) por modelo y totalización de los vehículos al final, indicando la marca, por situación (stock / reservados):
 
-<figure><img src="../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (17) (3).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">PESTAÑAS</mark>
 
@@ -13,7 +13,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 * Color: de cada modelo, identifica su color para facilitar el control de stock
 * Ubicación: lugar donde se encuentra el vehículo. Puede mostrar el almacén principal, uno de tránsito e incluso el nombre de un agente que tiene el vehículo en depósito:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 * Reservado: muestra si el vehículo se encuentra en pre-reserva o reserva en una operación indicando el nombre de la entidad cliente
 * Días Stock: indica el número de días que han pasado desde la entrada del vehículo en el stock mediante albarán de compras
@@ -24,7 +24,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 <mark style="color:blue;">TOTALES (rejilla con la información relativa al stock en función con el tipo de vehículo, reservas en función del tipo de vehículo, pedidos a proveedor, pedidos a proveedor con reserva, stock disponible y stock previsto (sumas entre los distintos campos que muestra el resultado disponible)):</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (35).png" alt=""><figcaption></figcaption></figure>
 
 * Modelo: muestra marca, modelos y el total de modelos de la marca
 * Stock (nuevos - ocasión - empresa): estos campos muestran el stock físico de los vehículos (no afecta a la reserva ya que se presentan en el siguiente campo)
@@ -38,104 +38,104 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5:
 
-<figure><img src="../../../.gitbook/assets/imagen (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
 Botones de opciones sobre el stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
 
-* F1 - Buscar Vehículo Stock
+* <mark style="color:blue;">F1 - Buscar Vehículo Stock</mark>
 
 Muestra un localizador con los índices "Alfabético (bastidor)", "Trozos de bastidor", "Trozos de matrícula" y "Trozos de palabras datos vehículo y propietario". En la barra de aplicación y botón "Opciones" podremos editar el localizador por defecto y siempre podemos usar cualquiera de los otros 3 disponibles. El uso es similar a otros localizadores de la aplicación en los que la búsqueda se inicia introduciendo como mínimo 3 caracteres de bastidor o matrícula en el que corresponda e igual en trozos de vehículo y propietario salvo que realiza la búsqueda en más campos de forma simultánea.
 
 Este localizador incluye un filtrado previo de los vehículos por stock activo, en caso de no estar en stock no aparecerá.
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (36).png" alt=""><figcaption></figcaption></figure>
 
-* F2 - Buscar Vehículo
+* <mark style="color:blue;">F2 - Buscar Vehículo</mark>
 
 Muestra un localizador idéntico a la función anterior, pero su operativa no lleva un filtrado previo por lo que <mark style="color:yellow;">**mostrará cualquier vehículo existente en la base de datos**</mark> mediante el uso de los distintos índices de búsqueda disponibles.
 
-* F3 - Listar Stocks
+* <mark style="color:blue;">F3 - Listar Stocks</mark>
 
 Permite listar el stock a fecha de hoy, a una fecha determinada, de vehículos nuevos o de ocasión o de empresa o todos y por marca, gama y versión mediante el uso de un ligero formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
 
-* F4 - Ampliar
+* <mark style="color:blue;">F4 - Ampliar</mark>
 
 Muestra un pequeño formulario que presentará rejillas de datos similares a la rejilla principal, pero centrándose en los datos escogidos en el formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
 
 En este caso se muestra la rejilla basada en datos de ventas, no apareciendo costes de compra:
 
-<figure><img src="../../../.gitbook/assets/imagen (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
 
 En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
-<figure><img src="../../../.gitbook/assets/imagen (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (34).png" alt=""><figcaption></figcaption></figure>
 
 Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin precios", eliminando de la rejilla los campos de compra y venta:
 
-<figure><img src="../../../.gitbook/assets/imagen (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
-* Crear / Devolver depósito
+* <mark style="color:blue;">Crear / Devolver depósito</mark>
 
 Realiza el alta de un albarán de depósito hacia un agente (cambia la ubicación mostrada en la rejilla del stock) o desde un agente, creando el albarán de devolución de depósito en caso de estar el vehículo ya en el agente:
 
-<figure><img src="../../../.gitbook/assets/imagen (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
 
 Sólo requiere indicar la entidad agente y que la serie de depósitos de vehículos esté dada de alta [(véase "Series")](../../configuracion/series-de-documentos.md)
 
-* Crear Traslado
+* <mark style="color:blue;">Crear Traslado</mark>
 
 Movimiento entre almacenes o ubicaciones. Muestra el parte de almacén con el origen teniendo que indicar el almacén de destino:
 
-<figure><img src="../../../.gitbook/assets/imagen (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 Una vez creado el traslado, se muestra el parte de almacén para confirmar y que sea efectivo o para guardarlo a fin de realizar la operativa en otro momento:
 
-<figure><img src="../../../.gitbook/assets/imagen (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 Se indica una regularización de las líneas para el control de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
 
-* Crear Pedido
+* <mark style="color:blue;">Crear Pedido</mark>
 
 Da de alta un pedido de ventas hacia un cliente del vehículo seleccionado en la rejilla, ejecutándose la venta del vehículo mediante la facturación del albarán del pedido:
 
-<figure><img src="../../../.gitbook/assets/imagen (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
 
-* Entregar
+* <mark style="color:blue;">Entregar</mark>
 
 Da de alta un albarán de ventas hacia un cliente del vehículo seleccionado en la rejilla, ejecutándose la venta del vehículo mediante la facturación del mismo. Al ser similar a la entrega en la operación de un vehículo, mostrará la posibilidad de actualizar los datos de matriculación y el siguiente formulario en caso de aceptar la actualización:
 
-<figure><img src="../../../.gitbook/assets/imagen (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
 
 Tras actualizar los datos de matriculación, aparecerá el formulario de alta del albarán de ventas, donde únicamente tendremos que rellenar la entidad cliente, ya que el documento recogerá el precio de venta estipulado en la ficha del vehículo seleccionado <mark style="color:yellow;">**(por ello es importante verificar que el importe del albarán es correcto o no está a 0 ya que no se podrá facturar**</mark>):
 
-<figure><img src="../../../.gitbook/assets/imagen (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
 
-* Imprimir
+* <mark style="color:blue;">Imprimir</mark>
 
 Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y el sistema operativo para imprimir el listado de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 PDF de ejemplo - Página 1 del listado de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>

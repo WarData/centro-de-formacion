@@ -27,4 +27,4 @@ La rejilla de datos nos mostrará las diferentes línea de intervención, pudien
 
 Doble clic en la línea permite su edición:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (34) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (34) (4) (1).png" alt=""><figcaption></figcaption></figure>

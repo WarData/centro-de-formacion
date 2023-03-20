@@ -12,7 +12,7 @@ Opciones del panel:
 
 A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Referencia: campo con el objetivo de facilitar la localización / grabación de la línea en las ORs mediante una abreviatura o de la denominación del tempario
 * Denominación: nombre que identifica el trabajo a realizar
@@ -29,7 +29,7 @@ A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario
 * Precio Vta. Total (Sin imp.): valor del precio de venta multiplicado por el campo "Tiempo" sin aplicar impuestos
 * Tipo impuesto: permite seleccionar el valor del impuesto entre los mostrados en el localizador
 
-<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (4).png" alt=""><figcaption></figcaption></figure>
 
 * Tiempo real concesionario: en la agenda de taller, al incorporar un tempario al alta de una cita ocupará el valor indicado en este campo en las horas de taller, no el indicado en el campo "Tiempo". Se usa para establecer un tiempo medio real entre lo estimado para el cliente y taller.
 
@@ -55,14 +55,14 @@ A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario
 
 <mark style="color:yellow;">Botonera inferior</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Aceptar: graba o activa las modificaciones realizadas en el tempario
 * Cancelar: cierra y cancela las modificaciones realizadas en el tempario
 * Eliminar: borra el tempario (mientras no exista histórico del mismo)
 * Copiar tempario: permite duplicar el tempario mostrando un formulario de copia con los datos del tempario a copiar y la referencia y denominación del nuevo con el contenido anterior, permitiendo cambiar la referencia, la denominación y añadir o quitar productos, tiempo y/o temparios. El objetivo es facilitar el alta de temparios similares:
 
-<figure><img src="../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (15) (5).png" alt=""><figcaption></figcaption></figure>
 
 * Desactivar: no elimina el tempario, únicamente evita ser mostrado en localizadores así como ser incorporado a documentos.
 
@@ -70,7 +70,7 @@ B) **F2 - Buscar**:
 
 Muestra un formulario de búsqueda con diferentes localizadores (ver imagen) y una rejilla con el filtrado obtenido de temparios:
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 C) **F3 - Listar**:
 

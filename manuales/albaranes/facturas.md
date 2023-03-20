@@ -6,7 +6,7 @@ Accederemos con esta opción al menú de facturas de compras, donde podremos gra
 
 Permite dar de alta a una nueva factura de compra mediante el siguiente formulario:
 
-![](<../../.gitbook/assets/imagen (42) (1).png>)
+![](<../../.gitbook/assets/imagen (42).png>)
 
 Están compuestos por su cabecera, donde se guardan todos los datos generales de la factura, y las líneas, donde se va a guardar el detalle de la factura. Dependiendo de la serie de la factura, el contenido de ella será diferente. Puede haber hasta 3 posibles tipos de facturas de compras, de recambios, que utilizaremos para facturar los albaranes de compras o garantías, de vehículos nuevos y de vehículos de ocasión, en las que facturaremos todos los vehículos y posibles conceptos. Definiremos el tipo de factura en la [serie de los documentos](../configuracion/series-de-documentos.md) de facturas de compras.
 
@@ -46,7 +46,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 * **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte (es posible que la realización incluya costes de programación)
 * **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto
 
-![](<../../.gitbook/assets/imagen (44) (1).png>)
+![](<../../.gitbook/assets/imagen (44).png>)
 
 **Opciones de las líneas de facturas de compras:**
 
@@ -69,7 +69,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 Localizador de facturas de compras a través de distintos criterios. Nos permite consultar, borrar o modificar la información de una factura. Al acceder a esta opción encontraremos la siguiente pantalla:
 
-![](<../../.gitbook/assets/imagen (45) (1).png>)
+![](<../../.gitbook/assets/imagen (45).png>)
 
 Este localizador nos permite buscar una factura por los siguientes criterios:
 
@@ -86,21 +86,21 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Permite obtener un listado de facturas por varios filtros como serie, ejercicio, fechas de recepción y emisión, entidad, tipo de pago, estado de pago, régimen de IVA y país:
 
-![](<../../.gitbook/assets/imagen (48) (1).png>)
+![](<../../.gitbook/assets/imagen (48).png>)
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-![](<../../.gitbook/assets/imagen (49) (1).png>)
+![](<../../.gitbook/assets/imagen (49).png>)
 
 **4 – LISTADO DE IVA**
 
 Muestra un listado de facturas para IVA por intervalo de fechas con las bases e impuestos desglosados. Presenta el siguiente formulario de búsqueda:
 
-![](<../../.gitbook/assets/imagen (46) (1).png>)
+![](<../../.gitbook/assets/imagen (46).png>)
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-![](<../../.gitbook/assets/imagen (47) (1).png>)
+![](<../../.gitbook/assets/imagen (47).png>)
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel
@@ -111,6 +111,6 @@ La información de**l** listado se presenta en las siguientes rejillas. Cada una
 
 Acumula los importes de facturas de compra y gastos por cada entidad:
 
-![Filtro 347 compras](<../../.gitbook/assets/imagen (50) (1).png>)
+![Filtro 347 compras](<../../.gitbook/assets/imagen (50).png>)
 
-![](<../../.gitbook/assets/imagen (51) (1).png>)
+![](<../../.gitbook/assets/imagen (51).png>)

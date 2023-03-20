@@ -18,7 +18,7 @@
 
 5.- **Avería / Síntoma** > breve explicación de la avería que permite incluir varias líneas de texto
 
-<figure><img src="../../../../../.gitbook/assets/imagen (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (35) (3).png" alt=""><figcaption></figcaption></figure>
 
 B) **NUEVA LÍNEA DE ARTÍCULO O SERVICIO** ![](<../../../../../.gitbook/assets/imagen (164).png>) > Al grabar una nueva línea de artículo o servicio se nos presentará el formulario de grabación con los siguientes campos:
 
