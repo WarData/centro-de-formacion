@@ -2,7 +2,7 @@
 
 Panel de configuración de las cuentas de correo que podrán usarse en Winmotor. Permite el alta de cuentas preferentes, multiusuario y privadas, permitiendo el uso exclusivo por parte de un usuario, de varios y definir una de las cuentas posibles de un mismo usuario como por defecto para que, al crear un correo sobre un documento salga esa cuenta en la cabecera aunque el usuario pueda cambiarla:
 
-<figure><img src="../../.gitbook/assets/imagen (19) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (19) (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 El alta de una cuenta requiere:
 
