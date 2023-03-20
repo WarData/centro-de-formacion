@@ -64,7 +64,7 @@ Permite listar el stock a fecha de hoy, a una fecha determinada, de vehículos n
 
 Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10) (3).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F4 - Ampliar</mark>
 

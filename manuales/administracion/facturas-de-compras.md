@@ -42,7 +42,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 * **Observaciones**: permite añadir texto libre que únicamente aparecerá en este documento. Es posible imprimir el contenido en los informes de impresión indicándolo al departamento de soporte (es posible que la realización incluya costes de programación)
 * **Archivos**: permite almacenar en el servidor cualquier tipo de archivo para su apertura en remoto. [Véase "Archivos"](../maestros/articulos/ficha-del-articulo/archivos.md)
 
-![](<../../.gitbook/assets/imagen (43).png>)
+![](<../../.gitbook/assets/imagen (43) (1).png>)
 
 * **Seguimientos**: añade asuntos a la agendas de los usuarios para el control del documento, permitiendo en ésta añadir avisos a horas programables.
 * **Acciones**: control de acciones sobre el documento en función de qué, quién y cuándo se ha realizado.

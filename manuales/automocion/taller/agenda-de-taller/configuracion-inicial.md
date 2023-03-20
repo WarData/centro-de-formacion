@@ -20,11 +20,11 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 La agenda de taller requerirá que el usuario "Administrador" configure cambios en horarios, festivos, bajas, vacaciones y eventos, así como el alta y baja de asesores, operarios e invitados posteriormente. Para ello accedería a la <mark style="color:yellow;">configuración de la agenda de citas desde Automoción > Taller > Agenda Taller > Configuración:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (44).png" alt=""><figcaption></figcaption></figure>
 
 A) Rellenar festivos para cada ejercicio > desde el panel de configuración pulsar el botón "Festivos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
 
 En el formulario es posible ir creando uno a uno cada día o importar desde otro ejercicio e ir modificando fechas:
 
@@ -32,7 +32,7 @@ En el formulario es posible ir creando uno a uno cada día o importar desde otro
 
 B) Dar de alta turnos y asignarlos a los asesores de servicio pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad. El menú de alta y edición de turnos y asesores de servicio se encuentra en el botón indicado en la imagen, en el panel de configuración:
 
-<figure><img src="../../../../.gitbook/assets/imagen (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (43).png" alt=""><figcaption></figcaption></figure>
 
 * Definir los turnos del departamento pulsando en el botón +:
 
@@ -67,13 +67,13 @@ Asignación de turnos a los operarios:
 
 * En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (42).png" alt=""><figcaption></figcaption></figure>
 
 Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 

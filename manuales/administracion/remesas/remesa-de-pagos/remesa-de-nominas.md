@@ -26,7 +26,7 @@ Es fundamental cambiar la serie de remesa de pago a la serie de remesa de pago d
 
 <figure><img src="../../../../.gitbook/assets/imagen (37) (1).png" alt=""><figcaption></figcaption></figure>
 
-5.- En el siguiente panel nos mostrará todas las nóminas / empleados disponibles para remesar y sólo tendremos que **seleccionar las que queremos añadir** a la remesa y pulsar en el botón ![](<../../../../.gitbook/assets/imagen (4) (3) (1).png>):
+5.- En el siguiente panel nos mostrará todas las nóminas / empleados disponibles para remesar y sólo tendremos que **seleccionar las que queremos añadir** a la remesa y pulsar en el botón ![](<../../../../.gitbook/assets/imagen (4) (3) (1) (2).png>):
 
 <figure><img src="../../../../.gitbook/assets/imagen (7) (3) (1).png" alt=""><figcaption></figcaption></figure>
 

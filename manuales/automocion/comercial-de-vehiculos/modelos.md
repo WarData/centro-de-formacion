@@ -45,7 +45,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * En el formulario de alta, localizamos la gama dada de alta en el paso anterior para asociarla con la nueva versión, posteriormente pondremos el código y nombre, en este caso CY y CYBER en código y nombre respectivamente y dejaremos el blanco el código del fabricante en caso de que no nos lo proporcione <mark style="color:red;">**(IMPORTANTE: sobre la versión, no sobre el modelo)**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 * En la versión disponemos de un campo "Serie" referente a una estructura solicitada por algunas marcas. Además de poder dar de alta las series que queramos, existen unas series por defecto por lo que sólo habría que seleccionar la correcta si existe:
 
@@ -53,7 +53,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * El formulario de alta de la versión quedaría así:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 4.- Por último habría que rellenar el resto del formulario de alta del modelo empezando por <mark style="color:red;">**código de modelo y referencia del fabricante que, en caso de que éste no los aporte, tendremos que crear un código de modelo y ponerlo idéntico en la referencia del fabricante. Recomendamos el uso de la estructura Marca - Gama - Versión (MGV) para ello.**</mark>&#x20;
 
