@@ -27,15 +27,15 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 2.- Aunque exista alguna gama en la marca TEST, vamos a crear una nueva:
 
-<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (6).png" alt=""><figcaption></figcaption></figure>
 
 * En el formulario de alta, localizamos la marca para asociarla con la nueva gama y ponemos el código y nombre, en este caso pondremos 400 en ambos y dejaremos el blanco el código del fabricante en caso de que éste no nos lo proporcione <mark style="color:yellow;">**(recomendamos que los códigos y referencias sean cortos y concisos para facilitar que todos los usuarios los entiendan y se use un mismo sistema de introducción de datos):**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (14) (6).png" alt=""><figcaption></figcaption></figure>
 
 * Al dar de alta la nueva gama, se verá reflejada automáticamente en el formulario de alta:
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (9).png" alt=""><figcaption></figcaption></figure>
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
@@ -45,7 +45,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * En el formulario de alta, localizamos la gama dada de alta en el paso anterior para asociarla con la nueva versión, posteriormente pondremos el código y nombre, en este caso CY y CYBER en código y nombre respectivamente y dejaremos el blanco el código del fabricante en caso de que no nos lo proporcione <mark style="color:red;">**(IMPORTANTE: sobre la versión, no sobre el modelo)**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 * En la versión disponemos de un campo "Serie" referente a una estructura solicitada por algunas marcas. Además de poder dar de alta las series que queramos, existen unas series por defecto por lo que sólo habría que seleccionar la correcta si existe:
 

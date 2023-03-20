@@ -67,7 +67,7 @@ Asignación de turnos a los operarios:
 
 * En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
@@ -80,3 +80,11 @@ Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 E) La pestaña <mark style="color:yellow;">**"Diario del departamento"**</mark> muestra una rejilla de datos con cada día del ejercicio actual con las citas y horas totales, minutos ocupados, libres y el porcentaje de ocupación para un control detallado de cada año:
 
 <figure><img src="../../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+
+F) La pestaña <mark style="color:yellow;">**"Citas"**</mark> permite mostrar todas las citas del asesor seleccionado indicando el intervalo de fecha. La rejilla de datos muestra fecha, hora, tipo de cita (recepción o devolución), cliente, vehículo, tiempo de cita, si incluye vehículo de cortesía o no y si se ha reasignado o cambiada la fecha:
+
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen superior. El primer botón ![](<../../../../.gitbook/assets/imagen (14).png>) cambia el asesor de servicio y el segundo botón ![](<../../../../.gitbook/assets/imagen (9).png>) la fecha, mostrándose los cambios en la rejilla:
+
+<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
