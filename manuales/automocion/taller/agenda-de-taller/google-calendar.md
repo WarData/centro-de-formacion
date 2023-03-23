@@ -8,4 +8,4 @@ Visualización Google Calendar:
 
 <figure><img src="../../../../.gitbook/assets/imagen (166).png" alt=""><figcaption></figcaption></figure>
 
-La opción es opcional, requiere configuración y tiene un coste adicional. Consulte a Winmotor
+Esta extensión de la agenda de citas es opcional, requiere configuración y tiene un coste adicional. Consulte a Winmotor
