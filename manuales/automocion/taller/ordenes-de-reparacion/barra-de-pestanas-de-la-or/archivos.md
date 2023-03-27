@@ -2,7 +2,7 @@
 
 Esta pestaña es común al resto de fichas de la aplicación (fichas de entidad, OR, documentos como albaranes, facturas, etc...) y su función es igualmente similar, **permite adjuntar y almacenar en el servidor cualquier tipo de archivo para, posteriormente, poderlo visualizar o descargar directamente del servidor donde se almacena la aplicación Winmotor.**
 
-<figure><img src="../../../../../.gitbook/assets/imagen (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (8) (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Funcionamiento:
 
@@ -22,7 +22,7 @@ o Apertura del fichero con doble clic en la línea: abrirá la aplicación que e
 
 o Propiedades del archivo: seleccionamos la línea del archivo del cual queremos ver las propiedades y pulsamos en el botón "Propiedades"
 
-<figure><img src="../../../../../.gitbook/assets/imagen (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (3) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Desde esta ventana emergente podemos abrir el archivo desde el botón "Ver archivo", eliminarlo del servidor de la aplicación pulsando en "Eliminar", asignarle un grupo y añadir una imagen usando el check. También podremos eliminar el archivo desde el panel de adjuntos, seleccionando el archivo a eliminar y pulsando en el botón "Eliminar Adjunto"​​​
 

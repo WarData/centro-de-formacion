@@ -18,7 +18,7 @@ El nuevo diseño del panel:
 
 Lo primero que se puede apreciar es el rango de fechas de los albaranes que queremos cargar. Se puede meter manualmente como hasta ahora, pero se ha añadido una nueva utilidad.
 
-![](<../../.gitbook/assets/imagen (6) (2) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (6) (2) (1).png>)
 
 &#x20;               Al pulsar el botón del selector de períodos se podrá seleccionar que el rango de fechas sea en un rango fechas fijo como Hoy, Mes o Año. Pero a su vez en No seleccionado se puede seleccionar un rango diferente como por ejemplo desde hoy a 5 días atrás.
 

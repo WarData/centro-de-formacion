@@ -2,7 +2,7 @@
 
 Permite dividir el taller en secciones para identificar los trabajos en las ORs mediante este campo. Se muestra una rejillas con el código y el nombre de cada sección:
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 El alta y modificación se realizan desde un mismo formulario tipo:
 

@@ -6,7 +6,7 @@ Lo primero que necesitamos activar para poder cambiar de ejercicio fácilmente e
 
 Seleccionamos la barra "Informaciones" y nos saldrá el ejercicio actual y un botón lupa donde poder movernos de un año a otro y evitar que nos aparezca el error "Fecha fuera de rango".
 
-![](<../.gitbook/assets/imagen (11) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/imagen (11) (1) (1) (1).png>)
 
 Importante, antes de dar de alta un documento con un posible cambio de fecha, revisad que el ejercicio esté en el año deseado usando la barra "Informaciones"
 

@@ -4,13 +4,13 @@
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de compras de la mercancía recibida de nuestros proveedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentaré todos los albaranes de compras con la fecha indicada en el calendario.
 
-![](<../../.gitbook/assets/imagen (23) (1).png>)
+![](<../../.gitbook/assets/imagen (23) (1) (1).png>)
 
 **1.- NUEVO ALBARÁN**
 
 Permite dar de alta a un nuevo albarán de compra mediante el siguiente formulario.
 
-![](<../../.gitbook/assets/imagen (24) (1).png>)
+![](<../../.gitbook/assets/imagen (24) (1) (1).png>)
 
 Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia relacionada, cantidad, importe, etc.
 
@@ -113,7 +113,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 ![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34) (1) (1).png>)
 
-![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1) (1).png>)
+![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1).png>)
 
 **2 - BUSCAR**
 
@@ -134,7 +134,7 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Esta opción lanza una búsqueda que nos presentará un listado de albaranes de compras. Este listado se puede acotar a través del filtro de búsqueda que se presenta a continuación:
 
-![](<../../.gitbook/assets/imagen (36) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (36) (1).png>)
 
 Se podrá filtrar por una determinada serie o todas, por un intervalo de fechas, proveedor, centro, tipo de pago, estado (facturado o pendiente) y por la situación del albarán (facturados, pendientes de facturar o todos). Después de indicar los criterios deseados, nos aparecerá una rejilla con los albaranes que cumplan esas condiciones.
 

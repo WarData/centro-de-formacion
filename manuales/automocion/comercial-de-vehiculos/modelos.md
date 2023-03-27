@@ -10,11 +10,11 @@ Esta opción permite dar de alta y gestionar las estructuras de modelo para oper
 
 Dada la estructura mostramos el sistema arbolado por el cual se presenta los modelos dados de alta y los bastidores que corresponden al modelo - color:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**BOTONERA SUPERIOR**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Actualizar</mark>: refresca la vista arbolada tras actualizar o dar de alta algún modelo
 * <mark style="color:blue;">F1 - Nuevo Modelo</mark>: permite dar de alta cada una de las partes de la estructura que constituye un modelo. Para ello muestra un formulario donde existe la posibilidad de seleccionar partes del modelo ya dadas de alta. En caso de que el localizador de la marca, gama o versión no contenga datos, no tendrá tampoco datos ninguno de los elementos posteriores, teniéndolo que dar de alta.
@@ -23,7 +23,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 1.- Seleccionar la marca del listado del desplegable (si no existe requiere darla de alta - [véase "Marcas")](../../maestros/marcas.md):
 
-<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.- Aunque exista alguna gama en la marca TEST, vamos a crear una nueva:
 
@@ -39,7 +39,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Es fundamental seguir estos pasos detenidamente para la correcta alta del modelo completo**</mark>
 
@@ -49,7 +49,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * En la versión disponemos de un campo "Serie" referente a una estructura solicitada por algunas marcas. Además de poder dar de alta las series que queramos, existen unas series por defecto por lo que sólo habría que seleccionar la correcta si existe:
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
 * El formulario de alta de la versión quedaría así:
 
@@ -63,7 +63,7 @@ A veces el modelo además tiene algún dato que podremos añadir al final como p
 
 Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referencia T400CYE7**</mark>, año de fabricación 2023, precio de costo e impuesto de matriculación 1 (0%) y ya tenemos creado el <mark style="color:yellow;">**MODELO**</mark>, ahora falta añadirle color o colores para obtener el <mark style="color:yellow;">**MODELO - COLOR:**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5.- Actualizamos las estructuras arboladas y desplegamos la marca, gama y versión hasta visualizar el modelo y hacemos doble clic en él para acceder a la ficha:
 
@@ -71,7 +71,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * Seleccionamos la pestaña "Colores" y pulsamos en "Crear color" seleccionando uno de los existentes o dando de alta uno nuevo (los colores pueden tener sobreprecio al modelo y colores básicos, es decir, colores metalizados o edición limitada pueden tener un precio superior editable en su ficha y en el alta del color):
 
-<figure><img src="../../../.gitbook/assets/imagen (18) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
 
 * Seleccionamos AD79 RED PLUS:
 
@@ -85,35 +85,35 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * <mark style="color:blue;">F2 - Buscar modelo</mark>: muestra un localizador mediante varios índices de búsqueda como trozos de palabras y referencia de fabricante y modelos / colores, modelos y colores por separado. Es similar al localizador de modelos usado en albaranes de compras de vehículos y operaciones:
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (25).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F3 - Listados</mark>: presenta varias opciones sobre los listados a mostrar:
 
-<figure><img src="../../../.gitbook/assets/imagen (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (24).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de series mostrado en panel similar a modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (20).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de listado de colores:
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F4 - Modelos de taller</mark>: permite el alta y consulta de modelos creados para taller
 * <mark style="color:blue;">F6 - Opciones</mark>: presenta opciones para importar modelos, actualizar precios y revisión de modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (23).png" alt=""><figcaption></figcaption></figure>
 
 1.- Importar modelos de vehículos
 
-<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (21).png" alt=""><figcaption></figcaption></figure>
 
 2.- Actualizar precios modelos
 
-<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 3.- Revisión de modelos
 
 Presenta un panel para control y revisión de modelos creados o alta de gamas, versiones:
 
-<figure><img src="../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>

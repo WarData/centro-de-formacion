@@ -24,7 +24,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 <mark style="color:blue;">TOTALES (rejilla con la información relativa al stock en función con el tipo de vehículo, reservas en función del tipo de vehículo, pedidos a proveedor, pedidos a proveedor con reserva, stock disponible y stock previsto (sumas entre los distintos campos que muestra el resultado disponible)):</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (35).png" alt=""><figcaption></figcaption></figure>
 
 * Modelo: muestra marca, modelos y el total de modelos de la marca
 * Stock (nuevos - ocasión - empresa): estos campos muestran el stock físico de los vehículos (no afecta a la reserva ya que se presentan en el siguiente campo)
@@ -50,7 +50,7 @@ Muestra un localizador con los índices "Alfabético (bastidor)", "Trozos de bas
 
 Este localizador incluye un filtrado previo de los vehículos por stock activo, en caso de no estar en stock no aparecerá.
 
-<figure><img src="../../../.gitbook/assets/imagen (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (36).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F2 - Buscar Vehículo</mark>
 
@@ -70,7 +70,7 @@ Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehícu
 
 Muestra un pequeño formulario que presentará rejillas de datos similares a la rejilla principal, pero centrándose en los datos escogidos en el formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 En este caso se muestra la rejilla basada en datos de ventas, no apareciendo costes de compra:
 
@@ -82,7 +82,7 @@ En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
 Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin precios", eliminando de la rejilla los campos de compra y venta:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
@@ -108,7 +108,7 @@ Una vez creado el traslado, se muestra el parte de almacén para confirmar y que
 
 Se indica una regularización de las líneas para el control de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 

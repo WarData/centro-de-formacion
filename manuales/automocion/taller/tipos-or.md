@@ -24,7 +24,7 @@ El panel de tipos de OR presenta un listado arbolado en el lateral izquierdo que
 
 <mark style="color:yellow;">Rama origen</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">Rama destino 1</mark>
 
@@ -32,6 +32,6 @@ El panel de tipos de OR presenta un listado arbolado en el lateral izquierdo que
 
 <mark style="color:yellow;">Rama destino 2</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Se recomienda añadir un guión entre la rama principal y el resto en la referencia, aunque no es necesario, para identificar los saltos de rama (sobre todo en casos de múltiples ramas)
