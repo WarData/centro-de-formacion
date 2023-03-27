@@ -6,6 +6,6 @@ Permite dividir el taller en secciones para identificar los trabajos en las ORs 
 
 El alta y modificación se realizan desde un mismo formulario tipo:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 El alta se puede realizar pulsando el botón inferior "Nueva sección" ![](<../../../.gitbook/assets/imagen (2) (4).png>) o pulsando el botón derecho en la rejilla y marcando "Alta de ficha".

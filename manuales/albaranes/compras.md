@@ -4,13 +4,13 @@
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de compras de la mercancía recibida de nuestros proveedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentaré todos los albaranes de compras con la fecha indicada en el calendario.
 
-![](<../../.gitbook/assets/imagen (23) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (23) (1).png>)
 
 **1.- NUEVO ALBARÁN**
 
 Permite dar de alta a un nuevo albarán de compra mediante el siguiente formulario.
 
-![](<../../.gitbook/assets/imagen (24) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (24) (1).png>)
 
 Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia relacionada, cantidad, importe, etc.
 

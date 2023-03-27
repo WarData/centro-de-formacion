@@ -20,7 +20,7 @@ A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 La agenda de taller requerirá que el usuario "Administrador" configure cambios en horarios, festivos, bajas, vacaciones y eventos, así como el alta y baja de asesores, operarios e invitados posteriormente. Para ello accedería a la <mark style="color:yellow;">configuración de la agenda de citas desde Automoción > Taller > Agenda Taller > Configuración:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (44) (2).png" alt=""><figcaption></figcaption></figure>
 
 A) Rellenar festivos para cada ejercicio > desde el panel de configuración pulsar el botón "Festivos":
 
@@ -40,7 +40,7 @@ B) Dar de alta turnos y asignarlos a los asesores de servicio pasando de derecha
 
 Se indicará el nombre del turno (si hay más de un turno de mañana o tarde especificarlo de la forma más clara posible para evitar confusiones al asignar los turnos a los asesores), intervalo de fecha a asignar, ejercicio, intervalo de hora para las citas y **el número de asesores AFECTADOS POR ESTE TURNO (no el total de asesores disponibles) y que sea igual a los que asignemos posteriormente:**
 
-<figure><img src="../../../../.gitbook/assets/imagen (25) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (25).png" alt=""><figcaption></figcaption></figure>
 
 Al pulsar en la flecha a izquierda, aparecerá el siguiente formulario para indicar qué turnos tendrán los asesores seleccionados en la imagen anterior, seleccionar mañanas y tardes y pulsar botón asignar:
 
@@ -59,7 +59,7 @@ En el panel del departamento laboral será posible:
 
 C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "Operarios" > "Operarios y turnos" > botón lápiz ![](<../../../../.gitbook/assets/imagen (31).png>)):
 
-<figure><img src="../../../../.gitbook/assets/imagen (20) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (20).png" alt=""><figcaption></figcaption></figure>
 
 Asignación de turnos a los operarios:
 
@@ -75,16 +75,16 @@ D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
 Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (6).png" alt=""><figcaption></figcaption></figure>
 
 E) La pestaña <mark style="color:yellow;">**"Diario del departamento"**</mark> muestra una rejilla de datos con cada día del ejercicio actual con las citas y horas totales, minutos ocupados, libres y el porcentaje de ocupación para un control detallado de cada año:
 
-<figure><img src="../../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (19) (4).png" alt=""><figcaption></figcaption></figure>
 
 F) La pestaña <mark style="color:yellow;">**"Citas"**</mark> permite mostrar todas las citas del asesor seleccionado indicando el intervalo de fecha. La rejilla de datos muestra fecha, hora, tipo de cita (recepción o devolución), cliente, vehículo, tiempo de cita, si incluye vehículo de cortesía o no y si se ha reasignado o cambiada la fecha:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
 
-Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen superior. El primer botón ![](<../../../../.gitbook/assets/imagen (14).png>) cambia el asesor de servicio y el segundo botón ![](<../../../../.gitbook/assets/imagen (9).png>) la fecha, mostrándose los cambios en la rejilla:
+Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen superior. El primer botón ![](<../../../../.gitbook/assets/imagen (14).png>) cambia el asesor de servicio y el segundo botón ![](<../../../../.gitbook/assets/imagen (9) (5).png>) la fecha, mostrándose los cambios en la rejilla:
 
-<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (9).png" alt=""><figcaption></figcaption></figure>

@@ -26,7 +26,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Matrícula y bastidor**: ambos campos pertenecen al mismo vehículo por lo que, rellenando total o parcialmente uno de ellos y tabulando rellenará el contrario y el cliente. Al dar de alta una nueva matrícula o bastidor, uno completa el otro en el alta y permite asociar el vehículo a un cliente nuevo o existente en la base de datos, quedando asignado a él:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1) (2).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
 
 <mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark> [<mark style="color:orange;">**Véase enlace a FAQ - "Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente"**</mark>](../../../../faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)<mark style="color:orange;">****</mark>
 

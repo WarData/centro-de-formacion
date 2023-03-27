@@ -8,7 +8,7 @@ Será el usuario "Administrador" de la agenda de taller quien, accediendo al pan
 
 1.- Doble clic en el trabajador al que se le quiere aplicar obtendremos el calendario laboral:
 
-<figure><img src="../../../../.gitbook/assets/imagen (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (24).png" alt=""><figcaption></figcaption></figure>
 
 2.- Pulsamos en alguno de las 3 opciones disponibles "Vacaciones", "Bajas" o "Eventos" para indicar las fechas afectadas:
 
