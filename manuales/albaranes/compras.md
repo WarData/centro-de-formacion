@@ -29,7 +29,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 * **Régimen de IVA:** este campo tomará por defecto el tipo de IVA definido en la ficha del proveedor seleccionado en el albarán. Se podrá modificar manualmente.
 * **Proveedor:** indicamos aquí el proveedor de la mercancía. Contiene cuatro botones insertados para poder localizar el proveedor deseado, crear uno nuevo, editarlo y cambiar los datos:
 
-![](<../../.gitbook/assets/imagen (26) (1).png>)
+![](<../../.gitbook/assets/imagen (26) (1) (1).png>)
 
 * **Dirección, CIF, tipo de pago y vencimientos:** muestra, respectivamente, la dirección, CIF, tipo de pago y vencimientos del proveedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha del proveedor. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado Maestros del menú Administración.
 * **IMPORTE y % de IGIC:** presenta el importe pagado de IGIC por la recepción de la mercancía. El porcentaje se calculará en base al valor total del albarán (quitando el importe de IGIC y de GASTOS añadidos). Para añadir a un albarán el importe de IGIC podemos utilizar el botón situado justo encima de estos campos “insertar importe de IGIC”.

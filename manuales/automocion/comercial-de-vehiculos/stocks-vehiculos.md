@@ -38,7 +38,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5:
 
-<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (5).png" alt=""><figcaption></figcaption></figure>
 
 Botones de opciones sobre el stock:
 
@@ -60,7 +60,7 @@ Muestra un localizador idéntico a la función anterior, pero su operativa no ll
 
 Permite listar el stock a fecha de hoy, a una fecha determinada, de vehículos nuevos o de ocasión o de empresa o todos y por marca, gama y versión mediante el uso de un ligero formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (8).png" alt=""><figcaption></figcaption></figure>
 
 Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehículos:
 
@@ -70,11 +70,11 @@ Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehícu
 
 Muestra un pequeño formulario que presentará rejillas de datos similares a la rejilla principal, pero centrándose en los datos escogidos en el formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (3).png" alt=""><figcaption></figcaption></figure>
 
 En este caso se muestra la rejilla basada en datos de ventas, no apareciendo costes de compra:
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
@@ -86,7 +86,7 @@ Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin p
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (4).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear / Devolver depósito</mark>
 
@@ -100,11 +100,11 @@ Sólo requiere indicar la entidad agente y que la serie de depósitos de vehícu
 
 Movimiento entre almacenes o ubicaciones. Muestra el parte de almacén con el origen teniendo que indicar el almacén de destino:
 
-<figure><img src="../../../.gitbook/assets/imagen (12) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
 
 Una vez creado el traslado, se muestra el parte de almacén para confirmar y que sea efectivo o para guardarlo a fin de realizar la operativa en otro momento:
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (6).png" alt=""><figcaption></figcaption></figure>
 
 Se indica una regularización de las líneas para el control de stock:
 
@@ -112,7 +112,7 @@ Se indica una regularización de las líneas para el control de stock:
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (5).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear Pedido</mark>
 
@@ -138,4 +138,4 @@ Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y
 
 PDF de ejemplo - Página 1 del listado de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>

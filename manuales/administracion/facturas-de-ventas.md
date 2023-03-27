@@ -2,7 +2,7 @@
 
 Accederemos con esta opción al menú de facturas de gastos, donde podremos grabar, modificar o consultar todas las facturas de gastos recibidas de nuestros acreedores. El menú contiene un calendario mediante el que podremos ver las facturas del día seleccionado, una serie de opciones, y una rejilla en la que se presentan las facturas del día seleccionado.
 
-<figure><img src="../../.gitbook/assets/imagen (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (20) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **1 – NUEVA FACTURA**
 
@@ -67,7 +67,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 * **Eliminar**: borrará completamente la factura (no debe tener pagos).
 * **Cerrar factura**: se darán de alta los asientos en contabilidad y la factura no se podrá modificar
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2 - BUSCAR FACTURA**
 
