@@ -196,7 +196,7 @@
   * [Comercial](manuales/automocion/comercial-de-vehiculos/README.md)
     * [Stocks vehículos](manuales/automocion/comercial-de-vehiculos/stocks-vehiculos.md)
     * [Modelos](manuales/automocion/comercial-de-vehiculos/modelos.md)
-    * [Operaciones](manuales/automocion/comercial-de-vehiculos/operaciones/README.md)
+    * [Operaciones](manuales/automocion/comercial-de-vehiculos/operaciones.md)
       * [Alta de una operación comercial](manuales/automocion/comercial-de-vehiculos/operaciones/alta-de-una-operacion-comercial.md)
     * [Depósitos en agentes](manuales/automocion/comercial-de-vehiculos/depositos.md)
     * [Estadísticas producción](manuales/automocion/comercial-de-vehiculos/estadisticas-de-produccion.md)

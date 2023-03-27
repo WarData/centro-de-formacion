@@ -4,13 +4,13 @@
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de compras de la mercancía recibida de nuestros proveedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentaré todos los albaranes de compras con la fecha indicada en el calendario.
 
-![](<../../.gitbook/assets/imagen (23) (1).png>)
+![](<../../.gitbook/assets/imagen (23) (1) (1).png>)
 
 **1.- NUEVO ALBARÁN**
 
 Permite dar de alta a un nuevo albarán de compra mediante el siguiente formulario.
 
-![](<../../.gitbook/assets/imagen (24) (1).png>)
+![](<../../.gitbook/assets/imagen (24) (1) (1).png>)
 
 Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de la compra, referencia relacionada, cantidad, importe, etc.
 
@@ -66,7 +66,7 @@ La descripción del artículo tomará por defecto la definida en su ficha, pero 
 
 \- Precio: importe de compra del artículo. Por defecto tomará el que tuviera el artículo antes de ser recepcionado. Si se modifica este precio, saltará la pantalla de control de precios (ver siguiente imagen), donde podremos modificar los precios directamente en la ficha del artículo:
 
-![](<../../.gitbook/assets/imagen (30) (1).png>)
+![](<../../.gitbook/assets/imagen (30) (1) (1).png>)
 
 \- Descuento y Descuento 2: podremos indicar hasta dos posibles descuentos. Si se modifican, también saltará la pantalla de control de precios del artículo.
 
@@ -74,7 +74,7 @@ La descripción del artículo tomará por defecto la definida en su ficha, pero 
 
 \- % IVA: tomará el porcentaje de IVA definido en la ficha del artículo si en el albarán se tienen que calcular los impuestos y permitirá su modificación mediante el desplegable:
 
-![](<../../.gitbook/assets/imagen (28) (1).png>)
+![](<../../.gitbook/assets/imagen (28) (1) (1).png>)
 
 **Opciones de las líneas de albarán**
 
@@ -83,7 +83,7 @@ La descripción del artículo tomará por defecto la definida en su ficha, pero 
 
 Para eliminar una línea de albarán, tendremos que hacer doble clic en la línea a borrar o editar, se abrirá la ventana del artículo o servicio y pulsaremos el botón "Eliminar":
 
-![](<../../.gitbook/assets/imagen (29) (1).png>)
+![](<../../.gitbook/assets/imagen (29) (1) (1).png>)
 
 * **Totales:** presenta el desglose de importe totales del albarán de compra.
 

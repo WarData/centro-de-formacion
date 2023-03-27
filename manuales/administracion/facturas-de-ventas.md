@@ -2,13 +2,13 @@
 
 Accederemos con esta opción al menú de facturas de gastos, donde podremos grabar, modificar o consultar todas las facturas de gastos recibidas de nuestros acreedores. El menú contiene un calendario mediante el que podremos ver las facturas del día seleccionado, una serie de opciones, y una rejilla en la que se presentan las facturas del día seleccionado.
 
-<figure><img src="../../.gitbook/assets/imagen (20) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1 – NUEVA FACTURA**
 
 Permite dar de alta a una nueva factura de gastos mediante el siguiente formulario:
 
-<figure><img src="../../.gitbook/assets/imagen (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (17) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Están compuestos por su cabecera, donde se guardan todos los datos generales de la factura, y las líneas, donde se va a guardar el detalle de la factura. Dependiendo de la serie de la factura, el contenido de ella será diferente. Definiremos el tipo de factura en la [serie de los documentos](../configuracion/series-de-documentos.md) de facturas de gastos.
 
@@ -67,7 +67,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 * **Eliminar**: borrará completamente la factura (no debe tener pagos).
 * **Cerrar factura**: se darán de alta los asientos en contabilidad y la factura no se podrá modificar
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 **2 - BUSCAR FACTURA**
 
@@ -100,11 +100,11 @@ La información de**l** listado se presenta en las siguientes rejillas. Cada una
 
 Muestra un listado de facturas para IVA por intervalo de fechas con las bases e impuestos desglosados. Presenta el siguiente formulario de búsqueda:
 
-<figure><img src="../../.gitbook/assets/imagen (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La información de**l** listado se presenta en las siguientes rejillas. Cada una de ellas, tiene asociado un informe que se podrá sacar por impresora:
 
-<figure><img src="../../.gitbook/assets/imagen (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Revisión: permite controlar la contabilización de las facturas mostradas
 * Exportación a Excel: realiza la exportación a un fichero Excel
