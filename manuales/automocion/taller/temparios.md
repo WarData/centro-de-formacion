@@ -70,7 +70,7 @@ B) **F2 - Buscar**:
 
 Muestra un formulario de búsqueda con diferentes localizadores (ver imagen) y una rejilla con el filtrado obtenido de temparios:
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 C) **F3 - Listar**:
 

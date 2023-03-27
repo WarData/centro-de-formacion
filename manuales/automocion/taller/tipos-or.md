@@ -28,7 +28,7 @@ El panel de tipos de OR presenta un listado arbolado en el lateral izquierdo que
 
 <mark style="color:yellow;">Rama destino 1</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">Rama destino 2</mark>
 
