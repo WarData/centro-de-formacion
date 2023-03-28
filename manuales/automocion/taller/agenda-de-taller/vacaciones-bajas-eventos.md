@@ -16,7 +16,7 @@ Será el usuario "Administrador" de la agenda de taller quien, accediendo al pan
 
 El calendario mostrará en azul las vacaciones, en rojo las bajas y amarillo los eventos (requiere indicar nombre al evento):
 
-<figure><img src="../../../../.gitbook/assets/imagen (16) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (16) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 En el diario de citas de la agenda de taller habrá un cambio en los días afectados, mostrando los asesores disponibles para ambos turnos, poniendo en rojo aquellos días en los que hay menos disponibles de lo habitual:
 

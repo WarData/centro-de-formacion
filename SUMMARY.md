@@ -199,6 +199,7 @@
     * [Operaciones](manuales/automocion/comercial-de-vehiculos/operaciones.md)
       * [Alta de una operación](manuales/automocion/comercial-de-vehiculos/operaciones/alta-de-una-operacion.md)
       * [Confirmación de una operación](manuales/automocion/comercial-de-vehiculos/operaciones/confirmacion-de-una-operacion.md)
+      * [Cobro de una operación](manuales/automocion/comercial-de-vehiculos/operaciones/cobro-de-una-operacion.md)
     * [Depósitos en agentes](manuales/automocion/comercial-de-vehiculos/depositos.md)
     * [Estadísticas producción](manuales/automocion/comercial-de-vehiculos/estadisticas-de-produccion.md)
     * [Tramitaciones](manuales/automocion/comercial-de-vehiculos/tramitaciones.md)

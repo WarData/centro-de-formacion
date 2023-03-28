@@ -93,7 +93,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 Ejemplo de series mostrado en panel similar a modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de listado de colores:
 
@@ -116,4 +116,4 @@ Ejemplo de listado de colores:
 
 Presenta un panel para control y revisión de modelos creados o alta de gamas, versiones:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (2).png" alt=""><figcaption></figcaption></figure>

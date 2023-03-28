@@ -53,7 +53,7 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 
 **9.-** **Completado el presupuesto, al pulsar en "Guardar" generará el presupuesto para el cliente**, imprimiendo tantos como presupuestos se hayan generado:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 **10.- La operación aparecerá en la rejilla del panel de operaciones con situación "Iniciada"**
 
