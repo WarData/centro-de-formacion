@@ -20,7 +20,7 @@
 
 **5.- Presupuesto 1 - Presupuesto X:** permite añadir varios vehículos a un único presupuesto, así como varios presupuestos a una misma operación. El proceso consiste en añadir uno o varios modelos al presupuesto y luego pulsar en F2- Nuevo presupuesto, pudiendo añadir todos los deseados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (17) (4).png" alt=""><figcaption></figcaption></figure>
 
 **6.- Añadir un modelo:** se realiza pulsando en la lupa y, recomendamos, localizando mediante el modelo - color correspondiente (si se añade modelo sin color, la aplicación solicitará indicar el color tras confirmar la operación):
 
@@ -32,15 +32,15 @@ El localizador presenta varios índices recomendando el uso de "Trozos de palabr
 
 En el alta de la operación se añade el modelo junto al precio base sin IVA y con IVA (si se incluyó en el alta del modelo), pudiendo modificar cualquiera de los 2 campos refrescándose el valor del contrario. Una vez verificados los datos se confirma en el siguiente check:
 
-<figure><img src="../../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 Se podrán añadir a partir de este momento más modelos al presupuesto y más presupuestos a la operación como indicamos anteriormente:
 
-<figure><img src="../../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 **7.- Si deseamos entregar el presupuesto**, pulsamos en continuar y añadimos extras, opciones y suplidos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 **8.- El alta de artículos / servicios tiene 4 características importantes a tener en cuenta**. Están incluidas en los 4 checks de la siguiente imagen:
 
@@ -53,8 +53,8 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 
 **9.-** **Completado el presupuesto, al pulsar en "Guardar" generará el presupuesto para el cliente**, imprimiendo tantos como presupuestos se hayan generado:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 **10.- La operación aparecerá en la rejilla del panel de operaciones con situación "Iniciada"**
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>

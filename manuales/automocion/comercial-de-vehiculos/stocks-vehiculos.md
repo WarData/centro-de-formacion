@@ -42,7 +42,7 @@ Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar 
 
 Botones de opciones sobre el stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (12) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F1 - Buscar Vehículo Stock</mark>
 
@@ -86,7 +86,7 @@ Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin p
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear / Devolver depósito</mark>
 
@@ -124,11 +124,11 @@ Da de alta un pedido de ventas hacia un cliente del vehículo seleccionado en la
 
 Da de alta un albarán de ventas hacia un cliente del vehículo seleccionado en la rejilla, ejecutándose la venta del vehículo mediante la facturación del mismo. Al ser similar a la entrega en la operación de un vehículo, mostrará la posibilidad de actualizar los datos de matriculación y el siguiente formulario en caso de aceptar la actualización:
 
-<figure><img src="../../../.gitbook/assets/imagen (17) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (17) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tras actualizar los datos de matriculación, aparecerá el formulario de alta del albarán de ventas, donde únicamente tendremos que rellenar la entidad cliente, ya que el documento recogerá el precio de venta estipulado en la ficha del vehículo seleccionado <mark style="color:yellow;">**(por ello es importante verificar que el importe del albarán es correcto o no está a 0 ya que no se podrá facturar**</mark>):
 
-<figure><img src="../../../.gitbook/assets/imagen (15) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (15) (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Imprimir</mark>
 

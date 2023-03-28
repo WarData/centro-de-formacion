@@ -63,7 +63,7 @@ A veces el modelo además tiene algún dato que podremos añadir al final como p
 
 Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referencia T400CYE7**</mark>, año de fabricación 2023, precio de costo e impuesto de matriculación 1 (0%) y ya tenemos creado el <mark style="color:yellow;">**MODELO**</mark>, ahora falta añadirle color o colores para obtener el <mark style="color:yellow;">**MODELO - COLOR:**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 5.- Actualizamos las estructuras arboladas y desplegamos la marca, gama y versión hasta visualizar el modelo y hacemos doble clic en él para acceder a la ficha:
 
@@ -75,7 +75,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * Seleccionamos AD79 RED PLUS:
 
-<figure><img src="../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (15) (6).png" alt=""><figcaption></figcaption></figure>
 
 * Al aceptar nos aparece el modelo - color en la ficha (no es necesario desbloquear la ficha y aceptar, es posible el alta del color y modelo - color con la ficha bloqueada y pulsando en cancelar, esa parte quedará guardada.
 
@@ -89,11 +89,11 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * <mark style="color:blue;">F3 - Listados</mark>: presenta varias opciones sobre los listados a mostrar:
 
-<figure><img src="../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de series mostrado en panel similar a modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de listado de colores:
 
@@ -102,7 +102,7 @@ Ejemplo de listado de colores:
 * <mark style="color:blue;">F4 - Modelos de taller</mark>: permite el alta y consulta de modelos creados para taller
 * <mark style="color:blue;">F6 - Opciones</mark>: presenta opciones para importar modelos, actualizar precios y revisión de modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (4).png" alt=""><figcaption></figcaption></figure>
 
 1.- Importar modelos de vehículos
 
@@ -116,4 +116,4 @@ Ejemplo de listado de colores:
 
 Presenta un panel para control y revisión de modelos creados o alta de gamas, versiones:
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
