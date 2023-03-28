@@ -4,7 +4,7 @@ Permite ampliar la información sobre la OR a fin de facilitar su localización,
 
 El panel de tipos de OR presenta un listado arbolado en el lateral izquierdo que muestra los códigos y los nombres de los tipos y una rejilla en el lateral derecho con las ORs afectadas por cada tipo de OR seleccionado en el listado:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">El alta de un tipo de OR</mark> se realiza pulsando el botón derecho encima de la zona blanca del listado y pulsando "Alta de ficha" para mostrar el formulario de alta:
 

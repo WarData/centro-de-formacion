@@ -29,7 +29,7 @@ Desde el momento del alta de una operación hasta su finalización se producen v
 
 Este botón da de alta una nueva operación en la situación indicada, similar a iniciada, pero con la gran diferencia de que reserva el bastidor a la operación, indicándolo además en el stock de vehículos:&#x20;
 
-<figure><img src="../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Confirmadas</mark>: son aquellas que, estando en la situación iniciadas o pre-reservadas, han sido confirmadas mediante el botón del panel de operaciones o desde la propia operación, generando una reserva del bastidor y pasando su estado a generar pedidos de venta de vehículo y solicitar pedidos de compra si el bastidor no está en stock. <mark style="color:green;">El color de la situación es verde</mark>
 * <mark style="color:blue;">En curso</mark>: engloba varias situaciones identificadas de tal forma que no estén pendientes de confirmación o están finalizadas (salvo iniciadas con anticipo que sí se considera en curso y <mark style="color:red;">su color de situación es rojo</mark>) y que requieren de algún proceso como la recepción de material o vehículo, pagos, entrega de vehículo. Es decir, operación puesta en marcha mediante el pago de un anticipo, confirmadas con o sin cobro y confirmadas con material pendiente de recibir o entregar. <mark style="color:blue;">El color de la situación es azul.</mark>
@@ -49,15 +49,15 @@ Este botón da de alta una nueva operación en la situación indicada, similar a
 
 **Botonera alta, búsqueda y listado de operaciones:**
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F1 - Nueva</mark>: muestra el formulario de alta de una operación:
 
-<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F2 - Buscar</mark>: muestra el localizador de búsqueda por índices:
 
-<figure><img src="../../../.gitbook/assets/imagen (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (26).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F3 - Listado</mark>: potente filtro para la localización de operaciones mediante serie, situación, rangos de fecha por apertura, confirmación, cobro y entrega, tipo de vehículo, marca, cliente, vendedor y ventas con agentes:
 

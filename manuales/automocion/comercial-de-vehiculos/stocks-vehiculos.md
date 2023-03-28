@@ -24,7 +24,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 <mark style="color:blue;">TOTALES (rejilla con la información relativa al stock en función con el tipo de vehículo, reservas en función del tipo de vehículo, pedidos a proveedor, pedidos a proveedor con reserva, stock disponible y stock previsto (sumas entre los distintos campos que muestra el resultado disponible)):</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Modelo: muestra marca, modelos y el total de modelos de la marca
 * Stock (nuevos - ocasión - empresa): estos campos muestran el stock físico de los vehículos (no afecta a la reserva ya que se presentan en el siguiente campo)
@@ -100,7 +100,7 @@ Sólo requiere indicar la entidad agente y que la serie de depósitos de vehícu
 
 Movimiento entre almacenes o ubicaciones. Muestra el parte de almacén con el origen teniendo que indicar el almacén de destino:
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (4).png" alt=""><figcaption></figcaption></figure>
 
 Una vez creado el traslado, se muestra el parte de almacén para confirmar y que sea efectivo o para guardarlo a fin de realizar la operativa en otro momento:
 

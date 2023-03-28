@@ -45,7 +45,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Departamento interno**: si la imputación es interna, aparecerá un nuevo campo con el localizador de departamentos internos, teniendo que indicar qué departamento se hago cargo. Véase ["Departamentos internos"](../departamentos-internos.md):
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Avería / Síntoma:** campo cuya función es la de indicar el trabajo principal a realizar en el vehículo. El texto completará la línea de imputación marcándola en amarillo en la OR. En la OR se podrán añadir tantas como se deseen, tanto a un tipo de imputación como a otros, siendo la suma de las imputaciones la línea de facturación total en la pestaña de la OR "Facturación".
 
@@ -81,7 +81,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Aceptar y entregar vehículo de cortesía:** similar a aceptar y además abre formulario de entrega de vehículo de cortesía asociado al cliente del alta de la OR:
 
-<figure><img src="../../../../.gitbook/assets/imagen (9) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 

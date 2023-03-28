@@ -1,6 +1,6 @@
 # Tramitación de garantía
 
-<figure><img src="../../../../../.gitbook/assets/imagen (10) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (10) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permite llevar el control de la gestión de las garantías mediante los campos:
 

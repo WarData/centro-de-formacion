@@ -23,7 +23,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 1.- Seleccionar la marca del listado del desplegable (si no existe requiere darla de alta - [véase "Marcas")](../../maestros/marcas.md):
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2.- Aunque exista alguna gama en la marca TEST, vamos a crear una nueva:
 
@@ -39,7 +39,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Es fundamental seguir estos pasos detenidamente para la correcta alta del modelo completo**</mark>
 
@@ -85,7 +85,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * <mark style="color:blue;">F2 - Buscar modelo</mark>: muestra un localizador mediante varios índices de búsqueda como trozos de palabras y referencia de fabricante y modelos / colores, modelos y colores por separado. Es similar al localizador de modelos usado en albaranes de compras de vehículos y operaciones:
 
-<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F3 - Listados</mark>: presenta varias opciones sobre los listados a mostrar:
 
@@ -93,7 +93,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 Ejemplo de series mostrado en panel similar a modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de listado de colores:
 

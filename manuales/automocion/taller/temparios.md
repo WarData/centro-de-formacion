@@ -55,7 +55,7 @@ A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario
 
 <mark style="color:yellow;">Botonera inferior</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (14) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (14) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Aceptar: graba o activa las modificaciones realizadas en el tempario
 * Cancelar: cierra y cancela las modificaciones realizadas en el tempario

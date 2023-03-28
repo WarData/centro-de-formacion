@@ -32,7 +32,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 También se pueden crear las plantillas desde su opción dentro del menú de maestros de contabilidad:
 
-<figure><img src="../.gitbook/assets/imagen (2) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (2) (1) (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* La plantilla se podrá seleccionar en el alta del asiento, así como darla de alta (punto 1) o editar una existente previamente seleccionada:
 
@@ -44,7 +44,7 @@ También se pueden crear las plantillas desde su opción dentro del menú de mae
 
 2.- Indicamos fecha contable, seleccionamos la plantilla "Traspaso" y pulsamos en "Generar":
 
-<figure><img src="../.gitbook/assets/imagen (3) (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 3.- Como hemos configurado los asientos de la plantilla para que sólo pregunte por importes, nos aparecerá la siguiente ventana emergente:
 
@@ -52,6 +52,6 @@ También se pueden crear las plantillas desde su opción dentro del menú de mae
 
 4.- Rellenamos importe y pulsamos aceptar generando automáticamente el apunte de contrapartida completamente relleno:
 
-<figure><img src="../.gitbook/assets/imagen (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Si no queremos hacer uso de las plantillas en algún momento, podremos indicar en el asiento inicial del apunte los datos y al hacer el siguiente apunte, indicar la cuenta auxiliar y pulsar en el botón "Cuadrar", rellenando importe, concepto y número de documento.

@@ -10,11 +10,11 @@ Se ha hecho un cambio visual y operativo al menú de albaranes de ventas para qu
 
 Sustituye el anterior panel de albaranes de ventas, por lo que el acceso es el mismo VENTAS > ALBARANES
 
-![](<../../.gitbook/assets/imagen (7) (2) (1).png>)
+![](<../../.gitbook/assets/imagen (7) (2) (1) (1).png>)
 
 El nuevo diseño del panel:
 
-![](<../../.gitbook/assets/imagen (9) (2) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (9) (2) (1).png>)
 
 Lo primero que se puede apreciar es el rango de fechas de los albaranes que queremos cargar. Se puede meter manualmente como hasta ahora, pero se ha añadido una nueva utilidad.
 

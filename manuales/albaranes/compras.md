@@ -113,7 +113,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 ![Albarán en modo BORRADOR](<../../.gitbook/assets/imagen (34) (1) (1).png>)
 
-![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1).png>)
+![Albarán CERRADO](<../../.gitbook/assets/imagen (35) (1) (1).png>)
 
 **2 - BUSCAR**
 
