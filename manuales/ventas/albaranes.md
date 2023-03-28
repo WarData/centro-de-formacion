@@ -28,7 +28,7 @@ Como veremos más adelante **\*\*\*** se podrá guardar como **filtro por defect
 
 También se puede filtrar por Centro y cliente como la serie, el vendedor o si está facturado o no desde la ampliación de filtros.
 
-![](<../../.gitbook/assets/imagen (1) (2) (1).png>)
+![](<../../.gitbook/assets/imagen (1) (2) (1) (1).png>)
 
 Una vez se dé a cerrar o recalcular, se cargará con los filtros seleccionados. Dependiendo lo seleccionado se indicará un texto en el propio menú con los filtros extendidos.
 

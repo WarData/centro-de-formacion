@@ -63,7 +63,7 @@ A veces el modelo además tiene algún dato que podremos añadir al final como p
 
 Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referencia T400CYE7**</mark>, año de fabricación 2023, precio de costo e impuesto de matriculación 1 (0%) y ya tenemos creado el <mark style="color:yellow;">**MODELO**</mark>, ahora falta añadirle color o colores para obtener el <mark style="color:yellow;">**MODELO - COLOR:**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 5.- Actualizamos las estructuras arboladas y desplegamos la marca, gama y versión hasta visualizar el modelo y hacemos doble clic en él para acceder a la ficha:
 

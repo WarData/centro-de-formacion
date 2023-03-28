@@ -13,3 +13,15 @@ Como hemos visto en el [alta de una operación](alta-de-una-operacion.md) se pue
 <figure><img src="../../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
 
 Aparecerá el mismo selector de presupuesto que en la opción anterior a fin de confirmar el presupuesto correcto en caso de haber más de una opción.
+
+1.- Pulsamos en continuar y nos muestra la ficha del pre-cliente / cliente para verificar que los datos son correctos o para completarlos
+
+2.- Pulsando aceptar en la ficha de la entidad la aplicación nos muestra las opciones de bastidor que hay en stock para la opción modelo - color seleccionada o para mantener el stock y pedir a proveedor:
+
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+En este caso seleccionamos el bastidor y pulsamos en aceptar para asignarlo a la operación.
+
+3.- Al seleccionar y aceptar el bastidor a asignar se muestra [<mark style="color:green;">**el pedido de ventas del vehículo**</mark>](../../../ventas/pedidos/) junto a los servicios añadidos en este caso (marcando "Incluir en factura del vehículo")
+
+4.- Tras aceptar el pedido de ventas operación queda confirmada (pendiente de cobro y de entregar vehículo en este caso al estar en stock).

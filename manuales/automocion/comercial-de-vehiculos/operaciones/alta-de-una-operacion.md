@@ -40,7 +40,7 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 
 **7.- Si deseamos entregar el presupuesto**, pulsamos en continuar y añadimos extras, opciones y suplidos:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **8.- El alta de artículos / servicios tiene 4 características importantes a tener en cuenta**. Están incluidas en los 4 checks de la siguiente imagen:
 
