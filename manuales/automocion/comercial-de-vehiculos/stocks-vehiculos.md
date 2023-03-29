@@ -50,7 +50,7 @@ Muestra un localizador con los índices "Alfabético (bastidor)", "Trozos de bas
 
 Este localizador incluye un filtrado previo de los vehículos por stock activo, en caso de no estar en stock no aparecerá.
 
-<figure><img src="../../../.gitbook/assets/imagen (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (36) (5).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F2 - Buscar Vehículo</mark>
 

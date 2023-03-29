@@ -10,7 +10,7 @@ Cada línea de cargo presentará una entidad, un tipo de pago / vencimiento, imp
 
 Accediendo a cada línea se podrá editar la serie de facturación, el cliente al que se le facturará y el tipo de pago / vencimiento:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (37) (2).png" alt=""><figcaption></figcaption></figure>
 
 Los campos en gris no son editables (la entidad mediante el código o el localizador se podrá editar):
 

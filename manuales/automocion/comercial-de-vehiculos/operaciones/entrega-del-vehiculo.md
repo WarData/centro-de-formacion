@@ -28,4 +28,4 @@ Si entramos en la ficha de la operación y pulsamos en "Finalizar expediente" no
 
 <figure><img src="../../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (36).png" alt=""><figcaption></figcaption></figure>

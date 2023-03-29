@@ -20,7 +20,7 @@ Pulsar "Nueva cita" y solicitará el asesor sobre el que realizarla:
 
 [Véase "Alta de una cita de asesor"](alta-de-una-cita-de-asesor.md) para completar el formulario de cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (37) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (37) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pulsar "Mis citas" muestra las citas solicitadas a los asesores por parte del invitado:
 
