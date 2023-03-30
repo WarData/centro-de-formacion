@@ -23,7 +23,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 1.- Seleccionar la marca del listado del desplegable (si no existe requiere darla de alta - [véase "Marcas")](../../maestros/marcas.md):
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.- Aunque exista alguna gama en la marca TEST, vamos a crear una nueva:
 

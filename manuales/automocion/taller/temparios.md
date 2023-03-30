@@ -82,6 +82,6 @@ D) **F4 - Copiar tempario**:
 
 Permite mostrar el formulario de copia del tempario seleccionado en la rejilla del panel de temparios, evitando la necesidad de acceder a la ficha del tempario a copiar. Mostraría el mismo formulario de copia:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">\*\*\* Los temparios son fundamentales para obtener la máxima agilidad, imagen cara al cliente y rendiemiento en la agenda de taller.</mark> <mark style="color:orange;"></mark> [<mark style="color:orange;">Recomendamos ver el manual "Agenda de taller"</mark>](agenda-de-taller/)<mark style="color:orange;"></mark>

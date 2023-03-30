@@ -57,4 +57,4 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 
 **10.- La operación aparecerá en la rejilla del panel de operaciones con situación "Iniciada"**
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>

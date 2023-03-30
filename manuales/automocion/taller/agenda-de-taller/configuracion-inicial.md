@@ -2,7 +2,7 @@
 
 La actualización de la agenda de taller requiere su activación previa por parte del soporte de Winmotor, póngase en contacto con ellos desde este enlace > [contacto soporte](mailto:soporte@winmotor.net)
 
-[Acceso documentación interna Nuclino](https://app.nuclino.com/Winmotor/Documentaci%C3%B3n-Privada/Agenda-de-taller---Configuracin-37d1fae2-09eb-4b90-85e3-8a818c0661f3) - <mark style="color:yellow;">Exclusivo Winmotor</mark>
+[Acceso documentación interna Nuclino](https://app.nuclino.com/Winmotor/Documentaci%C3%B3n-Privada/Agenda-de-taller---Configuracin-37d1fae2-09eb-4b90-85e3-8a818c0661f3) - <mark style="color:blue;">Exclusivo Winmotor</mark>
 
 A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
@@ -59,7 +59,9 @@ En el panel del departamento laboral será posible:
 
 * Aumentar y disminuir asesores a o de un turno de la rejilla de turnos, permitiendo añadir o quitar un asesor de servicio no asignado a un turno ya completo
 
-C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "Operarios" > "Operarios y turnos" > botón lápiz ![](<../../../../.gitbook/assets/imagen (31) (1).png>)):
+C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "Operarios" > "Operarios y turnos" > botón lápiz ![](<../../../../.gitbook/assets/imagen (31) (1).png>)):&#x20;
+
+<mark style="color:yellow;">\*\*\* Ver final de la hoja para operarios asignados al departamento sin turno</mark>
 
 <figure><img src="../../../../.gitbook/assets/imagen (20) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,3 +92,15 @@ F) La pestaña <mark style="color:yellow;">**"Citas"**</mark> permite mostrar to
 Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen superior. El primer botón ![](<../../../../.gitbook/assets/imagen (14) (3) (2).png>) cambia el asesor de servicio y el segundo botón ![](<../../../../.gitbook/assets/imagen (9) (1) (2).png>) la fecha, mostrándose los cambios en la rejilla:
 
 <figure><img src="../../../../.gitbook/assets/imagen (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+\*\*\* Cuando existen operarios sin turnos asignados y el turno correcto está dado de alta, seleccionaremos los operarios a los que hay que asignar turno y pulsaremos en el botón indicado en la siguiente imagen:
+
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+
+En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a fin de controlar el número de operarios asignados:
+
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+Turno completo:
+
+<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
