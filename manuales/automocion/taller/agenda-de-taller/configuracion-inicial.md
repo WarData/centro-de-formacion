@@ -2,6 +2,8 @@
 
 La actualización de la agenda de taller requiere su activación previa por parte del soporte de Winmotor, póngase en contacto con ellos desde este enlace > [contacto soporte](mailto:soporte@winmotor.net)
 
+[Acceso documentación interna Nuclino](https://app.nuclino.com/Winmotor/Documentaci%C3%B3n-Privada/Agenda-de-taller---Configuracin-37d1fae2-09eb-4b90-85e3-8a818c0661f3) - <mark style="color:orange;">Exclusivo Winmotor</mark>
+
 A continuación se requiere seguir una serie de pasos para configurar la agenda:
 
 1.- Activar usuarios que son Asesores de servicio:
