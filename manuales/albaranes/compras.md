@@ -134,7 +134,7 @@ El formulario que se presenta es el mismo que el de grabación.
 
 Esta opción lanza una búsqueda que nos presentará un listado de albaranes de compras. Este listado se puede acotar a través del filtro de búsqueda que se presenta a continuación:
 
-![](<../../.gitbook/assets/imagen (36) (1).png>)
+![](<../../.gitbook/assets/imagen (36) (1) (1).png>)
 
 Se podrá filtrar por una determinada serie o todas, por un intervalo de fechas, proveedor, centro, tipo de pago, estado (facturado o pendiente) y por la situación del albarán (facturados, pendientes de facturar o todos). Después de indicar los criterios deseados, nos aparecerá una rejilla con los albaranes que cumplan esas condiciones.
 

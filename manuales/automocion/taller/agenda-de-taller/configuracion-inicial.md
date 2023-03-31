@@ -99,7 +99,7 @@ Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen
 
 En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a fin de controlar el número de operarios asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (45).png" alt=""><figcaption></figcaption></figure>
 
 Turno completo:
 

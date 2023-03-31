@@ -282,6 +282,7 @@
 * [Contabilidad](tutoriales/contabilidad/README.md)
   * [Plantillas predefinidas](tutoriales/plantillas-en-contabilidad.md)
   * [Criterios Contables](faq/criterios-contables.md)
+  * [Obtener Libro Mayor](tutoriales/contabilidad/obtener-libro-mayor.md)
 * [Almacén](tutoriales/almacen/README.md)
   * [Partes de Almacén - Inventarios y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
     * [Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/traspasos.md)

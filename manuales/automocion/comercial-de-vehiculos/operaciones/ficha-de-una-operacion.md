@@ -6,7 +6,7 @@ El contenido de una ficha de operación varía en función de la situación en l
 
 De igual modo encontraremos sólo en situación "Entregada" en botón "Expediente finalizado":
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (8).png" alt=""><figcaption></figcaption></figure>
 
 Por ello vamos a mostrar las características de la ficha en cada situación:
 
