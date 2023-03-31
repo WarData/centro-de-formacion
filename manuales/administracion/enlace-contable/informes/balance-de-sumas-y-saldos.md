@@ -1,8 +1,10 @@
 # Balance de sumas y saldos
 
+\*\*\* Para la obtención del Libro Mayor véase el tutorial > [enlace Obtener Libro Mayor](../../../../tutoriales/contabilidad/obtener-libro-mayor.md)
+
 El panel para el cálculo y presentación de balances de sumas y saldos muestra **(Administración > Contabilidad > Informes > Balance de sumas y saldos):**
 
-![](<../../../.gitbook/assets/imagen (9) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/imagen (9) (1) (1) (1).png>)
 
 * Posibilidad de filtrar por mes "desde". Podemos por ejemplo pedir un balance desde abril a Junio de un ejercicio.
 * Se puede pedir en pantalla el nivel de presentación del balance: por Auxiliar, por cuenta de mayor a 4,3,2 o 1 dígito.
