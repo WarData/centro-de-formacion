@@ -26,7 +26,7 @@ La agenda de taller requerirá que el usuario "Administrador" configure cambios 
 
 A) Rellenar festivos para cada ejercicio > desde el panel de configuración pulsar el botón "Festivos":
 
-<figure><img src="../../../../.gitbook/assets/imagen (10) (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 En el formulario es posible ir creando uno a uno cada día o importar desde otro ejercicio e ir modificando fechas:
 
@@ -95,12 +95,12 @@ Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen
 
 \*\*\* Cuando existen operarios sin turnos asignados y el turno correcto está dado de alta, seleccionaremos los operarios a los que hay que asignar turno y pulsaremos en el botón indicado en la siguiente imagen:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a fin de controlar el número de operarios asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (45) (2).png" alt=""><figcaption></figcaption></figure>
 
 Turno completo:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (9).png" alt=""><figcaption></figcaption></figure>

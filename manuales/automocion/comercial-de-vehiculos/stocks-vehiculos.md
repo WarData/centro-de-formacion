@@ -38,7 +38,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5:
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Botones de opciones sobre el stock:
 
@@ -82,7 +82,7 @@ En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
 Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin precios", eliminando de la rejilla los campos de compra y venta:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
@@ -112,7 +112,7 @@ Se indica una regularización de las líneas para el control de stock:
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (5).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear Pedido</mark>
 
@@ -138,4 +138,4 @@ Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y
 
 PDF de ejemplo - Página 1 del listado de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (1).png" alt=""><figcaption></figcaption></figure>

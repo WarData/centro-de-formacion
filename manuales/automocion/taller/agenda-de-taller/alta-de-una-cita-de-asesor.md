@@ -4,7 +4,9 @@ Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook
 
 <figure><img src="../../../../.gitbook/assets/imagen (32).png" alt=""><figcaption></figcaption></figure>
 
-Introducción de datos de vehículo / cliente:
+**Se pueden dar citas tanto a clientes existentes como a nuevos clientes:**
+
+<mark style="color:orange;">**1.- Introducción de datos de vehículo / cliente existente:**</mark>
 
 * Se puede introducir matrícula, bastidor o cliente en su campo correspondiente, pero recomendamos el uso del campo múltiple "Localizar vehículo" ya que permite introducir cualquier dato referente al cliente o vehículo, haciendo el proceso mucho más ágil (realiza la búsqueda automáticamente a partir de 3 caracteres):
 
@@ -45,3 +47,15 @@ Se selecciona fecha de recepción (se marcará para próximas citas en azul clar
 Cita con OR de alta y confirmada cambia de situación a "Realizada" y color azul claro según los códigos de color del botón paleta (debajo del filtro de fecha en el panel de citas):
 
 <figure><img src="../../../../.gitbook/assets/imagen (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:orange;">**2.- Citas a nuevos clientes o a vehículos no existentes en la base de datos:**</mark>
+
+Desde el formulario de alta de una cita, pulsamos el botón para eliminar el localizador de datos de cliente / vehículo:
+
+<figure><img src="../../../../.gitbook/assets/imagen (45).png" alt=""><figcaption></figcaption></figure>
+
+Ahora el formulario nos permite grabar el modelo del vehículo, cliente y teléfono:
+
+<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
+El resto de la cita se genera igual que el punto 1
