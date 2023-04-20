@@ -23,7 +23,7 @@ Filtra en la rejilla las operaciones por tipo de vehículo
 Desde el momento del alta de una operación hasta su finalización se producen varias situaciones que nos permitirán gestionar y controlarlas.
 
 * <mark style="color:blue;">Iniciadas</mark>: son aquellas que constan como mínimo de un presupuesto y una entidad pre-cliente o cliente. Su alta grabará un registro de control para seguimientos en la [agenda del vendedor](../../utilidades/agenda.md). **El color de la situación es gris claro salvo iniciadas con anticipo que cuyo **<mark style="color:red;">**color de la situación es rojo.**</mark>
-* <mark style="color:blue;">Pre-reservadas</mark>: desde la ficha de un vehículo nuevo o usado en stock, en la botonera inferior encontramos "Pre-reservar". **El color de la **<mark style="color:green;">****</mark>** situación es gris claro**:
+* <mark style="color:blue;">Pre-reservadas</mark>: desde la ficha de un vehículo nuevo o usado en stock, en la botonera inferior encontramos "Pre-reservar". **El color de la** **situación es gris claro**:
 
 <figure><img src="../../../.gitbook/assets/imagen (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 

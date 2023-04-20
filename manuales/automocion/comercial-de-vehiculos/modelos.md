@@ -14,7 +14,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 <mark style="color:yellow;">**BOTONERA SUPERIOR**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Actualizar</mark>: refresca la vista arbolada tras actualizar o dar de alta algún modelo
 * <mark style="color:blue;">F1 - Nuevo Modelo</mark>: permite dar de alta cada una de las partes de la estructura que constituye un modelo. Para ello muestra un formulario donde existe la posibilidad de seleccionar partes del modelo ya dadas de alta. En caso de que el localizador de la marca, gama o versión no contenga datos, no tendrá tampoco datos ninguno de los elementos posteriores, teniéndolo que dar de alta.
@@ -39,7 +39,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (9).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Es fundamental seguir estos pasos detenidamente para la correcta alta del modelo completo**</mark>
 
@@ -53,7 +53,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * El formulario de alta de la versión quedaría así:
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 4.- Por último habría que rellenar el resto del formulario de alta del modelo empezando por <mark style="color:red;">**código de modelo y referencia del fabricante que, en caso de que éste no los aporte, tendremos que crear un código de modelo y ponerlo idéntico en la referencia del fabricante. Recomendamos el uso de la estructura Marca - Gama - Versión (MGV) para ello.**</mark>&#x20;
 
@@ -85,7 +85,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * <mark style="color:blue;">F2 - Buscar modelo</mark>: muestra un localizador mediante varios índices de búsqueda como trozos de palabras y referencia de fabricante y modelos / colores, modelos y colores por separado. Es similar al localizador de modelos usado en albaranes de compras de vehículos y operaciones:
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F3 - Listados</mark>: presenta varias opciones sobre los listados a mostrar:
 
@@ -102,7 +102,7 @@ Ejemplo de listado de colores:
 * <mark style="color:blue;">F4 - Modelos de taller</mark>: permite el alta y consulta de modelos creados para taller
 * <mark style="color:blue;">F6 - Opciones</mark>: presenta opciones para importar modelos, actualizar precios y revisión de modelos:
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 1.- Importar modelos de vehículos
 
@@ -116,4 +116,4 @@ Ejemplo de listado de colores:
 
 Presenta un panel para control y revisión de modelos creados o alta de gamas, versiones:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (3).png" alt=""><figcaption></figcaption></figure>

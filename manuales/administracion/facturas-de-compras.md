@@ -27,7 +27,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-* **Dirección, CIF, tipo de pago y vencimientos:** muestra, respectivamente, la dirección, CIF, tipo de pago y vencimientos del acreedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha del acreedor. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado **Submaestros > Administración >** [**Tipos de pago**](../submaestros/administracion-1/tipos-de-pago.md) **y** [**Vencimientos**](../submaestros/administracion-1/vencimientos.md)****
+* **Dirección, CIF, tipo de pago y vencimientos:** muestra, respectivamente, la dirección, CIF, tipo de pago y vencimientos del acreedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha del acreedor. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado **Submaestros > Administración >** [**Tipos de pago**](../submaestros/administracion-1/tipos-de-pago.md) **y** [**Vencimientos**](../submaestros/administracion-1/vencimientos.md)
 
 **Barra de pestañas**
 

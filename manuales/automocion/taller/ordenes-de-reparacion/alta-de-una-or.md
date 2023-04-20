@@ -28,7 +28,7 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 <figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption><p>Alta vehículo en taller</p></figcaption></figure>
 
-<mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark> [<mark style="color:orange;">**Véase enlace a FAQ - "Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente"**</mark>](../../../../faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)<mark style="color:orange;">****</mark>
+<mark style="color:yellow;">**\*\*\* Para dar de alta un vehículo que entra por primera vez en el taller, es decir, no se ha vendido por parte de la empresa, únicamente hay que rellenar la marca mediante el localizador, modelo se rellena a mano poniendo lo más completo posible, color, bastidor y matrícula (si es posible, obtener los datos de fecha de matriculación, fin de garantía y próxima ITV). Finalmente asignar o crear un propietario (cliente) y aceptar.**</mark> [<mark style="color:orange;">**Véase enlace a FAQ - "Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente"**</mark>](../../../../faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)
 
 **Cliente**: tipo de entidad propietaria del vehículo y a la que se facturará por defecto la OR, aunque es posible modificar la línea de facturación para cambiar la entidad a petición del cliente. Contiene botones incrustados para localizar, grabar o editar el cliente.
 
@@ -85,4 +85,3 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 
-<mark style="color:orange;">****</mark>

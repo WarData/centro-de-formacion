@@ -14,7 +14,7 @@
 
 4.- Obtenemos un formulario donde indicamos la carpeta de destino del archivo Excel, el nombre del archivo y el período y al pulsar en "Aceptar" la aplicación guardará el archivo en la ubicación indicada:
 
-<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**\*\*\* Es fundamental seleccionar todas las líneas en el panel del balance. Solo exportará las que tengas seleccionadas.**</mark>
 

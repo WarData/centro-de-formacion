@@ -8,7 +8,7 @@ description: Similar en tarifas txt de gran tamaño
 
 Una tarifa como la de Honda puede tener más de 150.000 referencias, por ello y para evitar que el proceso sea excesivamente largo y que se puedan provocar caídas del servicio vServer o problemas en la Base de Datos, es imprescindible cortar unas 25000 – 26000 referencias desde el archivo txt original a unos nuevos a los que hemos llamado Tarifa Honda fecha – 1, 2, 3…así sucesivamente hasta el 6.
 
-**Existe una aplicación llamada File Splitter Joiner gratuita que lo hace directamente. Podéis descargarla desde aquí >** [**DESCARGA FSJ**](https://hidrive.ionos.com/lnk/NmioCygu)****
+**Existe una aplicación llamada File Splitter Joiner gratuita que lo hace directamente. Podéis descargarla desde aquí >** [**DESCARGA FSJ**](https://hidrive.ionos.com/lnk/NmioCygu)
 
 Simplemente hay que seguir estas instrucciones:
 
