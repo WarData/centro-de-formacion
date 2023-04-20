@@ -103,4 +103,4 @@ En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a f
 
 Turno completo:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (9).png" alt=""><figcaption></figcaption></figure>

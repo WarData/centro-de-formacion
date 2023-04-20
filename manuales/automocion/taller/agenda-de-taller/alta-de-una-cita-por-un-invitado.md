@@ -30,11 +30,11 @@ Además, pulsando botón derecho encima de un día del diario de taller y pulsan
 
 <mark style="color:blue;">**Pestaña "Citas por asesores":**</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (117) (4).png" alt=""><figcaption></figcaption></figure>
 
 Pulsando doble clic en una cita de entrega o devolución:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (13).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Pestaña "Citas":**</mark>
 
