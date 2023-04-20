@@ -28,7 +28,7 @@ Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook
 
 <figure><img src="../../../../.gitbook/assets/imagen (5) (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Sin vehículo de cortesía mostrará el diario de taller para poder controlar las horas libres cada día y poder orientar la carga de trabajo a días y horas más adecuadas simplemente seleccionando uno de los días disponibles:
+* <mark style="color:orange;">Sin vehículo de cortesía</mark> mostrará el diario de taller para poder controlar las horas libres cada día y poder orientar la carga de trabajo a días y horas más adecuadas simplemente seleccionando uno de los días disponibles:
 
 <figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ Detalle del tiempo:
 
 <figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
-* Con vehículo de cortesía mostrará los días partidos en bloques de mañana y tarde, vehículos disponibles y ocupados (blanco y azul respectivamente). Se marcan bloques continuos de mañana y tarde y mostrará hora de recepción y entrega, después verificar datos y aceptar creando la cita:
+* <mark style="color:orange;">Con vehículo de cortesía</mark> mostrará los días partidos en bloques de mañana y tarde, vehículos disponibles y ocupados (blanco y azul respectivamente). Se marcan bloques continuos de mañana y tarde y mostrará hora de recepción y entrega, después verificar datos y aceptar creando la cita:
 
 <figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
