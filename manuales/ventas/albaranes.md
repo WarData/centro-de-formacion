@@ -32,15 +32,15 @@ También se puede filtrar por Centro y cliente como la serie, el vendedor o si e
 
 Una vez se dé a cerrar o recalcular, se cargará con los filtros seleccionados. Dependiendo lo seleccionado se indicará un texto en el propio menú con los filtros extendidos.
 
-![](<../../.gitbook/assets/imagen (118).png>)
+![](<../../.gitbook/assets/imagen (118) (1).png>)
 
 En el botón de opciones se podrá buscar, listar o facturar en tanda, además de imprimir, cambiar de vista a una rejilla avanzada o vista en modo bloc.
 
-![](<../../.gitbook/assets/imagen (120) (1).png>)
+![](<../../.gitbook/assets/imagen (120) (1) (1).png>)
 
 **\*\*\*** La última opción es la anteriormente mencionada: **Establecer filtro por defecto**. Con esta opción se guardará la búsqueda con los filtros utilizados en ese momento y se cargará de esa forma en los siguientes accesos al menú.
 
-![](<../../.gitbook/assets/imagen (119).png>)
+![](<../../.gitbook/assets/imagen (119) (1).png>)
 
 **1 – NUEVO ALBARÁN**
 

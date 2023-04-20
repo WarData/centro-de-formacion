@@ -14,7 +14,7 @@ Mostrará la rejilla con todas las plantillas disponibles y que se podrán edita
 
 1.- La manera más fácil de grabar una plantailla es desde un asiento completo y antes de aceptar, mediante el botón **"Opciones" > "Generar plantilla de asiento":**
 
-<figure><img src="../.gitbook/assets/imagen (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (124) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.- Le asignamos un nombre (Traspaso en este ejemplo) y vamos a la opción "Plantillas de asientos" indicada al inicio:
 

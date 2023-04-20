@@ -26,7 +26,7 @@ C) Botonera superior derecha:
 * Alta de cita
 * Filtro avanzado: amplía filtros mostrando "Estado", "Cliente", "Vehículo" y "Vehículo de cortesía"
 
-<figure><img src="../../../../.gitbook/assets/imagen (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (121) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Filtro por defecto: una vez ajustados todos los filtros, pulsando en "Establecer filtro por defecto", cada vez que se abra de nuevo la agenda de citas mantendrá la configuración de filtros guardadas:
 
@@ -37,9 +37,9 @@ D) Rejilla de citas de asesor:
 * Muestra columnas con fecha, tiempo total en horas de temparios (se puede modificar el tiempo pulsando en el campo), hora de la entrega, matrícula, modelo de vehículo, cliente, tempario principal, vehículo de cortesía, día y hora de devolución, estado de la cita y OR asignada a la cita (si no existe, pulsando en el campo ejecuta el formulario de alta)
 * Modificación de tiempo total de temparios:
 
-<figure><img src="../../../../.gitbook/assets/imagen (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (125) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Alta de OR desde rejilla de citas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (127) (1).png" alt=""><figcaption></figcaption></figure>
 

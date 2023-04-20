@@ -16,4 +16,4 @@ Se mostrará un listado con el intervalo de fechas y cuenta / canal con el comen
 
 El siguiente proceso tras el o los arqueos de la cuenta de tesorería es la opción F6 Cerrar cuenta, que bloqueará cambios en la cuenta de tesorería entre las fechas indicadas:
 
-![](<../../../.gitbook/assets/imagen (117) (2).png>)
+![](<../../../.gitbook/assets/imagen (117) (2) (1).png>)

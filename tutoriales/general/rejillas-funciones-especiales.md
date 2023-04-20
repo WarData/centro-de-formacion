@@ -80,7 +80,7 @@ Para añadir la totalización, basta con clicar con el botón secundario del rat
 
 Si también quiere quitar por ejemplo las dos últimas columnas, tiene que clicar en el icono superior izquierdo de la rejilla y deseleccione las columnas que no quiera:
 
-<figure><img src="../../.gitbook/assets/imagen (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (123) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para guardar esta configuración simplemente pulse sobre cualquier sitio de la rejilla con el botón secundario y pulse en opciones/guardar configuración. Verá que en estas opciones también está disponible aumentar / reducir el tamaño de letra:
 
@@ -112,11 +112,11 @@ Para pasarlo a rejilla avanzada y poderlo configurar los pasos son los siguiente
 
 **Antes**
 
-<figure><img src="../../.gitbook/assets/imagen (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (122) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Después (agrupando por imputación)**
 
-<figure><img src="../../.gitbook/assets/imagen (121) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (121) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Resultado (imputación cliente)**
 

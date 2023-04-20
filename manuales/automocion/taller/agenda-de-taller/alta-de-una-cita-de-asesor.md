@@ -18,7 +18,7 @@ Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook
 
 * Es posible añadir citas sobre [operaciones de taller](../operaciones-de-taller.md) con vehículo seleccionando el campo desplegable junto al tiempo de la operación:
 
-<figure><img src="../../../../.gitbook/assets/imagen (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (126) (1).png" alt=""><figcaption></figcaption></figure>
 
 * En la parte inferior obtendremos "Datos de interés" informando de kilómetros de la última OR, fin de garantía y fecha de la última OR y un campo "Notas" para añadir a la cita cualquier dato adicional.
 
@@ -48,14 +48,22 @@ Cita con OR de alta y confirmada cambia de situación a "Realizada" y color azul
 
 <figure><img src="../../../../.gitbook/assets/imagen (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
+En el diario del taller podremos pulsar doble clic para visualizar las citas de todos los asesores y modificarlas si es necesario:
+
+<figure><img src="../../../../.gitbook/assets/imagen (124).png" alt=""><figcaption></figcaption></figure>
+
+Desde asesor Winmotor viendo la cita de usuario Demo a las 10 (dada de alta como usuario invitado):
+
+<figure><img src="../../../../.gitbook/assets/imagen (123).png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:orange;">**2.- Citas a nuevos clientes o a vehículos no existentes en la base de datos:**</mark>
 
 Desde el formulario de alta de una cita, pulsamos el botón para eliminar el localizador de datos de cliente / vehículo:
 
-<figure><img src="../../../../.gitbook/assets/imagen (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 Ahora el formulario nos permite grabar el modelo del vehículo, cliente y teléfono:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
 El resto de la cita se genera igual que el punto 1

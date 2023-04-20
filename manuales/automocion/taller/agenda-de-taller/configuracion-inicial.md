@@ -95,7 +95,7 @@ Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen
 
 \*\*\* Cuando existen operarios sin turnos asignados y el turno correcto está dado de alta, seleccionaremos los operarios a los que hay que asignar turno y pulsaremos en el botón indicado en la siguiente imagen:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (8).png" alt=""><figcaption></figcaption></figure>
 
 En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a fin de controlar el número de operarios asignados:
 
@@ -103,4 +103,4 @@ En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a f
 
 Turno completo:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
