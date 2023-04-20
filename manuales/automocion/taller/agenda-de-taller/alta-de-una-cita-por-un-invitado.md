@@ -10,7 +10,13 @@ El alta de los usuarios "Invitados" se realiza desde el panel de configuración 
 
 <figure><img src="../../../../.gitbook/assets/imagen (39) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-El alta de la cita se realiza accediendo a la opción indicada "Citas" obteniendo el siguiente panel donde además podrá ver <mark style="color:yellow;">**la carga del taller mediante el diario**</mark> (a la izquierda), **la agenda de los **<mark style="color:yellow;">**asesores del día que se seleccione en el diario**</mark> y, mediante el botón "Mis citas" ![](<../../../../.gitbook/assets/imagen (125).png>) <mark style="color:yellow;">**ver las citas solicitadas por su usuario a los operarios**</mark> (segunda imagen):
+El alta de la cita se realiza accediendo a la opción indicada "Citas" obteniendo el siguiente panel donde además podrá ver
+
+<mark style="color:yellow;">**1.- La carga del taller mediante el diario**</mark> (a la izquierda),&#x20;
+
+<mark style="color:yellow;">**2.- La agenda de los asesores del día que se seleccione en el diario**</mark>
+
+<mark style="color:yellow;">**3.- Mediante el botón "Mis citas"**</mark> ![](<../../../../.gitbook/assets/imagen (125).png>) <mark style="color:yellow;">**ver las citas solicitadas por su usuario a los operarios**</mark> (segunda imagen):
 
 <figure><img src="../../../../.gitbook/assets/imagen (127).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +28,7 @@ Además, pulsando botón derecho encima de un día del diario de taller y pulsan
 
 <figure><img src="../../../../.gitbook/assets/imagen (45).png" alt=""><figcaption></figcaption></figure>
 
-**Pestaña "Citas por asesores":**
+<mark style="color:blue;">**Pestaña "Citas por asesores":**</mark>
 
 <figure><img src="../../../../.gitbook/assets/imagen (117).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,11 +36,11 @@ Pulsando doble clic en una cita de entrega o devolución:
 
 <figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
-**Pestaña "Citas":**
+<mark style="color:blue;">**Pestaña "Citas":**</mark>
 
 <figure><img src="../../../../.gitbook/assets/imagen (120).png" alt=""><figcaption></figcaption></figure>
 
-**Pestaña "Trabajadores":**
+<mark style="color:blue;">**Pestaña "Trabajadores":**</mark>
 
 <figure><img src="../../../../.gitbook/assets/imagen (121).png" alt=""><figcaption></figcaption></figure>
 
