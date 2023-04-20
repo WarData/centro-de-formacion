@@ -10,9 +10,9 @@ El alta de los usuarios "Invitados" se realiza desde el panel de configuración 
 
 <figure><img src="../../../../.gitbook/assets/imagen (39) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-El alta de la cita se realiza accediendo a la opción indicada "Citas" obteniendo el siguiente panel donde además podrá ver
+El alta de la cita se realiza accediendo a la opción del menú izquierdo indicada como "Citas" obteniendo el siguiente panel donde además podrá ver:
 
-<mark style="color:yellow;">**1.- La carga del taller mediante el diario**</mark> (a la izquierda),&#x20;
+<mark style="color:yellow;">**1.- La carga del taller mediante el diario**</mark> (a la izquierda y ocultable)
 
 <mark style="color:yellow;">**2.- La agenda de los asesores del día que se seleccione en el diario**</mark>
 
