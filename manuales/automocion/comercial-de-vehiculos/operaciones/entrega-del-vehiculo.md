@@ -1,6 +1,6 @@
 # Entrega del vehículo
 
-Dada una operación cobrada <mark style="color:blue;">(situación en color azul)</mark> y pendiente de entregar el vehículo la entrega se realiza seleccionando la operación en la rejilla del panel de operaciones y pulsando el botón "Entregar" ![](<../../../../.gitbook/assets/imagen (12).png>):
+Dada una operación cobrada <mark style="color:blue;">(situación en color azul)</mark> y pendiente de entregar el vehículo la entrega se realiza seleccionando la operación en la rejilla del panel de operaciones y pulsando el botón "Entregar" ![](<../../../../.gitbook/assets/imagen (12) (1).png>):
 
 <figure><img src="../../../../.gitbook/assets/imagen (1) (5).png" alt=""><figcaption></figcaption></figure>
 

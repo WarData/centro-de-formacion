@@ -6,7 +6,7 @@ Los permisos se definen en los perfiles de usuarios. **A cada usuario solo se le
 
 Localizamos la opción "Perfiles" dentro de Configuración > Permisos / Perfiles:
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Entramos en el listado de los diferentes perfiles y pulsamos botón derecho del ratón y pulsamos en "Alta de Perfil" para crear uno nuevo:
 

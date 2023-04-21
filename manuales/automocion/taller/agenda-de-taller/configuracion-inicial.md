@@ -67,7 +67,7 @@ C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "
 
 Asignación de turnos a los operarios:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * En las pestañas de los trabajadores pestaña "Diario" podremos ver la asignación de operarios a distintos turnos:
 
