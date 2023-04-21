@@ -2,9 +2,9 @@
 
 Configuración de la financiación ofrecida por diferentes entidades y productos financieros.
 
-Existen dos ubicaciones para añadirlas / modificarlas y/o presentar los datos:
+Existen tres ubicaciones para añadirlas / modificarlas y/o presentar los datos:
 
-**Pestaña financiación en el alta:**
+**1.- Pestaña financiación en el alta:**
 
 <figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ También es posible el alta de nuevas tablas mediante el doble clic o botón der
 
 <figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
+**2.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
 
 <figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,6 +26,10 @@ Editando una tabla existente:
 
 <figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
+**3.- En la serie de operaciones VN:**
+
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
 Campos de la tabla:
 
 * Entidad: tipo entidad financiera
@@ -36,6 +40,6 @@ Campos de la tabla:
 * Retorno vendedor: comisión que recibe el vendedor por el alta de la financiación
 * Rejilla de datos con columnas meses, coeficiente, importe mínimo y máximo > permiten el alta de cuotas por determinados meses:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 * Comentarios: permite añadir texto a un campo libre a modo informativo

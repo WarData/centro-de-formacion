@@ -4,7 +4,7 @@ Esta opción muestra una rejilla con todos los vehículos cuyo bastidor y datos 
 
 Es posible dar de alta un vehículo, buscar uno mediante diferentes localizadores como trozos de matrícula, de bastidor, por orden alfabético o por trozos de palabras de datos del vehículo y propietario (si lo tuviera):
 
-<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 También es posible mostrar una estadística de producción de vehículos mediante el filtrado por intervalo de fecha, tipo de vehículo (nuevo, ocasión o ambos), datos del modelo o marca - gama- versión, cliente, vendedor, agente y por serie de facturación:
 
