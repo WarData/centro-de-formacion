@@ -138,4 +138,4 @@ Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y
 
 PDF de ejemplo - Página 1 del listado de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (1) (3).png" alt=""><figcaption></figcaption></figure>

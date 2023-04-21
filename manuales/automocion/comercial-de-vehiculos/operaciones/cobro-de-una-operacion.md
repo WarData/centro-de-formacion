@@ -11,7 +11,7 @@ Dada una operación confirmada pendiente de entregar o recibir el vehículo <mar
 * **Desde la factura del vehículo:** desde la ficha de la operación en el botón inferior "Acciones especiales" es posible generar la factura del vehículo, así como otras opciones como dar de alta la OR de pre-entrega. En caso de generar la factura desde esta opción y cobrarla, quedará registrado y asociado el pago, teniendo en cualquier caso que efectuar el paso anterior para marcarla como cobrada (la aplicación verificará que se ha cobrado el total)
 * **Desde tesorería generando el cobro de la factura del vehículo:** una vez generada la factura desde "Acciones especiales" es posible generar el registro en la cuenta de tesorería que queramos y asociarlo a la factura.
 
-<figure><img src="../../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (14) (3).png" alt=""><figcaption></figcaption></figure>
 
 Luego se indican dos preguntas de control (si se ha financiado y si se ha asegurado a fin de ofrecer seguros o verificar que el cliente tiene su vehículo de alta en una compañía aseguradora).
 

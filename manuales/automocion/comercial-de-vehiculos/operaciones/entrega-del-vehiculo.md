@@ -10,7 +10,7 @@ Este paso supone la entrega y cierre de la operación, quedando únicamente la o
 
 Tras confirmar la entrega y cierre de la operación aparecerá el mensaje sobre actualizar los datos de matriculación del bastidor (opcional):
 
-<figure><img src="../../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si optamos por actualizar disponemos de un formulario de matrícula donde se añaden los campos de fecha de matriculación, de fin de garantía y de próxima ITV, así como datos del seguro a fin de ofrecer reparaciones sobre posibles siniestros y facilitar la gestión al cliente:
 
