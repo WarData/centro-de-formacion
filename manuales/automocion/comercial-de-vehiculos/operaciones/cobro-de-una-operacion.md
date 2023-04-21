@@ -4,7 +4,7 @@ Dada una operación confirmada pendiente de entregar o recibir el vehículo <mar
 
 <figure><img src="../../../../.gitbook/assets/imagen (11) (3).png" alt=""><figcaption></figcaption></figure>
 
-* **Desde el panel de operaciones:** seleccionando la operación y pulsando en "Cobrar" ![](<../../../../.gitbook/assets/imagen (10) (1).png>) la aplicación indicará que se cobrará el resto de la operación si es que existen pagos anteriores mediante anticipos (quedarán reflejados en la pestaña "Gestión" dentro de la ficha de la operación en el apartado "Cobros"
+* **Desde el panel de operaciones:** seleccionando la operación y pulsando en "Cobrar" ![](<../../../../.gitbook/assets/imagen (10) (1) (1).png>) la aplicación indicará que se cobrará el resto de la operación si es que existen pagos anteriores mediante anticipos (quedarán reflejados en la pestaña "Gestión" dentro de la ficha de la operación en el apartado "Cobros"
 
 <figure><img src="../../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
 

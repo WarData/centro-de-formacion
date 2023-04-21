@@ -39,7 +39,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Es fundamental seguir estos pasos detenidamente para la correcta alta del modelo completo**</mark>
 

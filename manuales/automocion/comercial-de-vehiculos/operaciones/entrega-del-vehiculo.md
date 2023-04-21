@@ -22,7 +22,7 @@ Actualizados los datos de matriculación, ITV y compañía de seguros (opcional)
 
 La línea de la operación en el panel de operaciones quedaría de la siguiente forma:
 
-<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si entramos en la ficha de la operación y pulsamos en "Finalizar expediente" nos quedará la operación en el panel de la siguiente forma:
 
