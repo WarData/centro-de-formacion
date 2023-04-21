@@ -18,7 +18,7 @@ Aparecerá el mismo selector de presupuesto que en la opción anterior a fin de 
 
 2.- Pulsando aceptar en la ficha de la entidad la aplicación nos muestra las opciones de bastidor que hay en stock para la opción modelo - color seleccionada o para mantener el stock y pedir a proveedor:
 
-<figure><img src="../../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 En este caso seleccionamos el bastidor y pulsamos en aceptar para asignarlo a la operación.
 

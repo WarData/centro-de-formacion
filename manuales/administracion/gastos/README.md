@@ -36,4 +36,4 @@ Permite realizar una comparativa entre cartera de cobros y saldos contables por 
 
 Ejemplo con la entidad 8 - Multiservicios Winmotor
 
-<figure><img src="../../../.gitbook/assets/imagen (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

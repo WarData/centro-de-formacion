@@ -30,7 +30,7 @@ A) Rellenar festivos para cada ejercicio > desde el panel de configuración puls
 
 En el formulario es posible ir creando uno a uno cada día o importar desde otro ejercicio e ir modificando fechas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 B) Dar de alta turnos y asignarlos a los asesores de servicio pasando de derecha a izquierda los requeridos y que estén como "Asesores de servicio" en su tipo de entidad. El menú de alta y edición de turnos y asesores de servicio se encuentra en el botón indicado en la imagen, en el panel de configuración:
 
@@ -79,7 +79,7 @@ D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
 Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 E) La pestaña <mark style="color:yellow;">**"Diario del departamento"**</mark> muestra una rejilla de datos con cada día del ejercicio actual con las citas y horas totales, minutos ocupados, libres y el porcentaje de ocupación para un control detallado de cada año:
 
@@ -87,7 +87,7 @@ E) La pestaña <mark style="color:yellow;">**"Diario del departamento"**</mark> 
 
 F) La pestaña <mark style="color:yellow;">**"Citas"**</mark> permite mostrar todas las citas del asesor seleccionado indicando el intervalo de fecha. La rejilla de datos muestra fecha, hora, tipo de cita (recepción o devolución), cliente, vehículo, tiempo de cita, si incluye vehículo de cortesía o no y si se ha reasignado o cambiada la fecha:
 
-<figure><img src="../../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen superior. El primer botón ![](<../../../../.gitbook/assets/imagen (14) (3) (2).png>) cambia el asesor de servicio y el segundo botón ![](<../../../../.gitbook/assets/imagen (9) (1) (2).png>) la fecha, mostrándose los cambios en la rejilla:
 

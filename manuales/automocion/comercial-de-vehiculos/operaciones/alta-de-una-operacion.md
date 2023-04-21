@@ -28,7 +28,7 @@
 
 El localizador presenta varios índices recomendando el uso de "Trozos de palabras", activar el check "Modelos y colores" y realizar la búsqueda mediante mínimo 3 caracteres seguidos (sin espacios entre ellos):
 
-<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (6).png" alt=""><figcaption></figcaption></figure>
 
 En el alta de la operación se añade el modelo junto al precio base sin IVA y con IVA (si se incluyó en el alta del modelo), pudiendo modificar cualquiera de los 2 campos refrescándose el valor del contrario. Una vez verificados los datos se confirma en el siguiente check:
 
@@ -58,3 +58,27 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 **10.- La operación aparecerá en la rejilla del panel de operaciones con situación "Iniciada"**
 
 <figure><img src="../../../../.gitbook/assets/imagen (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+**11.- Pestaña financiación en el alta:**
+
+<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+
+Permite modificar tipo de pago, asignar una tabla financiera [(véase tablas financieras)](../tablas-financieras.md) así como la entrada inicial y sobrefinanciación si se selecciona una y rejillas con el cálculo de la cuota mensual en función de la tabla financiera seleccionada.
+
+También es posible el alta de nuevas tablas mediante el doble clic o botón derecho "Alta de ficha" tras pulsar el botón para la búsqueda de tablas:
+
+<figure><img src="../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+
+**12.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
+
+<figure><img src="../../../../.gitbook/assets/imagen (7).png" alt=""><figcaption></figcaption></figure>
+
+13.- Pestaña "VO" en la operación comercial > [véase también tablas tasación VO](../tablas-tasacion-vo.md) > permiten añadir conjuntos de puntos a revisar como carrocería, mecánica, pintura, etc. y luego ejercer un estado para realizar la tasación final del vehículo con un precio que será el de compra al final de la operación, mediante un albarán de compras al propietario:
+
+<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+
+Se suman los conjuntos y se valora introduciendo la cantidad manualmente según la imagen:
+
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+Este importe es el que se aplicará a la compra del VO si se añadió algún dato en la parte de entrega de VO en el alta de la operación de vehículo nuevo.

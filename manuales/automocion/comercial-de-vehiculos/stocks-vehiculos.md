@@ -82,7 +82,7 @@ En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
 Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin precios", eliminando de la rejilla los campos de compra y venta:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
@@ -108,7 +108,7 @@ Una vez creado el traslado, se muestra el parte de almacén para confirmar y que
 
 Se indica una regularización de las líneas para el control de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 

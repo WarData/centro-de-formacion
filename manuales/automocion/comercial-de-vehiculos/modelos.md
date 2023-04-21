@@ -10,11 +10,11 @@ Esta opción permite dar de alta y gestionar las estructuras de modelo para oper
 
 Dada la estructura mostramos el sistema arbolado por el cual se presenta los modelos dados de alta y los bastidores que corresponden al modelo - color:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**BOTONERA SUPERIOR**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Actualizar</mark>: refresca la vista arbolada tras actualizar o dar de alta algún modelo
 * <mark style="color:blue;">F1 - Nuevo Modelo</mark>: permite dar de alta cada una de las partes de la estructura que constituye un modelo. Para ello muestra un formulario donde existe la posibilidad de seleccionar partes del modelo ya dadas de alta. En caso de que el localizador de la marca, gama o versión no contenga datos, no tendrá tampoco datos ninguno de los elementos posteriores, teniéndolo que dar de alta.
@@ -39,7 +39,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Es fundamental seguir estos pasos detenidamente para la correcta alta del modelo completo**</mark>
 
@@ -116,4 +116,4 @@ Ejemplo de listado de colores:
 
 Presenta un panel para control y revisión de modelos creados o alta de gamas, versiones:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
