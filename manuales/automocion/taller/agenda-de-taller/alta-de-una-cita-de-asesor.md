@@ -34,7 +34,7 @@ Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook
 
 <mark style="color:yellow;">**OPCIÓN A > Cita con una única hora**</mark> > Se selecciona fecha de recepción (se marcará para próximas citas en azul claro) y <mark style="color:yellow;">**se pulsa en la hora seleccionada**</mark> y luego fecha de entrega (se marcará para próximas citas en verde lima).
 
-<mark style="color:yellow;">**OPCIÓN B > Cita con multiselección**</mark> > Se pulsa en el botón ![](../../../../.gitbook/assets/imagen.png) "Cambiar a vista multiselección" pudiendo ahora seleccionar varias horas para una única cita y confirmar el intervalo con el botón ![](<../../../../.gitbook/assets/imagen (1) (1).png>) "Confirmar selección". La cita mostrará el intervalo total de la cita:
+<mark style="color:yellow;">**OPCIÓN B > Cita con multiselección**</mark> > Se pulsa en el botón ![](<../../../../.gitbook/assets/imagen (1).png>) "Cambiar a vista multiselección" pudiendo ahora seleccionar varias horas para una única cita y confirmar el intervalo con el botón ![](<../../../../.gitbook/assets/imagen (1) (1) (8).png>) "Confirmar selección". La cita mostrará el intervalo total de la cita:
 
 <figure><img src="../../../../.gitbook/assets/imagen (117).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ En el diario del taller podremos pulsar doble clic para visualizar las citas de 
 
 Desde asesor Winmotor viendo la cita de usuario Demo a las 10 (dada de alta como usuario invitado):
 
-<figure><img src="../../../../.gitbook/assets/imagen (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (123) (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**2.- Citas a nuevos clientes o a vehículos no existentes en la base de datos:**</mark>
 

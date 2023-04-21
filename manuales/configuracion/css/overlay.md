@@ -4,4 +4,4 @@ Permite difuminar el fondo cuando una ventana emergente o formulario ocupa el pr
 
 <figure><img src="../../../.gitbook/assets/imagen (4) (3) (1).png" alt=""><figcaption><p>Ejemplo de overlay con trasnparencia al 50%</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (2) (1).png" alt=""><figcaption><p>Ejemplo de overlay con transparencia al 10%</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (2).png" alt=""><figcaption><p>Ejemplo de overlay con transparencia al 10%</p></figcaption></figure>

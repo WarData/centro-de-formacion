@@ -6,17 +6,17 @@ Existen tres ubicaciones para añadirlas / modificarlas y/o presentar los datos:
 
 **1.- Pestaña financiación en el alta:**
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (10).png" alt=""><figcaption></figcaption></figure>
 
 Permite modificar tipo de pago, asignar una tabla financiera, así como la entrada inicial y sobrefinanciación si se selecciona una y rejillas con el cálculo de la cuota mensual en función de la tabla financiera seleccionada.
 
 También es posible el alta de nuevas tablas mediante el doble clic o botón derecho "Alta de ficha" tras pulsar el botón para la búsqueda de tablas:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 **2.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
 
-<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (7).png" alt=""><figcaption></figcaption></figure>
 
 El panel de la opción "Tablas financieras" muestra las tablas dadas de alta a fin de dar de alta o modificar las existentes:
 

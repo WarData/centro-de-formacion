@@ -39,7 +39,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 3.- Daremos de alta la versión del mismo modo y usando un formulario específico:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**Es fundamental seguir estos pasos detenidamente para la correcta alta del modelo completo**</mark>
 
@@ -49,7 +49,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * En la versión disponemos de un campo "Serie" referente a una estructura solicitada por algunas marcas. Además de poder dar de alta las series que queramos, existen unas series por defecto por lo que sólo habría que seleccionar la correcta si existe:
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 * El formulario de alta de la versión quedaría así:
 
@@ -85,7 +85,7 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * <mark style="color:blue;">F2 - Buscar modelo</mark>: muestra un localizador mediante varios índices de búsqueda como trozos de palabras y referencia de fabricante y modelos / colores, modelos y colores por separado. Es similar al localizador de modelos usado en albaranes de compras de vehículos y operaciones:
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F3 - Listados</mark>: presenta varias opciones sobre los listados a mostrar:
 
