@@ -2,7 +2,7 @@
 
 Dentro de la pestaña de Gestión nos encontramos con 6 pestañas de configuración:
 
-* **Generales **(departamentos básicos de Taller y Comercial, permitir ventas sin stock - uso de opción NO RECOMENDADA sin analizar por parte de los técnicos de Winmotor, etc...)
+* Generales (departamentos básicos de Taller y Comercial, permitir ventas sin stock - uso de opción NO RECOMENDADA sin analizar por parte de los técnicos de Winmotor, etc...)
 
 ![](<../../../.gitbook/assets/image (408).png>)
 
