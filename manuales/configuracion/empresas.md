@@ -1,6 +1,6 @@
 # Empresas
 
-Definiendo empresa como entidad en la que intervienen el capital y el trabajo como factores de producción de actividades industriales o mercantiles o para la prestación de servicios, dentro de este menú podemos comprobar el número de empresas y las fichas de aquellas dadas de alta como este tipo de entidad.
+Dentro de este menú podemos comprobar el número de empresas y las fichas de aquellas dadas de alta como este tipo de entidad.
 
 La entidad dada de alta como tipo "Empresa" será la que servirá al programa para administrar sus datos en los diferentes informes, así como la asignación del almacén principal, control de réplica de documentos, series por defecto a nivel empresa (es posible configurar series por defecto a nivel perfil de usuario) y configuración de departamentos laborales y RRHH.
 
