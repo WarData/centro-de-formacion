@@ -12,7 +12,7 @@ Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook
 
 <figure><img src="../../../../.gitbook/assets/imagen (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* El siguiente paso es "Temparios". Se pueden añadir desde 1 a 5 temparios de forma simultánea, pudiendo añadir mediante el botón "Notas" texto a cada tempario:
+* El siguiente paso es ["Temparios"](../temparios.md). Se pueden añadir desde 1 a 5 temparios de forma simultánea, pudiendo añadir mediante el botón "Notas" texto a cada tempario:
 
 <figure><img src="../../../../.gitbook/assets/imagen (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -74,4 +74,4 @@ Ahora el formulario nos permite grabar el modelo del vehículo, cliente y teléf
 
 <figure><img src="../../../../.gitbook/assets/imagen (2) (9).png" alt=""><figcaption></figcaption></figure>
 
-El resto de la cita se genera igual que el punto 1
+<mark style="color:yellow;">El resto de la cita se genera igual que el punto 1</mark>
