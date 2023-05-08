@@ -54,7 +54,7 @@ Pulsando doble clic en una cita de entrega o devolución:
 
 <mark style="color:blue;">**Pestaña "Citas":**</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (120) (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Pestaña "Trabajadores":**</mark>
 
@@ -66,7 +66,7 @@ Pulsar "Nueva cita" ![](<../../../../.gitbook/assets/imagen (126).png>) en el pa
 
 [Véase "Alta de una cita de asesor"](alta-de-una-cita-de-asesor.md) para completar el formulario de cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (175) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pulsar "Vista calendario" muestra las citas solicitadas al departamento de asesores de taller en Google Calendar:
 

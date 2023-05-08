@@ -10,6 +10,6 @@ Pueden existir tantas tablas como se desee (en la serie sólo es posible añadir
 
 Tabla de carrocería:
 
-<figure><img src="../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (7).png" alt=""><figcaption></figcaption></figure>
 
 Estas tablas sirven como guía a la tasación del VO dentro de una operación comercial.

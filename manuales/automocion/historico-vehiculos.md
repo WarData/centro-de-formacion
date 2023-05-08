@@ -8,7 +8,7 @@ Es posible dar de alta un vehículo, buscar uno mediante diferentes localizadore
 
 También es posible mostrar una estadística de producción de vehículos mediante el filtrado por intervalo de fecha, tipo de vehículo (nuevo, ocasión o ambos), datos del modelo o marca - gama- versión, cliente, vendedor, agente y por serie de facturación:
 
-<figure><img src="../../.gitbook/assets/imagen (6) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (6) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Panel de histórico de vehículos:
 

@@ -12,7 +12,7 @@ Permite modificar tipo de pago, asignar una tabla financiera, así como la entra
 
 También es posible el alta de nuevas tablas mediante el doble clic o botón derecho "Alta de ficha" tras pulsar el botón para la búsqueda de tablas:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
 
@@ -24,11 +24,11 @@ El panel de la opción "Tablas financieras" muestra las tablas dadas de alta a f
 
 Editando una tabla existente:
 
-<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (5).png" alt=""><figcaption></figcaption></figure>
 
 **3.- En la serie de operaciones VN:**
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 Campos de la tabla:
 
