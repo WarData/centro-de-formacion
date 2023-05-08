@@ -28,9 +28,9 @@ C) Botonera superior derecha:
 
 <figure><img src="../../../../.gitbook/assets/imagen (121) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Filtro por defecto: una vez ajustados todos los filtros, pulsando en "Establecer filtro por defecto", cada vez que se abra de nuevo la agenda de citas mantendrá la configuración de filtros guardadas:
+*   Filtro por defecto: una vez ajustados todos los filtros, pulsando en "Establecer filtro por defecto", cada vez que se abra de nuevo la agenda de citas mantendrá la configuración de filtros guardadas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (34) (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
 
 D) Rejilla de citas de asesor:
 
