@@ -6,13 +6,13 @@ Existen tres ubicaciones para añadirlas / modificarlas y/o presentar los datos:
 
 **1.- Pestaña financiación en el alta:**
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permite modificar tipo de pago, asignar una tabla financiera, así como la entrada inicial y sobrefinanciación si se selecciona una y rejillas con el cálculo de la cuota mensual en función de la tabla financiera seleccionada.
 
 También es posible el alta de nuevas tablas mediante el doble clic o botón derecho "Alta de ficha" tras pulsar el botón para la búsqueda de tablas:
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
 
@@ -28,7 +28,7 @@ Editando una tabla existente:
 
 **3.- En la serie de operaciones VN:**
 
-<figure><img src="../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Campos de la tabla:
 
@@ -40,6 +40,6 @@ Campos de la tabla:
 * Retorno vendedor: comisión que recibe el vendedor por el alta de la financiación
 * Rejilla de datos con columnas meses, coeficiente, importe mínimo y máximo > permiten el alta de cuotas por determinados meses:
 
-<figure><img src="../../../.gitbook/assets/imagen (3) (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (1) (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Comentarios: permite añadir texto a un campo libre a modo informativo

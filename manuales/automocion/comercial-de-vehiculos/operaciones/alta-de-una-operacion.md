@@ -61,13 +61,13 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 
 **11.- Pestaña financiación en el alta:**
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permite modificar tipo de pago, asignar una tabla financiera [(véase tablas financieras)](../tablas-financieras.md) así como la entrada inicial y sobrefinanciación si se selecciona una y rejillas con el cálculo de la cuota mensual en función de la tabla financiera seleccionada.
 
 También es posible el alta de nuevas tablas mediante el doble clic o botón derecho "Alta de ficha" tras pulsar el botón para la búsqueda de tablas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (6) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6) (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
 
@@ -75,10 +75,10 @@ También es posible el alta de nuevas tablas mediante el doble clic o botón der
 
 13.- Pestaña "VO" en la operación comercial > [véase también tablas tasación VO](../tablas-tasacion-vo.md) > permiten añadir conjuntos de puntos a revisar como carrocería, mecánica, pintura, etc. y luego ejercer un estado para realizar la tasación final del vehículo con un precio que será el de compra al final de la operación, mediante un albarán de compras al propietario:
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se suman los conjuntos y se valora introduciendo la cantidad manualmente según la imagen:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (8).png" alt=""><figcaption></figcaption></figure>
 
 Este importe es el que se aplicará a la compra del VO si se añadió algún dato en la parte de entrega de VO en el alta de la operación de vehículo nuevo.

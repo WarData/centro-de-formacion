@@ -8,4 +8,4 @@ En Configuración > Cuentas de correo > podremos configurar tantas cuentas como 
 
 Las cuentas pueden ser multi-usuario, privadas y tener firmas por cuenta y/o usuario.
 
-<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>

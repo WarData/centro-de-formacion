@@ -16,13 +16,29 @@ El alta de la cita se realiza accediendo a la opción del menú izquierdo indica
 
 <mark style="color:yellow;">**2.- La agenda de los asesores del día que se seleccione en el diario**</mark>
 
-<mark style="color:yellow;">**3.- Mediante el botón "Mis citas"**</mark> ![](<../../../../.gitbook/assets/imagen (125).png>) <mark style="color:yellow;">**ver las citas solicitadas por su usuario a los operarios**</mark> (segunda imagen):
+<mark style="color:yellow;">**3.- Lo vehículos de cortesía activando o desactivando el check "Ver vehículos cortesía"**</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
-Citas solicitadas por invitado:
+<mark style="color:yellow;">**4.- Mediante los botones "Ver citas" y "Ver horarios"**</mark> <mark style="color:yellow;">**ver las citas solicitadas al departamento completo (primera imagen) o, tras seleccionar "Ver citas", seleccionar el check "Sólo creadas para mí" para filtrar únicamente las solicitadas por el invitado (segunda imagen):**</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (119).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:yellow;">5.- Vista del calendario Google Calendar con una cuenta gestionada por Winmotor y con la que podrá acceder desde cualquier dispositivo, ya sea un ordenador, tableta o móvil:</mark>
+
+<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+
+Pulse el botón "Vista estándar" ![](<../../../../.gitbook/assets/imagen (36).png>) para volver a la vista del panel de citas.
+
+**Sólo citas del usuario invitado:**
+
+<figure><img src="../../../../.gitbook/assets/imagen (176).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+**Panel de citas de invitado:**
+
+<figure><img src="../../../../.gitbook/assets/imagen (117).png" alt=""><figcaption></figcaption></figure>
 
 Además, pulsando botón derecho encima de un día del diario de taller y pulsando en "Modificar campo" obtendremos un detalle de la carga de las citas de ese día de los asesores, pudiendo acceder a los detalles con doble clic en las horas, total de citas y los trabajadores del departamento con sus horarios:
 
@@ -34,7 +50,7 @@ Además, pulsando botón derecho encima de un día del diario de taller y pulsan
 
 Pulsando doble clic en una cita de entrega o devolución:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (123).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**Pestaña "Citas":**</mark>
 
@@ -50,7 +66,7 @@ Pulsar "Nueva cita" ![](<../../../../.gitbook/assets/imagen (126).png>) en el pa
 
 [Véase "Alta de una cita de asesor"](alta-de-una-cita-de-asesor.md) para completar el formulario de cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (37) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (175).png" alt=""><figcaption></figcaption></figure>
 
 Pulsar "Vista calendario" muestra las citas solicitadas al departamento de asesores de taller en Google Calendar:
 

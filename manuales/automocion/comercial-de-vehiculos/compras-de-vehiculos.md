@@ -2,7 +2,7 @@
 
 Estadística que filtra compras de vehículos mediante albaranes o facturas, intervalo de fechas, tipo de vehículo, serie (referente a la serie de la versión en modelos), marca - gama - versión o modelo, por proveedor y por serie de facturación:
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (7).png" alt=""><figcaption></figcaption></figure>
 
 El filtro mostrará una rejilla con número de factura, fecha, proveedor, bastidor, modelo e importe, haciendo un sumatorio a este último campo:
 
