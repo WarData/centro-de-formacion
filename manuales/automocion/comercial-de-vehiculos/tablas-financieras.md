@@ -28,7 +28,7 @@ Editando una tabla existente:
 
 **3.- En la serie de operaciones VN:**
 
-<figure><img src="../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Campos de la tabla:
 

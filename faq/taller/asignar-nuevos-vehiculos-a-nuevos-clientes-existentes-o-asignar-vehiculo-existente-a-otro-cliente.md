@@ -51,6 +51,6 @@ Para ambos casos, el procedimiento es muy similar y aquí os contamos las excepc
 
 Tras aceptar la OR y tabular:
 
-<figure><img src="../../.gitbook/assets/imagen (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**5.- NO ES NECESARIO COMPLETAR LA OR SI NO ES NECESARIO, EL ALTA DE VEHÍCULO / TRANSFERENCIA SE HA PRODUCIDO, POR LO QUE AUNQUE SE CANCELE LA OR, SE MANTENDRÁN LAS ALTAS Y TRANSFERENCIAS**</mark>
