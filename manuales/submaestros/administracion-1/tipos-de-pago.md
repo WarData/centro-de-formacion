@@ -2,7 +2,7 @@
 
 En Winmotor es posible definir uno o varios, incluso incluir formas de pago internas como puntos acumulados o cheques regalo.
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">Existen dos tipos de pago:</mark>
 

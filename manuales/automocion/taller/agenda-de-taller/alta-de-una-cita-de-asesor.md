@@ -36,7 +36,7 @@ Desde el panel de la agenda de citas, pulsando en <img src="../../../../.gitbook
 
 <mark style="color:yellow;">**OPCIÓN B > Cita con multiselección**</mark> > Se pulsa en el botón ![](<../../../../.gitbook/assets/imagen (1) (1) (8).png>) "Cambiar a vista multiselección" pudiendo ahora seleccionar varias horas para una única cita y confirmar el intervalo con el botón ![](<../../../../.gitbook/assets/imagen (1) (1) (8) (1) (1).png>) "Confirmar selección". La cita mostrará el intervalo total de la cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 Detalle del tiempo:
 
@@ -44,7 +44,9 @@ Detalle del tiempo:
 
 * <mark style="color:orange;">Con vehículo de cortesía</mark> mostrará los días partidos en bloques de mañana y tarde, vehículos disponibles y ocupados (blanco y azul respectivamente). Se marcan bloques continuos de mañana y tarde y mostrará hora de recepción y entrega, después verificar datos y aceptar creando la cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+
+\*\*\* Botón para reiniciar la selección de mañanas / tardes y horas sin salir del formulario
 
 <figure><img src="../../../../.gitbook/assets/imagen (116) (3).png" alt=""><figcaption></figcaption></figure>
 
