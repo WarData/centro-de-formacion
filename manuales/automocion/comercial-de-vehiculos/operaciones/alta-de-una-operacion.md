@@ -32,7 +32,7 @@ El localizador presenta varios índices recomendando el uso de "Trozos de palabr
 
 En el alta de la operación se añade el modelo junto al precio base sin IVA y con IVA (si se incluyó en el alta del modelo), pudiendo modificar cualquiera de los 2 campos refrescándose el valor del contrario. Una vez verificados los datos se confirma en el siguiente check:
 
-<figure><img src="../../../../.gitbook/assets/imagen (14) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (14) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se podrán añadir a partir de este momento más modelos al presupuesto y más presupuestos a la operación como indicamos anteriormente:
 

@@ -6,7 +6,7 @@ Dada una operación cobrada <mark style="color:blue;">(situación en color azul)
 
 Este paso supone la entrega y cierre de la operación, quedando únicamente la opción de "Finalizar expediente" usando el botón disponible en la ficha de la operación entregada (situación en color gris ténue):
 
-<figure><img src="../../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 Tras confirmar la entrega y cierre de la operación aparecerá el mensaje sobre actualizar los datos de matriculación del bastidor (opcional):
 
@@ -26,6 +26,6 @@ La línea de la operación en el panel de operaciones quedaría de la siguiente 
 
 Si entramos en la ficha de la operación y pulsamos en "Finalizar expediente" nos quedará la operación en el panel de la siguiente forma:
 
-<figure><img src="../../../../.gitbook/assets/imagen (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (15) (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/imagen (36) (1).png" alt=""><figcaption></figcaption></figure>
