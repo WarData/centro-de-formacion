@@ -6,7 +6,7 @@ Estadística que filtra compras de vehículos mediante albaranes o facturas, int
 
 El filtro mostrará una rejilla con número de factura, fecha, proveedor, bastidor, modelo e importe, haciendo un sumatorio a este último campo:
 
-<figure><img src="../../../.gitbook/assets/imagen (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (12) (5).png" alt=""><figcaption></figcaption></figure>
 
 Es importante recordaros el uso de filtros en las rejillas de datos para sacarle el máximo rendimiento a la aplicación Winmotor, por lo que os recomendamos la lectura de esta entrada del Blog de Winmotor:
 

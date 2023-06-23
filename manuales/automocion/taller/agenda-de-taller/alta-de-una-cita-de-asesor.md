@@ -44,7 +44,7 @@ Detalle del tiempo:
 
 * <mark style="color:orange;">Con vehículo de cortesía</mark> mostrará los días partidos en bloques de mañana y tarde, vehículos disponibles y ocupados (blanco y azul respectivamente). Se marcan bloques continuos de mañana y tarde y mostrará hora de recepción y entrega, después verificar datos y aceptar creando la cita:
 
-<figure><img src="../../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (8) (5).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Botón para reiniciar la selección de mañanas / tardes y horas sin salir del formulario
 
@@ -64,7 +64,7 @@ En el diario del taller podremos pulsar doble clic para visualizar las citas de 
 
 Desde asesor Winmotor viendo la cita de usuario Demo a las 10 (dada de alta como usuario invitado):
 
-<figure><img src="../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**2.- Citas a nuevos clientes o a vehículos no existentes en la base de datos:**</mark>
 

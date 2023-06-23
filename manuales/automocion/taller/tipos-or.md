@@ -16,7 +16,7 @@ El panel de tipos de OR presenta un listado arbolado en el lateral izquierdo que
 * Tempario: permite localizar un tempario a fin de añadirlo al seleccionar un tipo de OR en el alta de la orden de reparación.
 * Un ejemplo de tipo de OR para la pre-entrega de vehículos nuevos sería:
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Para crear tipos de OR en árbol debemos crear primero una rama y después agragar ramas a la anterior añadiendo uno o más caracteres a la referencia. Ponemos el ejemplo del tipo PRE - Pre-entrega:
 

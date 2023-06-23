@@ -29,7 +29,7 @@ A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario
 * Precio Vta. Total (Sin imp.): valor del precio de venta multiplicado por el campo "Tiempo" sin aplicar impuestos
 * Tipo impuesto: permite seleccionar el valor del impuesto entre los mostrados en el localizador
 
-<figure><img src="../../../.gitbook/assets/imagen (9) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (9) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Tiempo real concesionario: en la agenda de taller, al incorporar un tempario al alta de una cita ocupará el valor indicado en este campo en las horas de taller, no el indicado en el campo "Tiempo". Se usa para establecer un tiempo medio real entre lo estimado para el cliente y taller.
 
@@ -47,7 +47,7 @@ A) **F1 - Nuevo**: alta de un nuevo tempario que muestra el siguiente formulario
 
 * Temparios: añade temparios existentes - no requiere indicar unidades al ser trabajos (servicios)
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Auditoría: muestra la fecha y hora de creación y modificación así como el usuario que realizó cada operación y el log de cada modificación o borrado del tempario
 
@@ -84,4 +84,4 @@ Permite mostrar el formulario de copia del tempario seleccionado en la rejilla d
 
 <figure><img src="../../../.gitbook/assets/imagen (1) (5) (2).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:yellow;">\*\*\* Los temparios son fundamentales para obtener la máxima agilidad, imagen cara al cliente y rendiemiento en la agenda de taller.</mark> <mark style="color:orange;"></mark> [<mark style="color:orange;">Recomendamos ver el manual "Agenda de taller"</mark>](agenda-de-taller/)<mark style="color:orange;"></mark>
+<mark style="color:yellow;">\*\*\* Los temparios son fundamentales para obtener la máxima agilidad, imagen cara al cliente y rendiemiento en la agenda de taller.</mark> [<mark style="color:orange;">Recomendamos ver el manual "Agenda de taller"</mark>](agenda-de-taller/)

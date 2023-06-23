@@ -259,6 +259,7 @@
   * [Rejillas - Funciones Especiales - Rejillas avanzadas](tutoriales/general/rejillas-funciones-especiales.md)
   * [Notificaciones Emergentes](tutoriales/general/notificaciones-emergentes.md)
 * [Comercial](tutoriales/comercial/README.md)
+  * [Comprar un vehículo nuevo VN](tutoriales/comercial/comprar-un-vehiculo-nuevo-vn.md)
   * [Comprar un vehículo de ocasión VO](tutoriales/comprar-un-vehiculo-de-ocasion-vo.md)
   * [Operación confirmada o cobrada > pasar a iniciada cuando tiene vehículo asignado](tutoriales/operacion-confirmada-o-cobrada-greater-than-pasar-a-iniciada-cuando-tiene-vehiculo-asignado.md)
   * [Abonar un vehículo desde su factura](tutoriales/abonar-un-vehiculo.md)

@@ -26,9 +26,9 @@ El alta de la cita se realiza accediendo a la opción del menú izquierdo indica
 
 <mark style="color:yellow;">5.- Vista del calendario Google Calendar con una cuenta gestionada por Winmotor y con la que podrá acceder desde cualquier dispositivo, ya sea un ordenador, tableta o móvil:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (4).png" alt=""><figcaption></figcaption></figure>
 
-Pulse el botón "Vista estándar" ![](<../../../../.gitbook/assets/imagen (36).png>) para volver a la vista del panel de citas.
+Pulse el botón "Vista estándar" ![](<../../../../.gitbook/assets/imagen (36) (2).png>) para volver a la vista del panel de citas.
 
 **Sólo citas del usuario invitado:**
 
@@ -62,7 +62,7 @@ Pulsando doble clic en una cita de entrega o devolución:
 
 Pulsar "Nueva cita" ![](<../../../../.gitbook/assets/imagen (126).png>) en el panel de invitados solicitará el asesor sobre el que realizar la solicitud:
 
-<figure><img src="../../../../.gitbook/assets/imagen (38) (2).png" alt=""><figcaption><p>Doble clic en asesor seleccionado</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (38) (2) (1).png" alt=""><figcaption><p>Doble clic en asesor seleccionado</p></figcaption></figure>
 
 [Véase "Alta de una cita de asesor"](alta-de-una-cita-de-asesor.md) para completar el formulario de cita:
 

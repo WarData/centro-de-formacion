@@ -9,4 +9,4 @@ Para gestionar la cita existe una operativa en su formulario a fin de <mark styl
 
 **Cambio de estado e icono:**
 
-<figure><img src="../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (2).png" alt=""><figcaption></figcaption></figure>
