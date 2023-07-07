@@ -38,7 +38,7 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 \- En la parte inferior izquierda tendremos las opciones para imprimir o exportar los resultados por diferentes medios y criterios (cliente/vendedor):
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 \- Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 

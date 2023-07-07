@@ -79,7 +79,7 @@ D) Definir vehículos de cortesía desde la pestaña "Vehículos":
 
 Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 E) La pestaña <mark style="color:yellow;">**"Diario del departamento"**</mark> muestra una rejilla de datos con cada día del ejercicio actual con las citas y horas totales, minutos ocupados, libres y el porcentaje de ocupación para un control detallado de cada año:
 
