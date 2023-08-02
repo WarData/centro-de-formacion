@@ -4,7 +4,7 @@ description: Alta - Modificación - Cambio contraseña - Bloqueo - Eliminación
 
 # Usuarios
 
-En el siguiente listado, podemos comprobar todos los usuarios **incluyendo su nombre de usuario de la aplicación, perfil al que pertenece y su nombre completo, así como crear un usuario con 2 opciones:**
+En el siguiente listado, podemos comprobar todos los usuarios **incluyendo su nombre de usuario de la aplicación, perfil al que pertenece y su nombre completo, así como crear un usuario con 2 opciones (botón en la parte inferior "Nuevo usuario":**
 
 * _Nuevo usuario: crea un nuevo usuario desde 0_
 * _Buscar entidad y poner como usuario: se puede seleccionar una entidad de las ya existentes en la base de datos y se le añade que es usuario_
