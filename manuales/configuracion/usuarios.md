@@ -7,7 +7,7 @@ description: Alta - Modificación - Cambio contraseña - Bloqueo - Eliminación
 En el siguiente listado, podemos comprobar todos los usuarios **incluyendo su nombre de usuario de la aplicación, perfil al que pertenece y su nombre completo, así como crear un usuario con 2 opciones (botón en la parte inferior "Nuevo usuario":**
 
 * _Nuevo usuario: crea un nuevo usuario desde 0_
-* _Buscar entidad y poner como usuario: se puede seleccionar una entidad de las ya existentes en la base de datos y se le añade que es usuario_
+* _Buscar entidad y poner como usuario: se puede seleccionar una entidad de las ya existentes en la base de datos y se le añade que es usuario:_
 
 <figure><img src="../../.gitbook/assets/imagen (39).png" alt=""><figcaption></figcaption></figure>
 
