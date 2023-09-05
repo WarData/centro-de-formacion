@@ -308,7 +308,7 @@
 * [Administración](faq/administracion/README.md)
   * [Facturas](faq/facturas/README.md)
     * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
-  * [Page](faq/administracion/page.md)
+  * [Nueva Ley IVA del 5%](faq/administracion/nueva-ley-iva-del-5.md)
   * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
 * [Taller](faq/taller/README.md)
   * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
