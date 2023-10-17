@@ -89,4 +89,3 @@ Para activar la API relativa a Wincoins habrá que ir al programa (Utilidades > 
 
 * WCI\_ACT\_WIN\_COI@dat\_winmotor
 * MOD\_EMA\_CLI\_X\_ID@W7\_AP\_COMU
-* W7\_WIN\_COI@dat\_winmotor
