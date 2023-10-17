@@ -46,7 +46,7 @@ Por defecto el nombre de la "moneda" será Wincoins pero cada empresa podrá est
 
 <figure><img src="../.gitbook/assets/Screenshot_2 (1).png" alt=""><figcaption></figcaption></figure>
 
-**4- **<mark style="color:orange;">**API:**</mark>
+4.- <mark style="color:orange;">**API:**</mark>
 
 * **OBTENER ID CLIENTE POR TELEFONO**
   * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/W7\_ENT?api\_key=XXX\&filter\[TELEFONOS\_TODOS]=666888111
@@ -65,20 +65,23 @@ Por defecto el nombre de la "moneda" será Wincoins pero cada empresa podrá est
 * **CONSULTAR HISTÓRICO WINCOINS DE CLIENTE**
   * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/W7\_WIN\_COI?api\_key=1234\&filter\[ENT]=6618
   * Se podrá solicitar a winmotor el histórico de movimientos registrados de un cliente donde han intervenido wincoins (ya sea para añadir saldo o para restar) indicando el ID del cliente del que queremos consultar el histórico.
-  * Winmotor nos devolverá todos los movimientos de wincoins realizados con la siguiente información en cada registro:
-    * ID: código único del movimiento
-    * LIN: código único de la línea de documento en la que se aplica wincoins.
-    * CAB: código único del documento en el que se aplica wincoins
-    * ENT: código único de la entidad consultada
-    * FEC\_ALT: fecha de alta del movimiento
-    * FEC\_CAD: fecha de caducidad del saldo
-    * ORI: indica si se ha calculando en base a la serie, la familia o el artículo.
-    * ORI\_WXU: wincoins aplicados por unidad
-    * ORI\_CUO: cuota de cálculo
-    * WCI\_ACU: wincoins acumulados
-    * WCI\_CON: wincoins consumidos
-    * WCI\_SAL: saldo de wincoins
-    * ACT: si el saldo está activo o no
+  *   Winmotor nos devolverá todos los movimientos de wincoins realizados con la siguiente información en cada registro:
+
+      * ID: código único del movimiento
+      * LIN: código único de la línea de documento en la que se aplica wincoins.
+      * CAB: código único del documento en el que se aplica wincoins
+      * ENT: código único de la entidad consultada
+      * FEC\_ALT: fecha de alta del movimiento
+      * FEC\_CAD: fecha de caducidad del saldo
+      * ORI: indica si se ha calculando en base a la serie, la familia o el artículo.
+      * ORI\_WXU: wincoins aplicados por unidad
+      * ORI\_CUO: cuota de cálculo
+      * WCI\_ACU: wincoins acumulados
+      * WCI\_CON: wincoins consumidos
+      * WCI\_SAL: saldo de wincoins
+      * ACT: si el saldo está activo o no
+
+      (Habrá que activar la tabla W7\_WIN\_COI@dat\_winmotor en la sección API para poder hacer las consultas.)
 
 Información extra:
 
