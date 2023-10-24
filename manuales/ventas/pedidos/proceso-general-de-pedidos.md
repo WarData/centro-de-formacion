@@ -55,7 +55,7 @@ El diagrama refleja la siguiente operativa:
 
 5\. Como se explica en el punto 1 sobre la operativa general de pedidos la confirmación de este albarán de compras supone la “repartición” mediante asignaciones del material recibido. Si el pedido de compras que genera el ciclo del proceso ha quedado completamente recibido pasará automáticamente a estado “Recibido”.\\
 
-
+***
 
 **Operativa de pedidos en distribución multicentro**
 

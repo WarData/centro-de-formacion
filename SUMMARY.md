@@ -243,15 +243,14 @@
   * [Agenda](manuales/utilidades/agenda.md)
   * [Log](manuales/utilidades/log.md)
 
-***
-
-* [MÓDULOS](modulos/README.md)
-  * [Wincoins](modulos/wincoins.md)
-
 ## Módulos PDA / Tablets / Móviles
 
 * [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
 * [Partes de Fabricación - Preparación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
+
+## MÓDULOS WINMOTOR
+
+* [Wincoins](modulos-winmotor/wincoins.md)
 
 ## Tutoriales
 
