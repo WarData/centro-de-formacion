@@ -48,7 +48,7 @@ Por defecto el nombre de la "moneda" será Wincoins pero cada empresa podrá est
 
 4.- <mark style="color:orange;">**API:**</mark>
 
-* **OBTENER ID CLIENTE POR TELEFONO**
+* **OBTENER ID CLIENTE POR TELÉFONO**
   * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/W7\_ENT?api\_key=XXX\&filter\[TELEFONOS\_TODOS]=666888111
   * Simplemente habrá que indicar el número de teléfono. IP\_DOMINIO es el dominio o IP del servidor y la api\_key será la que vendrá especificada en Winmotor en Utilidades.
 * **OBTENER WINCOINS BY ID CLIENTE**
@@ -62,26 +62,24 @@ Por defecto el nombre de la "moneda" será Wincoins pero cada empresa podrá est
   * CLI = obligatorio, código o id del cliente.
   * UDS = obligatorio, unidades de Wincoins a sumar o restar.
   * FEC\_CAD = es opcional y solo para el caso de sumar. Es la fecha de caducidad que tendrá esas unidades de Wincoins. Si no se pasa este parámetro se calculará según el parámetro definido en la aplicación de nº de días de caducidad de los Wincoins y la fecha de "hoy".
-* **CONSULTAR HISTÓRICO WINCOINS DE CLIENTE**
-  * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/W7\_WIN\_COI?api\_key=1234\&filter\[ENT]=6618
-  * Se podrá solicitar a winmotor el histórico de movimientos registrados de un cliente donde han intervenido wincoins (ya sea para añadir saldo o para restar) indicando el ID del cliente del que queremos consultar el histórico.
-  *   Winmotor nos devolverá todos los movimientos de wincoins realizados con la siguiente información en cada registro:
-
-      * ID: código único del movimiento
-      * LIN: código único de la línea de documento en la que se aplica wincoins.
-      * CAB: código único del documento en el que se aplica wincoins
-      * ENT: código único de la entidad consultada
-      * FEC\_ALT: fecha de alta del movimiento
-      * FEC\_CAD: fecha de caducidad del saldo
-      * ORI: indica si se ha calculando en base a la serie, la familia o el artículo.
-      * ORI\_WXU: wincoins aplicados por unidad
-      * ORI\_CUO: cuota de cálculo
-      * WCI\_ACU: wincoins acumulados
-      * WCI\_CON: wincoins consumidos
-      * WCI\_SAL: saldo de wincoins
-      * ACT: si el saldo está activo o no
-
-      (Habrá que activar la tabla W7\_WIN\_COI@dat\_winmotor en la sección API para poder hacer las consultas.)
+* **CONSULTAR HISTÓRICO WINCOINS DE CLIENTE (FILTRADO)**
+  * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/\_query/WCI\_BUS\_WEB?param\[ENT]=6618\&param\[FEC\_DSD]=20102023\&param\[FEC\_HST]=25102023\&api\_key=1234
+  * Se podrá solicitar a winmotor el histórico de movimientos registrados de un cliente donde han intervenido wincoins (ya sea para añadir saldo o para restar) indicando el ID del cliente del que queremos consultar el histórico y la fecha desde y hasta para filtrar el listado.
+  * Winmotor nos devolverá todos los movimientos de wincoins realizados con la siguiente información en cada registro:
+    * ID: código único del movimiento
+    * LIN: código único de la línea de documento en la que se aplica wincoins.
+    * CAB: código único del documento en el que se aplica wincoins
+    * ENT: código único de la entidad consultada
+    * FEC\_ALT: fecha de alta del movimiento
+    * FEC\_CAD: fecha de caducidad del saldo
+    * ORI: indica si se ha calculando en base a la serie, la familia o el artículo.
+    * ORI\_WXU: wincoins aplicados por unidad
+    * ORI\_CUO: cuota de cálculo
+    * WCI\_ACU: wincoins acumulados
+    * WCI\_CON: wincoins consumidos
+    * WCI\_SAL: saldo de wincoins
+    * ACT: si el saldo está activo o no
+  * Habrá que activar la tabla W7\_WIN\_COI@dat\_winmotor en la sección API para poder hacer las consultas y también la búsqueda WCI\_BUS\_WEB (Búsqueda wincoins - WEB).
 
 Información extra:
 
@@ -89,3 +87,4 @@ Para activar la API relativa a Wincoins habrá que ir al programa (Utilidades > 
 
 * WCI\_ACT\_WIN\_COI@dat\_winmotor
 * MOD\_EMA\_CLI\_X\_ID@W7\_AP\_COMU
+
