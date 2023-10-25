@@ -71,6 +71,7 @@ Por defecto el nombre de la "moneda" será Wincoins pero cada empresa podrá est
     * CAB: código único del documento en el que se aplica wincoins
     * ENT: código único de la entidad consultada
     * FEC\_ALT: fecha de alta del movimiento
+    * HOR\_ALT: hora de alta del movimiento
     * FEC\_CAD: fecha de caducidad del saldo
     * ORI: indica si se ha calculando en base a la serie, la familia o el artículo.
     * ORI\_WXU: wincoins aplicados por unidad
