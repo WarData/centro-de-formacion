@@ -63,15 +63,16 @@ Por defecto el nombre de la "moneda" será Wincoins pero cada empresa podrá est
   * UDS = obligatorio, unidades de Wincoins a sumar o restar.
   * FEC\_CAD = es opcional y solo para el caso de sumar. Es la fecha de caducidad que tendrá esas unidades de Wincoins. Si no se pasa este parámetro se calculará según el parámetro definido en la aplicación de nº de días de caducidad de los Wincoins y la fecha de "hoy".
 * **CONSULTAR HISTÓRICO WINCOINS DE CLIENTE (FILTRADO)**
-  * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/\_query/WCI\_BUS\_WEB?param\[ENT]=6618\&param\[FEC\_DSD]=20102023\&param\[FEC\_HST]=25102023\&api\_key=1234
-  * Se podrá solicitar a winmotor el histórico de movimientos registrados de un cliente donde han intervenido wincoins (ya sea para añadir saldo o para restar) indicando el ID del cliente del que queremos consultar el histórico y la fecha desde y hasta para filtrar el listado.
+  * **URL:** http://IP\_DOMINIO/NOMBRE\_INSTANCIA/dat\_winmotor\_dat/v1/\_query/WCI\_BUS\_WEB?param\[ENT]=6618\&param\[FH\_DSD]=201020231030\&param\[FH\_HST]=251020231230\&api\_key=1234
+  * Se podrá solicitar a winmotor el histórico de movimientos registrados de un cliente donde han intervenido wincoins (ya sea para añadir saldo o para restar) indicando el ID del cliente del que queremos consultar el histórico y la fecha desde y hasta, incluyendo hora, para filtrar el listado.
+  * Si _FH\_DSD_ viene vacía devolveremos registros de hace 1000 días en adelante.
+  * Si _FH\_HST_ viene vacía devolveremos registros hasta "hoy".
   * Winmotor nos devolverá todos los movimientos de wincoins realizados con la siguiente información en cada registro:
     * ID: código único del movimiento
     * LIN: código único de la línea de documento en la que se aplica wincoins.
     * CAB: código único del documento en el que se aplica wincoins
     * ENT: código único de la entidad consultada
-    * FEC\_ALT: fecha de alta del movimiento
-    * HOR\_ALT: hora de alta del movimiento
+    * FH\_ALT: fecha/hora de alta del movimiento
     * FEC\_CAD: fecha de caducidad del saldo
     * ORI: indica si se ha calculando en base a la serie, la familia o el artículo.
     * ORI\_WXU: wincoins aplicados por unidad
