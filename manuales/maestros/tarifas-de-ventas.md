@@ -6,4 +6,3 @@ Las tarifas definen una serie de condiciones de venta (líneas de tarifas) que s
 
 [Véase "Gestión de precios y Tarifas de Ventas"](articulos/gestion-de-precios-y-tarifas-de-ventas.md)
 
-***

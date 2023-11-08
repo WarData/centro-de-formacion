@@ -50,7 +50,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 **Opciones de las líneas de facturas de compras:**
 
-***
+
 
 * **Aceptar**: con este botón guardamos los cambios realizados.
 * **Cancelar**: abortamos el alta o modificación de la línea.
@@ -58,7 +58,7 @@ La cabecera de las facturas de compras está compuesta por los siguientes campos
 
 **Opciones desde una factura de compras:**
 
-***
+
 
 * **Aceptar:** si pulsamos esta opción, quedarán guardados todos los cambios que hayamos realizado sobre la ficha de la factura.
 * **Cancelar:** con este botón, saldremos de la ficha de la factura sin guardar los posibles cambios que hayamos realizado. Se puede pulsar la tecla ESC para ejecutar esta opción.

@@ -104,3 +104,11 @@ En caso de estar todos los turnos cubiertos, la aplicación nos lo indicará a f
 Turno completo:
 
 <figure><img src="../../../../.gitbook/assets/imagen (3) (9).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:yellow;">**INVITADOS**</mark>
+
+Existe la posibilidad de añadir invitados a un departamento a fin de visualizar las citas de los asesores e incluso añadirles una nueva, todo sin necesidad de ser asesor de servicio, simplemente siendo usuario.
+
+En el panel de selección de invitados a añadir al departamento, es posible marcar si puede o no editar las citas tanto suyas, si el invitado además es asesor, como las del resto de asesores (si en el campo no aparece SI / NO el campo tendrá NO por defecto):
+
+<figure><img src="../../../../.gitbook/assets/imagen (179).png" alt=""><figcaption></figcaption></figure>
