@@ -26,3 +26,11 @@ description: Módulo opcional
 * Panel con entradas y salidas de usuarios usando el reconocimiento de huellas:
 
 <figure><img src="../../../.gitbook/assets/imagen (6) (1) (4).png" alt=""><figcaption></figcaption></figure>
+
+3.- Solución de fallos (Error -17):
+
+<figure><img src="../../../.gitbook/assets/5572d4f2-e197-4854-8b1f-610efb466eb6.png" alt=""><figcaption></figcaption></figure>
+
+* Para grabar la huella en la entidad del usuario debe estar cerrado el control presencial (si lo tienen abierto en un vClient independiente) y si se realiza en una pestaña directamente en el control presencial también cerrarlo.
+  * Una vez grabada la huella abrir el vClient con el control presencial o una pestaña en el mismo vClient.
+* Si sigue dando error comprobar si la entidad que no puede dar de alta la entrada/salida en el control presencial es una entidad normal o también es una entidad usuario. Si no es un usuario hacer que esa entidad también sea usuario.
