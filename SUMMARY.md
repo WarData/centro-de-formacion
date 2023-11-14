@@ -318,6 +318,7 @@
   * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
     * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
     * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
+  * [Vehículos en taller](faq/taller/vehiculos-en-taller.md)
   * [Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente](faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)
   * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
   * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)

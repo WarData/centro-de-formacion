@@ -6,7 +6,7 @@ Vamos a mostraros cómo volver a iniciada una operación confirmada con bastidor
 
 <mark style="color:orange;">**1.- Operación confirmada:**</mark>
 
-<figure><img src="../.gitbook/assets/imagen (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (1) (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 A) Pasar a iniciada requiere entrar en la operación, ir a la pestaña "Gestión" y pulsar en "Sustituir bastidor":
 

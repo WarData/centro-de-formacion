@@ -36,7 +36,7 @@ Pulse el botón "Vista estándar" ![](<../../../../.gitbook/assets/imagen (36) (
 
 <figure><img src="../../../../.gitbook/assets/imagen (176).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Panel de citas de invitado:**
 
