@@ -195,6 +195,7 @@
       * [Alta de una cita de asesor](manuales/automocion/taller/agenda-de-taller/alta-de-una-cita-de-asesor.md)
       * [Alta de una cita por un invitado](manuales/automocion/taller/agenda-de-taller/alta-de-una-cita-por-un-invitado.md)
       * [Gestión del estado de la cita](manuales/automocion/taller/agenda-de-taller/gestion-del-estado-de-la-cita.md)
+      * [Modificación de tempario y tiempo de cita](manuales/automocion/taller/agenda-de-taller/modificacion-de-tempario-y-tiempo-de-cita.md)
       * [Vista global del departamento](manuales/automocion/taller/agenda-de-taller/vista-global-del-departamento.md)
       * [Google Calendar](manuales/automocion/taller/agenda-de-taller/google-calendar.md)
     * [Tipos OR](manuales/automocion/taller/tipos-or.md)
