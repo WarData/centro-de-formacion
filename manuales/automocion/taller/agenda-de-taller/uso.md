@@ -35,11 +35,13 @@ C) Botonera superior derecha:
 D) Rejilla de citas de asesor:
 
 * Muestra columnas con fecha, tiempo total en horas de temparios (se puede modificar el tiempo pulsando en el campo), hora de la entrega, matrícula, modelo de vehículo, cliente, tempario principal, vehículo de cortesía, día y hora de devolución, estado de la cita y OR asignada a la cita (si no existe, pulsando en el campo ejecuta el formulario de alta)
-* Modificación de tiempo total de temparios:
+* Modificación tempario y de tiempo total en cita ya dada de alta (pulsar en el tiempo indicado en la línea de la cita para ver el formulario):
 
-<figure><img src="../../../../.gitbook/assets/imagen (125) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
-* Alta de OR desde rejilla de citas:
+<figure><img src="../../../../.gitbook/assets/imagen (125) (1).png" alt=""><figcaption><p>Edición de tempario y tiempo total a taller</p></figcaption></figure>
+
+* Alta de OR desde rejilla de citas (pulsar en campo en blanco para dar de alta la OR - cuando el campo indica el número de OR la muestra):
 
 <figure><img src="../../../../.gitbook/assets/imagen (127) (1).png" alt=""><figcaption></figcaption></figure>
 
