@@ -4,7 +4,7 @@ El módulo SMS integrado permite el envío de mensajes a clientes para confirmar
 
 Desde esta opción puede enviar un SMS nuevo mediante el siguiente formulario:
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Localizar un SMS mediante los localizadores de la imagen:
 

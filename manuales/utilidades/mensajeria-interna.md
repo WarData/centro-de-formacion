@@ -6,4 +6,4 @@ Permite el envío de telegramas a usuarios conectados y no conectados, avisándo
 
 También en el panel de inicio junto a correos y asuntos si tiene activo el triple panel en "Mi configuración" en el que podrá entrar con doble clic, visualizarlo, responder, darle ok o crear un asunto con el contenido en su agenda personal:
 
-<figure><img src="../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (1) (7).png" alt=""><figcaption></figcaption></figure>

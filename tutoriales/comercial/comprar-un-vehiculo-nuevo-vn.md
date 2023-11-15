@@ -22,7 +22,7 @@ Hay una serie de **requisitos que deben estar bien configurados en su BBDD:**
 
 <figure><img src="../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 **D) Recomendamos seleccionar el check "Modelos y colores"** en el localizar de búsqueda e indicar parte del modelo (no marca) y/o un color a fin de filtrar la búsqueda. También es posible ordenar por vehículos en stock, precio o año:
 
