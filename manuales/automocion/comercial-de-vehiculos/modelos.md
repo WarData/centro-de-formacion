@@ -10,7 +10,7 @@ Esta opción permite dar de alta y gestionar las estructuras de modelo para oper
 
 Dada la estructura mostramos el sistema arbolado por el cual se presenta los modelos dados de alta y los bastidores que corresponden al modelo - color:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**BOTONERA SUPERIOR**</mark>
 

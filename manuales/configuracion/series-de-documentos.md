@@ -6,12 +6,9 @@ Todos los documentos en Winmotor se clasifican por series. Cada serie implica un
 
 Los campos a rellenar al crear una serie son:
 
-* Código: No hay que rellenarlo, lo hace el programa automáticamente)
-* Referencia:&#x20;
+**1.- Código:** No hay que rellenarlo, lo hace el programa automáticamente. Será el identificador interno para la serie
 
-&#x20;       1.- Será el identificador interno para esta serie
-
-&#x20;       2.- Su tamaño máximo es de 6 caracteres alfanuméricos. Se recomienda usar abreviaturas que identifiquen claramente el tipo de documento sobre el que se utiliza  la serie de manera que al visualizar documentos en el programa podamos diferenciar claramente de qué tipo se trata ( FV- Facturas de ventas, AV – Albarán de ventas, AC- Albarán de compras etc). En el ejemplo anterior hemos añadido a FV el carácter “G” para identificar que será la serie para facturas de ventas “General”.
+**2.- Referencia:** Su tamaño máximo es de 6 caracteres alfanuméricos. Se recomienda usar abreviaturas que identifiquen claramente el tipo de documento sobre el que se utiliza la serie de manera que al visualizar documentos en el programa podamos diferenciar claramente de qué tipo se trata ( FV- Facturas de ventas, AV – Albarán de ventas, AC- Albarán de compras etc). En el ejemplo anterior hemos añadido a FV el carácter “G” para identificar que será la serie para facturas de ventas “General”.
 
 * Serie abono: Identifica si la serie que se va a grabar será utilizada para abonos de documentos. Es un campo tipo “check” y aparecerá en el caso de dar de alta series de albaranes o facturas.
 * Serie activa: Por defecto aparece marcada, pero en el momento en que se desmarque la serie dejará de poder utilizarse en documentos.
@@ -20,105 +17,117 @@ Los campos a rellenar al crear una serie son:
 * Formato nombre: El programa calcula este dato al aceptar el alta de la serie. Será el identificador final de cada documento generado dentro de la serie y por defecto contendrá además de la “referencia” el código del ejercicio en curso.
 * Nombre: Por defecto el programa propone el nombre de la empresa más el tipo de documento. Si se van a crear varias series para un mismo tipo de documento se recomienda añadir la descripción que identifica a esta serie. En el ejemplo hemos utilizado “GENERAL”.
 
+<mark style="color:yellow;">**BOTONERA INFERIOR - DUPLICAR**</mark>
+
+Opción para duplicar una serie desde el formulario de consulta de una serie de documentos.
+
+​
+
+<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAA+CAIAAABFt7lbAAAES0lEQVR4Ae2bTU/yQBDHn0+zq5jg0ZAYKR7bC9FjLxI42JBo7IGTpnsRwlVPnvVT9O6N8AE4yFd50i47nULfFrcvwvYgw+zsdObX/5aywX9EH4oI/FOUR6chGqUyEWiUGqUyAsoSaVVqlMoIKEukValRKiOgLJFWZX0oXdddLpfrIzt835/P59nU5VT5/f39+fl5cXGRnfTwRi3Len9/X61WGa1JoHRd9+vrKyPXwQ+9vr4+Pj6mtSmBcrlcHqEeMbhOp7NYLLAH2xIo1+s1nnmcdgYEjVJOEhqlHK+MaI0yA47cUOkoW60WpRQXRSk9PT3FHmzLxuO59dqlo6SUjkaj6+tr3qdhGKPRaAsuRiAbj+fWa5eOkhDS6/UYY47j3N/fM8YAa1rnsvFpeSr2V4GSEOI4DgsPx3GKdCgbXyRn2TEapTLCVaDcWrC9Xi+7fNn47GyVjZaOUvZjRDa+MlK5JyodZeLDTavVgspM07Rtu91uc09uPExsmlE6yuyGb25uGGOe57muCzSzpzR2tE6UnONgMOh2u8/Pz9XS7E8+ZsNLldelNpTA8eTkhBAiSbM/+YiOSX8PIoASjD2SxKbUgxI44q89hmF4nmfbdqzA5Deo/8vh7GMPgaEMyaeQ9taAEu6PhmFAvZTSwWDAGDNNE5zpRhxEoFEuTewHOzSGGx2LVR0f3ax0JPYgH3orThA6Z8N+cP0iX1ho1Sg5R/7N5+Xl5erqihBCKb27u2OM3d7epuPDIwCCO4El9oMdEgHUGwXjUY43lPfmZnE5nMRvpMFglCJxFVSKEnMEmoZhSHIkG2lEHxq5KIUWQ6GFSHZQBrAgDC4bFiYfhYkQszGqQ7nLkdP0PE9GjyBD3HZxlKAuICIMyBEhClziNCIsuBjCF0UGVkUo0zhymnhdJz6i7+xvxvuJKGA/2GBwOfOFCk5hAGQAFKXF60DEQ5gwqkBZnCO/bxbY30T9BAhAJxEP5EbBER1wghHOwPfKwCEEGAkU4gVC8Vo6SimOvKqt7Yyk/c2gMzg27fPJYmQ2HIqVKFzBBIEmWqcYDYoMk4Z0w/NMJigbJBEUw9dyUe7BkVendL8Sw4o1r/ZNiSj35pi7VQx63DJS0PxxlL/huLXAc/c3UwiC+y+j/A1HvV8Z/dDFNE3+iJP4Fz/3gGywkfgwhPc3cXCjbPX3Stu2EyHKP4c3ClR+MepRnp+fPz097dLM1WN+sc2OUI+SENJut7doHjzHEr84YprHwLFElFybtm0X239s9tItVl0pC7zYqQ8tSqNUdkU1yoah9H3fsixlRf3BRJZl+b6fVrjEb9Hn8/nb21taomPwj8fj6XSa1qkESkLIarWaTqedTict3aH6Lcsaj8c/Pz8ZDcqhJIQ8PDwsFosj+7+8te/7GXrkfKVRZlyWIx/SKJUJQKPUKJURUJZIq1KjVEZAWSKtSjUoz87ONEo1KLuG8R9TSKvQTGkKtAAAAABJRU5ErkJggg==" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+En esta opción se especificará la nueva referencia, su nombre, el centro y si se quiere, crearla ya activa y al aceptar se creará una nueva serie con las mismas características que la serie que se está duplicando, exceptuando eso sí, los contadores e históricos como documentos. Además también se duplicarán sus configuraciones para no tener que copiar y pegar.
+
 **PESTAÑAS:**
 
 **Pestaña “Valores por defecto”:** Según el tipo de documento relacionado a la serie se nos presentarán en esta pestaña distintos campos. Vamos a ir enumerándolos por tipos de documentos:
 
-**         Facturas Emitidas**
+\*\* Facturas Emitidas \*\*
 
-&#x20;         o    Serie de abono
+o Serie de abono
 
 Si estamos grabando una serie para albaranes o facturas identificaremos aquí la serie que se utilizará para crear un documento de abono relativo a un documento de esta serie. Para definir aquí una serie de abono es necesario haber grabado previamente una serie de facturas de ventas identificada como “Serie de abono”.
 
-&#x20;         o    Descuento máximo aplicable
+o Descuento máximo aplicable
 
 Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido.
 
-&#x20;         o    Forzar Vencimiento
+o Forzar Vencimiento
 
 Marcando este check el programa cuando genera una factura automáticamente desde uno o varios albaranes ignorará el tipo de pago y los vencimientos definidos en la ficha del cliente e impondrá para estos campos los que se definan dentro del recuadro.
 
-&#x20;          **Albaranes de ventas**
+**Albaranes de ventas**
 
-&#x20;          o    Facturar automáticamente: Marcando este check forzaremos a que en el momento de confirmar un albarán de esta serie quedará automáticamente facturado. Muy práctico por ejemplo para ventas de mostrador en las que es necesario crear siempre una factura por cada albarán o ticket emitido sin necesidad de que el usuario tenga que recordarlo.
+o Facturar automáticamente: Marcando este check forzaremos a que en el momento de confirmar un albarán de esta serie quedará automáticamente facturado. Muy práctico por ejemplo para ventas de mostrador en las que es necesario crear siempre una factura por cada albarán o ticket emitido sin necesidad de que el usuario tenga que recordarlo.
 
-&#x20;          o    Serie para garantías: Si utiliza una distribución de Winmotor para concesionarios de vehículos le aparecerá este check que indica que la serie en curso se utilizará para entregas de mercancía en garantía.
+o Serie para garantías: Si utiliza una distribución de Winmotor para concesionarios de vehículos le aparecerá este check que indica que la serie en curso se utilizará para entregas de mercancía en garantía.
 
-&#x20;          o    Serie destino: Para el caso de albaranes de ventas en serie destino tendremos que identificar la serie de facturación que recogerá los albaranes de esta serie.
+o Serie destino: Para el caso de albaranes de ventas en serie destino tendremos que identificar la serie de facturación que recogerá los albaranes de esta serie.
 
-&#x20;          o    Serie abono: Identifica la serie de albarán de ventas que recogerá a este albarán en caso de abonarse alguna de sus líneas. Para identificar aquí una serie de abono es necesario haber creado previamente una serie de albaranes de ventas identificada como “Serie de abono”.
+o Serie abono: Identifica la serie de albarán de ventas que recogerá a este albarán en caso de abonarse alguna de sus líneas. Para identificar aquí una serie de abono es necesario haber creado previamente una serie de albaranes de ventas identificada como “Serie de abono”.
 
-&#x20;          o    Entidad por defecto: Con este campo podemos forzar a que todos los albaranes creados con esta serie tomen siempre el mismo cliente. Muy usado para configuración de TPV (Terminales punto de venta) en los que se identifica en este campo el código de “Clientes varios”.
+o Entidad por defecto: Con este campo podemos forzar a que todos los albaranes creados con esta serie tomen siempre el mismo cliente. Muy usado para configuración de TPV (Terminales punto de venta) en los que se identifica en este campo el código de “Clientes varios”.
 
-&#x20;          o    Descuento máximo aplicable: Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido
+o Descuento máximo aplicable: Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido
 
-**           Presupuestos de ventas**
+\*\* Presupuestos de ventas \*\*
 
-&#x20;          o    Serie destino pedido cliente: Identifica la serie que tomará el pedido de ventas en caso de confirmar un presupuesto creado en esta serie.
+o Serie destino pedido cliente: Identifica la serie que tomará el pedido de ventas en caso de confirmar un presupuesto creado en esta serie.
 
-&#x20;          o    Serie destino factura: Identifica la serie que tomará la factura de ventas que se genere en caso de convertir directamente el presupuesto en factura.
+o Serie destino factura: Identifica la serie que tomará la factura de ventas que se genere en caso de convertir directamente el presupuesto en factura.
 
-&#x20;          o    Imputación: En distribuciones de Winmotor para Servicios de Asistencia Técnica se utilizará este campo para definir en la generación de un parte de trabajo el tipo de imputación que generará en dicho parte ( cliente, garantía, etc).
+o Imputación: En distribuciones de Winmotor para Servicios de Asistencia Técnica se utilizará este campo para definir en la generación de un parte de trabajo el tipo de imputación que generará en dicho parte ( cliente, garantía, etc).
 
-&#x20;          o    Descuento máximo aplicable: Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido
+o Descuento máximo aplicable: Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido
 
-&#x20;          **Pedido Cliente**
+**Pedido Cliente**
 
-&#x20;          o    Serie para garantía: Si utiliza una distribución de Winmotor para concesionarios de vehículos le aparecerá este check que indica que la serie en curso se utilizará para entregas de mercancía en garantía.
+o Serie para garantía: Si utiliza una distribución de Winmotor para concesionarios de vehículos le aparecerá este check que indica que la serie en curso se utilizará para entregas de mercancía en garantía.
 
-&#x20;          o    Serie pedido compra: Identifica la serie que debe tomar el pedido de ventas en caso de generar un pedido a proveedor al tramitarlo.
+o Serie pedido compra: Identifica la serie que debe tomar el pedido de ventas en caso de generar un pedido a proveedor al tramitarlo.
 
-&#x20;          o    Serie albarán venta: Identifica la serie que tomará en el caso de confirmar un pedido y convertirlo en albarán de entrega.
+o Serie albarán venta: Identifica la serie que tomará en el caso de confirmar un pedido y convertirlo en albarán de entrega.
 
-&#x20;          o    Genera pedidos de compras únicos: Marcando este check definimos para el proceso de generación de pedidos de compras que genere siempre un nuevo pedido a proveedor aunque haya otros pedidos de compras abiertos de este proveedor. En caso de no estar marcado y existir un pedido a proveedor abierto el programa añadirá las unidades a pedir en ese pedido.
+o Genera pedidos de compras únicos: Marcando este check definimos para el proceso de generación de pedidos de compras que genere siempre un nuevo pedido a proveedor aunque haya otros pedidos de compras abiertos de este proveedor. En caso de no estar marcado y existir un pedido a proveedor abierto el programa añadirá las unidades a pedir en ese pedido.
 
-&#x20;          o    Generar pedidos de compras por todas las unidades pedidas: Normalmente el programa generará pedidos de compras por la diferencia entre lo que nos pide el cliente y el stock disponible del artículo. Si marcamos este check el comportamiento del programa será generar pedidos de compras por todas las unidades pedidas por el cliente, independientemente del stock disponible que tengamos.
+o Generar pedidos de compras por todas las unidades pedidas: Normalmente el programa generará pedidos de compras por la diferencia entre lo que nos pide el cliente y el stock disponible del artículo. Si marcamos este check el comportamiento del programa será generar pedidos de compras por todas las unidades pedidas por el cliente, independientemente del stock disponible que tengamos.
 
-&#x20;          o    Descuento máximo aplicable: Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido
+o Descuento máximo aplicable: Nos permite definir un descuento máximo para aplicar en las líneas de la factura. Rellenando este campo limitaremos el porcentaje de descuento que un usuario final podrá aplicar en esta serie de documentos. Los usuarios “supervisores” quedan fuera de esta restricción, podrán utilizar un descuento superior al aquí definido
 
-&#x20;          o    Pedidos de ventas no tramitables: La marcación de este check fuerza a los pedidos generados en esta serie a que no se puedan tramitar, o sea, convertir en albarán de ventas. Se utiliza para distribuciones de Winmotor en las que manejamos pedidos que sirven otras empresas.
+o Pedidos de ventas no tramitables: La marcación de este check fuerza a los pedidos generados en esta serie a que no se puedan tramitar, o sea, convertir en albarán de ventas. Se utiliza para distribuciones de Winmotor en las que manejamos pedidos que sirven otras empresas.
 
-**           Facturas recibidas**
+\*\* Facturas recibidas \*\*
 
-&#x20;          o    Serie de abono: Identifica para el caso de abonar una factura de proveedor en esta serie en qué serie se generará el abono.
+o Serie de abono: Identifica para el caso de abonar una factura de proveedor en esta serie en qué serie se generará el abono.
 
-**           Albarán de compras**
+\*\* Albarán de compras \*\*
 
-&#x20;          o    Facturar automáticamente: Al marcar este check forzamos a que la confirmación de un albarán de esta serie generará automáticamente su correspondiente factura recibida.
+o Facturar automáticamente: Al marcar este check forzamos a que la confirmación de un albarán de esta serie generará automáticamente su correspondiente factura recibida.
 
-&#x20;          o    Serie destino: Identifica la serie de factura emitida en la que se recogerá este albarán en el caso de facturarse.
+o Serie destino: Identifica la serie de factura emitida en la que se recogerá este albarán en el caso de facturarse.
 
-&#x20;          o    Serie abono: Identifica la serie de albarán de compras que recogerá a este albarán en caso de abonarse alguna de sus líneas. Para identificar aquí una serie de abono es necesario haber creado previamente una serie de albaranes de compras identificada como “Serie de abono”.
+o Serie abono: Identifica la serie de albarán de compras que recogerá a este albarán en caso de abonarse alguna de sus líneas. Para identificar aquí una serie de abono es necesario haber creado previamente una serie de albaranes de compras identificada como “Serie de abono”.
 
-**          Pedido Proveedor**
+\*\* Pedido Proveedor \*\*
 
-&#x20;          o    Serie destino: Identifica la serie de albarán de compras en la que se generarán las líneas del pedido en caso de recibirse.
+o Serie destino: Identifica la serie de albarán de compras en la que se generarán las líneas del pedido en caso de recibirse.
 
-&#x20;          o    Propuesta de pedido
+o Propuesta de pedido
 
-&#x20;          o    Serie destino: Identifica la serie para el pedido de compras que se generará en caso de confirmar la propuesta.
+o Serie destino: Identifica la serie para el pedido de compras que se generará en caso de confirmar la propuesta.
 
-&#x20;          o    Modelo de rejilla: Según seleccionemos “ampliado” o “reducido” se presentarán más columnas en la rejilla de líneas de la propuesta. Para seleccionar la rejilla ampliada es recomendable utilizar una pantalla para confeccionar propuestas con una alta resolución.
+o Modelo de rejilla: Según seleccionemos “ampliado” o “reducido” se presentarán más columnas en la rejilla de líneas de la propuesta. Para seleccionar la rejilla ampliada es recomendable utilizar una pantalla para confeccionar propuestas con una alta resolución.
 
-&#x20;          o    Tipos de artículo a incluir en el cálculo: Podemos con este campo limitar la propuesta de pedido a un tipo de artículo concreto. En caso de no seleccionar nada el programa calculará la propuesta para todos los tipos de artículos de nuestra distribución.
+o Tipos de artículo a incluir en el cálculo: Podemos con este campo limitar la propuesta de pedido a un tipo de artículo concreto. En caso de no seleccionar nada el programa calculará la propuesta para todos los tipos de artículos de nuestra distribución.
 
-**Pestaña "Contabilidad”: **afecta a las opciones contables de las series:
+Pestaña "Contabilidad”: afecta a las opciones contables de las series:
 
-&#x20;          o   Serie regulada: activa y controlada por la aplicación
+o Serie regulada: activa y controlada por la aplicación
 
-&#x20;          o   Serie interna: aquella destinada a procesos internos del Concesionario y/o entre departamentos
+o Serie interna: aquella destinada a procesos internos del Concesionario y/o entre departamentos
 
-&#x20;          o   Contabilizar: check que permite activar o no la serie en contabilidad
+o Contabilizar: check que permite activar o no la serie en contabilidad
 
 ![](<../../.gitbook/assets/image (441).png>)
 
-**Pestaña "Impresión": **permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
+Pestaña "Impresión": permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
 
-&#x20;            o   Impresión por tipo de pago: permite diferenciar el informe por tipo de pago
+o Impresión por tipo de pago: permite diferenciar el informe por tipo de pago
 
-&#x20;            o   Identificadores: indican el código del informe que usará la serie para realizar la impresión, así como el destino (impresora), PDF y número de copias.
+o Identificadores: indican el código del informe que usará la serie para realizar la impresión, así como el destino (impresora), PDF y número de copias.
 
-&#x20;            o   Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
+o Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
 
 ![](<../../.gitbook/assets/image (444).png>)
 
@@ -130,11 +139,10 @@ Marcando este check el programa cuando genera una factura automáticamente desde
 
 ![](<../../.gitbook/assets/image (445).png>)
 
-**Pestaña "Contadores": **mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo a la vez que continúe la numeración al siguiente o empiece desde contador=1
+Pestaña "Contadores": mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo a la vez que continúe la numeración al siguiente o empiece desde contador=1
 
 ![](<../../.gitbook/assets/image (447).png>)
 
 **Pestaña "Avanzado":** situación inicial de la serie al configurarse - consulte con el personal de Winmotor para más información
 
 ![](<../../.gitbook/assets/image (448).png>)
-

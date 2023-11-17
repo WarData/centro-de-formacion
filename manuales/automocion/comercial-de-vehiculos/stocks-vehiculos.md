@@ -108,7 +108,7 @@ Una vez creado el traslado, se muestra el parte de almacén para confirmar y que
 
 Se indica una regularización de las líneas para el control de stock:
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Finalmente cambia la ubicación mostrándose en la rejilla del panel de stock de vehículos:
 
