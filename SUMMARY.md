@@ -190,6 +190,7 @@
     * [Departamentos internos](manuales/automocion/taller/departamentos-internos.md)
     * [Agenda de Taller](manuales/automocion/taller/agenda-de-taller/README.md)
       * [Configuración / Modificación](manuales/automocion/taller/agenda-de-taller/configuracion-inicial.md)
+      * [Nuevo año / ejercicio - Configuración](manuales/automocion/taller/agenda-de-taller/nuevo-ano-ejercicio-configuracion.md)
       * [Uso general](manuales/automocion/taller/agenda-de-taller/uso.md)
       * [Vacaciones - Bajas - Eventos](manuales/automocion/taller/agenda-de-taller/vacaciones-bajas-eventos.md)
       * [Alta de una cita de asesor](manuales/automocion/taller/agenda-de-taller/alta-de-una-cita-de-asesor.md)
