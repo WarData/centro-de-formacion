@@ -251,9 +251,10 @@
 * [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
 * [Partes de Fabricación - Preparación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
 
-## MÓDULOS WINMOTOR
+## MÓDULOS WINMOTOR OPCIONALES
 
-* [Wincoins](modulos-winmotor/wincoins.md)
+* [Wincoins](modulos-winmotor-opcionales/wincoins.md)
+* [Firma electrónica](modulos-winmotor-opcionales/firma-electronica.md)
 
 ## Tutoriales
 
