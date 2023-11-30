@@ -22,7 +22,7 @@ Cada usuario puede editar un parámetro personal donde se define si se firman lo
       * Ver el documento de la LOPD que debe firmar el cliente:
         * Este documento se le podrá enviar al cliente por email, imprimirlo o guardarlo.
         * Esta acción se podrá hacer tanto antes de firmar (por si el cliente quiere revisar algo) como después de firmar (para dar copia al cliente).
-      * Marcar la opción 'si autoriza' o 'no autoriza'.
+      * Marcar la opción 'Si autoriza' o 'No autoriza'.
       * Firmar (Wacom): acciona el dispositivo Wacom para la realización de la firma por parte del cliente. En este dispositivo no podrá marcar nada, simplemente leer la LOPD, y firmarla. Si cancela el proceso se da por echo que no autoriza la LOPD.
       * Firmar (tabletas): presenta en la tabletas asociada al usuario en curso el documento a firmar por el cliente y las opciones para autorizar o rechazar la  LOPD. El cliente podrá guardar la firma realizada y/o enviarse un correo con el documento firmado.
       * Ver firma realizada
