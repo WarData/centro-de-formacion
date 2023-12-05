@@ -108,6 +108,7 @@
   * [Propuestas](manuales/albaranes/propuesta.md)
   * [Estadísticas](manuales/albaranes/estadisticas.md)
   * [Gestión de Pedidos de Campaña](manuales/albaranes/gestion-de-pedidos-de-campana.md)
+  * [Generación de "Pedidos Únicos"](manuales/albaranes/generacion-de-pedidos-unicos.md)
 * [Ventas](manuales/ventas/README.md)
   * [Albaranes](manuales/ventas/albaranes.md)
   * [Facturas](manuales/ventas/facturas.md)

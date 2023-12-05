@@ -49,5 +49,8 @@ Para gestionar pedidos de Campaña hay que hacer lo siguiente:
 
 * Al pulsar el botón de “Activar” el programa pedirá confirmación para liberar el pedido. Si se acepta pasará a funcionar como un pedido normal y automáticamente se reflejarán en los artículos incluidos las cantidades como pendientes de recibir y reservadas de pedido.
 * Aparecerá también en el pedido el botón “Recepcionar”.
+* En el panel de pedidos de compras, los pedidos de campaña aparecerán con un icono identificativo de un calendario a fin de indicar que está programado:
+
+<figure><img src="../../.gitbook/assets/imagen (213).png" alt=""><figcaption></figcaption></figure>
 
 \
