@@ -107,6 +107,7 @@
     * [Gestión de descuentos y clasificación de compras](manuales/albaranes/pedidos/gestion-de-descuentos-de-compras.md)
   * [Propuestas](manuales/albaranes/propuesta.md)
   * [Estadísticas](manuales/albaranes/estadisticas.md)
+  * [Gestión de Pedidos de Campaña](manuales/albaranes/gestion-de-pedidos-de-campana.md)
 * [Ventas](manuales/ventas/README.md)
   * [Albaranes](manuales/ventas/albaranes.md)
   * [Facturas](manuales/ventas/facturas.md)
