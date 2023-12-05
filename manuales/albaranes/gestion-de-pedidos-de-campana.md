@@ -35,14 +35,18 @@ Para gestionar pedidos de Campaña hay que hacer lo siguiente:
 
 * **Activar el pedido:** supone la puesta en marcha del mismo y en principio estará activa la opción cuando hayamos llegado a la fecha prevista de entrega o la hayamos superado. Junto a la fecha prevista aparece un nuevo botón:
 
+<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
+\*\*\* Si el usuario tiene permisos de modificación de pedidos de compras al pulsar el botón podrá:
 
-* Si el usuario tiene permisos de modificación de pedidos de compras al pulsar el botón podrá:
-*
-  * Modificar la fecha prevista de entrega
-* ![](https://lh7-us.googleusercontent.com/ZauprQH3obO-H9Z-s9rTYwTJFoWIIvrNJ5wYmxlJIg6fZegIYF0sGBJyyrr6F-iXNnCndZiDrFDgC7U2rdu43mnVApkgS0Ucb7hzxhSZHJPQar9EV\_Vrul05CQDPkd0BaImBl0GJR\_PFpGxKxBoMAbU)
+* Modificar la fecha prevista de entrega
+
+<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
 * Si la fecha de vencimiento es igual o superior a hoy aparecerá el botón de activación
-* ![](https://lh7-us.googleusercontent.com/O3Vs-lZ0pToPrHFwdIf12LvxluIgugdVinzQWxWxuL-yaMHKfPkPixSwXMgZv5v3K1wQZEzBnMGkErIrs1NpqKxh3dbVSXF2U5vTleFU5\_WTAS608uabJxL1zM-B53BT8r4BRga-QCHX23Vq8ym8v7Q)
+
+<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
 * Al pulsar el botón de “Activar” el programa pedirá confirmación para liberar el pedido. Si se acepta pasará a funcionar como un pedido normal y automáticamente se reflejarán en los artículos incluidos las cantidades como pendientes de recibir y reservadas de pedido.
 * Aparecerá también en el pedido el botón “Recepcionar”.
 
