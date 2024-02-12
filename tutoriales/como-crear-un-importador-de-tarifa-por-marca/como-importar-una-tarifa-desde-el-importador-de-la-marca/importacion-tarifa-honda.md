@@ -84,7 +84,8 @@ Aparecerá una nueva ventana donde tendremos que indicar únicamente:
 
 **4.- FIN DEL PROCESO DE IMPORTACIÓN Y ACTUALIZACIÓN DE ARTÍCULOS**
 
+***
 
+***
 
-
-
+***
