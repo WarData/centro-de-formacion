@@ -6,3 +6,6 @@ description: 'Véase el siguiente enlace:'
 
 {% embed url="https://winmotor.gitbook.io/winmotor-automocion/tutoriales/contabilidad/plantillas-predefinidas" %}
 
+Para predefinición de asientos analíticos en las plantillas de asientos véase el siguiente enlace:
+
+{% embed url="https://winmotor.gitbook.io/winmotor-automocion/tutoriales/contabilidad/predefinicion-de-asientos-analiticos-en-las-plantillas-de-asientos" %}
