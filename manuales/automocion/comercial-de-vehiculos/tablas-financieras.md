@@ -6,7 +6,7 @@ Existen tres ubicaciones para añadirlas / modificarlas y/o presentar los datos:
 
 **1.- Pestaña financiación en el alta:**
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permite modificar tipo de pago, asignar una tabla financiera, así como la entrada inicial y sobrefinanciación si se selecciona una y rejillas con el cálculo de la cuota mensual en función de la tabla financiera seleccionada.
 

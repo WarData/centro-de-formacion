@@ -305,6 +305,7 @@
   * [Barra de Favoritos](tutoriales/nueva-barra-de-favoritos.md)
 * [Contabilidad](tutoriales/contabilidad/README.md)
   * [Plantillas predefinidas](tutoriales/plantillas-en-contabilidad.md)
+  * [Predefinición de asientos analíticos en las plantillas de asientos](tutoriales/contabilidad/predefinicion-de-asientos-analiticos-en-las-plantillas-de-asientos.md)
   * [Criterios Contables](faq/criterios-contables.md)
   * [Obtener Libro Mayor](tutoriales/contabilidad/obtener-libro-mayor.md)
 * [Almacén](tutoriales/almacen/README.md)

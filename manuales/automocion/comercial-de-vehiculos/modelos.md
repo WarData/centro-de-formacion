@@ -116,4 +116,4 @@ Ejemplo de listado de colores:
 
 Presenta un panel para control y revisión de modelos creados o alta de gamas, versiones:
 
-<figure><img src="../../../.gitbook/assets/imagen (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

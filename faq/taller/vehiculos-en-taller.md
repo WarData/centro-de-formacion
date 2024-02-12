@@ -15,4 +15,4 @@ En curso, es igual a una de las siguientes situaciones:\
 \
 Si la última orden en curso tiene marcado el check "vehículo recepcionado", se marca "en taller", en caso contrato no se marca "en taller":
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -61,7 +61,7 @@ Se podrán añadir a partir de este momento más modelos al presupuesto y más p
 
 **11.- Pestaña financiación en el alta:**
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permite modificar tipo de pago, asignar una tabla financiera [(véase tablas financieras)](../tablas-financieras.md) así como la entrada inicial y sobrefinanciación si se selecciona una y rejillas con el cálculo de la cuota mensual en función de la tabla financiera seleccionada.
 
