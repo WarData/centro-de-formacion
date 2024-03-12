@@ -242,6 +242,7 @@
   * [Consideraciones](manuales/cuadro-de-mandos/consideraciones.md)
 * [Utilidades](manuales/utilidades/README.md)
   * [WEB](manuales/utilidades/web-1/README.md)
+    * [Sincronizador Prestashop](manuales/utilidades/web-1/sincronizador-prestashop.md)
     * [Web - Documentación API REST](manuales/utilidades/web-1/web.md)
     * [Opciones Específicas](manuales/utilidades/web-1/opciones-especificas/README.md)
       * [API de pedidos](manuales/utilidades/web-1/opciones-especificas/api-de-pedidos.md)
