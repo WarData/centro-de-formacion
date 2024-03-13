@@ -277,6 +277,7 @@
     * [Navegante - ¿Cómo funciona?](tutoriales/general/menu-opciones/navegante-como-funciona.md)
     * [Lista - Partir / Multipartir](tutoriales/general/menu-opciones/lista-partir-multipartir.md)
     * [Exportar Listados a Excel - Vídeo](tutoriales/general/menu-opciones/exportar-listados-a-excel-video.md)
+    * [Utilidades de lista > Guardar y recuperar lista virtual](tutoriales/general/menu-opciones/utilidades-de-lista-greater-than-guardar-y-recuperar-lista-virtual.md)
   * [Rejillas - Funciones Especiales - Rejillas avanzadas](tutoriales/general/rejillas-funciones-especiales.md)
   * [Notificaciones Emergentes](tutoriales/general/notificaciones-emergentes.md)
 * [Comercial](tutoriales/comercial/README.md)

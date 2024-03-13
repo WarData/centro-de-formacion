@@ -82,7 +82,7 @@ En la siguiente imagen seleccionamos compras para mostrar el ejemplo:
 
 Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin precios", eliminando de la rejilla los campos de compra y venta:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 

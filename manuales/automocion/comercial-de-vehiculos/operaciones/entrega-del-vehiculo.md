@@ -14,7 +14,7 @@ Tras confirmar la entrega y cierre de la operación aparecerá el mensaje sobre 
 
 Si optamos por actualizar disponemos de un formulario de matrícula donde se añaden los campos de fecha de matriculación, de fin de garantía y de próxima ITV, así como datos del seguro a fin de ofrecer reparaciones sobre posibles siniestros y facilitar la gestión al cliente:
 
-<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Actualizados los datos de matriculación, ITV y compañía de seguros (opcional) la aplicación nos muestra la factura de venta del vehículo:
 
