@@ -296,6 +296,8 @@
     * [Factura: cambiar contenido](tutoriales/facturas\_tutoriales/factura-cambiar-contenido.md)
     * [Factura: Borrado (con y sin cobro asociado)](tutoriales/facturas\_tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
     * [Factura: de gastos asociados a vehículos](tutoriales/facturas\_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
+  * [Anticipos](tutoriales/administracion/anticipos/README.md)
+    * [Facturación automática de anticipos](tutoriales/administracion/anticipos/facturacion-automatica-de-anticipos.md)
 * [Pedidos: Recambios - OR](tutoriales/pedidos-recambios-or/README.md)
   * [Pedidos - simulación de un pedido de ventas](tutoriales/pedidos-simulacion-de-un-pedido-de-ventas.md)
   * [Pedidos - simulación de una orden de reparación de taller OR](tutoriales/pedidos-simulacion-de-una-orden-de-reparacion-de-taller-or.md)
