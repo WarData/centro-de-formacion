@@ -312,6 +312,7 @@
   * [Predefinición de asientos analíticos en las plantillas de asientos](tutoriales/contabilidad/predefinicion-de-asientos-analiticos-en-las-plantillas-de-asientos.md)
   * [Criterios Contables](faq/criterios-contables.md)
   * [Obtener Libro Mayor](tutoriales/contabilidad/obtener-libro-mayor.md)
+  * [Revisión del Balance de Situación](tutoriales/contabilidad/revision-del-balance-de-situacion.md)
 * [Almacén](tutoriales/almacen/README.md)
   * [Partes de Almacén - Inventarios y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
     * [Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/traspasos.md)
