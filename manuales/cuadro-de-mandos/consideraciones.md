@@ -19,8 +19,10 @@ La venta de productos se calcula por sus albaranes, sin tener en cuenta si está
 
 En el cálculo de venta de servicios se excluyen todos aquellos que han sido aplicados a vehículos.
 
-En taller, la venta de productos y horas empleadas se calcula en base a las líneas instaladas y horas empleadas dentro del período. No se tiene en cuenta para el cálculo si las líneas están o no facturadas. Sólo se consideran pérdidas las líneas de cargo interno a Taller, el resto de líneas de cargo interno quedan excluidas
+En taller, la venta de productos y horas empleadas se calcula en base a las líneas instaladas y horas empleadas dentro del período. No se tiene en cuenta para el cálculo si las líneas están o no facturadas. Sólo se consideran pérdidas las líneas de cargo interno a Taller, el resto de líneas de cargo interno quedan excluidas.
 
-Los gráficos se presentan en las fichas de cuadro de mandos de la empresa o de un centro de trabajo. Lógicamente los valores que presentan estarán calculados en base a la ficha origen desde la que se pidan
+Con respecto a las garantías, el beneficio se calculará con un margen del 100% si en la marca del producto está activado el parámetro "Entregan los recambios sin costo". De lo contrario, se calcularán según el PMC.
 
-Los botones de comprobación sólo presentarán datos correctos en caso de estar consultando el último cuadro de mandos calculado
+Los gráficos se presentan en las fichas de cuadro de mandos de la empresa o de un centro de trabajo. Lógicamente los valores que presentan estarán calculados en base a la ficha origen desde la que se pidan.
+
+Los botones de comprobación sólo presentarán datos correctos en caso de estar consultando el último cuadro de mandos calculado.
