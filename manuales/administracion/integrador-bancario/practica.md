@@ -1,5 +1,5 @@
 ---
-description: Árbol estructurado de opciones
+description: ¿Cómo funciona?
 ---
 
 # Práctica

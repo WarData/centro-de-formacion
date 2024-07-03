@@ -30,16 +30,30 @@ o        Cierre
 
 <mark style="color:blue;">**o        Panel**</mark>
 
-* Cuentas
-* Tipos de movimientos
-* Estados
+* Selector / Gestor de cuentas
+* Filtro de fechas
+* Selector de estados
+* Selector / Gestor de tipos de movimientos
 * Botones de opciones
   * Menú
-  * Ampliación del filtro
-  * Actualizar
-* La lista de movimientos
+    * Establecer filtro por defecto
+    * Tipos de movimientos
+    * Conceptos comunes - N43
+    * Diccionario de localización de entidades
+      * Cadenas a eliminar
+      * Cadenas a sustituir
+      * Detalle de ambas
+  * Menú de registros provisionales
+  * Menú de gerencia
+  * Botón lista
+  * Ampliación del filtro (más filtros)
+  * Actualizar lista
+* Lista de movimientos
+  * Indicaciones
+  * Edición
+  * Totalización
 
-<mark style="color:blue;">**o         Formulario del registro**</mark>
+<mark style="color:blue;">**o         Formulario del registro bancario**</mark>
 
 * Tipo de movimiento
 * Gestión de la entidad
