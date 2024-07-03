@@ -28,52 +28,35 @@ o        Cierre
 
 <mark style="color:yellow;">Práctica - Cómo funciona</mark>
 
-o        Panel
+<mark style="color:blue;">**o        Panel**</mark>
 
-o        Cuentas
+* Cuentas
+* Tipos de movimientos
+* Estados
+* Botones de opciones
+  * Menú
+  * Ampliación del filtro
+  * Actualizar
+* La lista de movimientos
 
-o        Tipos de movimientos
+<mark style="color:blue;">**o         Formulario del registro**</mark>
 
-o        Estados
+* Tipo de movimiento
+* Gestión de la entidad
+* Gestión del documento
+* Gastos bancarios
+* Compensación
+* Cerrar el registro
+* Opciones especiales
+* Cobro / pago manual
+* Asiento contable manual
+* Cierre neutro
+* Reaperturar registro
 
-o        Botones de opciones
+<mark style="color:blue;">**o         Formulario de localización de entidades desde la rejilla**</mark>
 
-§     Menú
+* Con y sin lista previa localizada
 
-§     Ampliación del filtro
+<mark style="color:blue;">**o         Formulario de localización de cuenta bancaria**</mark>
 
-§     Actualizar
-
-o        La lista de movimientos
-
-·                    Formulario del registro
-
-o        Tipo de movimiento
-
-o        Gestión de la entidad
-
-o        Gestión del documento
-
-o        Gastos bancarios
-
-o        Compensación
-
-o        Cerrar el registro
-
-o        Opciones especiales
-
-o        Cobro / pago manual
-
-o        Asiento contable manual
-
-o        Cierre neutro
-
-o        Reaperturar registro
-
-·                    Formulario de localización de entidades desde la rejilla
-
-o        Con y sin lista previa localizada
-
-·                    Formulario de localización de cuenta bancaria
-
-Formulario de localización de documentos desde la rejilla
+<mark style="color:blue;">**o         Formulario de localización de documentos desde la rejilla**</mark>
