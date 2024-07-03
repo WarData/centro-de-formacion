@@ -43,9 +43,9 @@ o        Cierre
       * Cadenas a eliminar
       * Cadenas a sustituir
       * Detalle de ambas
-  * Menú de registros provisionales
-  * Menú de gerencia
-  * Botón lista
+    * Menú de registros provisionales
+    * Menú de gerencia
+    * Botón lista
   * Ampliación del filtro (más filtros)
   * Actualizar lista
 * Lista de movimientos
