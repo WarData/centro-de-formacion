@@ -67,10 +67,10 @@ o        Cierre
 * Cierre neutro
 * Reaperturar registro
 
-<mark style="color:blue;">**o         Formulario de localización de entidades desde la rejilla**</mark>
+<mark style="color:blue;">**o         Formulario de localización de entidades y selección (desde la rejilla)**</mark>
 
 * Con y sin lista previa localizada
 
-<mark style="color:blue;">**o         Formulario de localización de cuenta bancaria**</mark>
+<mark style="color:blue;">**o         Formulario de localización y selección de la cuenta de tesorería de contrapartida**</mark>
 
-<mark style="color:blue;">**o         Formulario de localización de documentos desde la rejilla**</mark>
+<mark style="color:blue;">**o         Formulario de localización de documento/s relacionado/s**</mark>
