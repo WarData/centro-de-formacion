@@ -4,7 +4,7 @@ description: Tabletas Wacom / Android / iOS / iPadOS
 
 # Firma electrónica
 
-<figure><img src="../.gitbook/assets/imagen (4) (1) (1).png" alt=""><figcaption><p>Firma LOPD Wacom</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagen (4) (1) (1) (1).png" alt=""><figcaption><p>Firma LOPD Wacom</p></figcaption></figure>
 
 Cada usuario puede editar un parámetro personal donde se define si se firman los documentos mediante Tablets, Wacom o sin dispositivo. Se encuentra en el botón <mark style="color:yellow;">OPCIONES > MI CONFIGURACIÓN:</mark>
 

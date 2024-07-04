@@ -67,7 +67,7 @@ Permite modificar tipo de pago, asignar una tabla financiera [(véase tablas fin
 
 También es posible el alta de nuevas tablas mediante el doble clic o botón derecho "Alta de ficha" tras pulsar el botón para la búsqueda de tablas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (6) (1) (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6) (1) (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **12.- Pestaña "Operación" en la operación comercial con las mismas funciones de financiación que el punto 11:**
 

@@ -14,7 +14,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 <mark style="color:yellow;">**BOTONERA SUPERIOR**</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (8) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (8) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Actualizar</mark>: refresca la vista arbolada tras actualizar o dar de alta algún modelo
 * <mark style="color:blue;">F1 - Nuevo Modelo</mark>: permite dar de alta cada una de las partes de la estructura que constituye un modelo. Para ello muestra un formulario donde existe la posibilidad de seleccionar partes del modelo ya dadas de alta. En caso de que el localizador de la marca, gama o versión no contenga datos, no tendrá tampoco datos ninguno de los elementos posteriores, teniéndolo que dar de alta.
@@ -67,11 +67,11 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 5.- Actualizamos las estructuras arboladas y desplegamos la marca, gama y versión hasta visualizar el modelo y hacemos doble clic en él para acceder a la ficha:
 
-<figure><img src="../../../.gitbook/assets/imagen (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (17) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * Seleccionamos la pestaña "Colores" y pulsamos en "Crear color" seleccionando uno de los existentes o dando de alta uno nuevo (los colores pueden tener sobreprecio al modelo y colores básicos, es decir, colores metalizados o edición limitada pueden tener un precio superior editable en su ficha y en el alta del color):
 
-<figure><img src="../../../.gitbook/assets/imagen (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (18) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Seleccionamos AD79 RED PLUS:
 

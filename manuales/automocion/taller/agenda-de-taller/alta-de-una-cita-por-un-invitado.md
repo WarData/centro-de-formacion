@@ -20,7 +20,7 @@ El alta de la cita se realiza accediendo a la opción del menú izquierdo indica
 
 <mark style="color:yellow;">**3.- Lo vehículos de cortesía activando o desactivando el check "Ver vehículos cortesía"**</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (6) (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**4.- Mediante los botones "Ver citas" y "Ver horarios"**</mark> <mark style="color:yellow;">**ver las citas solicitadas al departamento completo (primera imagen) o, tras seleccionar "Ver citas", seleccionar el check "Sólo creadas para mí" para filtrar únicamente las solicitadas por el invitado (segunda imagen):**</mark>
 

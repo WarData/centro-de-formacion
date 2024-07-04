@@ -2,29 +2,29 @@
 
 
 
-<figure><img src="../../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (21).png" alt=""><figcaption></figcaption></figure>
 
 Dependiendo del estado y del tipo del registro la información que vemos en este formulario cambia. Mostramos arriba un registro de pago a proveedor / acreedor en estado “Confirmado”, dado que es uno de los más completos que podemos ver. Pasamos a explicar qué hace cada uno de los botones que vemos:
 
-●        ![](<../../../../../.gitbook/assets/imagen (1).png>) Modificar el tipo de movimiento. Es una función que tendremos que utilizar más de una vez al comenzar a trabajar con el integrador ya que como hemos explicado anteriormente el sistema tiene que “aprender” a identificar el tipo de movimiento según el contenido de la descripción de cada registro.
+●        ![](<../../../../../.gitbook/assets/imagen (1) (1).png>) Modificar el tipo de movimiento. Es una función que tendremos que utilizar más de una vez al comenzar a trabajar con el integrador ya que como hemos explicado anteriormente el sistema tiene que “aprender” a identificar el tipo de movimiento según el contenido de la descripción de cada registro.
 
 ○        Al pulsar el botón según estemos en un gasto o un ingreso el programa presenta la lista de movimientos del tipo correspondiente:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ○        Simplemente hay que hacer doble clic seleccionando el que queremos aplicar.
 
 ○        Dado que hemos aplicado un cambio el sistema automáticamente nos propone establecer una regla para que cuando en el futuro descarguemos un movimiento de este tipo sepa identificarlo y aplicarle el tipo que hemos seleccionado. Imaginemos que tenemos este registro bancario:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Supongamos que es la primera vez que hemos descargado este tipo de movimiento que en realidad es de “Gastos bancarios”. Pulsamos el botón de modificar el tipo y seleccionamos después en la lista “Gastos bancarios”
 
-<figure><img src="../../../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        El programa nos pedirá confirmación para este cambio y a continuación presentará esta ventana:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -34,7 +34,7 @@ Supongamos que es la primera vez que hemos descargado este tipo de movimiento qu
 
 ●        Podemos seleccionar una o varias palabras, pero si son más de una la selección debe ser correlativa.
 
-<figure><img src="../../../../../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -42,9 +42,9 @@ Supongamos que es la primera vez que hemos descargado este tipo de movimiento qu
 
 ●        Es importante tener en cuenta que esta localización es para gastos. Es decir, si entrara un registro de ingresos con esa misma cadena el programa nunca lo aplicará a “Gastos bancarios”.&#x20;
 
-●        ![](<../../../../../.gitbook/assets/imagen (7).png>) Ampliación de datos de lectura: es sólo un formulario de consulta y nos presenta en detalle todos los datos que hemos descargado del banco tanto en la descarga intradía como en la de la Norma 43.
+●        ![](<../../../../../.gitbook/assets/imagen (7) (1).png>) Ampliación de datos de lectura: es sólo un formulario de consulta y nos presenta en detalle todos los datos que hemos descargado del banco tanto en la descarga intradía como en la de la Norma 43.
 
-<figure><img src="../../../../../.gitbook/assets/imagen (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        El primer código que vemos se corresponde con el que da el proveedor del servicio de descarga intradía : 18 - pago de recibos
 
@@ -62,25 +62,25 @@ Supongamos que es la primera vez que hemos descargado este tipo de movimiento qu
 
 &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        Pulsando en el lápiz accedemos a un formulario especial para editar, eliminar y/o modificar la entidad:
 
 &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        En el formulario vemos el código y el nombre fiscal y comercial de la entidad en caso de tenerlo.
 
 ●        Debajo vemos los tipos de entidad que tiene definidos.
 
-●        ![](<../../../../../.gitbook/assets/imagen (11).png>) El primer botón simplemente edita la ficha de la entidad.
+●        ![](<../../../../../.gitbook/assets/imagen (11) (1).png>) El primer botón simplemente edita la ficha de la entidad.
 
-●       ![](<../../../../../.gitbook/assets/imagen (12).png>) Con este quitamos la entidad del registro
+●       ![](<../../../../../.gitbook/assets/imagen (12) (1).png>) Con este quitamos la entidad del registro
 
-●        ![](<../../../../../.gitbook/assets/imagen (15).png>) El botón localizar aparecerá cuando no haya entidad definida. Es muy importante tener en cuenta que si en un registro que no había entidad la aplicamos con el localizador y aceptamos, el sistema lanzará automáticamente una búsqueda de documentos que puedan cuadrar con el registro y la entidad localizada y en caso de localizarlo lo asigna automáticamente.
+●        ![](<../../../../../.gitbook/assets/imagen (15) (1).png>) El botón localizar aparecerá cuando no haya entidad definida. Es muy importante tener en cuenta que si en un registro que no había entidad la aplicamos con el localizador y aceptamos, el sistema lanzará automáticamente una búsqueda de documentos que puedan cuadrar con el registro y la entidad localizada y en caso de localizarlo lo asigna automáticamente.
 
-![](<../../../../../.gitbook/assets/imagen (14).png>) Este es el “Asistente para guardar alias de localización”.
+![](<../../../../../.gitbook/assets/imagen (14) (1).png>) Este es el “Asistente para guardar alias de localización”.
 
 Lo explicamos: de la misma manera que podemos guardar una regla de localización para un tipo de movimiento las podemos guardar también para las entidades. Imaginemos que en un registro tenemos esta descripción:&#x20;
 
@@ -94,7 +94,7 @@ A continuación pulsando el botón del asistente nos aparecerá como en el caso 
 
 &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        Al seleccionar la palabra “COREVELNEO” y aceptar, el integrador la guardará en la ficha de la entidad como “Alias” de Velneo y en el futuro siempre que en un registro aparezca esta palabra el sistema lo asociará a la entidad Velneo.
 
@@ -108,7 +108,7 @@ A continuación pulsando el botón del asistente nos aparecerá como en el caso 
 
 &#x20;&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        Además de los datos relativos a la factura en este caso, vemos un botón para editarla y otro para borrar la relación: es decir “quitaríamos” esa factura de este registro para localizar después la correcta.
 
@@ -128,7 +128,7 @@ A continuación pulsando el botón del asistente nos aparecerá como en el caso 
 
 &#x20;         ○        Según la compensación sea sobre un cobro o un pago se utilizarán las cuentas contables definidas en parámetros - administración - contables - general: “Compensación en cobros / pagos”.
 
-●        ![](<../../../../../.gitbook/assets/imagen (18).png>) **Cerrar el registro** ![](<../../../../../.gitbook/assets/imagen (19).png>)
+●        ![](<../../../../../.gitbook/assets/imagen (18) (1).png>) **Cerrar el registro** ![](<../../../../../.gitbook/assets/imagen (19) (1).png>)
 
 &#x20;         ○        Este botón sólo aparecerá si el registro ha llegado a estado confirmado y no está activado en este tipo de movimiento el cierre automático.
 
@@ -136,34 +136,34 @@ A continuación pulsando el botón del asistente nos aparecerá como en el caso 
 
 &#x20;         ○        El registro pasará a estado “Cerrado” y presentará un candado en la última columna del listado. Si hacemos doble clic nos mostrará el asiento de tesorería generado, el asiento contable o ambos.
 
-●        ![](<../../../../../.gitbook/assets/imagen (20).png>) Opciones especiales: según el estado y el tipo del registro nos aparecerán las siguientes opciones:
+●        ![](<../../../../../.gitbook/assets/imagen (20) (1).png>) Opciones especiales: según el estado y el tipo del registro nos aparecerán las siguientes opciones:
 
 &#x20;         ○        Registros abiertos
 
-■     **Crear cobro/pago manual**
+&#x20;         ■     **Crear cobro/pago manual**
 
-&#x20;         ●        Para movimientos relativos a cobros / pagos de documentos (también a devoluciones) aparecerá esta opción para cobrar o pagar según sea el tipo de movimiento.
+&#x20;                   ●        Para movimientos relativos a cobros / pagos de documentos (también a devoluciones) aparecerá esta opción para cobrar o pagar según sea el tipo de movimiento.
 
-&#x20;         ●        Seleccionando esta opción el programa ignora si hay o no entidad y/o documento localizado y lo que hace es crear un asiento de tesorería aplicando la fecha, la cuenta bancaria y el importe del registro.
+&#x20;                   ●        Seleccionando esta opción el programa ignora si hay o no entidad y/o documento localizado y lo que hace es crear un asiento de tesorería aplicando la fecha, la cuenta bancaria y el importe del registro.
 
-&#x20;         ●        Al terminar el proceso marcará el registro como cerrado.
+&#x20;                   ●        Al terminar el proceso marcará el registro como cerrado.
 
-■       **Crear asiento manual**
+&#x20;         ■       **Crear asiento manual**
 
-&#x20;         ●        Esta opción aparece para cualquier tipo de movimiento
+&#x20;                   ●        Esta opción aparece para cualquier tipo de movimiento
 
-&#x20;         ●        Pulsando este botón se genera un asiento contable en la fecha del registro bancario incluyendo un primer apunte con la cuenta contable relativa a la cuenta bancaria y el importe del asiento.
+&#x20;                   ●        Pulsando este botón se genera un asiento contable en la fecha del registro bancario incluyendo un primer apunte con la cuenta contable relativa a la cuenta bancaria y el importe del asiento.
 
-&#x20;         ●        Al terminar el proceso marcará el registro como cerrado.
+&#x20;                   ●        Al terminar el proceso marcará el registro como cerrado.
 
-■        **Cierre neutro**
+&#x20;        ■        **Cierre neutro**
 
-&#x20;         ●        Esta opción no hace nada más que marcar el registro actual como cerrado sin generar ni modificar ningún dato en todo el programa.
+&#x20;                   ●        Esta opción no hace nada más que marcar el registro actual como cerrado sin generar ni modificar ningún dato en todo el programa.
 
-&#x20;         ○        **Registros cerrados**
+&#x20;        ○        **Registros cerrados**
 
-&#x20;                   ■       **Reaperturar**
+&#x20;        ■       **Reaperturar**
 
-&#x20;                             ●        Este botón deshace completamente la operación de cierre que hubiera ejecutado eliminando el registro de tesorería generado, el asiento contable o ambos.
+&#x20;                   ●        Este botón deshace completamente la operación de cierre que hubiera ejecutado eliminando el registro de tesorería generado, el asiento contable o ambos.
 
-&#x20;                             ●        Al ejecutar la opción el registro vuelve al estado “Confirmado”.
+&#x20;                   ●        Al ejecutar la opción el registro vuelve al estado “Confirmado”.

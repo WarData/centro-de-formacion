@@ -30,14 +30,14 @@ C) Botonera superior derecha:
 
 *   Filtro por defecto: una vez ajustados todos los filtros, pulsando en "Establecer filtro por defecto", cada vez que se abra de nuevo la agenda de citas mantendrá la configuración de filtros guardadas:
 
-    <figure><img src="../../../../.gitbook/assets/imagen (9) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/imagen (9) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 D) Rejilla de citas de asesor:
 
 * Muestra columnas con fecha, tiempo total en horas de temparios (se puede modificar el tiempo pulsando en el campo), hora de la entrega, matrícula, modelo de vehículo, cliente, tempario principal, vehículo de cortesía, día y hora de devolución, estado de la cita y OR asignada a la cita (si no existe, pulsando en el campo ejecuta el formulario de alta)
 * Modificación tempario y de tiempo total en cita ya dada de alta (pulsar en el tiempo indicado en la línea de la cita para ver el formulario):
 
-<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/imagen (125) (1).png" alt=""><figcaption><p>Edición de tempario y tiempo total a taller</p></figcaption></figure>
 

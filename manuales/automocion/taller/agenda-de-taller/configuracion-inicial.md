@@ -63,7 +63,7 @@ C) Asignar operarios al departamento del mismo modo que los asesores (pestaña "
 
 <mark style="color:yellow;">\*\*\* Ver final de la hoja para operarios asignados al departamento sin turno</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (20) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Asignación de turnos a los operarios:
 
@@ -83,7 +83,7 @@ Asignar vehículos de cortesía de derecha sin asignar a izquierda asignados:
 
 E) La pestaña <mark style="color:yellow;">**"Diario del departamento"**</mark> muestra una rejilla de datos con cada día del ejercicio actual con las citas y horas totales, minutos ocupados, libres y el porcentaje de ocupación para un control detallado de cada año:
 
-<figure><img src="../../../../.gitbook/assets/imagen (19) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (19) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 F) La pestaña <mark style="color:yellow;">**"Citas"**</mark> permite mostrar todas las citas del asesor seleccionado indicando el intervalo de fecha. La rejilla de datos muestra fecha, hora, tipo de cita (recepción o devolución), cliente, vehículo, tiempo de cita, si incluye vehículo de cortesía o no y si se ha reasignado o cambiada la fecha:
 

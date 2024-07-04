@@ -1,10 +1,6 @@
 # Formulario de localización de documento/s relacionado/s
 
-●        &#x20;
-
-○        Para los siguientes tipos de movimientos el integrador necesita localizar el o los documentos relacionados con el mismo:
-
-&#x20;
+Para los siguientes tipos de movimientos el integrador necesita localizar el o los documentos relacionados con el mismo:&#x20;
 
 ■        Devolución a cliente
 
@@ -14,19 +10,15 @@
 
 ■        Devolución a proveedor
 
-&#x20;
+
 
 ○        Siempre que en un registro de este tipo no esté identificado el documento relacionado aparecerá en la columna anterior este icono:
 
-■        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
+<figure><img src="../../../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
-○        Al pulsarlo entramos en el formulario de localización de documentos y registros de cartera:
+Al pulsarlo entramos en el formulario de localización de documentos y registros de cartera:
 
-&#x20;
-
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)
-
-&#x20;
+<figure><img src="../../../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
 ●        En la parte superior vemos a nivel de consulta los datos que ya están identificados en el registro (entidad, fechas, importe, descripción).
 
@@ -48,39 +40,25 @@
 
 ○        No se trata de un documento sino de varios. Si pensamos que puede ser este el caso hay que disminuir el filtro “Importe desde” puesto que estaremos buscando más de un registro de menor importe.
 
-●        Utilizando el ejemplo anterior hemos abierto los filtros de importes y fechas y vemos esto:
+●        Utilizando el ejemplo anterior hemos abierto los filtros de importes y fechas y vemos esto:&#x20;
 
-&#x20;
+<figure><img src="../../../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
 
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image006.jpg)
+●        El sistema ha localizado ahora un compromiso de pago de Vodafone que cumplen los criterios del filtro.
 
-&#x20;
-
-●        El sistema ha localizado ahora tres compromisos de pago de Vodafone que cumplen los criterios del filtro.
-
-●        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image008.jpg) Con el botón de comprobación de los importes seleccionados vamos a ver si la suma de los dos primeros se ajustan al importe del registro:
-
-&#x20;
-
-&#x20;
-
-&#x20;
+●        ![](<../../../../../.gitbook/assets/imagen (15).png>) Con el botón de comprobación de los importes seleccionados vamos a ver si la suma de los dos primeros se ajustan al importe del registro.&#x20;
 
 ●        Una vez confirmamos que la suma de esos dos registros “casi” cuadran con el importe del registro confirmamos la selección con el botón de la derecha:
 
-○        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image010.jpg)
+&#x20;![](<../../../../../.gitbook/assets/imagen (16).png>)
 
-&#x20;
+&#x20;&#x20;
 
-&#x20;
-
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image012.jpg)
-
-&#x20;
+<figure><img src="../../../../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
 
 ●        Al confirmar, el sistema detecta la diferencia de importes y nos presenta el siguiente cuadro de diálogo:
 
-●        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image014.jpg)
+<figure><img src="../../../../../.gitbook/assets/imagen (19).png" alt=""><figcaption></figcaption></figure>
 
 ●        Según marquemos que la diferencia es aplicable a gastos bancarios o a compensación el programa utilizar para generar el asiento de tesorería uno u otro concepto y en consecuencia su correspondiente cuenta contable:
 
@@ -90,4 +68,4 @@
 
 ●        El procedimiento para la aplicación de un documento es exactamente el mismo que acabamos de explicar.
 
-●        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image016.jpg) En última instancia, si por cualquier razón no conseguimos localizar el documento relativo a un registro tenemos la opción de la “Selección directa”. Pulsando este botón nos aparece un localizador donde podremos seleccionar cualquier documento de la base de datos por su código y quedará vinculado al registro bancario sin ningún tipo de control.
+●        ![](<../../../../../.gitbook/assets/imagen (20).png>) En última instancia, si por cualquier razón no conseguimos localizar el documento relativo a un registro tenemos la opción de la “Selección directa”. Pulsando este botón nos aparece un localizador donde podremos seleccionar cualquier documento de la base de datos por su código y quedará vinculado al registro bancario sin ningún tipo de control.

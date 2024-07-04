@@ -20,7 +20,7 @@ La cabecera de las facturas de gastos está compuesta por los siguientes campos:
 * **Fecha Emisión:** podremos indicar aquí la fecha de emisión del documento. La fecha contable se podrá elegir en el momento del traspaso a contabilidad. Donde podremos seleccionar la fecha de grabación, o la de origen.
 * **Acreedor:** mediante este campo podremos seleccionar un acreedor, localizarlo, editar el seleccionado o incluso modificar el seleccionado editando sus datos desde la siguiente opción (sólo válido para el documento generado, no modifica la ficha):
 
-<figure><img src="../../.gitbook/assets/imagen (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Nombre, tipo de pago y vencimientos:** muestra, respectivamente, el nombre, tipo de pago y vencimientos del acreedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado **Submaestros > Administración >** [**Tipos de pago**](../submaestros/administracion-1/tipos-de-pago.md) **y** [**Vencimientos**](../submaestros/administracion-1/vencimientos.md)
 * **Referencia:** podemos guardar en este campo el código o referencia de la factura que nos ha emitido el acreedor.

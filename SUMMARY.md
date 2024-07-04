@@ -201,6 +201,7 @@
       * [Formularios de edición y localización](manuales/administracion/integrador-bancario/practica/formularios-de-edicion-y-localizacion/README.md)
         * [Formulario del registro bancario](manuales/administracion/integrador-bancario/practica/formularios-de-edicion-y-localizacion/formulario-del-registro-bancario.md)
         * [Formulario de localización de entidades y selección (desde la rejilla)](manuales/administracion/integrador-bancario/practica/formularios-de-edicion-y-localizacion/formulario-de-localizacion-de-entidades-y-seleccion-desde-la-rejilla.md)
+        * [Formulario de localización y selección de la cuenta de tesorería de contrapartida](manuales/administracion/integrador-bancario/practica/formularios-de-edicion-y-localizacion/formulario-de-localizacion-y-seleccion-de-la-cuenta-de-tesoreria-de-contrapartida.md)
         * [Formulario de localización de documento/s relacionado/s](manuales/administracion/integrador-bancario/practica/formularios-de-edicion-y-localizacion/formulario-de-localizacion-de-documento-s-relacionado-s.md)
 * [Automoción](manuales/automocion/README.md)
   * [Taller](manuales/automocion/taller/README.md)

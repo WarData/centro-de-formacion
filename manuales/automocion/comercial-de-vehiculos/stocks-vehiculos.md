@@ -38,7 +38,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5:
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Botones de opciones sobre el stock:
 
@@ -70,7 +70,7 @@ Mostramos un ejemplo de listado con el valor a hoy del stock y todos los vehícu
 
 Muestra un pequeño formulario que presentará rejillas de datos similares a la rejilla principal, pero centrándose en los datos escogidos en el formulario:
 
-<figure><img src="../../../.gitbook/assets/imagen (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En este caso se muestra la rejilla basada en datos de ventas, no apareciendo costes de compra:
 
@@ -138,4 +138,4 @@ Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y
 
 PDF de ejemplo - Página 1 del listado de stock de vehículos:
 
-<figure><img src="../../../.gitbook/assets/imagen (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
