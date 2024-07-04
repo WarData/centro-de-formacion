@@ -177,6 +177,7 @@
     * [Práctica](manuales/administracion/integrador-bancario/practica.md)
       * [Panel](manuales/administracion/integrador-bancario/practica/panel/README.md)
         * [Selector / Gestor de cuentas](manuales/administracion/integrador-bancario/practica/panel/selector-gestor-de-cuentas.md)
+        * [Filtro de fechas](manuales/administracion/integrador-bancario/practica/panel/filtro-de-fechas.md)
         * [Selector de estados](manuales/administracion/integrador-bancario/practica/panel/selector-de-estados.md)
         * [Selector / Gestor de tipos de movimientos](manuales/administracion/integrador-bancario/practica/panel/selector-gestor-de-tipos-de-movimientos.md)
         * [Botones de opciones](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/README.md)
@@ -399,3 +400,4 @@
 * [Configuración de cuentas para la generación de asientos desde gestión](manuales-documentos-auxiliares/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
 * [Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-documentos-auxiliares/real-decreto-1514-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad..md)
 * [Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad](manuales-documentos-auxiliares/real-decreto-1515-2007-de-16-de-noviembre-por-el-que-se-aprueba-el-plan-general-de-contabilidad.md)
+* [Calendario personalizable en documentos y filtros](manuales-documentos-auxiliares/calendario-personalizable-en-documentos-y-filtros.md)
