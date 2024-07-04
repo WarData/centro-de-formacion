@@ -1,12 +1,6 @@
 # Formulario del registro bancario
 
-●        &#x20;
 
-&#x20;
-
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
-
-&#x20;
 
 Dependiendo del estado y del tipo del registro la información que vemos en este formulario cambia. Mostramos arriba un registro de pago a proveedor / acreedor en estado “Confirmado”, dado que es uno de los más completos que podemos ver. Pasamos a explicar qué hace cada uno de los botones que vemos:
 

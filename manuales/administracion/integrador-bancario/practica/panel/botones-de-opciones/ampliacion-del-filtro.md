@@ -1,20 +1,16 @@
 # Ampliación del filtro
 
-Abre dentro del propio panel un marco con una serie de campos alternativos para añadir criterios de filtro sobre los que filtros generales que ya tenemos en pantalla (cuenta, tipo de movimiento,  fecha y estado).
+![](<../../../../../../.gitbook/assets/imagen (240).png>) (Más filtros):
 
-&#x20;
+Abre dentro del propio panel un marco con una serie de campos alternativos para añadir criterios de filtro sobre los que filtros generales que ya tenemos en pantalla (cuenta, tipo de movimiento, fecha y estado).
 
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
+<figure><img src="../../../../../../.gitbook/assets/imagen (241).png" alt=""><figcaption></figcaption></figure>
 
 ●        Se añade la posibilidad de filtrar por un lado por el código de movimiento intradía, el concepto común de la norma 43 o la entidad.
 
 ●        En la derecha podremos filtrar cobros / pagos por importe.
 
-●        El botón “Cerrar” aplica el filtro en la lista en pantalla y cierra la sección del filtro. Además presenta en la cabecera, a la derecha de la fecha un texto descriptivo del filtro ampliado aplicado:
-
-&#x20;
-
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)
+●        El botón “Cerrar” aplica el filtro en la lista en pantalla y cierra la sección del filtro. Además presenta en la cabecera, a la derecha de la fecha un texto descriptivo del filtro ampliado aplicado.
 
 ●        El botón “Limpiar” desactiva todos los filtros extendidos y recalcula la vista de movimientos en pantalla según los filtros generales.
 
