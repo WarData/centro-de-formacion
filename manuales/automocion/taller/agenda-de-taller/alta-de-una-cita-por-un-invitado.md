@@ -28,7 +28,7 @@ El alta de la cita se realiza accediendo a la opción del menú izquierdo indica
 
 <mark style="color:yellow;">5.- Vista del calendario Google Calendar con una cuenta gestionada por Winmotor y con la que podrá acceder desde cualquier dispositivo, ya sea un ordenador, tableta o móvil:</mark>
 
-<figure><img src="../../../../.gitbook/assets/imagen (9) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 Pulse el botón "Vista estándar" ![](<../../../../.gitbook/assets/imagen (36) (2).png>) para volver a la vista del panel de citas.
 

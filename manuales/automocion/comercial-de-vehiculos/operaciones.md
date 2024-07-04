@@ -37,7 +37,7 @@ Este botón da de alta una nueva operación en la situación indicada, similar a
 * <mark style="color:blue;">Entregadas</mark>: son aquellas operaciones cuyo vehículo y opciones han sido entregados al cliente. **El color de la situación es gris claro.**
 * <mark style="color:blue;">Expediente finalizado</mark>: son aquellas marcadas con el botón "Expediente finalizado" incluido en la operación y que sirve como referencia al vendedor o concesionario de un momento concreto de la operación de forma manual:
 
-<figure><img src="../../../.gitbook/assets/imagen (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (20) (2).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Anuladas</mark>: son aquellas operaciones marcadas con el botón "Anular" del panel de operaciones. Son operaciones que no deben tener cobros asociados y estar en situación iniciada. <mark style="color:orange;">El color de la situación es naranja</mark>:
 

@@ -5,7 +5,7 @@ Para gestionar la cita existe una operativa en su formulario a fin de <mark styl
 * **Si hay una OR vinculada a la cita** queda marcado el check "Vehículo recepcionado" y la fecha de recepción y prevista de entrega.
 * **Si no hay un OR vinculada** el programa propondrá, después de marcar la cita como en curso, crearla.
 
-<figure><img src="../../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (11) (5).png" alt=""><figcaption></figcaption></figure>
 
 **Cambio de estado e icono:**
 

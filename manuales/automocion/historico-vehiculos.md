@@ -12,4 +12,4 @@ También es posible mostrar una estadística de producción de vehículos median
 
 Panel de histórico de vehículos:
 
-<figure><img src="../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>

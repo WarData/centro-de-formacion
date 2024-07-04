@@ -12,7 +12,7 @@
 
 **3.- Datos de cliente / pre-cliente:** marcamos con \* los obligatorios (nombre y correo electrónico) para entregar el presupuesto. Para confirmarlo es necesario completar la ficha de la entidad que se presenta tras confirmación > pasará de pre-cliente a cliente por lo que requiere incluir la dirección completa y el DNI / CIF:
 
-<figure><img src="../../../../.gitbook/assets/imagen (18) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (18) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.- V.O. entregado por el cliente:** marcamos con \* la matrícula como obligatoria. La recogida del vehículo de ocasión solicita una pre-valoración inicial, pero la obligatoria es la tasación ya en la operación confirmada:
 

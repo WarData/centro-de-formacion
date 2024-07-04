@@ -49,7 +49,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 * En la versión disponemos de un campo "Serie" referente a una estructura solicitada por algunas marcas. Además de poder dar de alta las series que queramos, existen unas series por defecto por lo que sólo habría que seleccionar la correcta si existe:
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * El formulario de alta de la versión quedaría así:
 
@@ -85,11 +85,11 @@ Al ejemplo le añadimos EURO 7, <mark style="color:yellow;">**código y referenc
 
 * <mark style="color:blue;">F2 - Buscar modelo</mark>: muestra un localizador mediante varios índices de búsqueda como trozos de palabras y referencia de fabricante y modelos / colores, modelos y colores por separado. Es similar al localizador de modelos usado en albaranes de compras de vehículos y operaciones:
 
-<figure><img src="../../../.gitbook/assets/imagen (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">F3 - Listados</mark>: presenta varias opciones sobre los listados a mostrar:
 
-<figure><img src="../../../.gitbook/assets/imagen (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (19) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Ejemplo de series mostrado en panel similar a modelos:
 
@@ -110,7 +110,7 @@ Ejemplo de listado de colores:
 
 2.- Actualizar precios modelos
 
-<figure><img src="../../../.gitbook/assets/imagen (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (21) (2).png" alt=""><figcaption></figcaption></figure>
 
 3.- Revisión de modelos
 

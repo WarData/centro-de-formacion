@@ -10,7 +10,7 @@ En el **importador de tarifas de artículos**:
 
 2.- Cálculo del campo referencia mediante fórmula, que permite seleccionar caracteres iniciales y finales, cálculo desde EAN13 y más.
 
-![](<../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 **\*\*\*Al final de este tutorial encontrará claves fundamentales para un procedimiento correcto\*\*\***
 

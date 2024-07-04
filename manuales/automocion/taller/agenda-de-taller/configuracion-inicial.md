@@ -91,7 +91,7 @@ F) La pestaña <mark style="color:yellow;">**"Citas"**</mark> permite mostrar to
 
 Para cambiar el asesor o la fecha debe pulsar los botones indicados en la imagen superior. El primer botón ![](<../../../../.gitbook/assets/imagen (14) (3) (2).png>) cambia el asesor de servicio y el segundo botón ![](<../../../../.gitbook/assets/imagen (9) (1) (2).png>) la fecha, mostrándose los cambios en la rejilla:
 
-<figure><img src="../../../../.gitbook/assets/imagen (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (5) (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\* Cuando existen operarios sin turnos asignados y el turno correcto está dado de alta, seleccionaremos los operarios a los que hay que asignar turno y pulsaremos en el botón indicado en la siguiente imagen:
 

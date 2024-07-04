@@ -18,7 +18,7 @@ description: Exclusivamente para el ejercicio en curso
 
 1.1.1.- Comprobar la definición estándar de las cuentas contables en todas las pestañas y notificar al contable por si luego quiere definir alguna diferencia.
 
-![](<../../../.gitbook/assets/imagen (2) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/imagen (2) (1) (1) (1) (1) (1) (1).png>)
 
 1.2.- Cuentas de gastos e ingresos **\*** (el contable debe decidir a qué nivel configura estas cuentas)
 
@@ -26,13 +26,13 @@ description: Exclusivamente para el ejercicio en curso
 
 1.2.1.1.- Parámetros – Contables – Cuentas por tipo de producto
 
-![](<../../../.gitbook/assets/imagen (3) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/imagen (3) (1) (1) (1) (1) (1).png>)
 
 1.2.2.- A nivel Serie de documento
 
 1.2.1.1.- Entrando en cada serie de ventas, compras y gastos definir la cuenta contable de esa serie en la pestaña “Contabilidad”.
 
-![](<../../../.gitbook/assets/imagen (4) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/imagen (4) (1) (1) (1) (1).png>)
 
 1.2.3.- Por familias
 

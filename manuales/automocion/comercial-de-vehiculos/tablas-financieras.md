@@ -20,11 +20,11 @@ También es posible el alta de nuevas tablas mediante el doble clic o botón der
 
 El panel de la opción "Tablas financieras" muestra las tablas dadas de alta a fin de dar de alta o modificar las existentes:
 
-<figure><img src="../../../.gitbook/assets/imagen (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (10) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 Editando una tabla existente:
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (11) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.- En la serie de operaciones VN:**
 

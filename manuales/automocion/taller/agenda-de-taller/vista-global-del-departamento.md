@@ -1,6 +1,6 @@
 # Vista global del departamento
 
-<figure><img src="../../../../.gitbook/assets/imagen (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (7) (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 Esta opción, contenida en el menú de opciones del panel de los asesores de servicio, presenta:
 
@@ -18,6 +18,6 @@ Esta opción, contenida en el menú de opciones del panel de los asesores de ser
 
 5.- Vista del calendario Google Calendar con una cuenta gestionada por Winmotor y con la que podrá acceder desde cualquier dispositivo, ya sea un ordenador, tableta o móvil:
 
-<figure><img src="../../../../.gitbook/assets/imagen (9) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (9) (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 Pulse el botón "Vista estándar" ![](<../../../../.gitbook/assets/imagen (36) (2).png>) para volver a la vista del panel de citas.&#x20;
