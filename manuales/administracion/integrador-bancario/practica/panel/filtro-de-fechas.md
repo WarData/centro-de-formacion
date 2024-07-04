@@ -1,7 +1,7 @@
 # Filtro de fechas
 
-○        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
+<figure><img src="../../../../../.gitbook/assets/imagen (226).png" alt=""><figcaption></figcaption></figure>
 
 ○        Escribiendo en la fecha desde y hasta podemos definir un límite manual.
 
-○        ![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)Pinchado este botón podemos definir un “criterio” de cálculo de fechas. Se puede consultar la operativa [pinchando en este enlace a "Calendario personalizable en documentos y filtros"](https://winmotor.gitbook.io/winmotor-automocion/manuales-documentos-auxiliares/calendario-personalizable-en-documentos-y-filtros)
+○        Pinchado este botón ![](<../../../../../.gitbook/assets/imagen (225).png>) podemos definir un “criterio” de cálculo de fechas. Se puede consultar la operativa [pinchando en este enlace a "Calendario personalizable en documentos y filtros"](https://winmotor.gitbook.io/winmotor-automocion/manuales-documentos-auxiliares/calendario-personalizable-en-documentos-y-filtros)

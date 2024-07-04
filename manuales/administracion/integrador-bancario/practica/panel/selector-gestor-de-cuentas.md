@@ -1,18 +1,18 @@
 # Selector / Gestor de cuentas
 
-<figure><img src="../../../../../.gitbook/assets/imagen (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (221).png" alt=""><figcaption></figcaption></figure>
 
-●        Pinchando en el aspa de la izquierda cerramos el selector de cuentas y se presentarán en la lista los movimientos de todas las cuentas con el “Alias” de cada cuenta en la primera columna.
+Pinchando en el aspa de la izquierda cerramos el selector de cuentas y se presentarán en la lista los movimientos de todas las cuentas con el “Alias” de cada cuenta en la primera columna.
 
-○        Aparece entonces el botón para activar el selector de cuentas ![](<../../../../../.gitbook/assets/imagen (219).png>)
+Aparece entonces el botón para activar el selector de cuentas ![](<../../../../../.gitbook/assets/imagen (219).png>)
 
-●        Haciendo clic en la flecha abajo del selector de cuentas se presenta la lista de las cuentas configuradas en el integrador y al seleccionar una se filtran automáticamente sus movimientos en la lista.
+Haciendo clic en la flecha abajo del selector de cuentas se presenta la lista de las cuentas configuradas en el integrador y al seleccionar una se filtran automáticamente sus movimientos en la lista.
 
-<figure><img src="../../../../../.gitbook/assets/imagen (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (222).png" alt=""><figcaption></figcaption></figure>
 
-●        Pinchando en el lápiz se edita la ficha de la cuenta bancaria
+Pinchando en el lápiz se edita la ficha de la cuenta bancaria
 
-![](file:///C:/Users/warda/AppData/Local/Temp/msohtmlclip1/01/clip\_image006.jpg)
+<figure><img src="../../../../../.gitbook/assets/imagen (223).png" alt=""><figcaption></figcaption></figure>
 
 ●        No es un formulario operativo, se utiliza sólo para consultas.
 
@@ -26,8 +26,6 @@
 
 ●        En la “Última lectura” el programa nos muestra cuándo se ha hecho la última descarga de movimientos “intradía” (fecha y hora) y cuándo la del formato de la norma 43 (sólo la fecha, se hace una al día).
 
-●        El botón “Conceptos propios” muestra la lista de los conceptos propios de la entidad para la norma 43.
+●        El botón “Conceptos propios” muestra la lista de los conceptos propios de la entidad para la norma 43.&#x20;
 
-&#x20;
-
-●        Si hacemos click en la balanza de la derecha veremos un extracto contable de la cuenta bancaria tal como lo veríamos desde el menú de contabilidad en la opción “Extracto”. Por defecto se nos presentará el extracto con los límites de fechas que estén definidos en ese momento en el panel del integrador.
+●        Si hacemos clic en la balanza de la derecha veremos un extracto contable de la cuenta bancaria tal como lo veríamos desde el menú de contabilidad en la opción “Extracto”. Por defecto se nos presentará el extracto con los límites de fechas que estén definidos en ese momento en el panel del integrador.
