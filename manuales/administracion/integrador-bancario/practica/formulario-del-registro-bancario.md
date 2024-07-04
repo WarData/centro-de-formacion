@@ -1,2 +1,0 @@
-# Formulario del registro bancario
-
