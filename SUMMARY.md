@@ -172,7 +172,6 @@
     * [Capital prestado](manuales/administracion/informes-estadisticos/capital-prestado.md)
   * [Declaraciones de importación](manuales/administracion/declaraciones-de-importacion.md)
   * [Integrador Bancario](manuales/administracion/integrador-bancario/README.md)
-    * [Esquema / Índice](manuales/administracion/integrador-bancario/esquema-indice.md)
     * [Teoría](manuales/administracion/integrador-bancario/teoria.md)
       * [Qué es](manuales/administracion/integrador-bancario/teoria/que-es.md)
       * [Fases](manuales/administracion/integrador-bancario/teoria/fases/README.md)
