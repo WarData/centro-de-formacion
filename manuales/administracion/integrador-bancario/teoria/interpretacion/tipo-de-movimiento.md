@@ -1,2 +1,0 @@
-# Tipo de movimiento
-

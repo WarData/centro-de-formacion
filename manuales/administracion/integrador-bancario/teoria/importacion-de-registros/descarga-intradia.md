@@ -1,2 +1,0 @@
-# Descarga intradía
-

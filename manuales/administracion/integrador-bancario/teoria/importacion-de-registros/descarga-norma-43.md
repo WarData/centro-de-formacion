@@ -1,2 +1,0 @@
-# Descarga norma 43
-

@@ -1,3 +1,0 @@
-# Interpretación
-
-I
