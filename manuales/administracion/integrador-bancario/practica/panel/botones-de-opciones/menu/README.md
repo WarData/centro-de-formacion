@@ -3,7 +3,6 @@
 ![](<../../../../../../../.gitbook/assets/imagen (234).png>) El botón de menú nos da las siguientes opciones:
 
 * [Establecer filtro por defecto](establecer-filtro-por-defecto.md)
-* [Punteo contable](broken-reference)
 * [Tipos de movimientos](tipos-de-movimientos.md)
 * [Concepto comunes - Norma 43](conceptos-comunes-n43.md)
 * [Diccionario de localización de entidades](diccionario-de-localizacion-de-entidades/)
