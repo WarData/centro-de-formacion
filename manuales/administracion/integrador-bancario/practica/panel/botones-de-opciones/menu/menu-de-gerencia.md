@@ -1,6 +1,8 @@
 # Menú de gerencia
 
-Es un panel específico pensado para directores y gerentes en lugar de para el contable.![](<../../../../../../../.gitbook/assets/imagen (255).png>)
+Es un panel específico pensado para directores y gerentes en lugar de para el contable.
+
+<figure><img src="../../../../../../../.gitbook/assets/imagen (255).png" alt=""><figcaption></figcaption></figure>
 
 ●        Muestra una lista de las cuentas configuradas en el integrador con el saldo actual de cada una de ellas.
 
