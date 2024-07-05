@@ -183,7 +183,6 @@
         * [Botones de opciones](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/README.md)
           * [Menú](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/menu/README.md)
             * [Establecer filtro por defecto](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/menu/establecer-filtro-por-defecto.md)
-            * [Punteo contable](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/menu/punteo-contable.md)
             * [Tipos de movimientos](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/menu/tipos-de-movimientos.md)
             * [Conceptos comunes - N43](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/menu/conceptos-comunes-n43.md)
             * [Diccionario de localización de entidades](manuales/administracion/integrador-bancario/practica/panel/botones-de-opciones/menu/diccionario-de-localizacion-de-entidades/README.md)
