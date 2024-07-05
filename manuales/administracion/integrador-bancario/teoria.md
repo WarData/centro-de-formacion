@@ -1,3 +1,3 @@
 # Teoría
 
-<mark style="color:yellow;">**Detalles generales**</mark>
+<mark style="color:yellow;">Detalles generales</mark>
