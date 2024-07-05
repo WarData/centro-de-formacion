@@ -1,6 +1,6 @@
 # Selector / Gestor de cuentas
 
-<figure><img src="../../../../../.gitbook/assets/imagen (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (252).png" alt=""><figcaption></figcaption></figure>
 
 Pinchando en el aspa de la izquierda cerramos el selector de cuentas y se presentarán en la lista los movimientos de todas las cuentas con el “Alias” de cada cuenta en la primera columna.
 
@@ -8,7 +8,7 @@ Aparece entonces el botón para activar el selector de cuentas ![](<../../../../
 
 Haciendo clic en la flecha abajo del selector de cuentas se presenta la lista de las cuentas configuradas en el integrador y al seleccionar una se filtran automáticamente sus movimientos en la lista.
 
-<figure><img src="../../../../../.gitbook/assets/imagen (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (253).png" alt=""><figcaption></figcaption></figure>
 
 Pinchando en el lápiz se edita la ficha de la cuenta bancaria
 

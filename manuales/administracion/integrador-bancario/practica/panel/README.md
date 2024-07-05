@@ -6,4 +6,4 @@ description: El panel del integrador
 
 Llamamos “panel” al menú del integrador donde gestionamos todo el módulo
 
-<figure><img src="../../../../../.gitbook/assets/imagen (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (251).png" alt=""><figcaption></figcaption></figure>
