@@ -303,6 +303,8 @@
 
 * [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
 * [Partes de Fabricación - Preparación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
+* [Integrador Bancario](modulos-pda-tablets-moviles/integrador-bancario.md)
+* [Alta automática de documentos de compras y gastos](modulos-pda-tablets-moviles/alta-automatica-de-documentos-de-compras-y-gastos.md)
 
 ## MÓDULOS WINMOTOR OPCIONALES
 
