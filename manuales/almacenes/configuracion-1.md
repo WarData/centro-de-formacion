@@ -1,8 +1,32 @@
----
-description: Configuración
----
-
 # Almacenes
+
+Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artículo.
+
+Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo una nave, o dentro de esta nave una calle, estantería, balda, etc.
+
+Campos
+
+* Código: identificador único del almacén.
+  * Si por ejemplo queremos clasificar dentro de una nave las distintas calles, el identificador de la calle debe de empezar por el ID de la nave a la que pertenece.&#x20;
+  * Como norma, siempre debe de existir un almacén principal cuyo identificador solo podrá tener un dígito y que hará referencia a la empresa ( E ). Si la empresa es multicentro, deberá de colgar de éste un almacén por centro, y debe de tener 3 dígitos ( EM- ). Ya dentro de cada centro, o si no tenemos centro, se crearán los almacenes por cada nave o ubicación.&#x20;
+  * Por ejemplo:
+    * E - Empresa
+    * ES- Tienda Sevilla
+    * ES-T Taller tienda Sevilla
+    * ES-TC1 - Calle 1 taller tienda Sevilla
+    * ES-TC1E1 - Estantería 1 calle 1 taller tienda Sevilla
+    * ES-TC1E1C1 - Caja 1 estantería 1 calle 1 taller tienda Sevilla
+    * ES-E Exposición tienda Sevilla
+    * ...
+    * EV- Tienda Valencia
+    * ...
+* No es obligatorio el desglose de cada ubicación. Podemos crear y clasificar los almacenes que nos interese.
+* Nombre: descripción del almacén
+* Empresa: solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
+* Centro: solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
+* Restringido: si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Si se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
+
+\*\*\* **Configuración**
 
 **Objetivo**
 
@@ -39,35 +63,3 @@ o Parámetro “Control de almacenes por líneas de documentos” en centro o em
 P (almacén principal) // P-N (nave) // P-E (exposición)
 
 o …si el documento tiene por defecto el almacén P, se podrá elegir en la línea cualquiera de sus dos SUB-almacenes.
-
-· **Funcionamiento**
-
-**PARA PROGRAMADORES**
-
-o Al arrancar la aplicación, en la variable ALM X DEF MEM se guarda el almacén por defecto con los siguientes criterios (el orden de prioridad es de arriba abajo, es decir, si se cumple lo de abajo prevalece sobre lo de arriba)
-
-* Almacén asignado al usuario, si lo tiene (este es el que prevalece sobre los siguientes).
-* Si no, el almacén asignado al perfil
-* Si no, si la distribución es multicentro, el almacén asignado al centro
-* Y si no, el almacén asignado a la empresa.
-
-o En documentos (todos, no hay excepción, incluso los que no son de “stock”)
-
-* El almacén asociado a la serie, si lo hay
-* Si no, el almacén guardado en el arranque (variable).
-* Si no, si la distribución es multicentro, el almacén asignado al centro del documento.
-* Si no, el almacén asignado a la empresa definida en parámetros
-
-o En líneas de documentos
-
-* Albaranes de compra
-
-· Si se pueden seleccionar sub-almacenes, parámetro marcado en centro o empresa, se permite seleccionar alguno de los almacenes donde ha llegado a estar el artículo. Si no ha estado en ningún almacén, te da a elegir de entre todos los sub-almacenes disponibles. Se permite cambiar en el formulario de modificación
-
-· Si no, directamente coge el de la cabecera.
-
-* Albaranes de venta
-
-· Idéntico a compras, pero siempre buscando almacenes con disponibilidad de stock del articulo seleccionado.
-
-· No se puede modificar el almacén ni en el formulario de modificación ni en el de alta.
