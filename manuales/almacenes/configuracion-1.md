@@ -4,9 +4,9 @@ Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artí
 
 Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo una nave, o dentro de esta nave una calle, estantería, balda, etc.
 
-Campos
+**CAMPOS**
 
-* Código: identificador único del almacén.
+* <mark style="color:yellow;">Código</mark>: identificador único del almacén.
   * Si por ejemplo queremos clasificar dentro de una nave las distintas calles, el identificador de la calle debe de empezar por el ID de la nave a la que pertenece.&#x20;
   * Como norma, siempre debe de existir un almacén principal cuyo identificador solo podrá tener un dígito y que hará referencia a la empresa ( E ). Si la empresa es multicentro, deberá de colgar de éste un almacén por centro, y debe de tener 3 dígitos ( EM- ). Ya dentro de cada centro, o si no tenemos centro, se crearán los almacenes por cada nave o ubicación.&#x20;
   * Por ejemplo:
@@ -20,21 +20,21 @@ Campos
     * ...
     * EV- Tienda Valencia
     * ...
-* No es obligatorio el desglose de cada ubicación. Podemos crear y clasificar los almacenes que nos interese.
-* Nombre: descripción del almacén
-* Empresa: solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
-* Centro: solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
-* Restringido: si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Si se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
+    * **No es obligatorio el desglose de cada ubicación. Podemos crear y clasificar los almacenes que nos interese.**
+* <mark style="color:yellow;">Nombre:</mark> descripción del almacén
+* <mark style="color:yellow;">Empresa:</mark> solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
+* <mark style="color:yellow;">Centro:</mark> solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
+* <mark style="color:yellow;">Restringido:</mark> si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Si se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
 
-\*\*\* **Configuración**
+CONFIGURACIÓN
 
-**Objetivo**
+<mark style="color:yellow;">**Objetivo**</mark>
 
 Configurar el tratamiento de almacenes en toda la aplicación
 
-**Gestión**
+<mark style="color:yellow;">**Gestión**</mark>
 
-· **Niveles de configuración de menor a mayor prioridad**
+**A) Niveles de configuración de menor a mayor prioridad**
 
 o Por usuario
 
@@ -48,7 +48,7 @@ o Por serie
 
 En la grabación de documentos, el orden de prioridad es de abajo arriba. Es decir, primero se analiza si la serie tiene almacén, si no, el centro, si no la empresa, si no el perfil del usuario y por último el almacén del usuario
 
-· **Asignación de almacenes**
+B) **Asignación de almacenes**
 
 o Cada almacén se podrá asignar a una sola empresa o centro. Esto se hace desde la ficha del almacén
 
@@ -56,7 +56,7 @@ o A mayores, se podrá seleccionar en cada almacén relaciones con series de doc
 
 o Y por último, también podremos crear relaciones en cada almacén con un usuario concreto o un perfil de usuario.
 
-· **Otra configuración de tener en cuenta**
+**C) Otra configuración de tener en cuenta**
 
 o Parámetro “Control de almacenes por líneas de documentos” en centro o empresa: marcando este check, se puede decidir si en la grabación de líneas de documentos, se pueden usar sub-almacenes. Por ejemplo, en una distribución donde existan los almacenes…
 
