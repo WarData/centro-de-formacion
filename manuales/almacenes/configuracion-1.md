@@ -63,3 +63,5 @@ o Parámetro “Control de almacenes por líneas de documentos” en centro o em
 P (almacén principal) // P-N (nave) // P-E (exposición)
 
 o …si el documento tiene por defecto el almacén P, se podrá elegir en la línea cualquiera de sus dos SUB-almacenes.
+
+<mark style="color:yellow;">ALMACENES RESTRINGIDOS:</mark> Esto hará que el stock que exista en este almacén no pueda ser reservado ni usado para vender. En los listados de stock, se podrá incluir o quitar los almacenes bloqueados

@@ -12,7 +12,7 @@ La cabecera está compuesta por los siguientes campos:
 
 **-SERIE:** es un campo imprescindible de rellenar, y de él depende la presentación o contenido que tendrá la factura. Entre otras cosas, en una serie de factura de venta se define si será de recambios (albaranes de ventas), de taller (órdenes de reparación), de vehículos nuevos o de ocasión (ambas contienen vehículos). Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
 
-**-NÚMERO:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.        &#x20;
+**-NÚMERO:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
 
 **-FECHA:** se indica aquí la fecha de la factura. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
@@ -24,7 +24,7 @@ La cabecera está compuesta por los siguientes campos:
 
 **-VENDEDOR:** tomará por defecto el vendedor definido en la ficha del cliente o agente. Se podrá modificar manualmente.
 
-**-TIPO DE PAGO 1 y 2, VENCIMIENTOS  e IMPORTES:** una factura de venta podrá tener hasta 2 tipos de pago diferentes. En ese caso, habrá que utilizar los campos **IMP** situados justo a la derecha de cada tipo de pago, para indicar el importe que corresponde a cada tipo. Cuando el albarán corresponde a un cheque regalo, el tipo de pago tomará por defecto modelo VALE.
+**-TIPO DE PAGO 1 y 2, VENCIMIENTOS e IMPORTES:** una factura de venta podrá tener hasta 2 tipos de pago diferentes. En ese caso, habrá que utilizar los campos **IMP** situados justo a la derecha de cada tipo de pago, para indicar el importe que corresponde a cada tipo. Cuando el albarán corresponde a un cheque regalo, el tipo de pago tomará por defecto modelo VALE.
 
 **-TIPO DE IVA:** este campo tomará por defecto el tipo de IVA definido en la ficha del cliente o del agente seleccionado en el albarán. Se podrá modificar manualmente. Los diferentes tipos de IVA y de exentos, se explican en la sección proveedores – tipos de IVA.
 
@@ -36,7 +36,7 @@ La cabecera está compuesta por los siguientes campos:
 
 **-CONTENIDO:** se presentará una rejilla diferente para cada tipo de factura.
 
-·          Facturas de recambios
+· Facturas de recambios
 
 Se presenta una rejilla en la que se muestran los albaranes de ventas que componen la factura. Se pueden grabar nuevas líneas para facturar albaranes haciendo doble click sobre cualquier línea en blanco o pulsando el botón **+** o **Insert** del teclado. Nos aparecerá la siguiente pantalla.
 
@@ -44,7 +44,7 @@ En este formulario podremos localizar los albaranes pendientes de facturar del c
 
 El formulario tiene botones para **Aceptar** los cambios realizados, **Cancelar** los cambios o **Borrar** la línea.
 
-·          Facturas de taller
+· Facturas de taller
 
 Se presenta una rejilla en la que se muestran las líneas de las órdenes de reparación incluidas en la factura. Se podrán visualizar haciendo doble click sobre cualquiera de ellas y nos aparecerá el siguiente formulario.
 
@@ -56,33 +56,33 @@ A continuación, se presentará una rejilla con todas las líneas que componen l
 
 **Borrar ORs**: mediante este botón, quitaremos de la factura la orden de reparación que seleccionemos en el localizador que nos aparece.
 
-·          Facturas de vehículos (el funcionamiento es similar para vehículos nuevos y de ocasión, salvo la rejilla del que nos muestra los vehículos facturados)
+· Facturas de vehículos (el funcionamiento es similar para vehículos nuevos y de ocasión, salvo la rejilla del que nos muestra los vehículos facturados)
 
 En ambas rejillas se nos presentan los vehículos o conceptos facturados. Podremos editar cada línea haciendo doble click sobre cualquiera de ellas. Nos aparecerá el siguiente formulario.
 
-\-          Bastidor: aquí podremos localizar el bastidor que vayamos a facturar. No se podrá seleccionar un bastidor que no esté en stock.
+\- Bastidor: aquí podremos localizar el bastidor que vayamos a facturar. No se podrá seleccionar un bastidor que no esté en stock.
 
-\-          Matrícula: este campo no es manipulable y presentará la matrícula del bastidor seleccionado.
+\- Matrícula: este campo no es manipulable y presentará la matrícula del bastidor seleccionado.
 
-\-          Concepto: además de poder facturar un bastidor, se podrán facturar conceptos de vehículos, como por ejemplo, el transporte o las tasas.
+\- Concepto: además de poder facturar un bastidor, se podrán facturar conceptos de vehículos, como por ejemplo, el transporte o las tasas.
 
-\-          Nombre del concepto: equivale a la descripción de cada línea.
+\- Nombre del concepto: equivale a la descripción de cada línea.
 
-\-          Base IVA: campos destinado a presentar el desglose de IVA del bastidor o concepto.
+\- Base IVA: campos destinado a presentar el desglose de IVA del bastidor o concepto.
 
-\-          Base IM: campos para definir el impuesto de matriculación que lleva cada línea. Tanto el IVA como el impuesto de matriculación tendrán por defecto el valor definido en la ficha del vehículo o del concepto, aunque se pueden modificar en la propia factura. Se han incluido unos botones para aplicar o quitar el IM en una línea de factura cuando en la ficha del vehículo o del concepto no estén definidos y se quieran aplicar, o lo estén y se quieran quitar.
+\- Base IM: campos para definir el impuesto de matriculación que lleva cada línea. Tanto el IVA como el impuesto de matriculación tendrán por defecto el valor definido en la ficha del vehículo o del concepto, aunque se pueden modificar en la propia factura. Se han incluido unos botones para aplicar o quitar el IM en una línea de factura cuando en la ficha del vehículo o del concepto no estén definidos y se quieran aplicar, o lo estén y se quieran quitar.
 
-\-          Total base: corresponde a la suma de las bases de la línea de factura.
+\- Total base: corresponde a la suma de las bases de la línea de factura.
 
-\-          Total IM: suma total del impuesto de matriculación.
+\- Total IM: suma total del impuesto de matriculación.
 
-\-          Total IVA: suma total del IVA.
+\- Total IVA: suma total del IVA.
 
-\-          Total línea: equivale a la suma total de los campos anteriores.
+\- Total línea: equivale a la suma total de los campos anteriores.
 
-\-          Número de orden: campo destinado a ordenar tanto en las rejillas como en los impresos, las líneas de las facturas.
+\- Número de orden: campo destinado a ordenar tanto en las rejillas como en los impresos, las líneas de las facturas.
 
-\-          Operación: muestra la operación de la que proviene.
+\- Operación: muestra la operación de la que proviene.
 
 Además, cada línea contiene los botones generales para **Aceptar**, **Cancelar** o **Borrar** la ficha.
 
@@ -94,13 +94,13 @@ Además, cada línea contiene los botones generales para **Aceptar**, **Cancelar
 
 **-INTERNAS:** muestra el beneficio de las líneas incluidas en la factura de venta. Dependiendo del tipo de factura, se presentará una rejilla diferente.
 
-·           Facturas de recambios
+· Facturas de recambios
 
-·          Facturas de taller
+· Facturas de taller
 
-·          Facturas de vehículos
+· Facturas de vehículos
 
-**-AGENTE:** cuando la factura es de vehículos, se presentará esta pestaña, en la que se puede indicar si intervino o no un agente, y modificar  el porcentaje de comisión que tendremos que pagarle y además imprimir la factura de comisión del agente.
+**-AGENTE:** cuando la factura es de vehículos, se presentará esta pestaña, en la que se puede indicar si intervino o no un agente, y modificar el porcentaje de comisión que tendremos que pagarle y además imprimir la factura de comisión del agente.
 
 **-APUNTE CONTABLE:** si la factura está contabilizada, se podrá ver en esta pestaña los apuntes contables generados. Esto solo será posible si el programa está enlazado con la contabilidad Velconta.
 
@@ -157,3 +157,7 @@ También se utiliza en esta opción el mismo filtro de búsqueda, pero en este c
 6 – LISTADO de IVA
 
 Misma opción que la anterior, pero en la rejilla se desglosan los impuestos.
+
+<mark style="color:yellow;">**Listado de comprobación de IVA**</mark>
+
+Tanto en facturas emitidas como recibidas una vez se presenta la lista de facturas aparece un botón "Comprobación por tipo de IVA". Al pulsarlo veremos dos nuevos informes posibles a seleccionar "Listado de comprobación por tipo de IVA" "Listado de comprobación por tipo de IVA - resumen" En el primer listado nos aparecen las facturas detalladas y clasificadas

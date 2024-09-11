@@ -4,7 +4,7 @@
 
 Si pulsamos este botón aparecerá a la izquierda de la lista el árbol visor de los tipos de movimientos lo que nos permitirá filtrar y editar por tipos de movimientos.
 
-<figure><img src="../../../../../.gitbook/assets/imagen (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (263).png" alt=""><figcaption></figcaption></figure>
 
 ●       ![](<../../../../../.gitbook/assets/imagen (233).png>) Con este botón (ahora en <mark style="color:red;">rojo</mark>) podemos volver a la vista normal sin el árbol de tipos de movimientos.
 

@@ -66,9 +66,22 @@ o Stocks general: muestra los artículos filtrados por los siguientes requisitos
 
 ![](<../../../../.gitbook/assets/image (565).png>)
 
-o Stocks por almacén: muestra los artículos filtrados por los siguientes requisitos (muestra referencia / artículo, nombre, Almacén, Stock, PMC, Valor stock):
+o Stocks por almacén: muestra los artículos filtrados por los siguientes requisitos (muestra referencia / artículo, nombre, Almacén, Stock, tipo de artículo, PMC, Valor stock y permite localizar artículos por palabras y quitar de la búsqueda almacenes restringidos):
 
-![](<../../../../.gitbook/assets/image (566).png>)
+<figure><img src="../../../../.gitbook/assets/imagen (261).png" alt=""><figcaption></figcaption></figure>
+
+Genera un listado que permite:
+
+* **Traspasar stock:**
+  * Crea un parte de traspaso de las líneas seleccionadas desde el almacén de la línea hasta el almacén que se seleccione.
+  * Si la serie está puesta como que se inicia en "borrador" se podrán cambiar las unidades antes de confirmar.
+  * No se podrán traspasar líneas de distintos almacenes a la vez.
+* **Desactivar almacén:**
+  * Desactiva el almacén del artículo en las líneas seleccionadas. Deben de estar sin stock
+* **Activar almacén:**
+  * Activa el almacén del artículo en las líneas seleccionadas
+
+<figure><img src="../../../../.gitbook/assets/imagen (260).png" alt=""><figcaption></figcaption></figure>
 
 o Stocks a fecha: muestra los artículos filtrados por los siguientes requisitos (muestra referencia, nombre, Stock, Costo, Valor stock):
 
