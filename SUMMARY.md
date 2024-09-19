@@ -159,6 +159,7 @@
     * [SII - Suministro Inmediato de Información](manuales/administracion/enlace-contable/sii-suministro-inmediato-de-informacion.md)
     * [Honda ARE - Configuración de cuentas contables](manuales/administracion/enlace-contable/honda-are-configuracion-de-cuentas-contables.md)
     * [Honda ARE - Contabilización de Servicios](manuales/administracion/enlace-contable/honda-are-contabilizacion-de-servicios.md)
+    * [Operativa para la gestión de las motos eléctricas en el informe Honda ARE](manuales/administracion/enlace-contable/honda-are-contabilizacion-de-servicios-1.md)
     * [Cierres Fiscales](manuales/administracion/enlace-contable/cierres-fiscales.md)
     * [Configuración de cuentas para la generación de asientos desde gestión](manuales/administracion/enlace-contable/configuracion-de-cuentas-para-la-generacion-de-asientos-desde-gestion.md)
   * [Remesa de cobros](manuales/administracion/remesas/remesas.md)
