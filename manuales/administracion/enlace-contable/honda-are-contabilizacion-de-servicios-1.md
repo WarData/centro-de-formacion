@@ -9,13 +9,15 @@ El objetivo de Honda en definitiva se resume en :
 
 A nivel Winmotor tanto la batería como el cargador son artículos normales del tipo recambio con lo que podremos controlar sus stocks como los de cualquier otro recambio . Más abajo explicamos lo que hay que hacer para gestionarlos en los documentos de ventas.
 
+Es importante tener en cuenta que esta actualización no es retroactiva: es decir, los documentos grabados anteriormente no se modifican, sólo aparecerán correctamente en el ARE los que se graben a partir de la actualización que sigan la pauta descrita en este documento.
+
 
 
 _**Cómo funciona:**_
 
 * En contabilidad debes crear las siguientes cuentas auxiliares:
 
-<figure><img src="../../../.gitbook/assets/Screenshot_1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_1 (3).png" alt=""><figcaption></figcaption></figure>
 
 * Para el control de la moto eléctrica
   * Marcar en la ficha del modelo de vehículo si es eléctrico en el nuevo campo
