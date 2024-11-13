@@ -333,6 +333,8 @@
   * [Abonar un vehículo desde su factura](tutoriales/abonar-un-vehiculo.md)
   * [Eliminar del stock un vehículo](tutoriales/eliminar-del-stock-un-vehiculo.md)
   * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
+* [Taller](tutoriales/taller/README.md)
+  * [Garantías en ORs](tutoriales/taller/garantias-en-ors.md)
 * [Administración](tutoriales/administracion/README.md)
   * [Albaranes](tutoriales/albaranes/README.md)
     * [Anular línea o líneas seleccionadas en albarán de compras confirmado](tutoriales/albaranes/anular-una-linea-en-albaran-de-compras-confirmado.md)
