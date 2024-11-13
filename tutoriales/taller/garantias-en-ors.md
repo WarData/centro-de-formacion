@@ -1,6 +1,8 @@
 # Garantías en ORs
 
-En función de la marca se define el tipo de garantía. Puede ser de dos formas y es configurable desde la ficha de la marca:
+En función de la marca se define el tipo de garantía.&#x20;
+
+**Puede ser de dos formas y es configurable desde la ficha de la marca:**
 
 <figure><img src="../../.gitbook/assets/imagen (265).png" alt=""><figcaption></figcaption></figure>
 
