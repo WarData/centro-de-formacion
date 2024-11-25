@@ -16,7 +16,7 @@ La cabecera está compuesta por los siguientes campos:
 
 **-FECHA:** se indica aquí la fecha de la factura. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
-**-CLIENTE o AGENTE:** en los documentos de ventas, se podrá indicar si se está vendiendo a un cliente o a un agente. Hay que recordar que son tablas de datos diferentes y solo se podrá indicar uno de ellos por factura. Ambos campos contienen botones incrustados para localizar, grabar o editar el cliente o agente seleccionado. Además de código del cliente o agente, se presenta en la factura su razón social, su dirección de facturación y el CIF. Además de estos, bajo el CIF se presentará un campo con las notas de facturación del cliente o agente, si tuvieran.
+**-ENTIDAD TIPO CLIENTE / AGENTE:** en los documentos de ventas, se podrá indicar si se está vendiendo a un cliente o a un agente. Hay que recordar que son tablas de datos diferentes y solo se podrá indicar uno de ellos por factura. Ambos campos contienen botones incrustados para localizar, grabar o editar el cliente o agente seleccionado. Además de código del cliente o agente, se presenta en la factura su razón social, su dirección de facturación y el CIF. Además de estos, bajo el CIF se presentará un campo con las notas de facturación del cliente o agente, si tuvieran.
 
 **-CENTRO:** este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace la factura. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 
