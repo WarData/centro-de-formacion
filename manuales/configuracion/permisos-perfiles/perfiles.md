@@ -4,6 +4,10 @@
 
 Los permisos se definen en los perfiles de usuarios. **A cada usuario solo se le puede definir un perfil.**
 
+**Es fundamental que para activar una opción dentro de los perfiles, el nivel principal RAÍZ esté activado. Para sólo activar el raíz seleccionamos y pulsamos en el botón "Editar configuración". Después podremos ir activando las opciones individualmente.**
+
+<mark style="color:yellow;">**\*\*\* En caso de estar activada alguna opción y no estar activada la RAÍZ no se verá ninguna opción en el panel de opciones lateral izquierdo.**</mark>
+
 Localizamos la opción "Perfiles" dentro de Configuración > Permisos / Perfiles:
 
 <figure><img src="../../../.gitbook/assets/imagen (11) (3) (1).png" alt=""><figcaption></figcaption></figure>
