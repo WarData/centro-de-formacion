@@ -57,7 +57,7 @@ Dada la estructura mostramos el sistema arbolado por el cual se presenta los mod
 
 4.- Por último habría que rellenar el resto del formulario de alta del modelo empezando por <mark style="color:red;">**código de modelo y referencia del fabricante que, en caso de que éste no los aporte, tendremos que crear un código de modelo y ponerlo idéntico en la referencia del fabricante. Recomendamos el uso de la estructura Marca - Gama - Versión (MGV) para ello.**</mark>&#x20;
 
-En este ejemplo, el vehículo dado de alta sería TEST 400 CYBER cogiendo MARCA - GAMA - VERSIÓN y su <mark style="color:yellow;">**código de modelo y referencia dadas de alta por nosotros sería**</mark>** **<mark style="color:orange;">**T400CYE7**</mark>
+En este ejemplo, el vehículo dado de alta sería TEST 400 CYBER cogiendo MARCA - GAMA - VERSIÓN y su <mark style="color:yellow;">**código de modelo y referencia dadas de alta por nosotros sería**</mark>**&#x20;**<mark style="color:orange;">**T400CYE7**</mark>
 
 A veces el modelo además tiene algún dato que podremos añadir al final como por ejemplo EURO 7, haciendo este modelo dependiente de una misma MARCA, GAMA y VERSIÓN, pudiendo crear nuevos modelos que dichas partes de la estructura ya creadas añadiendo EURO 8 o 2023 o GTR, lo que formarían nuevos modelos.
 

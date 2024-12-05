@@ -2,7 +2,7 @@
 
 &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
 El icono de acceso a la localización de entidades aparece en aquellos tipos de movimiento que requieren entidad y aún no se ha localizado:              &#x20;
 
@@ -20,11 +20,11 @@ El icono de acceso a la localización de entidades aparece en aquellos tipos de 
 
 Al pulsar el botón el sistema nos presenta el localizador estándar de entidades para seleccionar&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (2) (10).png" alt=""><figcaption></figcaption></figure>
 
 Si localizamos y seleccionamos una entidad el sistema buscará entre los registros en estado borrador otros en los que haya coincidencias entre las palabras de su contenido y las de la entidad seleccionada y en caso de localizarlos los presentará con idea de que el usuario decida si son o no relativos a la misma entidad que ha seleccionado:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (3) (10).png" alt=""><figcaption></figcaption></figure>
 
 ●        En este caso vemos como aparecen seis registros similares, pero os ponemos un ejemplo en los que está incluida la palabra “Internet” y al estar en estado borrador el sistema los presenta como candidatos sin ser correctos, no corresponden al mismo:
 
