@@ -64,4 +64,12 @@ o Filtros avanzados permiten especificar nuevos filtros añadidos a la búsqueda
 
 ![](<../../.gitbook/assets/image (470).png>)
 
-* **Vendedores DM** (en caso de disponer de entidades tipo vendedor, mostrará el listado de los vendedores con dispositivo móvil activos)
+* **Fusionar entidades**
+
+<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+
+Panel específico para localizar entidades con CIF o nombre similar (no tiene que ser idéntico, sirve con parte de los mismos) marcar las entidades a eliminar y las que se van a conservar, con checks que permiten respetar la cuenta contable en apuntes del ejercicio en curso y en anteriores y un sumatorio final del resultado.
+
+Si usamos en nuestra DEMO el nombre de MIGUEL nos aparecen 4 que podemos seleccionar para cada caso (conservar o eliminar, en esto caso como conservar):
+
+<figure><img src="../../.gitbook/assets/imagen (283).png" alt=""><figcaption></figcaption></figure>

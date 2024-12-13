@@ -24,7 +24,7 @@ Las novedades que hemos añadido son:
 
 * En la línea del gasto hemos creado la plantilla para el centro de costes. Dado que la plantilla ya la hemos definido como “Portes Alicante” el centro de costo lo hemos imputado directamente (hemos accedido a la creación de la plantilla de costes pulsando la pestaña “Costes” que aparece ahora en las plantillas de apuntes):
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   <mark style="color:orange;">Definiciones:</mark>
 

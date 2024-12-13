@@ -14,13 +14,13 @@ Existen 2 tipos de contratos:
 * Renovable
 * No renovable
 
-<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">Descripción de contratos de adquisición (luz, agua, internet, etc.)</mark>
 
 Generan vencimientos de gastos que se pueden facturar con un botón. Los renovables son contratos anuales que pueden tener cargos fijos o variables. Para estos últimos se mostrará un campo de precio medio anual y en ambos casos se puede modificar el importe de la factura en el menú de vencimientos:
 
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pestaña vencimientos con la botonera inferior de facturación y modificación de vencimiento, importe y factura:
 
