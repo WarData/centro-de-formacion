@@ -59,6 +59,7 @@
     * [Tallas](manuales/maestros/articulos/tallas.md)
     * [Colores](manuales/maestros/articulos/colores.md)
     * [Gestión de Precios y Tarifas de Ventas](manuales/maestros/articulos/gestion-de-precios-y-tarifas-de-ventas.md)
+    * [Tarifa por descuento en compras](manuales/maestros/articulos/tarifa-por-descuento-en-compras.md)
     * [Gestión de la rotación de consumos y el stock mínimo](manuales/maestros/articulos/gestion-de-la-rotacion-de-consumos-y-el-stock-minimo.md)
   * [Familias](manuales/maestros/familias/README.md)
     * [Ficha de familia](manuales/maestros/familias/ficha-de-familia.md)

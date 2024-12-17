@@ -41,7 +41,7 @@ Para gestionar pedidos de Campaña hay que hacer lo siguiente:
 
 * Modificar la fecha prevista de entrega
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Si la fecha de vencimiento es igual o superior a hoy aparecerá el botón de activación
 
