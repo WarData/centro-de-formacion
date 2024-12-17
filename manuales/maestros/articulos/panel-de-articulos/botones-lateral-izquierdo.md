@@ -22,7 +22,7 @@ o Precio de compra: precio bruto de compra del artículo al proveedor
 
 **o Descuento 1 - Descuento 2 - Descuento 3:** se pueden definir hasta tres posibles descuentos. Estos descuentos son los que te ofrece el proveedor.
 
-**o Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta (véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas.md)):
+**o Precio de venta:** precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta (véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas/)):
 
 ![](<../../../../.gitbook/assets/image (488).png>)
 
@@ -107,7 +107,7 @@ o Análisis rotación: muestra los artículos filtrados por los siguientes requi
 
 ![Análisis de Rotación](<../../../../.gitbook/assets/image (573).png>)
 
-o _Ofertas:_ muestra un panel desplegable con las siguientes opciones de listados sobre los artículos: Véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas.md) - Panel de Ofertas - Permite realizar ofertas con condiciones determinadas en el propio documento, por marca, familia, artículo, tipo de artículo y un precio, descuento o incremento sobre el costo.
+o _Ofertas:_ muestra un panel desplegable con las siguientes opciones de listados sobre los artículos: Véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas/) - Panel de Ofertas - Permite realizar ofertas con condiciones determinadas en el propio documento, por marca, familia, artículo, tipo de artículo y un precio, descuento o incremento sobre el costo.
 
 ![](<../../../../.gitbook/assets/image (574).png>)
 

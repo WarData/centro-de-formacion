@@ -14,7 +14,7 @@ o Además muestra el "precio neto de compra" calculado en función a los descuen
 
 o Tarifa ventas: indica "Precio de venta", "P.V.R.", "% IVA" y "P.V.P. (imp. inc.)
 
-o Precio de venta: precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta (véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas.md)):
+o Precio de venta: precio bruto de venta del artículo al cliente. Es posible crear tarifas de ventas y ofertas personalizadas y aplicarlas mediante el botón inferior "Ver tarifas personalizadas" siempre que coincida en algún campo con el artículo que se está dando de alta (véase ["Gestión de precios y Tarifas de ventas"](../gestion-de-precios-y-tarifas-de-ventas/)):
 
 o Precio de venta recomendado (P.V.R.): \*\*recomendación del fabricante / marca sobre el precio de venta final al cliente.
 

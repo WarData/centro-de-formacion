@@ -8,4 +8,4 @@ El sistema “desactivará“ automáticamente una oferta llegada su fecha de ca
 
 En el menú de Ventas tenemos el acceso al de ofertas, pero también se puede crear de forma asistida desde el listado de artículos obsoletos en el menú de “rotación y consumos” dentro del menú de artículos.
 
-[Véase Ofertas en Gestión de Precios (al final de la página)](../maestros/articulos/gestion-de-precios-y-tarifas-de-ventas.md)
+[Véase Ofertas en Gestión de Precios (al final de la página)](../maestros/articulos/gestion-de-precios-y-tarifas-de-ventas/)

@@ -2,7 +2,7 @@
 
 La gestión de precios en Winmotor está pensada de manera que el usuario final que graba documentos no tenga que tomar ninguna decisión en cuanto al cálculo del precio de compras ni de ventas de los productos.
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../../.gitbook/assets/image (15).png>)
 
 Para el cálculo del precio de compras se utiliza la tarifa de compras en base a la cual se define el proveedor preferente del artículo y su precio de compra final (precio de tarifa menos descuentos). Dado que para un mismo artículo podemos definir varios proveedores el programa exige que uno de ellos sea el “preferente”, es decir, el que se va a tomar por defecto cuando se genere un pedido de compras. La primera tarifa de compras grabada para un artículo queda asignada automáticamente como preferente, una vez que se definen más tarifas se puede asignar la preferente a la que el usuario quiera.
 
@@ -16,7 +16,7 @@ o No hacer nada: el precio de compras de los artículos nunca se cambiará desde
 
 Para una gestión automatizada de los precios de ventas se aconseja no definir manualmente ningún precio de venta sino establecer una regla para su cálculo de manera que cuando cambie el precio de compra se modificará automáticamente el precio de venta del producto.
 
-![](<../../../.gitbook/assets/image (16) (1).png>)
+![](<../../../../.gitbook/assets/image (16) (1).png>)
 
 Estas reglas se pueden definir en su opción correspondiente en el menú de submaestros “Fórmulas PVP” o manualmente desde una ficha de familia o de artículo. Si definimos en una familia una “fórmula para el cálculo del pvp” ésta se aplicará automáticamente a los artículos a los que se asigne dicha familia.
 
@@ -28,7 +28,7 @@ Una vez establecido para un artículo su precio de compras y de ventas entramos 
 
 Desde el menú principal MAESTROS > Tarifas de ventas disponemos de una panel para la gestión y alta de tarifas de ventas que se aplicarán por cada documento de tarifa a uno o varios conjuntos, es decir, una única tarifa puede incluir una tarifa para la familia GUANTES y a su vez incluir una tarifa para un artículo concreto y/o una marca. Definida la tarifa de ventas en la ficha del cliente (pestaña "Comerciales"), aplicará dicha tarifa a los documentos de venta (albaranes, órdenes de reparación, pedidos, facturas y presupuestos)
 
-![](<../../../.gitbook/assets/image (17) (1).png>)
+![](<../../../../.gitbook/assets/image (17) (1).png>)
 
 Para la gestión de precios utilizamos las líneas de condiciones que se aplican luego en distintas fichas que veremos más abajo. Las líneas de condiciones se pueden definir según uno de estos criterios:
 
@@ -44,11 +44,11 @@ o Proveedor de un artículo y/o a su clasificador de descuento. En Winmotor exis
 
 ​
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Tenemos la posibilidad de definir tanto en ofertas de ventas como en las condiciones especiales de clientes y en tarifas de ventas una condición en base al proveedor preferente de un artículo y/o a el clasificador de descuento que tenga aplicado:
 
-<figure><img src="../../../.gitbook/assets/imagen (26) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (26) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para el caso de que en el momento de grabar un documento de venta haya varias condiciones que afecten al artículo la aplicación recogerá el descuento aplicado según el siguiente criterio de prioridad:
 
@@ -75,7 +75,7 @@ Las líneas de tarifas se pueden definir en distintas opciones del programa que 
 
 **Tarifas**
 
-![](<../../../.gitbook/assets/image (18) (1).png>)
+![](<../../../../.gitbook/assets/image (18) (1).png>)
 
 Las tarifas definen una serie de condiciones de venta (líneas de tarifas) que se aplicarán sobre los clientes que tengan aplicada en su ficha dicha tarifa. La asignación de tarifa a un cliente se puede hacer de dos formas:
 
@@ -91,7 +91,7 @@ Existe por otro lado la posibilidad de definir una “Tarifa de exclusividad”,
 
 **Condiciones especiales de clientes**
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../../.gitbook/assets/image (19).png>)
 
 Un mismo cliente además de estar acogido o no a una tarifa puede tener “condiciones especiales”. Es decir, serán condiciones aplicables exclusivamente a ese cliente. Esto hace por lo tanto innecesario y sin sentido definir tarifas para un solo cliente, se puede utilizar esta opción.
 
@@ -99,7 +99,7 @@ Las condiciones especiales de un cliente prevalecerán sobre su tarifa, por lo t
 
 **Ofertas**
 
-![](<../../../.gitbook/assets/image (20) (1).png>)
+![](<../../../../.gitbook/assets/image (20) (1).png>)
 
 Una oferta es un documento especial con una fecha de caducidad. La oferta se define con el mismo formulario de líneas de tarifas que utilizamos en los documentos anteriores pero la oferta prevalece sobre cualquier condición definida para un producto o grupo de productos. Es decir, si en una tarifa hemos definido un descuento para una familia “X” y utilizamos esa misma familia en una oferta, las condiciones aquí definidas prevalecerán sobre la tarifa o las condiciones especiales de un cliente. Como excepción a esta norma hay que tener en cuenta que si un cliente tiene marcado en su ficha que su tarifa es “de exclusividad” no se tendrán en cuenta para él las condiciones definidas en ofertas.
 
@@ -143,7 +143,7 @@ Imaginemos que hemos definido para un artículo sus artículos dependientes que 
 
 **Consultas de condiciones de ventas**
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](<../../../../.gitbook/assets/image (21).png>)
 
 Para facilitar la consulta de los posibles precios de un artículo contamos con una utilidad en el formulario del artículo: la consulta de precios. Al pulsar ese botón el programa calculará según todas las condiciones de ventas que pueden afectar al artículo su precio final y las presentará en el orden en el que hemos indicado que se calculan en los documentos.
 
@@ -151,10 +151,10 @@ Para facilitar la consulta de los posibles precios de un artículo contamos con 
 
 Está disponible un panel para la administración de ofertas. Estas funcionan de una forma similar a las tarifas de ventas, pero no se aplican directamente a clientes concretos aplicando las tarifas en las pestañas, sino que se aplican directamente al tipo de artículo, marca, proveedor, familia o artículo:
 
-<figure><img src="../../../.gitbook/assets/imagen (2) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (2) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Del mismo modo que las tarifas de ventas, un documento de oferta puede incluir una o varias condiciones de líneas diferentes por ejemplo se abre la oferta X1 que incluye una línea de oferta del 10% sobre la familia guantes y otra línea de oferta sobre un artículo del 15%.
 
 Esta oferta se aplicará sobre todos los clientes excluyendo a los del tipo de pago "contado", aunque es posible activar el check "Oferta para contado" para que se aplique para esos casos:
 
-<figure><img src="../../../.gitbook/assets/imagen (105) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (105) (3).png" alt=""><figcaption></figcaption></figure>
