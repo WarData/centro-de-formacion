@@ -6,6 +6,8 @@ description: >-
 
 # Tarifa por descuento en compras
 
+Existe también la posibilidad de definir qué descuento aplicar en las ventas en base al descuento que el proveedor nos da en la compra, para esto la aplicación Winmotor dispone de la opción:&#x20;
+
 <mark style="color:orange;">Tarifa de ventas de artículo que funciona con los siguientes criterios:</mark>
 
 * Al dar de alta la tarifa se marca el dato de la cabecera <mark style="color:yellow;">" Tarifa por descuento en compras"</mark>
