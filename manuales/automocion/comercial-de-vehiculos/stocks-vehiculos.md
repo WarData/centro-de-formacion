@@ -1,6 +1,8 @@
 # Stocks vehículos
 
-La primera opción que nos muestra el menú comercial nos presenta una rejilla con un filtrado automático de vehículos por marca. El refresco del panel se puede automatizar en los parámetros de la aplicación para mostrar el listado de vehículos en stock o permitir filtrar primero y luego refrescar. Además, es posible auto-refrescar el panel independientemente del parámetro elegido y guardar este ajuste asociado al usuario pulsando el botón "Filtros" <img src="../../../.gitbook/assets/imagen (8).png" alt="" data-size="line">
+La primera opción que nos muestra el menú comercial nos presenta una rejilla con un filtrado automático de vehículos por marca. <mark style="color:yellow;">Es importante recalcar que cada usuario podrá personalizar su panel cada vez que entre siguiendo unas breves instrucciones explicadas más adelante (establecer filtro por defecto).</mark>
+
+El refresco del panel se puede automatizar en los parámetros de la aplicación para mostrar el listado de vehículos en stock o permitir filtrar primero y luego refrescar. Además, es posible auto-refrescar el panel independientemente del parámetro elegido y guardar este ajuste asociado al usuario pulsando el botón "Filtros" <img src="../../../.gitbook/assets/imagen (8).png" alt="" data-size="line">
 
 <figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
 
