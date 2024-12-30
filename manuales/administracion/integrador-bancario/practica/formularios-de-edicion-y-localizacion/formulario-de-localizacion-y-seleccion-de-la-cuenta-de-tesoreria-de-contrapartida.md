@@ -2,13 +2,13 @@
 
 Para los registros tipo “Traspaso salida” se utiliza la columna “Entidad/cuenta” para visualizar la cuenta de contrapartida del traspaso. En la columna anterior aparece este icono cuando en el registro está pendiente de definir:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (9) (8).png" alt=""><figcaption></figcaption></figure>
 
 Al pulsarlo nos aparece el selector de cuentas de tesorería:
 
 &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (10) (5).png" alt=""><figcaption></figcaption></figure>
 
 ●        Pulsando en el botón de selección se despliega la lista de cuentas y habrá que hacer clic en la cuenta destinataria del traspaso.
 

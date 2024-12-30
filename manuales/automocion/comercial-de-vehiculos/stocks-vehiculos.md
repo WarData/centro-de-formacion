@@ -1,8 +1,24 @@
 # Stocks vehículos
 
-La primera opción que nos muestra el menú comercial nos presenta una rejilla con un filtrado automático de vehículos por marca, presentando la cabecera de cada una seguida de los vehículos pertenecientes a la misma, situación de los vehículos (stock / reservados) por modelo y totalización de los vehículos al final, indicando la marca, por situación (stock / reservados):
+La primera opción que nos muestra el menú comercial nos presenta una rejilla con un filtrado automático de vehículos por marca. El refresco del panel se puede automatizar en los parámetros de la aplicación para mostrar el listado de vehículos en stock o permitir filtrar primero y luego refrescar. Además, es posible auto-refrescar el panel independientemente del parámetro elegido y guardar este ajuste asociado al usuario pulsando el botón "Filtros" <img src="../../../.gitbook/assets/imagen (8).png" alt="" data-size="line">
 
-<figure><img src="../../../.gitbook/assets/imagen (17) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+
+Además, cada perfil dispone de la posibilidad de realizar varias configuraciones en el panel como:
+
+1.- Restringir la venta de vehículos por centro: activo sólo en aquellos perfiles con centro aplicado. Imposibilita la venta de vehículos de centros distintos al que tiene aplicado el perfil
+
+2.- Ver sólo el stock de vehículos de mi centro: filtra vehículos del centro aplicado en el perfil
+
+3.- Ver todo el stock de vehículos de ocasión: sólo aplica si el check "ver sólo stock de vehículos de mi centro" está activo. Muestra los vehículos del centro aplicado en el perfil y los VO de todos los centros.
+
+4.- Añadir stock de otros centros de las marcas: sólo aplica si el check "ver sólo stock de vehículos de mi centro" está activo. Muestra los vehículos del centro aplicado en el perfil y los de las marcas (de 1 a 5 como máximo) indicadas en el perfil.
+
+<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
+El panel muestra la cabecera de cada una de las marcas seguida de los modelos de vehículos pertenecientes a la misma, situación de los vehículos (stock / reservados) por modelo y totalización de los vehículos al final, indicando la marca, por situación (stock / reservados):
+
+<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">PESTAÑAS</mark>
 
@@ -36,15 +52,27 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 <mark style="color:yellow;">BOTONERA SUPERIOR</mark>
 
-Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5:
+Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5):
 
-<figure><img src="../../../.gitbook/assets/imagen (11) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
-Botones de opciones sobre el stock:
+Botones de filtros, opciones, búsqueda de vehículo en general, panel de comprobación de stocks, información sobre la rejilla y actualizar el panel:
 
-<figure><img src="../../../.gitbook/assets/imagen (12) (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (5).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">F1 - Buscar Vehículo Stock</mark>
+A) Filtro ![](<../../../.gitbook/assets/imagen (6).png>)
+
+Amplía la selección de múltiples filtros de marca y bastidor a estos más modelo, serie, reservadas o todas, en depósito, almacén o todas, cesiones y si están publicados en web o no. Pulsando en cerrar o actualizando se aplican los filtros, mostrándose los aplicados en la parte superior:
+
+<figure><img src="../../../.gitbook/assets/imagen (9).png" alt=""><figcaption></figcaption></figure>
+
+B) Opciones ![](<../../../.gitbook/assets/imagen (10).png>)
+
+Muestra las siguiente opciones:
+
+<figure><img src="../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:blue;">Localizar vehículo stock</mark>
 
 Muestra un localizador con los índices "Alfabético (bastidor)", "Trozos de bastidor", "Trozos de matrícula" y "Trozos de palabras datos vehículo y propietario". En la barra de aplicación y botón "Opciones" podremos editar el localizador por defecto y siempre podemos usar cualquiera de los otros 3 disponibles. El uso es similar a otros localizadores de la aplicación en los que la búsqueda se inicia introduciendo como mínimo 3 caracteres de bastidor o matrícula en el que corresponda e igual en trozos de vehículo y propietario salvo que realiza la búsqueda en más campos de forma simultánea.
 
@@ -52,11 +80,7 @@ Este localizador incluye un filtrado previo de los vehículos por stock activo, 
 
 <figure><img src="../../../.gitbook/assets/imagen (36) (5).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">F2 - Buscar Vehículo</mark>
-
-Muestra un localizador idéntico a la función anterior, pero su operativa no lleva un filtrado previo por lo que <mark style="color:yellow;">**mostrará cualquier vehículo existente en la base de datos**</mark> mediante el uso de los distintos índices de búsqueda disponibles.
-
-* <mark style="color:blue;">F3 - Listar Stocks</mark>
+* <mark style="color:blue;">Listado de stock de vehículos</mark>
 
 Permite listar el stock a fecha de hoy, a una fecha determinada, de vehículos nuevos o de ocasión o de empresa o todos y por marca, gama y versión mediante el uso de un ligero formulario:
 
@@ -84,9 +108,27 @@ Y por último (todo es similar a la rejilla del panel de stocks) el valor "Sin p
 
 <figure><img src="../../../.gitbook/assets/imagen (2) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
+* <mark style="color:blue;">Imprimir</mark>
+
+Muestra las distintas posibilidades de impresión ofrecidas por la aplicación y el sistema operativo para imprimir el listado de stock:
+
+<figure><img src="../../../.gitbook/assets/imagen (6) (8).png" alt=""><figcaption></figcaption></figure>
+
+PDF de ejemplo - Página 1 del listado de stock de vehículos:
+
+<figure><img src="../../../.gitbook/assets/imagen (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:blue;">Establecer filtro por defecto</mark>
+
+Una vez definidos los filtros y check de auto-refresco o no permite establecerlo como configuración del usuario por defecto cada vez que vuelva a abrir el panel, pudiendo modificar los parámetros puntualmente o hasta que decida establecer un nuevo filtrado por defecto
+
+C) F2- Buscar vehículo ![](<../../../.gitbook/assets/imagen (12).png>)&#x20;
+
+Muestra un localizador similar a la función "localizar vehículo stock", pero su operativa no lleva un filtrado previo por lo que <mark style="color:yellow;">**mostrará cualquier vehículo existente en la base de datos**</mark> mediante el uso de los distintos índices de búsqueda disponibles.
+
 <mark style="color:yellow;">BOTONERA INFERIOR</mark>
 
-<figure><img src="../../../.gitbook/assets/imagen (13) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">Crear / Devolver depósito</mark>
 

@@ -14,11 +14,11 @@ Para los siguientes tipos de movimientos el integrador necesita localizar el o l
 
 ○        Siempre que en un registro de este tipo no esté identificado el documento relacionado aparecerá en la columna anterior este icono:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (11) (6).png" alt=""><figcaption></figcaption></figure>
 
 Al pulsarlo entramos en el formulario de localización de documentos y registros de cartera:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (13) (5).png" alt=""><figcaption></figcaption></figure>
 
 ●        En la parte superior vemos a nivel de consulta los datos que ya están identificados en el registro (entidad, fechas, importe, descripción).
 
@@ -42,7 +42,7 @@ Al pulsarlo entramos en el formulario de localización de documentos y registros
 
 ●        Utilizando el ejemplo anterior hemos abierto los filtros de importes y fechas y vemos esto:&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/imagen (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (14) (8).png" alt=""><figcaption></figcaption></figure>
 
 ●        El sistema ha localizado ahora un compromiso de pago de Vodafone que cumplen los criterios del filtro.
 
