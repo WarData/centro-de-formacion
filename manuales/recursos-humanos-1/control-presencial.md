@@ -22,7 +22,11 @@ Instalar y configurar un lector de códigos de barras para leer en el panel los 
 
 * **Lector de huellas dactilares** (Módulo opcional)
 
-Mediante el uso de lectores marca ZKTeco el sistema incorporará las huellas de los usuarios a la base de datos para el control de entradas y salidas. [Véase "Reconocimiento por huella dactilar"](control-presencial/reconocimiento-por-huella-dactilar.md)
+Mediante el uso de lectores marca ZKTeco el sistema incorporará las huellas de los usuarios a la base de datos para el control de entradas y salidas. Actualización huella dactilar:
+
+En noviembre de 2023, la **Agencia Española de Protección de Datos (AEPD)** ha publicado la [Guía sobre la utilización de datos biométricos para el control de presencia y acceso](https://www.aepd.es/documento/guia-control-presencia-biometrico-nov-2023.pdf), en la cual establece que las personas empleadoras deben utilizar otros **sistemas de fichaje que no almacenen ni traten con datos biométricos** de las personas empleadas. Por lo tanto, ha dejado de considerarse legal fichar con huella dactilar y, en general, empleando un sistema de fichaje biométrico.
+
+[Véase "Reconocimiento por huella dactilar"](control-presencial/reconocimiento-por-huella-dactilar.md)&#x20;
 
 **PANEL**
 
