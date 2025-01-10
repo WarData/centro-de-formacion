@@ -26,7 +26,11 @@ Mediante el uso de lectores marca ZKTeco el sistema incorporará las huellas de 
 
 En noviembre de 2023, la **Agencia Española de Protección de Datos (AEPD)** ha publicado la [Guía sobre la utilización de datos biométricos para el control de presencia y acceso](https://www.aepd.es/documento/guia-control-presencia-biometrico-nov-2023.pdf), en la cual establece que las personas empleadoras deben utilizar otros **sistemas de fichaje que no almacenen ni traten con datos biométricos** de las personas empleadas. Por lo tanto, ha dejado de considerarse legal fichar con huella dactilar y, en general, empleando un sistema de fichaje biométrico.
 
-[Véase "Reconocimiento por huella dactilar"](control-presencial/reconocimiento-por-huella-dactilar.md)&#x20;
+[Véase "Reconocimiento por huella dactilar"](control-presencial/reconocimiento-por-huella-dactilar.md)
+
+* ID / Pin: corresponde con el código de entidad de la ficha del usuario y funciona en el panel con huella, ID y código de barras:
+
+<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
 
 **PANEL**
 

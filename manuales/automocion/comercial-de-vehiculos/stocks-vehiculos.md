@@ -20,7 +20,7 @@ Además, cada perfil dispone de la posibilidad de realizar varias configuracione
 
 El panel muestra la cabecera de cada una de las marcas seguida de los modelos de vehículos pertenecientes a la misma, situación de los vehículos (stock / reservados) por modelo y totalización de los vehículos al final, indicando la marca, por situación (stock / reservados):
 
-<figure><img src="../../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">PESTAÑAS</mark>
 

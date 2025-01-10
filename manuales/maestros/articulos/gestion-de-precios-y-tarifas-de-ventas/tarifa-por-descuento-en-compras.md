@@ -19,4 +19,4 @@ Existe también la posibilidad de definir qué descuento aplicar en las ventas e
   * Podemos definir que para los artículos de la marca Yamaha, si tienen un descuento en compra del 45% se aplique un descuento en la venta del 20%
   * Y también para todos los artículos marca Yamaha que si tienen un descuento en compra del 25% se aplique un descuento en la venta de un 12%
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

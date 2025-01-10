@@ -2,11 +2,11 @@
 
 * Alta de OR desde rejilla de citas (pulsar en campo en blanco para dar de alta la OR - cuando el campo indica el número de OR la muestra):
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Vista de OR ya creada pulsando en la referencia de la OR en el panel de citas:
 
-<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * VIsta de OR y modificación desde la cita:
 

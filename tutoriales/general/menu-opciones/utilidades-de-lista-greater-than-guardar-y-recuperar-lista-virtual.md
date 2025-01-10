@@ -12,6 +12,6 @@ Una vez tenemos en la rejilla los datos y seleccionada una línea cualquiera, pu
 
 Para recuperarla sólo tenemos que ir a una rejilla que presente entidades, seleccionar una línea, ir a OPCIONES > UTILIDADES DE LISTA > RECUPERAR LISTA VIRTUAL
 
-<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Su uso es muy práctico para ir quitando contactos e ir dejando sólo los pendientes o cualquier línea que requiera revisiones a lo largo de tiempo y no tener que ir anotando en qué punto se encuentra.
