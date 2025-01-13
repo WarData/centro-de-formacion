@@ -10,9 +10,9 @@
 
 **Si la familia se añade en la cabecera del importador, no se debe añadir también como línea.**
 
-**\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente:**
+**\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente redistribuible del motor de base de datos de Microsoft Access 2016:**
 
-[**https://www.microsoft.com/es-es/download/details.aspx?id=13255**](https://www.microsoft.com/es-es/download/details.aspx?id=13255) **(descargar y ejecutar versión x64)**
+[**https://www.microsoft.com/es-es/download/details.aspx?id=54920**](https://www.microsoft.com/es-es/download/details.aspx?id=54920) **(descargar y ejecutar versión x64)**
 
 **Tenemos 2 tipos de ficheros posibles a importar:**
 
@@ -57,4 +57,4 @@ Si tras comprobar los artículos importados, todo queda perfecto, repetir el pas
 **Tras finalizar el proceso, hay que actualizar los artículos existentes con los elementos de la tarifa de artículos nuevos desde la opción "Tarifa de Artículos" > botón "Actualizar Artículos"**
 
 **\*\*\* MUY IMPORTANTE: Recomendamos añadir a la pestaña "Observaciones", dentro del importador, todo lo modificado en el archivo Excel o texto de la tarifa a importar para que quede constancia del procedimiento, así cualquier usuario podrá actualizarla sin ningún inconveniente.**[\
-](https://winmotor.gitbook.io/project/\~/drafts/-LUFfE7ntUBm\_NjWthNB/primary/faq/es-posible-borrar-cualquier-factura-1)
+](https://winmotor.gitbook.io/project/~/drafts/-LUFfE7ntUBm_NjWthNB/primary/faq/es-posible-borrar-cualquier-factura-1)
