@@ -319,7 +319,7 @@
 * [General](tutoriales/general/README.md)
   * [Uso de los Filtros Rápidos](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/README.md)
     * [Creación de Lupas](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/creacion-de-lupas.md)
-  * [Uso del exportador avanzado junto con filtros de listados](tutoriales/general/uso-del-exportador-avanzado-junto-con-filtros-de-listados.md)
+  * [Uso del exportador avanzado junto con filtros de listados y plantillas](tutoriales/general/uso-del-exportador-avanzado-junto-con-filtros-de-listados-y-plantillas.md)
   * [Adjuntar ficheros en documentos - Multi-selección](tutoriales/general/adjuntar-ficheros-en-documentos-multi-seleccion.md)
   * [Menú Opciones](tutoriales/general/menu-opciones/README.md)
     * [Navegante - ¿Cómo funciona?](tutoriales/general/menu-opciones/navegante-como-funciona.md)

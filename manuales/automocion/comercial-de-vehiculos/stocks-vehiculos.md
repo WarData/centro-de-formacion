@@ -4,7 +4,7 @@ La primera opción que nos muestra el menú comercial nos presenta una rejilla c
 
 El refresco del panel se puede automatizar en los parámetros de la aplicación para mostrar el listado de vehículos en stock o permitir filtrar primero y luego refrescar. Además, es posible auto-refrescar el panel independientemente del parámetro elegido y guardar este ajuste asociado al usuario pulsando el botón "Filtros" <img src="../../../.gitbook/assets/imagen (8).png" alt="" data-size="line">
 
-<figure><img src="../../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Además, cada perfil dispone de la posibilidad de realizar varias configuraciones en el panel como:
 
@@ -16,11 +16,11 @@ Además, cada perfil dispone de la posibilidad de realizar varias configuracione
 
 4.- Añadir stock de otros centros de las marcas: sólo aplica si el check "ver sólo stock de vehículos de mi centro" está activo. Muestra los vehículos del centro aplicado en el perfil y los de las marcas (de 1 a 5 como máximo) indicadas en el perfil.
 
-<figure><img src="../../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 El panel muestra la cabecera de cada una de las marcas seguida de los modelos de vehículos pertenecientes a la misma, situación de los vehículos (stock / reservados) por modelo y totalización de los vehículos al final, indicando la marca, por situación (stock / reservados):
 
-<figure><img src="../../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">PESTAÑAS</mark>
 
@@ -56,7 +56,7 @@ El panel muestra la cabecera de cada una de las marcas seguida de los modelos de
 
 Tipos de vehículos a mostrar en la rejilla principal de stock (requiere pulsar en "Actualizar" o F5):
 
-<figure><img src="../../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Botones de filtros, opciones, búsqueda de vehículo en general, panel de comprobación de stocks, información sobre la rejilla y actualizar el panel:
 

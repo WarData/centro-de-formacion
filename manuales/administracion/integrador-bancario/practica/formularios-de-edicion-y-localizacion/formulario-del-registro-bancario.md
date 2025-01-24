@@ -6,11 +6,11 @@
 
 Dependiendo del estado y del tipo del registro la información que vemos en este formulario cambia. Mostramos arriba un registro de pago a proveedor / acreedor en estado “Confirmado”, dado que es uno de los más completos que podemos ver. Pasamos a explicar qué hace cada uno de los botones que vemos:
 
-●        ![](<../../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1).png>) Modificar el tipo de movimiento. Es una función que tendremos que utilizar más de una vez al comenzar a trabajar con el integrador ya que como hemos explicado anteriormente el sistema tiene que “aprender” a identificar el tipo de movimiento según el contenido de la descripción de cada registro.
+●        ![](<../../../../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1).png>) Modificar el tipo de movimiento. Es una función que tendremos que utilizar más de una vez al comenzar a trabajar con el integrador ya que como hemos explicado anteriormente el sistema tiene que “aprender” a identificar el tipo de movimiento según el contenido de la descripción de cada registro.
 
 ○        Al pulsar el botón según estemos en un gasto o un ingreso el programa presenta la lista de movimientos del tipo correspondiente:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ○        Simplemente hay que hacer doble clic seleccionando el que queremos aplicar.
 
@@ -20,11 +20,11 @@ Dependiendo del estado y del tipo del registro la información que vemos en este
 
 Supongamos que es la primera vez que hemos descargado este tipo de movimiento que en realidad es de “Gastos bancarios”. Pulsamos el botón de modificar el tipo y seleccionamos después en la lista “Gastos bancarios”
 
-<figure><img src="../../../../../.gitbook/assets/imagen (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ●        El programa nos pedirá confirmación para este cambio y a continuación presentará esta ventana:
 
-<figure><img src="../../../../../.gitbook/assets/imagen (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/imagen (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

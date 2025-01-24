@@ -66,7 +66,7 @@ o Filtros avanzados permiten especificar nuevos filtros añadidos a la búsqueda
 
 * **Fusionar entidades**
 
-<figure><img src="../../.gitbook/assets/imagen (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Panel específico para localizar entidades con CIF o nombre similar (no tiene que ser idéntico, sirve con parte de los mismos) marcar las entidades a eliminar y las que se van a conservar, con checks que permiten respetar la cuenta contable en apuntes del ejercicio en curso y en anteriores y un sumatorio final del resultado.
 

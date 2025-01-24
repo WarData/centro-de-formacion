@@ -30,7 +30,7 @@ En noviembre de 2023, la **Agencia Española de Protección de Datos (AEPD)** ha
 
 * ID / Pin: corresponde con el código de entidad de la ficha del usuario y funciona en el panel con huella, ID y código de barras:
 
-<figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
 **PANEL**
 

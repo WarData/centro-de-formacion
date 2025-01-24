@@ -41,11 +41,11 @@ Para gestionar pedidos de Campaña hay que hacer lo siguiente:
 
 * Modificar la fecha prevista de entrega
 
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Si la fecha de vencimiento es igual o superior a hoy aparecerá el botón de activación
 
-<figure><img src="../../.gitbook/assets/imagen (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagen (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Al pulsar el botón de “Activar” el programa pedirá confirmación para liberar el pedido. Si se acepta pasará a funcionar como un pedido normal y automáticamente se reflejarán en los artículos incluidos las cantidades como pendientes de recibir y reservadas de pedido.
 * Aparecerá también en el pedido el botón “Recepcionar”.
