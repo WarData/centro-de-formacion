@@ -7,7 +7,9 @@ description: >-
 
 # Centro de Ayuda - Winmotor V7
 
-{% embed url="https://www.winmotor.net" %}
+<figure><img src=".gitbook/assets/imagen (286).png" alt=""><figcaption></figcaption></figure>
+
+**Información general, productos y descargas en** [**winmotor.com**](https://www.winmotor.com)&#x20;
 
 **Importante a tener en cuenta:**
 
@@ -17,7 +19,6 @@ description: >-
 
 3.- **El Centro de Ayuda está en desarrollo continuo y aún es bastante joven**, pero casi diariamente incorporamos nuevos contenidos de todo tipo para ayudaros en el día a día.
 
-4.- Como queremos que esta ayuda sea interactiva, **hemos incorporado una encuesta al final de cada apartado mediante 3 caras, mal, suficiente, bien**. Os rogamos nos hagáis llegar vuestras sensaciones para mejorar, así como indicarnos nuevos tutoriales y FAQ \(preguntas frecuentes\) que queráis que incorporemos al Centro de Ayuda Winmotor.
+4.- Como queremos que esta ayuda sea interactiva, **hemos incorporado una encuesta al final de cada apartado mediante 3 caras, mal, suficiente, bien**. Os rogamos nos hagáis llegar vuestras sensaciones para mejorar, así como indicarnos nuevos tutoriales y FAQ (preguntas frecuentes) que queráis que incorporemos al Centro de Ayuda Winmotor.
 
-**Haznos saber cómo lo hicimos ;\)**
-
+**Haznos saber cómo lo hicimos ;)**
