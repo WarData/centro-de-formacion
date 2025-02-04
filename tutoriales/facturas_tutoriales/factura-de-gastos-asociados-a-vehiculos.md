@@ -10,7 +10,7 @@ Creamos un nuevo albarán de gastos para el\*\* SERVICIO "Matriculación" \*\*po
 
 ![](<../../.gitbook/assets/image (118).png>)
 
-Una vez que añadamos la línea de gasto "Matriculación" nos aparece en la parte izquierda de la ventana emergente un + verde que nos permite indicar en qué bastidor irá asignado el gasto:
+Una vez que añadamos la línea de gasto "Matriculación" nos aparece en la parte izquierda de la ventana emergente un + verde que nos permite indicar un bastidor nuevo que no existe en Winmotor o, en caso de ya existir, un doble clic justo en la zona blanca a la derecha del \`+ verde o botón derecho encima de la zona blanca "Alta de ficha" y se indicará qué bastidor irá asignado el gasto:
 
 ![](<../../.gitbook/assets/image (119).png>)
 
