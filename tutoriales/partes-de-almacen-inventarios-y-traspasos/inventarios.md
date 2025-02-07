@@ -1,36 +1,5 @@
 # Inventarios
 
-Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa (recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta). Es posible regular la cantidad de artículos en stock y también regular el PMC (precio medio de compra).
-
-<mark style="color:yellow;">**Métodos para Inventariar**</mark>
-
-Existen tres métodos principales para llevar a cabo un inventario:
-
-1. **Inventario mediante parte de almacén: Menú Almacenes > opción Partes de Almacén > Inventario (explicado tras inventario por listado de stock por almacén)**
-2. **Inventario mediante archivo**: mediante importación de archivo txt
-
-Podemos incorporar el inventario directamente incluyendo artículos a las líneas del parte de Winmotor o importando un archivo de texto (.txt) en el botón indicado de la siguiente imagen. **El archivo puede incluir el almacén o la ubicación de cada artículo inventariado para facilitar el mismo.** El formato del archivo de texto será: referencia,unidades (ejemplo > BS10265,25):
-
-![](<../../.gitbook/assets/image (134).png>)
-
-3. **Inventario mediante listado de stock por almacén:**
-
-En panel de artículos > botón "Listados" > seleccionar Stock por almacén e introducir almacén a inventariar y todos los artículos (es importante porque saldrán artículos sin stock que puede que sí tengan stock realmente):
-
-<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
-
-Generará un listado con todos los artículos, seleccionamos todos pulsando en la casilla superior izquierda y pulsamos en "Generación de inventario":
-
-<figure><img src="../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
-
-Saldrá este mensaje y hay que desmarcar no mostrar sin stock para que sí lo haga:
-
-<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
-
-Ahora podremos trabajar sobre un inventario existente, corrigiendo las cantidades indicadas:
-
-<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
-
 ¿Qué es un inventario?
 
 **El inventario es una relación detallada, ordenada y valorada de los productos que tiene una empresa en stock.‌**
@@ -47,7 +16,17 @@ Por tanto, el stock de un artículo / almacén siempre será el resultado de las
 
 **FAQ:** ¿si incluyo por ejemplo un documento de compra con fecha anterior al inventario, las unidades se suman al stock total del artículo? No, siempre que la compra sea en el mismo almacén inventariado, puesto que el inventario resetea el stock desde su fecha / hora.
 
+<mark style="color:yellow;">**Métodos para Inventariar**</mark>
 
+1. **Inventario mediante parte de almacén**
+2. **Inventario mediante importación de archivo txt**
+3. **Inventario mediante listado de stock por almacén**
+
+Vamos a ver el proceso para crear un inventario en un [almacén](../../manuales/almacenes/) de la empresa (recomendamos realizar este modo con todo el stock de la empresa, tanto disponible como reservado a fin de realizar una regularización perfecta). Es posible regular la cantidad de artículos en stock y también regular el PMC (precio medio de compra).
+
+Existen tres métodos principales para llevar a cabo un inventario:
+
+1. **Inventario mediante parte de almacén**
 
 Dentro de almacenes > Partes de almacén > abrimos el panel de inventarios:
 
@@ -70,3 +49,28 @@ A la vez, en la misma imagen vemos que tras "Confirmar" el parte de almacén de 
 **Opción para regularizar el PMC:** simplemente hay que indicar la referencia y seleccionar el check "Regularización de precio medio del artículo" > si hay más de una ubicación del mismo artículo habrá que seleccionar sobre qué ubicación se realizará la regularización.
 
 ![](<../../.gitbook/assets/imagen (3) (1) (2).png>)
+
+2. **Inventario mediante archivo**: mediante importación de archivo txt
+
+Podemos incorporar el inventario importando un archivo de texto (.txt) en el botón indicado de la siguiente imagen. **El archivo puede incluir el almacén o la ubicación de cada artículo inventariado para facilitar el mismo.** El formato del archivo de texto será: referencia,unidades (ejemplo > BS10265,25):
+
+![](<../../.gitbook/assets/image (134).png>)
+
+3. **Inventario mediante listado de stock por almacén**
+
+En panel de artículos > botón "Listados" > seleccionar Stock por almacén e introducir almacén a inventariar y todos los artículos (es importante porque saldrán artículos sin stock que puede que sí tengan stock realmente):
+
+<figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
+
+Generará un listado con todos los artículos, seleccionamos todos pulsando en la casilla superior izquierda y pulsamos en "Generación de inventario":
+
+<figure><img src="../../.gitbook/assets/imagen (2).png" alt=""><figcaption></figcaption></figure>
+
+Saldrá este mensaje y hay que desmarcar no mostrar sin stock para que sí lo haga:
+
+<figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
+
+Ahora podremos trabajar sobre un inventario existente, corrigiendo las cantidades indicadas:
+
+<figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
+
