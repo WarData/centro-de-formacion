@@ -48,4 +48,4 @@ D) Pulsamos en "Aceptar"
 
 ![](<../.gitbook/assets/imagen (103).png>)
 
-Véase también ["Vehículos robados"](../faq/vehiculos-robados-sacar-del-stock.md)
+Véase también ["Vehículos robados"](../faq/comercial/salidas-especiales-de-vehiculos-en-stock.md)

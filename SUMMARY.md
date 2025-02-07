@@ -398,7 +398,7 @@
   * [Artículo sin Stock - Solución temporal](faq/articulo-sin-stock-solucion-temporal.md)
   * [Impresión de Etiquetas (3 métodos)](faq/impresion-de-etiquetas.md)
 * [Comercial](faq/comercial/README.md)
-  * [Vehículos robados - Sacar del stock](faq/vehiculos-robados-sacar-del-stock.md)
+  * [Salidas especiales de vehículos en stock](faq/comercial/salidas-especiales-de-vehiculos-en-stock.md)
   * [Número máximo de familias a presentar en las estadísticas de producción](faq/numero-maximo-de-familias-a-presentar-en-las-estadisticas-de-produccion.md)
 
 ## Vídeos
