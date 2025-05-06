@@ -221,6 +221,7 @@
 * [Automoción](manuales/automocion/README.md)
   * [Taller](manuales/automocion/taller/README.md)
     * [Órdenes de Reparación](manuales/automocion/taller/ordenes-de-reparacion/README.md)
+      * [Menú OR](manuales/automocion/taller/ordenes-de-reparacion/menu-or.md)
       * [Alta de una OR](manuales/automocion/taller/ordenes-de-reparacion/alta-de-una-or.md)
       * [Barra de pestañas de la OR](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or.md)
         * [General](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or/general.md)

@@ -4,13 +4,13 @@
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de gastos de los servicios o productos recibidos de nuestros acreedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentará todos los albaranes de gastos con la fecha indicada en el calendario.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1.- NUEVO ALBARÁN**
 
 Permite dar de alta a un nuevo albarán de gastos mediante el siguiente formulario:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al igual que los pedidos de material y los demás documentos de compra y venta, los albaranes están compuestos por su cabecera, donde se guardan todos los datos generales del albarán, y las líneas, donde se va guarda el detalle de los gastos, referencia relacionada, cantidad, importe, etc.
 
@@ -25,7 +25,7 @@ La cabecera de los albaranes de compras está compuesta por los siguientes campo
 * **Régimen de IVA:** este campo tomará por defecto el tipo de IVA definido en la ficha del proveedor seleccionado en el albarán. Se podrá modificar manualmente.
 * **Acreedor:** indicamos aquí el acreedor, cuyo formulario de opciones contiene cuatro botones insertados para poder localizar el acreedor deseado, crear uno nuevo, editarlo y cambiar los datos:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Dirección, CIF, tipo de pago y vencimientos:** muestra, respectivamente, la dirección, CIF, tipo de pago y vencimientos del acreedor seleccionado. Se podrán modificar sin que estos cambios afecten a la ficha del acreedor. Recordar que tanto el tipo de pago como los vencimientos son campos relacionados con su propia tabla de datos en las que se graban las diferentes posibilidades que se pueden escoger. El acceso a estas dos tablas, lo podrás encontrar en el apartado **Submaestros > Administración >** [**Tipos de pago**](../submaestros/administracion-1/tipos-de-pago.md) **y** [**Vencimientos**](../submaestros/administracion-1/vencimientos.md)
 
@@ -82,7 +82,7 @@ La descripción del artículo o servicio tomará por defecto la definida en su f
 
 Para eliminar una línea de albarán, tendremos que hacer doble clic en la línea a borrar o editar, se abrirá la ventana del artículo o servicio y pulsaremos el botón "Eliminar":
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * Eliminar: borra la línea del albarán de gastos
 * Auditoría: muestra la fecha y hora de creación y modificación a la vez que el usuario de cada uno y las operaciones sobre el documento junto a la fecha, tipo de operación, hora, usuario y log:
@@ -98,7 +98,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Durante el alta del albarán</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tras facturar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tras facturar</p></figcaption></figure>
 
 **2 - BUSCAR ALBARÁN**
 
