@@ -13,30 +13,46 @@ Opción para dar de alta una OR. Para más información siga este [enlace](alta-
 Localizador de OR por: Nº de Documento, Fecha, Referencia, Nombre Entidad, Matrícula o Bastidor.
 
 * F3 Listados
-  * Listar OR
 
-Listado de OR en base a unos criterios dados.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="443"><figcaption><p>Selección de criterios para el filtro del listado</p></figcaption></figure>
+
+* Listar OR
+
+Listado de OR en base a unos criterios dados. En este listado aparece: Código, Fecha, Tipo de OR, Cliente, Vehículo, Situación.
 
 * Material pendiente de recepcionar
 
-Listado de líneas de órdenes de reparación que están pendientes de recibir y recepcionar.
-
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="386"><figcaption><p>Selección de criterios para el filtro del listado</p></figcaption></figure>
+Listado de líneas de órdenes de reparación que están pendientes de recibir y recepcionar. En este listado aparecen los datos relativos a las líneas del pedido de compras generado.
 
 * Material pendiente de instalar
 
-Listado de líneas de órdenes de reparación que están pendientes de instalar.
-
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt="" width="386"><figcaption><p>Selección de criterios para el filtro del listado</p></figcaption></figure>
+Listado de líneas de órdenes de reparación que están pendientes de instalar.&#x20;
 
 * F4 Facturación
-* F5
-* F6 Estadísticas
-  * Estadísticas
-  * Intervenciones
-  * Producción de taller
-  * Tiempos facturados por operario
-  * Temparios por OR
+
+Opción para facturación en tanda.
+
+*   F6 Estadísticas
+
+    * Estadísticas
+
+    Listado de OR en el que se presentan las estadísticas de ingresos, costo y beneficio por órden de reparación y en total.
+
+    * Intervenciones
+
+    Listado de intervenciones en el que se muestra el operario, la imputacion de la línea, el concepto donde el operario está realizando la intervención, la fecha de inicio, fecha fin y tiempo empleado, el costo y el ingreso.
+
+    * Producción de taller
+
+
+
+    * Tiempos facturados por operario
+
+    Listado de tiempos facturados por operario. En este listado aparece el técnico, el concepto en el que ha trabajado, las horas, horas facturadas, imputación, costo e ingreso.
+
+    * Temparios por OR
+
+    Listado de estadísticas de beneficio por temparios.
 * F7 Vehículos en taller
+
+Listado de vehículos que están actualmente en taller.
