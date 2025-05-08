@@ -1,6 +1,6 @@
 # Menú OR
 
-Los siguientes atajos se encuentran en el panel izquierdo del menú principal de las órdenes de reparación. Estas opciones estarán disponibles dependiendo el tipo de perfil que tenga el usuario. Para más información sobre perfiles siga este [enlace](../../../configuracion/permisos-perfiles/perfiles.md).
+Los siguientes atajos se encuentran en el panel izquierdo del menú principal de las órdenes de reparación. Estas opciones estarán disponibles dependiendo el tipo de perfil que tenga el usuario. Para más información sobre perfiles siga este [enlace](../../../configuracion/permisos-perfiles/).
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt="" width="234"><figcaption></figcaption></figure>
 
