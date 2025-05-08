@@ -24,13 +24,13 @@ Localizador de OR por: Nº de Documento, Fecha, Referencia, Nombre Entidad, Matr
 
 Opción para facturación en tanda.
 
-* F6 Estadísticas
+* F6 Estadísticas (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
 
 | Tipo de listado                 | Descripción                                                                                                                                     |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Estadísticas                    | Listado de OR en el que se presentan las estadísticas de ingresos, costo y beneficio por orden de reparación y la estadística total del listado |
 | Intervenciones                  | Listado estadístico de las intervenciones realizadas por operarios                                                                              |
-| Producción de taller            |                                                                                                                                                 |
+| Producción de taller            | Listado estadístico de la producción de taller                                                                                                  |
 | Tiempos facturados por operario | Listado que muestra la estadística de tiempos facturados por operarios                                                                          |
 | Temparios por OR                | Listado de estadísticas de beneficio por temparios                                                                                              |
 
