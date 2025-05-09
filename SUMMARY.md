@@ -308,6 +308,11 @@
 * [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
 * [Partes de Fabricación - Preparación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
 
+***
+
+* [Page](page/README.md)
+  * [Test Yamaha](page/test-yamaha.md)
+
 ## MÓDULOS WINMOTOR OPCIONALES
 
 * [Wincoins](modulos-winmotor-opcionales/wincoins.md)

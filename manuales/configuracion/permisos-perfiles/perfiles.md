@@ -18,7 +18,7 @@ Para crear un nuevo perfil, pulsamos botón derecho del ratón y pulsamos en "Al
 
 La siguiente imagen muestra el menú de los perfiles desde donde se pueden dar y quitar permisos a un perfil en concreto sobre el alta, baja y modificación de opciones concretas.
 
-<figure><img src="../../../.gitbook/assets/4.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 El pestaña "Especiales" muestra permisos especiales que permitirán activar opciones dentro del programa.
 
