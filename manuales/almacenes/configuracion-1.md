@@ -4,6 +4,8 @@ Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artí
 
 Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo una nave, o dentro de esta nave una calle, estantería, balda, etc.
 
+<figure><img src="../../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
+
 **CAMPOS**
 
 * <mark style="color:yellow;">Código</mark>: identificador único del almacén.
