@@ -389,6 +389,7 @@
     * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
   * [Nueva Ley IVA del 5%](faq/administracion/nueva-ley-iva-del-5.md)
   * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
+  * [¿Puedo cambiar la fecha de un albarán de ventas?](faq/administracion/puedo-cambiar-la-fecha-de-un-albaran-de-ventas.md)
 * [Taller](faq/taller/README.md)
   * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
     * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
