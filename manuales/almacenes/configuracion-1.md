@@ -8,25 +8,30 @@ Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo 
 
 **CAMPOS**
 
-* <mark style="color:yellow;">Código</mark>: identificador único del almacén.
-  * Si por ejemplo queremos clasificar dentro de una nave las distintas calles, el identificador de la calle debe de empezar por el ID de la nave a la que pertenece.&#x20;
-  * Como norma, siempre debe de existir un almacén principal cuyo identificador solo podrá tener un dígito y que hará referencia a la empresa ( E ). Si la empresa es multicentro, deberá de colgar de éste un almacén por centro, y debe de tener 3 dígitos ( EM- ). Ya dentro de cada centro, o si no tenemos centro, se crearán los almacenes por cada nave o ubicación.&#x20;
-  * Por ejemplo:
-    * E - Empresa
-    * ES- Tienda Sevilla
-    * ES-T Taller tienda Sevilla
-    * ES-TC1 - Calle 1 taller tienda Sevilla
-    * ES-TC1E1 - Estantería 1 calle 1 taller tienda Sevilla
-    * ES-TC1E1C1 - Caja 1 estantería 1 calle 1 taller tienda Sevilla
-    * ES-E Exposición tienda Sevilla
-    * ...
-    * EV- Tienda Valencia
-    * ...
-    * **No es obligatorio el desglose de cada ubicación. Podemos crear y clasificar los almacenes que nos interese.**
+* <mark style="color:yellow;">**Código**</mark>: identificador único del almacén.
+
+{% hint style="info" %}
+Como norma, siempre debe de existir un almacén principal cuyo identificador solo podrá tener un dígito y que hará referencia a la empresa ( E ). Si la empresa es multicentro, deberá de colgar de éste un almacén por centro, y debe de tener 3 dígitos ( EM- ). Ya dentro de cada centro, o si no tenemos centro, se crearán los almacenes por cada nave o ubicación.
+{% endhint %}
+
+Si por ejemplo queremos clasificar dentro de una nave las distintas calles, el identificador de la calle debe de empezar por el ID de la nave a la que pertenece.&#x20;
+
+* Ejemplo:
+  * E - Empresa
+  * ES- Tienda Sevilla
+  * ES-T Taller tienda Sevilla
+  * ES-TC1 - Calle 1 taller tienda Sevilla
+  * ES-TC1E1 - Estantería 1 calle 1 taller tienda Sevilla
+  * ES-TC1E1C1 - Caja 1 estantería 1 calle 1 taller tienda Sevilla
+  * ES-E Exposición tienda Sevilla
+  * ...
+  * EV- Tienda Valencia
+  * ...
+  * **No es obligatorio el desglose de cada ubicación. Podemos crear y clasificar los almacenes que nos interese.**
 * <mark style="color:yellow;">Nombre:</mark> descripción del almacén
 * <mark style="color:yellow;">Empresa:</mark> solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
 * <mark style="color:yellow;">Centro:</mark> solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
-* <mark style="color:yellow;">Restringido:</mark> si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Si se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
+* <mark style="color:yellow;">Restringido:</mark> si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Sí se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
 
 CONFIGURACIÓN
 
