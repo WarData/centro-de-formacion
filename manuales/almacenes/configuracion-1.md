@@ -1,22 +1,20 @@
 # Almacenes
 
-Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artículo.
-
-Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo una nave, o dentro de esta nave una calle, estantería, balda, etc.
+Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artículo. Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo una nave, o dentro de esta nave una calle, estantería, balda, etc.
 
 <figure><img src="../../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
 
 **CAMPOS**
 
-* <mark style="color:yellow;">**Código**</mark>: identificador único del almacén.
+* <mark style="color:red;">**Código**</mark>: identificador único del almacén.
+
+Es importante que la creación de almacenes siga una estructura arbolada. El primero será el almacén principal, que representa a la empresa y cuyo identificador solo podrá tener un dígito (por ejemplo, E ). Si la empresa es multicentro, el siguiente nivel del árbol será el almacén de cada centro, cuyo identificador debe tener tres dígitos (por ejemplo, EM- ). Dentro de cada centro, o si no existen centros, se crearán almacenes por cada ubicación específica (nave, calle, estantería, etc).
 
 {% hint style="info" %}
-Como norma, siempre debe de existir un almacén principal cuyo identificador solo podrá tener un dígito y que hará referencia a la empresa ( E ). Si la empresa es multicentro, deberá de colgar de éste un almacén por centro, y debe de tener 3 dígitos ( EM- ). Ya dentro de cada centro, o si no tenemos centro, se crearán los almacenes por cada nave o ubicación.
+El identificador de cada almacén, nave, calle, estantería, etc. debe empezar por el ID del almacén al que pertenece
 {% endhint %}
 
-Si por ejemplo queremos clasificar dentro de una nave las distintas calles, el identificador de la calle debe de empezar por el ID de la nave a la que pertenece.&#x20;
-
-* Ejemplo:
+* A continuación un ejemplo:
   * E - Empresa
   * ES- Tienda Sevilla
   * ES-T Taller tienda Sevilla
