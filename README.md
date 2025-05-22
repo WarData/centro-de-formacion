@@ -7,7 +7,7 @@ description: >-
 
 # Centro de Ayuda - Winmotor V7
 
-<figure><img src=".gitbook/assets/imagen (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo-black-white@512h.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Información general, productos y descargas en** [**winmotor.com**](https://www.winmotor.com)&#x20;
 
