@@ -14,9 +14,10 @@ Es importante que la creación de almacenes siga una estructura arbolada. El pri
 El identificador de cada almacén, nave, calle, estantería, etc. debe empezar por el ID del almacén al que pertenece
 {% endhint %}
 
-*   A continuación un ejemplo:
+A continuación un ejemplo:
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 * **Nombre:** descripción del almacén
 * **Empresa:** solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
 * **Centro:** solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
