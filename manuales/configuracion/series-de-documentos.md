@@ -2,7 +2,7 @@
 
 Todos los documentos en Winmotor se clasifican por series. Cada serie implica un contador para los documentos que incluya y son ilimitadas: se pueden crear tantas series por tipo de documento como se desee.
 
-![](<../../.gitbook/assets/image (440).png>)
+<figure><img src="../../.gitbook/assets/image (619).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Los campos a rellenar al crear una serie son:
 
@@ -21,11 +21,9 @@ Los campos a rellenar al crear una serie son:
 
 Opción para duplicar una serie desde el formulario de consulta de una serie de documentos.
 
-​
+<figure><img src="../../.gitbook/assets/image (621).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAA+CAIAAABFt7lbAAAES0lEQVR4Ae2bTU/yQBDHn0+zq5jg0ZAYKR7bC9FjLxI42JBo7IGTpnsRwlVPnvVT9O6N8AE4yFd50i47nULfFrcvwvYgw+zsdObX/5aywX9EH4oI/FOUR6chGqUyEWiUGqUyAsoSaVVqlMoIKEukValRKiOgLJFWZX0oXdddLpfrIzt835/P59nU5VT5/f39+fl5cXGRnfTwRi3Len9/X61WGa1JoHRd9+vrKyPXwQ+9vr4+Pj6mtSmBcrlcHqEeMbhOp7NYLLAH2xIo1+s1nnmcdgYEjVJOEhqlHK+MaI0yA47cUOkoW60WpRQXRSk9PT3FHmzLxuO59dqlo6SUjkaj6+tr3qdhGKPRaAsuRiAbj+fWa5eOkhDS6/UYY47j3N/fM8YAa1rnsvFpeSr2V4GSEOI4DgsPx3GKdCgbXyRn2TEapTLCVaDcWrC9Xi+7fNn47GyVjZaOUvZjRDa+MlK5JyodZeLDTavVgspM07Rtu91uc09uPExsmlE6yuyGb25uGGOe57muCzSzpzR2tE6UnONgMOh2u8/Pz9XS7E8+ZsNLldelNpTA8eTkhBAiSbM/+YiOSX8PIoASjD2SxKbUgxI44q89hmF4nmfbdqzA5Deo/8vh7GMPgaEMyaeQ9taAEu6PhmFAvZTSwWDAGDNNE5zpRhxEoFEuTewHOzSGGx2LVR0f3ax0JPYgH3orThA6Z8N+cP0iX1ho1Sg5R/7N5+Xl5erqihBCKb27u2OM3d7epuPDIwCCO4El9oMdEgHUGwXjUY43lPfmZnE5nMRvpMFglCJxFVSKEnMEmoZhSHIkG2lEHxq5KIUWQ6GFSHZQBrAgDC4bFiYfhYkQszGqQ7nLkdP0PE9GjyBD3HZxlKAuICIMyBEhClziNCIsuBjCF0UGVkUo0zhymnhdJz6i7+xvxvuJKGA/2GBwOfOFCk5hAGQAFKXF60DEQ5gwqkBZnCO/bxbY30T9BAhAJxEP5EbBER1wghHOwPfKwCEEGAkU4gVC8Vo6SimOvKqt7Yyk/c2gMzg27fPJYmQ2HIqVKFzBBIEmWqcYDYoMk4Z0w/NMJigbJBEUw9dyUe7BkVendL8Sw4o1r/ZNiSj35pi7VQx63DJS0PxxlL/huLXAc/c3UwiC+y+j/A1HvV8Z/dDFNE3+iJP4Fz/3gGywkfgwhPc3cXCjbPX3Stu2EyHKP4c3ClR+MepRnp+fPz097dLM1WN+sc2OUI+SENJut7doHjzHEr84YprHwLFElFybtm0X239s9tItVl0pC7zYqQ8tSqNUdkU1yoah9H3fsixlRf3BRJZl+b6fVrjEb9Hn8/nb21taomPwj8fj6XSa1qkESkLIarWaTqedTict3aH6Lcsaj8c/Pz8ZDcqhJIQ8PDwsFosj+7+8te/7GXrkfKVRZlyWIx/SKJUJQKPUKJURUJZIq1KjVEZAWSKtSjUoz87ONEo1KLuG8R9TSKvQTGkKtAAAAABJRU5ErkJggg==" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (623).png" alt="" width="455"><figcaption></figcaption></figure>
 
 En esta opción se especificará la nueva referencia, su nombre, el centro y si se quiere, crearla ya activa y al aceptar se creará una nueva serie con las mismas características que la serie que se está duplicando, exceptuando eso sí, los contadores e históricos como documentos. Además también se duplicarán sus configuraciones para no tener que copiar y pegar.
 
@@ -119,7 +117,7 @@ o Serie interna: aquella destinada a procesos internos del Concesionario y/o ent
 
 o Contabilizar: check que permite activar o no la serie en contabilidad
 
-![](<../../.gitbook/assets/image (441).png>)
+<figure><img src="../../.gitbook/assets/image (624).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Pestaña "Impresión": permite variar las opciones referentes a la impresión de los informes asociados a dicha serie:
 
@@ -129,20 +127,20 @@ o Identificadores: indican el código del informe que usará la serie para reali
 
 o Notas al pie de página y otros textos: permite añadir textos al informe pre-diseñado.
 
-![](<../../.gitbook/assets/image (444).png>)
+<figure><img src="../../.gitbook/assets/image (625).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Pestaña "Logos":** permite añadir logotipos para identificar las distintas series
+**Pestaña "Logos":** permite añadir logotipos para identificar las distintas serie
 
-![](<../../.gitbook/assets/image (443).png>)
+<figure><img src="../../.gitbook/assets/image (626).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Pestaña "Observaciones":** si el informe dispone de un campo observaciones, se aplicarán las añadidas a la serie. También permite añadir observaciones internas que únicamente aparecerán en esta pestaña y campo:
 
-![](<../../.gitbook/assets/image (445).png>)
+<figure><img src="../../.gitbook/assets/image (627).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Pestaña "Contadores": mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo a la vez que continúe la numeración al siguiente o empiece desde contador=1
 
-![](<../../.gitbook/assets/image (447).png>)
+<figure><img src="../../.gitbook/assets/image (628).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Pestaña "Avanzado":** situación inicial de la serie al configurarse - consulte con el personal de Winmotor para más información
 
-![](<../../.gitbook/assets/image (448).png>)
+<figure><img src="../../.gitbook/assets/image (629).png" alt="" width="563"><figcaption></figcaption></figure>
