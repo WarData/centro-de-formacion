@@ -4,7 +4,7 @@
 
 **En esta opción se da de alta un ejercicio, los contadores de las series asociados al ejercicio y se verifican los dados de alta.**
 
-![](<../../.gitbook/assets/image (449).png>)
+<figure><img src="../../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
 
 En el listado de ejercicios, con doble clic nos permite crear un nuevo ejercicio donde tendremos que indicar:
 
