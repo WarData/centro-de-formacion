@@ -2,11 +2,11 @@
 
 Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artículo. Cada almacén se corresponde con una ubicación física. Podrá ser por ejemplo una nave, o dentro de esta nave una calle, estantería, balda, etc.
 
-<figure><img src="../../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **CAMPOS**
 
-* <mark style="color:red;">**Código**</mark>: identificador único del almacén.
+* **Código**: identificador único del almacén.
 
 Es importante que la creación de almacenes siga una estructura arbolada. El primero será el almacén principal, que representa a la empresa y cuyo identificador solo podrá tener un dígito (por ejemplo, E ). Si la empresa es multicentro, el siguiente nivel del árbol será el almacén de cada centro, cuyo identificador debe tener tres dígitos (por ejemplo, EM- ). Dentro de cada centro, o si no existen centros, se crearán almacenes por cada ubicación específica (nave, calle, estantería, etc).
 
@@ -14,22 +14,13 @@ Es importante que la creación de almacenes siga una estructura arbolada. El pri
 El identificador de cada almacén, nave, calle, estantería, etc. debe empezar por el ID del almacén al que pertenece
 {% endhint %}
 
-* A continuación un ejemplo:
-  * E - Empresa
-  * ES- Tienda Sevilla
-  * ES-T Taller tienda Sevilla
-  * ES-TC1 - Calle 1 taller tienda Sevilla
-  * ES-TC1E1 - Estantería 1 calle 1 taller tienda Sevilla
-  * ES-TC1E1C1 - Caja 1 estantería 1 calle 1 taller tienda Sevilla
-  * ES-E Exposición tienda Sevilla
-  * ...
-  * EV- Tienda Valencia
-  * ...
-  * **No es obligatorio el desglose de cada ubicación. Podemos crear y clasificar los almacenes que nos interese.**
-* <mark style="color:yellow;">Nombre:</mark> descripción del almacén
-* <mark style="color:yellow;">Empresa:</mark> solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
-* <mark style="color:yellow;">Centro:</mark> solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
-* <mark style="color:yellow;">Restringido:</mark> si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Sí se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
+*   A continuación un ejemplo:
+
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+* **Nombre:** descripción del almacén
+* **Empresa:** solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
+* **Centro:** solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
+* **Restringido:** si marcamos este check, el stock que haya en él no se podrá vender ni reservar. Sí se podrá ubicar material en este almacén en compras. También podremos usarlo en partes de almacén.
 
 CONFIGURACIÓN
 

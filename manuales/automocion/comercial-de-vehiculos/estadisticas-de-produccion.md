@@ -22,11 +22,11 @@ El número máximo de columnas para conceptos variables a presentar en el inform
 
 1\. Desde el Menú lateral del panel de inicio podremos seleccionar la opción ‘Comercial’, que mostrará el panel de ‘Vehículos’ y ‘Modelos’.
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 2\. Seleccionaremos ‘Estadísticas de producción’ y aparecerá un formulario donde podremos indicar las condiciones de filtrado para el listado que necesitemos.
 
-![](<../../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 3\. Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
 

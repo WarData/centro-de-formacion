@@ -4,7 +4,7 @@
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de gastos de los servicios o productos recibidos de nuestros acreedores. Al entrar en ella, nos aparece un menú con calendario en el que se nos presentan diferentes opciones, un calendario que contendrá por defecto la fecha de hoy y se podrá modificar, y una rejilla que presentará todos los albaranes de gastos con la fecha indicada en el calendario.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1.- NUEVO ALBARÁN**
 
@@ -98,7 +98,7 @@ Para eliminar una línea de albarán, tendremos que hacer doble clic en la líne
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Durante el alta del albarán</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Tras facturar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Tras facturar</p></figcaption></figure>
 
 **2 - BUSCAR ALBARÁN**
 
