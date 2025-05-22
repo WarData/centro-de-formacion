@@ -4,10 +4,6 @@ Los almacenes en Winmotor sirven para clasificar o ubicar el stock de cada artí
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-**CAMPOS**
-
-* **Código**: identificador único del almacén.
-
 Es importante que la creación de almacenes siga una estructura arbolada. El primero será el almacén principal, que representa a la empresa y cuyo identificador solo podrá tener un dígito (por ejemplo, E ). Si la empresa es multicentro, el siguiente nivel del árbol será el almacén de cada centro, cuyo identificador debe tener tres dígitos (por ejemplo, EM- ). Dentro de cada centro, o si no existen centros, se crearán almacenes por cada ubicación específica (nave, calle, estantería, etc).
 
 {% hint style="info" %}
@@ -18,6 +14,9 @@ A continuación un ejemplo:
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+**CAMPOS A RELLENAR EN LA CREACIÓN DEL ALMACÉN**
+
+* **Código**: identificador único del almacén.
 * **Nombre:** descripción del almacén
 * **Empresa:** solo rellenable cuando grabamos el almacén raiz de la empresa ( E )
 * **Centro:** solo rellenable cuando grabamos el almacén raiz de cada centro ( ES- )
