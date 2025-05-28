@@ -6,16 +6,9 @@ Todos los documentos en Winmotor se clasifican por series. Cada serie implica un
 
 Los campos a rellenar al crear una serie son:
 
-**1.- Código:** No hay que rellenarlo, lo hace el programa automáticamente. Será el identificador interno para la serie
+<table><thead><tr><th width="170">Campo</th><th width="594">Descripción</th></tr></thead><tbody><tr><td>Código</td><td>Identificador interno de la serie. Se rellena automáticamente</td></tr><tr><td>Referencia</td><td>Identificador de la serie con tamaño máximo de 6 caracteres alfanuméricos. Se recomienda utilizar abreviaturas que identifiquen claramente el tipo de documento sobre el que se va a utilizar, por ejemplo, AC para Albarán de compras / FVVO para Factura de ventas de vehículo de ocasión</td></tr><tr><td>Empresa</td><td>Presenta por defecto la empresa activa en parámetros, se rellena automáticamente</td></tr><tr><td>Tipo de documento</td><td>Hace referencia al tipo de documento sobre el que se podrá utilizar la serie</td></tr><tr><td>Serie abono</td><td>Check que marca si la serie se utilizará para abono de documentos en caso de ser albaranes o facturas</td></tr><tr><td>Serie activa</td><td>Check que indica si la serie puede ser utilizada o no. En caso de estar desmarcada no aparecerá al seleccionar serie en un documento</td></tr></tbody></table>
 
-**2.- Referencia:** Su tamaño máximo es de 6 caracteres alfanuméricos. Se recomienda usar abreviaturas que identifiquen claramente el tipo de documento sobre el que se utiliza la serie de manera que al visualizar documentos en el programa podamos diferenciar claramente de qué tipo se trata ( FV- Facturas de ventas, AV – Albarán de ventas, AC- Albarán de compras etc). En el ejemplo anterior hemos añadido a FV el carácter “G” para identificar que será la serie para facturas de ventas “General”.
 
-* Serie abono: Identifica si la serie que se va a grabar será utilizada para abonos de documentos. Es un campo tipo “check” y aparecerá en el caso de dar de alta series de albaranes o facturas.
-* Serie activa: Por defecto aparece marcada, pero en el momento en que se desmarque la serie dejará de poder utilizarse en documentos.
-* Empresa: El programa presenta por defecto la empresa activa en parámetros, no hay que rellenarlo.
-* Tipo de documento: Es el tipo de documento sobre el que se podrá utilizar la serie. Pulsando en el botón de la derecha aparecerá un desplegable con todos los tipos de documentos disponibles en la distribución para aplicar a la serie.
-* Formato nombre: El programa calcula este dato al aceptar el alta de la serie. Será el identificador final de cada documento generado dentro de la serie y por defecto contendrá además de la “referencia” el código del ejercicio en curso.
-* Nombre: Por defecto el programa propone el nombre de la empresa más el tipo de documento. Si se van a crear varias series para un mismo tipo de documento se recomienda añadir la descripción que identifica a esta serie. En el ejemplo hemos utilizado “GENERAL”.
 
 <mark style="color:yellow;">**BOTONERA INFERIOR - DUPLICAR**</mark>
 
