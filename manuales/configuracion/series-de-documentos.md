@@ -1,6 +1,10 @@
 # Series de Documentos
 
-Todos los documentos en Winmotor se clasifican por series. Cada serie implica un contador para los documentos que incluya y son ilimitadas: se pueden crear tantas series por tipo de documento como se desee.
+Todos los documentos en Winmotor se clasifican por series. Cada serie implica un contador para los documentos que incluya.
+
+{% hint style="info" %}
+Las series son ilimitadas. Se pueden crear tantas series por tipo de documento como se desee
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (619).png" alt="" width="563"><figcaption></figcaption></figure>
 
