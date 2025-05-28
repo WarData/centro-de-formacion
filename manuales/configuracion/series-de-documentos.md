@@ -12,17 +12,12 @@ Los campos a rellenar al crear una serie son:
 
 <table><thead><tr><th width="170">Campo</th><th width="594">Descripción</th></tr></thead><tbody><tr><td>Código</td><td>Identificador interno de la serie. Se rellena automáticamente</td></tr><tr><td>Referencia</td><td>Identificador de la serie con tamaño máximo de 6 caracteres alfanuméricos. Se recomienda utilizar abreviaturas que identifiquen claramente el tipo de documento sobre el que se va a utilizar, por ejemplo, AC para Albarán de compras / FVVO para Factura de ventas de vehículo de ocasión</td></tr><tr><td>Empresa</td><td>Presenta por defecto la empresa activa en parámetros, se rellena automáticamente</td></tr><tr><td>Tipo de documento</td><td>Hace referencia al tipo de documento sobre el que se podrá utilizar la serie</td></tr><tr><td>Serie abono</td><td>Check que marca si la serie se utilizará para abono de documentos en caso de ser albaranes o facturas</td></tr><tr><td>Serie activa</td><td>Check que indica si la serie puede ser utilizada o no. En caso de estar desmarcada no aparecerá al seleccionar serie en un documento</td></tr></tbody></table>
 
+Tenemos dos formas de dar de alta una serie.&#x20;
 
+* Haciendo doble clic en la rejilla de forma que crearemos de cero la serie
+* Desde el botón <mark style="color:red;">**Duplicar**</mark> de una serie ya existente. De esta forma se creará una nueva serie a la que le tendremos que poner una nueva referencia y empezar con el contador e histórico de cero. Las características y configuraciones las copiará de la serie original
 
-<mark style="color:yellow;">**BOTONERA INFERIOR - DUPLICAR**</mark>
-
-Opción para duplicar una serie desde el formulario de consulta de una serie de documentos.
-
-<figure><img src="../../.gitbook/assets/image (621).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (623).png" alt="" width="455"><figcaption></figcaption></figure>
-
-En esta opción se especificará la nueva referencia, su nombre, el centro y si se quiere, crearla ya activa y al aceptar se creará una nueva serie con las mismas características que la serie que se está duplicando, exceptuando eso sí, los contadores e históricos como documentos. Además también se duplicarán sus configuraciones para no tener que copiar y pegar.
+<figure><img src="../../.gitbook/assets/image (642).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **PESTAÑAS:**
 
