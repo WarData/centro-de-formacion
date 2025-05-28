@@ -19,52 +19,6 @@ Tenemos dos formas de dar de alta una serie.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (642).png" alt="" width="563"><figcaption></figcaption></figure>
 
-{% tabs %}
-{% tab title="Parámetros" %}
-
-{% endtab %}
-
-{% tab title="Contabilidad" %}
-
-{% endtab %}
-
-{% tab title="Impresión" %}
-
-{% endtab %}
-
-{% tab title="Logos" %}
-
-{% endtab %}
-
-{% tab title="Observaciones" %}
-
-{% endtab %}
-
-{% tab title="Archivos" %}
-
-{% endtab %}
-
-{% tab title="Contadores" %}
-
-{% endtab %}
-
-{% tab title="Histórico" %}
-
-{% endtab %}
-
-{% tab title="Usada en" %}
-
-{% endtab %}
-
-{% tab title="Avanzado" %}
-
-{% endtab %}
-
-{% tab title="Notificaciones" %}
-
-{% endtab %}
-{% endtabs %}
-
 **PESTAÑAS:**
 
 **Pestaña “Valores por defecto”:** Según el tipo de documento relacionado a la serie se nos presentarán en esta pestaña distintos campos. Vamos a ir enumerándolos por tipos de documentos:
