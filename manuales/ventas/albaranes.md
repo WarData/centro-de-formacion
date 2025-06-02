@@ -52,7 +52,7 @@ La imagen anterior nos muestra un formulario de albaranes de venta, donde se gra
 
 * **Serie:** es un campo imprescindible de rellenar, y por defecto toma el valor definido en la ficha del usuario que graba el albarán. Si este no tuviera definida ninguna serie de albarán en su ficha, se tomará la de los parámetros del programa. En la serie del albarán se define, por ejemplo, el almacén que tomará por defecto las líneas del albarán. Todas las posibilidades de las series de documentos se detallan en la sección…explicación de series de documentos.
 * **Número:** todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
-* **Fecha:** se indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
+* **Fecha:** indica aquí la fecha de grabación del documento. Esta fecha debe de estar dentro de los rangos definidos en parámetros. Posteriormente no se podrá cambiar la fecha del albarán, para más información siga el siguiente enlace [https://winmotor.gitbook.io/winmotor-automocion/faq/administracion/puedo-cambiar-la-fecha-de-un-albaran-de-ventas](../../faq/administracion/puedo-cambiar-la-fecha-de-un-albaran-de-ventas.md)
 * **Hora:** presenta la hora de grabación del albarán, no es manipulable por los usuarios.
 * **Referencia**: campo libre para incluir datos. Un ejemplo puede ser añadir en él nombre y número del cliente en caso de ser el cliente contado (genérico sin NIF o CIF)
 * **Centro:** este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el albarán. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
@@ -183,7 +183,7 @@ En esta podemos modificar el número de factura que se va a generar, así como l
 
 6 – LOCALIZAR REFERENCIAS
 
-Con esta opción podremos localizar cualquier referencia, independientemente de que esté grabada como artículo o no. [Opción explicada en el menú de artículos](file:///C:/Users/warda/OneDrive/Documents/Manual%20Velmotor/Manual\_Velmotor/nuevo\_manual/articulos.htm#localizar).
+Con esta opción podremos localizar cualquier referencia, independientemente de que esté grabada como artículo o no. [Opción explicada en el menú de artículos](file:///C:/Users/warda/OneDrive/Documents/Manual%20Velmotor/Manual_Velmotor/nuevo_manual/articulos.htm#localizar).
 
 7 – LISTADO DETALLE
 
@@ -195,11 +195,11 @@ Mediante esta opción podremos añadir a una orden de reparación cualquier art�
 
 9 – LOCALIZAR ARTÍCULOS
 
-Esta opción muestra un localizador de artículos, mediante el cual podremos consultar cualquiera de ellos. [Opción explicada en el menú de artículos](file:///C:/Users/warda/OneDrive/Documents/Manual%20Velmotor/Manual\_Velmotor/nuevo\_manual/articulos.htm#buscar).
+Esta opción muestra un localizador de artículos, mediante el cual podremos consultar cualquiera de ellos. [Opción explicada en el menú de artículos](file:///C:/Users/warda/OneDrive/Documents/Manual%20Velmotor/Manual_Velmotor/nuevo_manual/articulos.htm#buscar).
 
 A – LOCALIZAR TARIFAS
 
-Esta opción muestra un localizador de tarifas, mediante el cual podremos consultar cualquiera de ellas. [Opción explicada en el menú de tarifas](file:///C:/Users/warda/OneDrive/Documents/Manual%20Velmotor/Manual\_Velmotor/nuevo\_manual/tarifas.htm#buscar).
+Esta opción muestra un localizador de tarifas, mediante el cual podremos consultar cualquiera de ellas. [Opción explicada en el menú de tarifas](file:///C:/Users/warda/OneDrive/Documents/Manual%20Velmotor/Manual_Velmotor/nuevo_manual/tarifas.htm#buscar).
 
 B – ENTREGAR MATERIAL PENDIENTE
 
