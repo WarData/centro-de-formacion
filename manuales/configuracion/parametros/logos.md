@@ -10,4 +10,4 @@ En esta pestaña se pueden insertar hasta cuatro logos. Estos logos se podrán u
 Tienen que ser imágenes en formato jpg o png sin transparencia
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
