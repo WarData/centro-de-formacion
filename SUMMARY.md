@@ -320,6 +320,34 @@
 * [Integrador Bancario](modulos-winmotor-opcionales/integrador-bancario.md)
 * [Alta automática de documentos de compras y gastos](modulos-winmotor-opcionales/alta-automatica-de-documentos-de-compras-y-gastos.md)
 
+## FAQ
+
+* [Administración](faq/administracion/README.md)
+  * [Facturas](faq/facturas/README.md)
+    * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
+  * [Albaranes](faq/administracion/albaranes/README.md)
+    * [Como proceder ante un albarán de compras erróneo](faq/administracion/albaranes/como-proceder-ante-un-albaran-de-compras-erroneo.md)
+    * [¿Puedo cambiar la fecha de un albarán de ventas?](faq/administracion/albaranes/puedo-cambiar-la-fecha-de-un-albaran-de-ventas.md)
+  * [Nueva Ley IVA del 5%](faq/administracion/nueva-ley-iva-del-5.md)
+  * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
+* [Taller](faq/taller/README.md)
+  * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
+    * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
+    * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
+  * [Vehículos en taller](faq/taller/vehiculos-en-taller.md)
+  * [Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente](faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)
+  * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
+  * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
+* [Recambios](faq/recambios/README.md)
+  * [Pedidos](faq/pedidos/README.md)
+    * [Flujo de Pedidos (Ventas / Compras)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
+    * [Uso del campo "Referencia" en Pedidos de Ventas](faq/pedidos/uso-del-campo-referencia-en-pedidos-de-ventas.md)
+  * [Artículo sin Stock - Solución temporal](faq/articulo-sin-stock-solucion-temporal.md)
+  * [Impresión de Etiquetas (3 métodos)](faq/impresion-de-etiquetas.md)
+* [Comercial](faq/comercial/README.md)
+  * [Salidas especiales de vehículos en stock](faq/comercial/salidas-especiales-de-vehiculos-en-stock.md)
+  * [Número máximo de familias a presentar en las estadísticas de producción](faq/numero-maximo-de-familias-a-presentar-en-las-estadisticas-de-produccion.md)
+
 ## Tutoriales
 
 * [General](tutoriales/general/README.md)
@@ -381,34 +409,6 @@
     * [Importación Tarifa Honda / Yamaha](tutoriales/como-crear-un-importador-de-tarifa-por-marca/como-importar-una-tarifa-desde-el-importador-de-la-marca/importacion-tarifa-honda.md)
 * [Mailing](tutoriales/mailing/README.md)
   * [Cómo funciona y trucos para sacarle partido](tutoriales/mailing-como-funciona-y-trucos-para-sacarle-partido.md)
-
-## FAQ
-
-* [Administración](faq/administracion/README.md)
-  * [Facturas](faq/facturas/README.md)
-    * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
-  * [Albaranes](faq/administracion/albaranes/README.md)
-    * [Como proceder ante un albarán de compras erróneo](faq/administracion/albaranes/como-proceder-ante-un-albaran-de-compras-erroneo.md)
-    * [¿Puedo cambiar la fecha de un albarán de ventas?](faq/administracion/albaranes/puedo-cambiar-la-fecha-de-un-albaran-de-ventas.md)
-  * [Nueva Ley IVA del 5%](faq/administracion/nueva-ley-iva-del-5.md)
-  * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
-* [Taller](faq/taller/README.md)
-  * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
-    * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
-    * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
-  * [Vehículos en taller](faq/taller/vehiculos-en-taller.md)
-  * [Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente](faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)
-  * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
-  * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
-* [Recambios](faq/recambios/README.md)
-  * [Pedidos](faq/pedidos/README.md)
-    * [Flujo de Pedidos (Ventas / Compras)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
-    * [Uso del campo "Referencia" en Pedidos de Ventas](faq/pedidos/uso-del-campo-referencia-en-pedidos-de-ventas.md)
-  * [Artículo sin Stock - Solución temporal](faq/articulo-sin-stock-solucion-temporal.md)
-  * [Impresión de Etiquetas (3 métodos)](faq/impresion-de-etiquetas.md)
-* [Comercial](faq/comercial/README.md)
-  * [Salidas especiales de vehículos en stock](faq/comercial/salidas-especiales-de-vehiculos-en-stock.md)
-  * [Número máximo de familias a presentar en las estadísticas de producción](faq/numero-maximo-de-familias-a-presentar-en-las-estadisticas-de-produccion.md)
 
 ## Vídeos
 
