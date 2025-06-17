@@ -332,6 +332,7 @@
   * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
 * [Taller](faq/taller/README.md)
   * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
+    * [¿Cómo vuelvo una operación facturada a iniciada?](faq/taller/ordenes-de-reparacion-ors/como-vuelvo-una-operacion-facturada-a-iniciada.md)
     * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
     * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
   * [Vehículos en taller](faq/taller/vehiculos-en-taller.md)
