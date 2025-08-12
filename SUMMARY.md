@@ -332,7 +332,6 @@
   * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
 * [Taller](faq/taller/README.md)
   * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
-    * [¿Cómo vuelvo una operación facturada a iniciada?](faq/taller/ordenes-de-reparacion-ors/como-vuelvo-una-operacion-facturada-a-iniciada.md)
     * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)
     * [Versión para la compañia en la OR](faq/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or.md)
   * [Vehículos en taller](faq/taller/vehiculos-en-taller.md)
@@ -348,6 +347,7 @@
 * [Comercial](faq/comercial/README.md)
   * [Salidas especiales de vehículos en stock](faq/comercial/salidas-especiales-de-vehiculos-en-stock.md)
   * [Número máximo de familias a presentar en las estadísticas de producción](faq/numero-maximo-de-familias-a-presentar-en-las-estadisticas-de-produccion.md)
+  * [¿Cómo vuelvo una operación facturada a iniciada?](faq/comercial/como-vuelvo-una-operacion-facturada-a-iniciada.md)
 
 ## Tutoriales
 
