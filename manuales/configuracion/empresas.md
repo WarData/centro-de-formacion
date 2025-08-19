@@ -1,28 +1,40 @@
 # Empresas
 
-Dentro de este menú podemos comprobar el número de empresas y las fichas de aquellas dadas de alta como este tipo de entidad.
+En la opción  _Empresas_ se encuentran todas las entidades dadas de alta con <mark style="color:red;">tipo de entidad Empresa</mark>.&#x20;
 
-La entidad dada de alta como tipo "Empresa" será la que servirá al programa para administrar sus datos en los diferentes informes, así como la asignación del almacén principal, control de réplica de documentos, series por defecto a nivel empresa (es posible configurar series por defecto a nivel perfil de usuario) y configuración de departamentos laborales y RRHH.
+La entidad dada de alta como tipo Empresa será la que servirá al programa para administrar sus datos en los diferentes informes, así como la asignación del almacén principal, control de réplica de documentos, series por defecto a nivel empresa (es posible configurar series por defecto a nivel perfil de usuario) y configuración de departamentos laborales y RRHH.
 
-![](<../../.gitbook/assets/image (450).png>)
+<figure><img src="../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
 
-Ejemplo de ficha de entidad marcada también como "Empresa":
+A continuación se muestra un ejemplo de ficha de entidad marcada como <mark style="color:red;">Empresa.</mark> Dentro de esta ficha, hay una pestaña llamada _**Conf. Empresa**_ en las que se configuran ciertos parámetro.
 
-![](<../../.gitbook/assets/image (451).png>)
+<figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
 
 **PESTAÑAS:**
 
-* Generales:
+{% tabs %}
+{% tab title="Generales" %}
+<table><thead><tr><th width="222">Campo</th><th width="594">Descripción</th></tr></thead><tbody><tr><td>Inscripción</td><td>En el registro para su impresión en los informes</td></tr><tr><td>Nº registro industria</td><td></td></tr><tr><td>Instancia</td><td>*NO MODIFICAR, CAMPO MANTENIDO POR WINMOTOR*</td></tr><tr><td>Almacén de la empresa</td><td>Identificación del almacén principal asignado</td></tr><tr><td>Control de almacenes por líneas de documentos</td><td>Permite que las líneas de un documento puedan tener origen en almacenes distintos</td></tr><tr><td>Tipo de empresa</td><td>En distribuciones <em>multicentro</em> nos permite indicar qué sede es la central y cuáles serían los puntos de venta o tiendas</td></tr><tr><td>Serie traspaso stock VO</td><td>Identificación de la serie de traspaso de VO si fuera necesario</td></tr><tr><td>Conexión Make</td><td>URL del escenario de Make de contactos</td></tr></tbody></table>
+{% endtab %}
 
-o Inscripción en el registro para su impresión en los informes
+{% tab title="Series de documentos" %}
+S
+{% endtab %}
 
-o Permite la identificación del almacén principal asignado
+{% tab title="Departamentos laborales" %}
 
-o Control de almacenes por líneas de documentos
+{% endtab %}
 
-o Tipo de empresa (central o punto de venta): En distribuciones multicentro nos permite indicar qué sede sería la central y cual o cuales serían los puntos de venta o tiendas (dependen fiscalmente de la central).
+{% tab title="Empresa - Horarios" %}
 
-o Identificación de la serie de traspaso de VO si fuera necesario.
+{% endtab %}
+
+{% tab title="Festivos" %}
+
+{% endtab %}
+{% endtabs %}
+
+*
 
 ![](<../../.gitbook/assets/image (452).png>)
 
