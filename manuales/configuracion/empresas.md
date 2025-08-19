@@ -66,19 +66,3 @@ Leyenda de colores:
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-* Departamentos laborales - Empresa - horarios y Festivos (exclusivamente del módulo RRHH): las 3 pestañas corresponden a la configuración del módulo RRHH en cuanto a qué departamento laboral o departamentos hemos asignado el control de recursos humanos, horario a nivel empresa y festivos.
-
-![](<../../.gitbook/assets/image (455).png>)
-
-Ficha del departamento laboral Taller > [Véase módulo de RRHH](../recursos-humanos-1/recursos-humanos/)
-
-![Ficha del departamento laboral (2-T > Demo-Taller)](<../../.gitbook/assets/image (456).png>)
-
-![Horarios a nivel empresa - RRHH](<../../.gitbook/assets/image (459).png>)
-
-![Festivos a nivel empresa - RRHH](<../../.gitbook/assets/image (458).png>)
