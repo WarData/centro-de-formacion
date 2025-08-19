@@ -6,7 +6,7 @@ La entidad dada de alta como tipo Empresa será la que servirá al programa para
 
 <figure><img src="../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
 
-A continuación se muestra un ejemplo de ficha de entidad marcada como <mark style="color:red;">Empresa.</mark> Dentro de esta ficha, hay una pestaña llamada _**Conf. Empresa**_ en las que se configuran ciertos parámetro.
+A continuación se muestra un ejemplo de ficha de entidad marcada como <mark style="color:red;">Empresa.</mark> Dentro de esta ficha, hay una pestaña llamada _**Conf. Empresa**_ en las que se configuran ciertos parámetros.
 
 <figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,17 +39,37 @@ Para su funcionamiento se deberán rellenar los siguientes campos:
 {% endtab %}
 
 {% tab title="Departamentos laborales" %}
+\*Necesario módulo RRHH
 
+En esta pestaña aparecen los distintos departamentos laborales creados anteriormente en la configuración del módulo de recursos humanos. Más información [aquí](../recursos-humanos-1/recursos-humanos/).
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Empresa - Horarios" %}
+\*Necesario módulo RRHH
 
+En esta pestaña aparecen los horarios de la empresa configurados anteriormente al igual que los departamentos. Para su configuración véase el siguiente [enlace](../recursos-humanos-1/recursos-humanos/).&#x20;
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Festivos" %}
+\*Necesario módulo RRHH
 
+En la pestaña de festivos aparecen los distintos ejercicios y sus correspondientes festivos. Sigue el siguiente [enlace](../recursos-humanos-1/recursos-humanos/) para ver la configuración de los festivos.
+
+Leyenda de colores:
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 * Departamentos laborales - Empresa - horarios y Festivos (exclusivamente del módulo RRHH): las 3 pestañas corresponden a la configuración del módulo RRHH en cuanto a qué departamento laboral o departamentos hemos asignado el control de recursos humanos, horario a nivel empresa y festivos.
 

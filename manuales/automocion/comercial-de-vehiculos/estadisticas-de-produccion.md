@@ -22,15 +22,15 @@ El número máximo de columnas para conceptos variables a presentar en el inform
 
 1\. Desde el Menú lateral del panel de inicio podremos seleccionar la opción ‘Comercial’, que mostrará el panel de ‘Vehículos’ y ‘Modelos’.
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 2\. Seleccionaremos ‘Estadísticas de producción’ y aparecerá un formulario donde podremos indicar las condiciones de filtrado para el listado que necesitemos.
 
-![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 3\. Al aceptar se presentará los resultados obtenidos en la siguiente rejilla:
 
-![](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 En el caso de que en el período indicado existan abonos de vehículos éstos aparecerán en una línea específica en negativo afectando sólo a las columnas de “Importe compra” e “Importe venta”. Lógicamente en la acumulación de unidades vendidas “Ventas” este tipo de líneas restan una unidad en lugar de sumarla.
 
@@ -38,11 +38,11 @@ En el caso de que en el período indicado existan abonos de vehículos éstos ap
 
 \- En la parte inferior izquierda tendremos las opciones para imprimir o exportar los resultados por diferentes medios y criterios (cliente/vendedor):
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../.gitbook/assets/image (4) (1) (1).png>)
 
 \- Los informes estándar están agrupados por Cliente/Vendedor, muestran cada línea por vehículo vendido/comprado, junto a su bastidor y factura. Y se sub-agrupan por Modelo:
 
-![](<../../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 \- Muestran las totalizaciones de datos por cada cliente/vendedor:
 
