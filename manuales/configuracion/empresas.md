@@ -14,11 +14,28 @@ A continuación se muestra un ejemplo de ficha de entidad marcada como <mark sty
 
 {% tabs %}
 {% tab title="Generales" %}
+<figure><img src="../../.gitbook/assets/image (655).png" alt=""><figcaption></figcaption></figure>
+
 <table><thead><tr><th width="222">Campo</th><th width="594">Descripción</th></tr></thead><tbody><tr><td>Inscripción</td><td>En el registro para su impresión en los informes</td></tr><tr><td>Nº registro industria</td><td></td></tr><tr><td>Instancia</td><td>*NO MODIFICAR, CAMPO MANTENIDO POR WINMOTOR*</td></tr><tr><td>Almacén de la empresa</td><td>Identificación del almacén principal asignado</td></tr><tr><td>Control de almacenes por líneas de documentos</td><td>Permite que las líneas de un documento puedan tener origen en almacenes distintos</td></tr><tr><td>Tipo de empresa</td><td>En distribuciones <em>multicentro</em> nos permite indicar qué sede es la central y cuáles serían los puntos de venta o tiendas</td></tr><tr><td>Serie traspaso stock VO</td><td>Identificación de la serie de traspaso de VO si fuera necesario</td></tr><tr><td>Conexión Make</td><td>URL del escenario de Make de contactos</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Series de documentos" %}
-S
+En esta pestaña nos encontramos con dos subpestañas:
+
+* Series por defecto
+
+<figure><img src="../../.gitbook/assets/image (657).png" alt=""><figcaption></figcaption></figure>
+
+En ella podemos definir qué series por defecto aparecerán al dar de alta documentos a nivel empresa. Esto también es parametrizable a nivel [perfiles de usuarios](permisos-perfiles/perfiles.md) de forma que el nivel de control en la asignación se realizará a un nivel más detallado.&#x20;
+
+* Réplica de documentos
+
+En caso de que la empresa disponga de la <mark style="color:red;">distribución multicentro</mark> y cuenta con una central y un punto de venta, esta opción permite replicar documentos (pedidos y albaranes) generando el documento contrario. \
+Por ejemplo, creando un albarán de ventas cuyo proveedor sea la central, permitirá crear el albarán de compras automáticamente en el punto de venta.
+
+Para su funcionamiento se deberán rellenar los siguientes campos:
+
+<figure><img src="../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Departamentos laborales" %}
@@ -33,20 +50,6 @@ S
 
 {% endtab %}
 {% endtabs %}
-
-*
-
-![](<../../.gitbook/assets/image (452).png>)
-
-* Series de documentos: Aquí disponemos de 2 pestañas:
-
-o Series por defecto: podemos definir qué series por defecto aparecerán al dar de alta documentos como por ejemplo albaranes, facturas, pero a nivel empresa, ya que también podemos asignar series por defecto a perfiles que a su vez incluyen usuarios, por lo que el nivel de control en la asignación se realizará a un nivel más detallado.
-
-![](<../../.gitbook/assets/image (453).png>)
-
-o Réplica de documentos: si la empresa dispone de la distribución multicentro y cuenta con una central y un punto de venta, es posible configurar la réplica de documentos generando el documento contrario al creado con pulsar únicamente el botón "Replicar documento". Aparece en pedidos y albaranes (depende de las necesidades del cliente): creando un albarán de ventas cuyo proveedor sea la central, permitirá crear el albarán de compras automáticamente en el punto de venta.
-
-![](<../../.gitbook/assets/image (454).png>)
 
 * Departamentos laborales - Empresa - horarios y Festivos (exclusivamente del módulo RRHH): las 3 pestañas corresponden a la configuración del módulo RRHH en cuanto a qué departamento laboral o departamentos hemos asignado el control de recursos humanos, horario a nivel empresa y festivos.
 
