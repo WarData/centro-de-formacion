@@ -40,7 +40,24 @@ description: Exclusivamente para el ejercicio en curso
 
 ![](<../../../.gitbook/assets/imagen (5) (1) (1) (1) (1) (1) (1).png>)
 
-**\*** El programa utilizará estos sistemas de configuración de cuentas de gastos e ingresos de artículos en este orden. Es decir, si se detecta que están definidas las cuentas a nivel tipo de producto, utilizará esta configuración, si no, las buscará en las series de documentos y si están vacías en las propias familias de productos. Como se ve y por simplificar digamos que se pueden definir de menor detalle (tipo de producto) a mayor detalle (familias); últimamente dado que todas las estadísticas y análisis se pueden hacer en contabilidad los contables suelen elegir el menor detalle por simplificar. Como es lógico de lo que se trata es de simplificar y que no haya que definir una cuenta contable de gastos y de ingresos en cada artículo.
+
+
+* **Criterio para el cálculo de las cuentas contables de una línea de factura :**
+  * Facturas de vehículos de ocasión
+    * Cuenta de explotación (compras / ventas)
+      * Si la hay en la serie la toma de la serie, sino la toma del tipo de producto 'O'
+    * Cuentas de existencias, variación de existencias y costes de ventas
+      * Las toma siempre del tipo de producto
+  * Resto de facturas
+    * Cuenta de explotación
+      * Se calcula siempre en base a este criterio:
+        * Cuenta del artículo en caso de servicios o cuenta de la familia del artículo en los artículos&#x20;
+        * Cuenta de la serie
+        * Cuenta del tipo de producto
+    * Cuentas de existencias, variación de existencias y costes de ventas
+      * Las toma siempre del tipo de producto
+
+. Como se ve y por simplificar digamos que se pueden definir de menor detalle (tipo de producto) a mayor detalle (familias); últimamente dado que todas las estadísticas y análisis se pueden hacer en contabilidad los contables suelen elegir el menor detalle por simplificar. Como es lógico de lo que se trata es de simplificar y que no haya que definir una cuenta contable de gastos y de ingresos en cada artículo.
 
 1.3.- Cuentas de servicios \*\*
 
