@@ -7,3 +7,5 @@ Al acceder, se mostrará la pantalla principal. En ella encontrará:
 * **Filtros**: para buscar tickets por fecha, asunto o estado.
 * **Botones de acción**: crear un nuevo ticket, imprimir, establecer filtros por defecto o actualizar la página.
 
+<figure><img src="../../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+

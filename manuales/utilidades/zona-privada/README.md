@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Zona privada
 
 La Zona Privada es un panel desde el cual podrá comunicarse directamente con el equipo de <mark style="color:red;">**soporte de Winmotor**</mark> mediante un sistema de <mark style="color:red;">**tickets**</mark>. A través de este módulo podrá enviar incidencias, consultas o solicitudes, y hacer seguimiento del estado de cada caso.
