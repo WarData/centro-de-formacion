@@ -302,6 +302,13 @@
   * [SMS](manuales/utilidades/sms.md)
   * [Agenda](manuales/utilidades/agenda.md)
   * [Log](manuales/utilidades/log.md)
+  * [Zona privada](manuales/utilidades/zona-privada/README.md)
+    * [Acceso](manuales/utilidades/zona-privada/acceso.md)
+    * [Panel](manuales/utilidades/zona-privada/panel.md)
+    * [Estados de los tickets](manuales/utilidades/zona-privada/estados-de-los-tickets.md)
+    * [¿Cómo crear un ticket?](manuales/utilidades/zona-privada/como-crear-un-ticket.md)
+    * [Seguimiento tickets](manuales/utilidades/zona-privada/seguimiento-tickets.md)
+    * [Consejos de uso](manuales/utilidades/zona-privada/consejos-de-uso.md)
 
 ## Módulos PDA / Tablets / Móviles
 

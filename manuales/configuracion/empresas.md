@@ -43,7 +43,7 @@ Para su funcionamiento se deberán rellenar los siguientes campos:
 
 En esta pestaña aparecen los distintos departamentos laborales creados anteriormente en la configuración del módulo de recursos humanos. Más información [aquí](../recursos-humanos-1/recursos-humanos/).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Empresa - Horarios" %}
@@ -51,7 +51,7 @@ En esta pestaña aparecen los distintos departamentos laborales creados anterior
 
 En esta pestaña aparecen los horarios de la empresa configurados anteriormente al igual que los departamentos. Para su configuración véase el siguiente [enlace](../recursos-humanos-1/recursos-humanos/).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Festivos" %}
@@ -63,6 +63,6 @@ Leyenda de colores:
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
