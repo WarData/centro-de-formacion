@@ -309,6 +309,7 @@
     * [¿Cómo crear un ticket?](manuales/utilidades/zona-privada/como-crear-un-ticket.md)
     * [Seguimiento tickets](manuales/utilidades/zona-privada/seguimiento-tickets.md)
     * [Consejos de uso](manuales/utilidades/zona-privada/consejos-de-uso.md)
+    * [¿Cómo cambiar credenciales y contraseña de acceso a Zona Privada?](manuales/utilidades/zona-privada/como-cambiar-credenciales-y-contrasena-de-acceso-a-zona-privada.md)
 
 ## Módulos PDA / Tablets / Móviles
 

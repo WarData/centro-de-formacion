@@ -8,6 +8,7 @@ La Zona Privada es un panel desde el cual podrá comunicarse directamente con el
 * [Cómo crear un nuevo ticket](como-crear-un-ticket.md)
 * [Seguimiento y actualización de tickets](seguimiento-tickets.md)
 * [Consejos de uso](consejos-de-uso.md)
+* [Cambio de usuario o contraseña de la Zona Privada](como-cambiar-credenciales-y-contrasena-de-acceso-a-zona-privada.md)
 
 
 
