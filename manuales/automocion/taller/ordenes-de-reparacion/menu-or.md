@@ -2,7 +2,7 @@
 
 Los siguientes atajos se encuentran en el panel izquierdo del menú principal de las órdenes de reparación. Estas opciones estarán disponibles dependiendo el tipo de perfil que tenga el usuario. Para más información sobre perfiles siga este [enlace](../../../configuracion/permisos-perfiles/).
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
 
 * F1 Nueva OR
 
