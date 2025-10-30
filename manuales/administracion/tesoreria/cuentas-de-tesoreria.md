@@ -1,14 +1,22 @@
 # Cuentas de tesorería
 
+Para dar de alta una nueva cuenta de tesorería desde el panel de Tesorería, debemos dar clic derecho _→_ Alta de ficha o dando doble clic en una zona sin datos de la rejilla
 
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="362"><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+IMPORTANTE
 
+Para que un usuario pueda hacer uso de una cuenta de tesorería, es necesario que dicha cuenta esté configurada en el <mark style="color:red;">perfil</mark> de usuario correspondiente (a continuación se explica cómo realizar esta configuración).&#x20;
 
-**\* LAS CUENTAS DE TESORERÍA SE APLICAN A LOS PERFILES DE LOS USUARIOS (para que un usuario o grupo de usuarios de un perfil puedan asignar una cuenta de tesorería, ésta tiene que haberse añadido anteriormente desde Configuración > Permisos / Perfiles > Perfiles > seleccionar perfil y en la pestaña "Cuentas" añadir las cuentas de tesorería que podrá usar ese perfil)**
+Una vez configurada, el usuario debe <mark style="color:red;">cerrar y volver a abrir el programa</mark> para que los cambios en el perfil se apliquen correctamente.
+{% endhint %}
 
-La opción muestra un listado de cuentas de tesorería donde podemos dar de alta nuevas usando botón derecho "Alta de Ficha" o doble clic en una zona sin datos.
+En el alta nos aparecerá una ventana emergente donde nos pide rellenar una serie de datos como el nombre de la cuenta, el tipo de cuenta o el número de cuenta
 
-Las básicas serían "Caja" y "Banco" determinando cada una el tipo de cuenta. La configuración de "Caja" sería del siguiente modo, pudiendo añadir o cambiar cualquier configuración final en la empresa del cliente.
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Los tipos de cuentas básicas son <mark style="color:red;">**Caja**</mark> y <mark style="color:red;">**Banco**</mark> determinando cada una el tipo de cuenta.&#x20;
 
 Se ha montado una nueva opción, dentro del cierre de una cuenta, para que automáticamente se cree el asiento de apertura de la caja en el día siguiente al cierre.
 

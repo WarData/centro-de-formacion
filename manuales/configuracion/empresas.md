@@ -51,7 +51,7 @@ En esta pestaña aparecen los distintos departamentos laborales creados anterior
 
 En esta pestaña aparecen los horarios de la empresa configurados anteriormente al igual que los departamentos. Para su configuración véase el siguiente [enlace](../recursos-humanos-1/recursos-humanos/).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Festivos" %}
