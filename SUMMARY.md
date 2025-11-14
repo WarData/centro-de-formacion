@@ -240,6 +240,7 @@
         * [SMS - Email - Auditoría y Acciones](manuales/automocion/taller/ordenes-de-reparacion/barra-de-pestanas-de-la-or/sms-email-auditoria-y-acciones.md)
       * [Opciones de las líneas de la OR](manuales/automocion/taller/ordenes-de-reparacion/opciones-de-las-lineas-de-la-or.md)
       * [Proceso General de Pedidos](manuales/automocion/taller/ordenes-de-reparacion/proceso-general-de-pedidos.md)
+      * [Franquicia](manuales/automocion/taller/ordenes-de-reparacion/franquicia.md)
     * [Temparios](manuales/automocion/taller/temparios.md)
     * [Intervenciones](manuales/automocion/taller/intervenciones.md)
     * [Operaciones de Taller](manuales/automocion/taller/operaciones-de-taller.md)
