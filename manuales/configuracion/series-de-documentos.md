@@ -129,7 +129,7 @@ o Notas al pie de página y otros textos: permite añadir textos al informe pre-
 
 <figure><img src="../../.gitbook/assets/image (627).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Pestaña "Contadores": mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo a la vez que continúe la numeración al siguiente o empiece desde contador=1
+Pestaña "Contadores": mediante el uso de fórmulas, permite controlar el número de documentos que ha generado dicha serie por cada ejercicio, permitiendo empezar desde desde contador=1 o continuando la numeración del ejercicio anterior. Para comenzar un nuevo ejercicio manteniendo la numeración del anterior, al crear el nuevo contador se ha de indicar el mismo número del último documento.
 
 <figure><img src="../../.gitbook/assets/image (628).png" alt="" width="563"><figcaption></figcaption></figure>
 
