@@ -6,14 +6,11 @@ En caso de activarse esta opción el sistema generará automáticamente una fact
 
 A diferencia del sistema sin factura en el que es el importe pendiente de cobro el que se reduce por el importe del anticipo, con este sistema activado, la factura final por el resto del importe se genera con una línea de descuento igual a la base del anticipo anteriormente recibido, de manera que el importe de la factura será la diferencia entre el anticipo y el total.
 
-Por lo tanto si está activado el sistema de facturación de anticipos se imposibilita la posibilidad de cobrar anticipos por el total de un pedido u operación ya que la factura final sería de importe cero y en Winmotor no se permiten facturas sin importe.\
+Por lo tanto si está activado el sistema de facturación de anticipos se imposibilita la posibilidad de cobrar anticipos por el total de un pedido u operación ya que la factura final sería de importe cero y en Winmotor no se permiten facturas sin importe.<br>
 
+<mark style="color:yellow;">**Configuración**</mark><br>
 
-<mark style="color:yellow;">**Configuración**</mark>\
-
-
-Accediendo a parámetros - Administración al final hay una nueva pestaña “Facturación de anticipos”:\
-
+Accediendo a parámetros - Administración al final hay una nueva pestaña “Facturación de anticipos”:<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/cS4_rxdZlMU4esotRcoVCWB6iiD4jAd3JFFNhq1LISb2F9YmcO6PeNpXnyiF9XksR5iVWl5CrpZ5Aajd6MqWXIhuL_P4_4yo89V-BKRgsxmV65kT3W1NRvIjzXKnSJ_zyvlhuvlELg-lJb4dqVR8BhA" alt=""><figcaption></figcaption></figure>
 
@@ -28,14 +25,11 @@ Accediendo a parámetros - Administración al final hay una nueva pestaña “Fa
 * Como ya hemos explicado el importe mínimo de la diferencia no puede ser inferior a un Euro pero se puede aumentar.
 
 \
-<mark style="color:yellow;">**Funcionamiento**</mark>\
+<mark style="color:yellow;">**Funcionamiento**</mark><br>
 
+Además de crear esta configuración no hay que hacer nada especial para el funcionamiento de los anticipos, la factura se generará automáticamente cuando se cree un anticipo y éste se compensará en la factura final del documento desde el que se haya creado.<br>
 
-Además de crear esta configuración no hay que hacer nada especial para el funcionamiento de los anticipos, la factura se generará automáticamente cuando se cree un anticipo y éste se compensará en la factura final del documento desde el que se haya creado.\
-
-
-<mark style="color:yellow;">**Contabilización**</mark>\
-
+<mark style="color:yellow;">**Contabilización**</mark><br>
 
 En caso de estar activado este sistema, la contabilización de los anticipos cambia completamente ya que en lugar de gestionarse la cuenta de anticipos de clientes (438) por tesorería se hace por gestión.
 
@@ -53,4 +47,4 @@ En caso de estar activado este sistema, la contabilización de los anticipos cam
 
 El programa crea automáticamente la 438 relativa al cliente en caso de que no exista.
 
-\
+<br>

@@ -8,4 +8,4 @@ Hemos creado para esto un check en las series de pedidos de ventas:
 
 Un pedido de cliente creado en una serie de este tipo, en caso de necesitar pedir a proveedor no añadirá nunca sus líneas a un pedido de compras ya existente, creará siempre un nuevo pedido de compras.
 
-\
+<br>

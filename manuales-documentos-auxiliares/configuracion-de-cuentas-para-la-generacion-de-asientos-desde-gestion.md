@@ -19,8 +19,7 @@ Configurar cuentas contables (Muy importante: los ceros a la izquierda de las cu
   * A nivel Serie de documento
     * Entrando en cada serie de ventas, compras y gastos definir la cuenta contable de esa serie en la pestaña “Contabilidad”.
   * Por familias
-    * Definir cuentas de ventas y gastos en la pantalla principal de familias\
-
+    * Definir cuentas de ventas y gastos en la pantalla principal de familias<br>
 * **Criterio para el cálculo de las cuentas contables de una línea de factura :**
   * Facturas de vehículos de ocasión
     * Cuenta de explotación (compras / ventas)

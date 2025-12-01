@@ -13,4 +13,4 @@
 
 Una vez enviado, el ticket se registrará con un número identificativo y pasará automáticamente al estado <mark style="color:red;">**Pendiente de Winmotor**</mark>.
 
-\
+<br>

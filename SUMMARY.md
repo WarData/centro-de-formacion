@@ -318,17 +318,13 @@
 * [Preparación de Entregas](modulos-pda-tablets-moviles/preparacion-de-entregas.md)
 * [Partes de Fabricación - Preparación](modulos-pda-tablets-moviles/preparacion-de-partes-de-fabricacion.md)
 
-***
-
-* [Page](page/README.md)
-  * [Test Yamaha](page/test-yamaha.md)
-
 ## MÓDULOS WINMOTOR OPCIONALES
 
 * [Wincoins](modulos-winmotor-opcionales/wincoins.md)
 * [Firma electrónica](modulos-winmotor-opcionales/firma-electronica.md)
 * [Integrador Bancario](modulos-winmotor-opcionales/integrador-bancario.md)
 * [Alta automática de documentos de compras y gastos](modulos-winmotor-opcionales/alta-automatica-de-documentos-de-compras-y-gastos.md)
+* [WhatsApp](modulos-winmotor-opcionales/whatsapp.md)
 
 ## FAQ
 

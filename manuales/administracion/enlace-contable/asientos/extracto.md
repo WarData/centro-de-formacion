@@ -4,17 +4,16 @@ La opción para calcular y presentar extractos en Winmotor es muy potente y tien
 
 <mark style="color:yellow;">**Cálculo del saldo anterior**</mark>
 
-Por defecto aparece el filtro base para el cálculo del extracto:\
-
+Por defecto aparece el filtro base para el cálculo del extracto:<br>
 
 <figure><img src="https://lh5.googleusercontent.com/PSOVNWVSLZb-UMqtzX0RSEB0oezliWHp9Za45O5WtoEZohe8f_hxZcGAzPyZzP3tToAcYIowHK-91jAIThZ8O6Oh8DPSPUPHiV2HcHvHHs81CW7xQpV5N342jcM6XoLU75hKgHs68LLHFpsVD0ZyW1g" alt=""><figcaption></figcaption></figure>
 
 Si la cuenta tiene saldo anterior al período solicitado calculará automáticamente un apunte presentando el “saldo anterior” que aparecerá siempre el primero en el extracto: la idea es que el saldo que se presente al final del extracto se corresponda con el saldo de la cuenta.
 
-Si por alguna razón se quiere evitar se puede pedir un extracto sin que se calcule el saldo anterior, es cuestión de pinchar en el botón de “búsqueda avanzada” ![](https://lh3.googleusercontent.com/Zj3FRkwpEdPpp9pcPrEJKFtZHErS1FUg00XcTiuK2hX2HMfqlpyEkNLMDbA1PrarZHGIrq1l5jJxNbnH09trqwP6BMfEEhHsKFPiFaRGdu2vMVoibGChnsBTgg-Py49N7753Js\_Qkp0296ippF9JUWY) y marcar el check “No crear apunte de saldo anterior”.
+Si por alguna razón se quiere evitar se puede pedir un extracto sin que se calcule el saldo anterior, es cuestión de pinchar en el botón de “búsqueda avanzada” ![](https://lh3.googleusercontent.com/Zj3FRkwpEdPpp9pcPrEJKFtZHErS1FUg00XcTiuK2hX2HMfqlpyEkNLMDbA1PrarZHGIrq1l5jJxNbnH09trqwP6BMfEEhHsKFPiFaRGdu2vMVoibGChnsBTgg-Py49N7753Js_Qkp0296ippF9JUWY) y marcar el check “No crear apunte de saldo anterior”.
 
 \
-\- ![](https://lh6.googleusercontent.com/986srGegV5sL\_zauFZtvrHTB7hRVtBirN1AbQ1SZLXIf07yRtFitekkVPWhJvzLSMpIxJEODjcrMUHiII9TS3QacNt53qjC8gnwNzRNNKPwKE\_JhiRfTMwLQ0zFkRZ1-VH761cMfp2SptIwuvL\_fB-4)
+\- ![](https://lh6.googleusercontent.com/986srGegV5sL_zauFZtvrHTB7hRVtBirN1AbQ1SZLXIf07yRtFitekkVPWhJvzLSMpIxJEODjcrMUHiII9TS3QacNt53qjC8gnwNzRNNKPwKE_JhiRfTMwLQ0zFkRZ1-VH761cMfp2SptIwuvL_fB-4)
 
 
 
@@ -36,7 +35,7 @@ Esta es una opción muy interesante cuando queremos consultar el saldo y los mov
 
 Si no está activo el filtro de “búsqueda avanzada” aparece abajo a la izquierda el botón “Mezclar en el extracto”
 
-![](https://lh3.googleusercontent.com/wPkF3pNiihIIE-hkfZrYKZmlyTlRLUzYJH1GJ5Myw9QwmG\_X11PEB0XHzBBdbajFnxmiYsuxIqqPdgiC2-ndYKbzIbHXAuOMGoNwrB6AQrVfVj6mhygjLNJmxl9RnevuyDKfZ3HSaOC68qFkzaMWjhE)
+![](https://lh3.googleusercontent.com/wPkF3pNiihIIE-hkfZrYKZmlyTlRLUzYJH1GJ5Myw9QwmG_X11PEB0XHzBBdbajFnxmiYsuxIqqPdgiC2-ndYKbzIbHXAuOMGoNwrB6AQrVfVj6mhygjLNJmxl9RnevuyDKfZ3HSaOC68qFkzaMWjhE)
 
 \
 Al pulsarlo la aplicación nos pide la cuenta a “mezclar” en el extracto:
@@ -49,7 +48,7 @@ Y una vez la rellenamos y pinchamos en “Añadir” veremos en el mismo extract
 
 <mark style="color:yellow;">**Herramientas base**</mark>
 
-![](https://lh6.googleusercontent.com/zEcwka9gcZo16BVR-lOKsBiMI\_y\_Ic0EK1nzWh3rg4TnVTddTzPBENx5xRmB9CCqiR-kucXAcLJZsuvtplPseFP77s17-cckLPpU1Yoy7UwVY9hX1fKF05Jj07zYJKYmUou-k18K8rORKSizGSGeXCA)
+![](https://lh6.googleusercontent.com/zEcwka9gcZo16BVR-lOKsBiMI_y_Ic0EK1nzWh3rg4TnVTddTzPBENx5xRmB9CCqiR-kucXAcLJZsuvtplPseFP77s17-cckLPpU1Yoy7UwVY9hX1fKF05Jj07zYJKYmUou-k18K8rORKSizGSGeXCA)
 
 \
 Por último tenemos el botón para imprimir y las opciones de punteo: puntear, des-puntear y autopunteo, que marcará como punteados aquellos apuntes que queden compensados por su número de documento.

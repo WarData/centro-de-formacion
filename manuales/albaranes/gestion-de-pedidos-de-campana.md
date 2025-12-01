@@ -53,4 +53,4 @@ Para gestionar pedidos de Campaña hay que hacer lo siguiente:
 
 <figure><img src="../../.gitbook/assets/imagen (213).png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

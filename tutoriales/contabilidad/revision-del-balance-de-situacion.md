@@ -10,11 +10,9 @@ Excepto el balance de sumas y saldos el resto de informes de Winmotor son parame
 
 Por otro lado en el informe relativo al Balance de Situación hace un cálculo especial para la partida del resultado del Ejercicio (129) que no es el saldo de esta cuenta puesto que el programa tiene que poder calcularlo aunque no se haya cerrado el ejercicio sino que es el cálculo de la diferencia entre todas las cuentas que afectan al balance de situación (grupos 1 al 5) y las que afectan al informe de pérdidas y ganancias (grupos 6 y 7)
 
-Vamos a explicar qué pasos hay que seguir en caso de que esta partida no coincida con el resultado total del informe de la cuenta de Pérdidas y Ganancias:\
+Vamos a explicar qué pasos hay que seguir en caso de que esta partida no coincida con el resultado total del informe de la cuenta de Pérdidas y Ganancias:<br>
 
-
-<mark style="color:yellow;">**Revisión general:**</mark>\
-
+<mark style="color:yellow;">**Revisión general:**</mark><br>
 
 * El balance de sumas y saldos debe estar cuadrado
 * En el panel de asientos no debe aparecer el botón “Hay asientos descuadrados”.
@@ -47,11 +45,9 @@ Vamos a explicar qué pasos hay que seguir en caso de que esta partida no coinci
     <figure><img src="https://lh7-us.googleusercontent.com/PUXrv7UJAmKgQ-zoyshZIbR4xEdoCgday530m3inANsKeKwM0MPHCPdI7gQF-HH0VqIK70PaEpOAtoq95SNm0kfGN67iNsPQBZqPDZzNuiBlVD0BCSxz8KDzx1F5cjKObbm54DRzmPUQ4gwNIVK6f9U" alt=""><figcaption></figcaption></figure>
 
     * Aquí se trata de seleccionar en la izquierda la partida relativa al informe en la que debe estar incluida la cuenta y pinchar el botón “Añadir seleccionado”.
-    * Aparecerá en la derecha el informe y la sección donde se va a incluir el saldo de la cuenta en curso.\
+    * Aparecerá en la derecha el informe y la sección donde se va a incluir el saldo de la cuenta en curso.<br>
 
-
-<mark style="color:yellow;">**Revisión para bases de datos que utilizan cuentas analíticas (grupos 0, 8 y 9)**</mark>\
-
+<mark style="color:yellow;">**Revisión para bases de datos que utilizan cuentas analíticas (grupos 0, 8 y 9)**</mark><br>
 
 Para este caso hay dos pequeñas diferencias al proceso general que hay que tener en cuenta:
 
@@ -61,4 +57,4 @@ Para este caso hay dos pequeñas diferencias al proceso general que hay que tene
 
 <figure><img src="https://lh7-us.googleusercontent.com/Pe7oNdxyfqGk_d6Y0e2_INiLgUqPD5SHD-losoLR0ert2yeX6T7kjPKd6bh2MyJ7YgpvySUlkwOdcIcV5p-2E7J9qhxbYIZ3EQVJYYBvRrt2py_miYx1B74lYfxxC49mEDzrX268GHMvtOM4ITpq1Zc" alt=""><figcaption></figcaption></figure>
 
-\
+<br>
