@@ -12,9 +12,15 @@ En el cambio de ejercicio, debemos ir a Configuración > [**Ejercicios**](../man
 
 
 
-Ahora en Configuración > [**Parámetros**](../manuales/configuracion/parametros/) debemos seleccionar el nuevo ejercicio añadido:
+{% hint style="info" %}
+¡IMPORTANTE! Este paso no es necesario hacerlo para la configuración previa de la agenda. &#x20;
 
-<figure><img src="../.gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure>
+Configuración > [**Parámetros**](../manuales/configuracion/parametros/) debemos seleccionar el nuevo ejercicio añadido:
+
+
+
+<img src="../.gitbook/assets/image (699).png" alt="" data-size="original">
+{% endhint %}
 
 En caso de que haya alguna serie en la que no se haya creado el contador del nuevo ejercicio, podemos ir a la serie y, en la pestaña de contadores, dar de alta el contador para el nuevo ejercicio.
 
