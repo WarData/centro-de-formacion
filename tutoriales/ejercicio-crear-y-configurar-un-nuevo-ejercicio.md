@@ -13,7 +13,7 @@ En el cambio de ejercicio, debemos ir a Configuración > [**Ejercicios**](../man
 
 
 {% hint style="info" %}
-¡IMPORTANTE! Este paso no es necesario hacerlo para la configuración previa de la agenda. &#x20;
+¡IMPORTANTE! Este paso NO es necesario hacerlo para la configuración previa de la agenda, pero sí habrá que hacerlo cuando empiece el nuevo año.
 
 Configuración > [**Parámetros**](../manuales/configuracion/parametros/) debemos seleccionar el nuevo ejercicio añadido:
 
