@@ -42,24 +42,20 @@ En caso de que el horario del taller sea el mismo que en el ejercicio anterior, 
 
 <figure><img src="../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
-2- Dar al botón Duplicar datos que está a la derecha de ejercicio
+2- Crear los festivos del nuevo ejercicio
+
+<figure><img src="../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (712).png" alt=""><figcaption></figcaption></figure>
+
+3- Dar al botón Duplicar datos que está a la derecha de ejercicio
 
 <figure><img src="../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
-3- Te preguntará para confirmar el duplicado. Es recomendable leer las instrucciones en <mark style="color:red;">rojo.</mark>
-
-{% hint style="info" %}
-<mark style="color:red;">**¡IMPORTANTE! En caso de no haber creado los festivos se deben crear antes de duplicar el ejercicio**</mark>
-
-![](<../.gitbook/assets/image (708).png>)
-
-\
-![](<../.gitbook/assets/image (711).png>)\
-<br>
-{% endhint %}
+4- Te preguntará para confirmar el duplicado. Es recomendable leer las instrucciones en <mark style="color:red;">rojo.</mark>
 
 <figure><img src="../.gitbook/assets/image (707).png" alt=""><figcaption></figcaption></figure>
 
-4- Se crearán los horarios con el mismo número de asesores.&#x20;
+5- Se crearán los horarios con el mismo número de asesores.&#x20;
 
-5- En caso de tener más de un departamento / centro, debéis hacerlo por cada uno de ellos.
+6- En caso de tener más de un departamento / centro, debéis hacerlo por cada uno de ellos.
