@@ -46,7 +46,17 @@ En caso de que el horario del taller sea el mismo que en el ejercicio anterior, 
 
 <figure><img src="../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
-3- Te preguntará para confirmar el duplicado. Es recomendable leer las instrucciones en <mark style="color:red;">rojo</mark>
+3- Te preguntará para confirmar el duplicado. Es recomendable leer las instrucciones en <mark style="color:red;">rojo.</mark>
+
+{% hint style="info" %}
+<mark style="color:red;">**¡IMPORTANTE! En caso de no haber creado los festivos se deben crear antes de duplicar el ejercicio**</mark>
+
+![](<../.gitbook/assets/image (708).png>)
+
+\
+![](<../.gitbook/assets/image (711).png>)\
+<br>
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (707).png" alt=""><figcaption></figcaption></figure>
 
