@@ -42,7 +42,7 @@ En caso de que el horario del taller sea el mismo que en el ejercicio anterior, 
 
 <figure><img src="../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
-2- Crear los festivos del nuevo ejercicio
+2- Crear los festivos del nuevo ejercicio. Puedes importar los festivos del ejercicio anterior y añadir los nuevos
 
 <figure><img src="../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
 
