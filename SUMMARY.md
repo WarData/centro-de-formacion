@@ -335,7 +335,7 @@
     * [Como proceder ante un albarán de compras erróneo](faq/administracion/albaranes/como-proceder-ante-un-albaran-de-compras-erroneo.md)
     * [¿Puedo cambiar la fecha de un albarán de ventas?](faq/administracion/albaranes/puedo-cambiar-la-fecha-de-un-albaran-de-ventas.md)
   * [Nueva Ley IVA del 5%](faq/administracion/nueva-ley-iva-del-5.md)
-  * [Regalo a un cliente - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
+  * [Regalo a un cliente / Compras internas - ¿Cómo puedo hacerlo?](faq/como-puedo-hacer-un-regalo-al-cliente.md)
 * [Taller](faq/taller/README.md)
   * [Ordenes de Reparación (ORs)](faq/ordenes-de-reparacion-ors/README.md)
     * [No salen los códigos de barras en OR](faq/ordenes-de-reparacion-ors/no-salen-los-codigos-de-barras-en-or.md)

@@ -1,6 +1,6 @@
-# Regalo a un cliente - ¿Cómo puedo hacerlo?
+# Regalo a un cliente / Compras internas - ¿Cómo puedo hacerlo?
 
-Nuestro objetivo comercial es entregar un regalo a un cliente que simplemente vaya asociado a una pérdida del coste del regalo a un vehículo (si no es asociado a un vehículo sólo tenemos que obviar la asociación).
+Nuestro objetivo comercial es entregar un regalo a un cliente que simplemente vaya asociado a una pérdida del coste del regalo a un vehículo (si no es asociado a un vehículo sólo tenemos que obviar la asociación). También sirve para compras internas de material que requiere sacar del stock y que se usará para uso interno del taller o concesionario.
 
 En primer lugar tendremos que crear una serie de albarán de ventas interno si no está ya creada.
 
@@ -14,7 +14,7 @@ Los únicos requisitos a modificar son en la pestaña "Parámetros" activar "Per
 
 Tras pulsar "Aceptar" es imprescindible cerrar y abrir de nuevo la aplicación.
 
-Ahora damos de alta un albarán de ventas nuevo y asignamos la nueva serie creada AVI, añadimos cliente, el vehículo del cliente (en la parte de la derecha, debajo de tipo de pago y vencimiento) y el artículo a regalar:
+Ahora damos de alta un albarán de ventas nuevo y asignamos la nueva serie creada AVI, añadimos cliente, el vehículo del cliente (en la parte de la derecha, debajo de tipo de pago y vencimiento) en caso de querer asociar el regalo o sin vehículo para compras internas y el artículo:
 
 ![](<../.gitbook/assets/image (295).png>)
 
