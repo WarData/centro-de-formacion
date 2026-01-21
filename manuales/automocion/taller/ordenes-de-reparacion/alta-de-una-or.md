@@ -1,5 +1,23 @@
 # Alta de una OR
 
+[<mark style="color:red;">**Vídeos e información paso a paso**</mark>](#user-content-fn-1)[^1]
+
+<mark style="color:red;">**Vídeo vehículo y cliente en el alta de la OR:**</mark>
+
+{% embed url="https://youtu.be/nR_vv-Zn-xw" %}
+
+<mark style="color:red;">**Vídeo tempario y usos:**</mark>
+
+{% embed url="https://youtu.be/E83_CXifvbI" %}
+
+<mark style="color:red;">**Vídeo confirmación de una OR:**</mark>
+
+{% embed url="https://youtu.be/CP6VhvQwBG8" %}
+
+<mark style="color:red;">**Vídeo facturación de una OR:**</mark>
+
+{% embed url="https://youtu.be/Qcnel8GHAYI" %}
+
 <mark style="color:yellow;">**NUEVA OR**</mark>
 
 Permite dar de alta a una nueva orden de reparación, rellenando el siguiente formulario:
@@ -85,3 +103,6 @@ Aviso recibido mediante la configuración de la serie OR > pestaña "Avisos":
 
 **Cancelar**: omite el alta de la OR y sólo se realizaría la transferencia del vehículo a otro propietario si se hubiera dado el caso <mark style="color:yellow;">\*</mark>
 
+
+
+[^1]: 
