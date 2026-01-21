@@ -1,4 +1,12 @@
+---
+description: Vídeo + exportar extractos
+---
+
 # Obtener Libro Mayor
+
+<mark style="color:red;">**Vídeo consultar un extracto o mayor de una cuenta:**</mark>
+
+{% embed url="https://youtu.be/vuZUopl0i6o" %}
 
 1.- Acceder al panel **"Balance de sumas y saldos"**:
 

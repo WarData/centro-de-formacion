@@ -7,5 +7,4 @@ description: >-
 
 # Facturación de OR - Vídeo 3/3
 
-{% embed url="https://youtu.be/SDnaP5gRAkg" %}
-
+{% embed url="https://youtu.be/Qcnel8GHAYI" %}

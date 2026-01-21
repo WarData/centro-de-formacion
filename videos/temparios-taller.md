@@ -6,4 +6,4 @@ description: >-
 
 # Temparios Taller
 
-{% embed url="https://www.youtube.com/watch?v=PcJNjRrkIZQ" %}
+{% embed url="https://youtu.be/E83_CXifvbI" %}

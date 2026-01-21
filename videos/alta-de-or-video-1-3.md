@@ -7,5 +7,4 @@ description: >-
 
 # Alta de OR - Vídeo 1/3
 
-{% embed url="https://youtu.be/LD0Dc1DzWNo" %}
-
+{% embed url="https://youtu.be/nR_vv-Zn-xw" %}

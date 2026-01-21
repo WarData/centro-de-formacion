@@ -328,6 +328,11 @@
 
 ## FAQ
 
+* [Funciones de la aplicación](faq/funciones-de-la-aplicacion/README.md)
+  * [Distribución menús y opciones principales](faq/funciones-de-la-aplicacion/distribucion-menus-y-opciones-principales.md)
+  * [Mi configuración - Índices - Refresco - Estilo](faq/funciones-de-la-aplicacion/mi-configuracion-indices-refresco-estilo.md)
+  * [Mi configuración - Barra de favoritos](faq/funciones-de-la-aplicacion/mi-configuracion-barra-de-favoritos.md)
+  * [Paneles - Filtros y configuración por defecto](faq/funciones-de-la-aplicacion/paneles-filtros-y-configuracion-por-defecto.md)
 * [Administración](faq/administracion/README.md)
   * [Facturas](faq/facturas/README.md)
     * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
@@ -420,7 +425,6 @@
 ## Vídeos
 
 * [Exportar Listados a Excel](videos/exportar-listados-a-excel.md)
-* [La orden de reparación (OR) - Todos los pasos y características principales](videos/la-orden-de-reparacion-or-todos-los-pasos-y-caracteristicas-principales.md)
 * [Alta de OR - Vídeo 1/3](videos/alta-de-or-video-1-3.md)
 * [Confirmación de OR - Vídeo 2/3](videos/confirmacion-de-or-video-2-3.md)
 * [Facturación de OR - Vídeo 3/3](videos/facturacion-de-or-video-3-3.md)

@@ -1,5 +1,9 @@
 # Barra de Favoritos
 
+<mark style="color:red;">**Vídeo barra de favoritos:**</mark>
+
+{% embed url="https://youtu.be/WNtpyOF_FmQ" %}
+
 Para poder activarla según vuestras necesidades, tenéis que seguir este procedimiento:
 
 1.- Ir a **Opciones > Mi Configuración > pestaña Favoritos**

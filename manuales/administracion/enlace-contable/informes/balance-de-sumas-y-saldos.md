@@ -2,6 +2,10 @@
 
 \*\*\* Para la obtención del Libro Mayor véase el tutorial > [enlace Obtener Libro Mayor](../../../../tutoriales/contabilidad/obtener-libro-mayor.md)
 
+<mark style="color:red;">**Vídeo consultar balance de sumas y saldos:**</mark>
+
+{% embed url="https://youtu.be/bY17KCsaldo" %}
+
 El panel para el cálculo y presentación de balances de sumas y saldos muestra **(Administración > Contabilidad > Informes > Balance de sumas y saldos):**
 
 ![](<../../../../.gitbook/assets/imagen (9) (1) (1) (1) (1).png>)
