@@ -4,6 +4,10 @@ description: Importar y guardar plantillas al final del documento de ayuda
 
 # Uso del exportador avanzado junto con filtros de listados y plantillas
 
+<mark style="color:red;">**Vídeo Exportador Avanzado y plantillas**</mark>
+
+{% embed url="https://youtu.be/7iQiNpoD4lA" %}
+
 En este tutorial queremos explicaros el uso general del Exportador Avanzado para la obtención de listados muy concretos. Pondremos un ejemplo de uso para obtener un listado de clientes con fecha de alta desde el 1 de febrero de 2020 hasta el 13 de octubre de 2022, nombre, números de contacto y correos electrónicos.
 
 Empezaremos obteniendo un listado filtrado de entidades con la fecha de alta indicada anteriormente:&#x20;

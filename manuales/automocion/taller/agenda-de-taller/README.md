@@ -4,4 +4,24 @@ Acceso a [configuración inicial / modificación de datos](configuracion-inicial
 
 Se añade también información sobre [cómo dar de alta y baja eventos, vacaciones y bajas](vacaciones-bajas-eventos.md)
 
-<figure><img src="../../../../.gitbook/assets/imagen (16) (4) (1).png" alt=""><figcaption></figcaption></figure>
+Vídeos:
+
+<mark style="color:red;">**Cita con cliente y vehículo existentes:**</mark>
+
+{% embed url="https://youtu.be/00V2ruQBhZk" %}
+
+<mark style="color:red;">**Cita con cliente y vehículo no existentes:**</mark>
+
+{% embed url="https://youtu.be/KKzfiCGydFA" %}
+
+<mark style="color:red;">**Alta de cita con vehículo de cortesía:**</mark>
+
+{% embed url="https://youtu.be/7ccR6ds1DLA" %}
+
+<mark style="color:red;">**Renovación de una cita:**</mark>
+
+{% embed url="https://youtu.be/0gXnpIllq60" %}
+
+<mark style="color:red;">**Alta de OR desde cita:**</mark>
+
+{% embed url="https://youtu.be/b6WJnRntpNA" %}
