@@ -2,6 +2,10 @@
 
 Existen **3** formas de trabajar sobre la versión para la compañía dentro de una orden de reparación, por lo que es importante diferenciar el objetivo del uso.
 
+<mark style="color:red;">**Vídeo gestión de siniestros:**</mark>
+
+{% embed url="https://youtu.be/40J9s0Jwh4s" %}
+
 **1.- La compañía de seguros requiere factura antes de realizar los trabajos de reparación**
 
 A> **El primer paso es dar de alta una OR sin artículos, simplemente una breve explicación de las operaciones a realizar en texto. Se puede añadir el servicio M.O. a fin de controlar las primeras intervenciones**:

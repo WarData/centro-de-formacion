@@ -4,7 +4,11 @@ description: Aplicación de la franquicia en órdenes de reparación
 
 # Franquicia
 
-Antes de poder aplicar una franquicia en una orden de reparación, es necesario configurar el servicio que se utilizará para este propósito.
+Antes de poder aplicar una franquicia en una orden de reparación, es necesario configurar el servicio que se utilizará para este propósito. Luego visualice el siguiente vídeo o las instrucciones posteriores y también vea el siguiente [enlace a las instrucciones sobre la gestión de siniestros](https://winmotor.gitbook.io/winmotor-automocion/faq/taller/ordenes-de-reparacion-ors/version-para-la-compania-en-la-or):
+
+<mark style="color:red;">**Vídeo gestión de franquicias:**</mark>
+
+{% embed url="https://youtu.be/7EUZalAwK5A" %}
 
 ### **Configuración del servicio de franquicia**
 
