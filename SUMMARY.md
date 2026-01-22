@@ -106,6 +106,7 @@
   * [Pedidos](manuales/albaranes/pedidos/README.md)
     * [Proceso General de Pedidos](manuales/albaranes/pedidos/proceso-general-de-pedidos.md)
     * [Gestión de descuentos y clasificación de compras](manuales/albaranes/pedidos/gestion-de-descuentos-de-compras.md)
+    * [Tramitación de pedidos y backorders](manuales/albaranes/pedidos/tramitacion-de-pedidos-y-backorders.md)
   * [Propuestas](manuales/albaranes/propuesta.md)
   * [Estadísticas](manuales/albaranes/estadisticas.md)
   * [Gestión de Pedidos de Campaña](manuales/albaranes/gestion-de-pedidos-de-campana.md)
