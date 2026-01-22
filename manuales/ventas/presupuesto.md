@@ -6,6 +6,10 @@ description: Ventas
 
 <figure><img src="../../.gitbook/assets/imagen (8) (1) (2) (1).png" alt=""><figcaption><p>Panel de presupuestos de ventas</p></figcaption></figure>
 
+<mark style="color:red;">**Vídeo sobre cómo dar de alta de un presupuesto de ventas:**</mark>
+
+{% embed url="https://youtu.be/s2j5MX-R9Dk" %}
+
 Mediante este menú accedemos al panel de presupuestos de ventas donde podremos filtrar por fecha, ver importes y situación (pendiente de pedir, pendiente de entregar, borrador, cerrado, anulado). Los filtros de intervalo de fecha y cliente se presentan en la parte superior y en el lateral izquierdo tenemos una botonera con opciones para dar de alta un presupuesto nuevo, buscar presupuesto y listar presupuestos usando un filtro avanzado:
 
 <figure><img src="../../.gitbook/assets/imagen (1) (1) (1) (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
@@ -22,19 +26,19 @@ Un presupuesto está compuesto por su cabecera, donde se introducen los datos ge
 
 La cabecera está compuesta por los siguientes campos:
 
-\-SERIE: es un campo imprescindible de rellenar, y de él depende la presentación o contenido que tendrá el presupuesto. Entre otras cosas, en una serie de presupuesto de venta se define qué contenido tendrán las líneas que se incluyan. Todas las posibilidades de las series de documentos se detallan en la sección
+-SERIE: es un campo imprescindible de rellenar, y de él depende la presentación o contenido que tendrá el presupuesto. Entre otras cosas, en una serie de presupuesto de venta se define qué contenido tendrán las líneas que se incluyan. Todas las posibilidades de las series de documentos se detallan en la sección
 
-\-NÚMERO: todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
+-NÚMERO: todos los documentos están clasificados por su serie y un número, que siempre será por defecto el siguiente al último grabado de la misma serie. Tanto el número como la serie de un documento se podrán modificar manualmente, aunque, a menos que sea imprescindible el cambio, no es aconsejable.
 
-\-FECHA: se indica aquí la fecha de la factura. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
+-FECHA: se indica aquí la fecha de la factura. Esta fecha debe de estar dentro de los rangos definidos en parámetros.
 
-\-CLIENTE: Dispone de botones incrustados para localizar, grabar o editar el cliente seleccionado. Además de código del cliente, se presenta su razón social, su dirección de facturación y el CIF. Además de estos, bajo el CIF se presentará un campo con las notas de facturación del cliente si tuviera.
+-CLIENTE: Dispone de botones incrustados para localizar, grabar o editar el cliente seleccionado. Además de código del cliente, se presenta su razón social, su dirección de facturación y el CIF. Además de estos, bajo el CIF se presentará un campo con las notas de facturación del cliente si tuviera.
 
-\-CENTRO: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el presupuesto. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
+-CENTRO: este campo solo será visible por aquellas aplicaciones en las que se trabaje con más de un centro de trabajo y así se haya indicado en parámetros. Se utiliza para indicar el centro de trabajo para el que se hace el presupuesto. Este campo, se rellena automáticamente y solo será manipulable por aquellos usuarios autorizados.
 
-\-TIPO DE PAGO, VENCIMIENTOS e IMPORTES: un presupuesto de venta podrá tener distintos tipos de pago diferentes.
+-TIPO DE PAGO, VENCIMIENTOS e IMPORTES: un presupuesto de venta podrá tener distintos tipos de pago diferentes.
 
-\-TIPO DE IVA: este campo tomará por defecto el tipo de IVA definido en la ficha del cliente seleccionado. Se podrá modificar manualmente. Los diferentes tipos de IVA y de exentos, se explican en la sección
+-TIPO DE IVA: este campo tomará por defecto el tipo de IVA definido en la ficha del cliente seleccionado. Se podrá modificar manualmente. Los diferentes tipos de IVA y de exentos, se explican en la sección
 
 _PESTAÑERO_
 

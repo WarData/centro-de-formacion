@@ -7,6 +7,10 @@ description: >-
 
 # Pedidos - simulación de un pedido de ventas
 
+<mark style="color:red;">**Vídeo sobre cómo dar de alta un pedido de ventas:**</mark>
+
+{% embed url="https://youtu.be/KeO13XJtS1U" %}
+
 En este apartado vamos a simular que entra un cliente a recambios y realiza un pedido de 2 artículos de los que no conocemos su stock:
 
 ![Vista del pedido de ventas - botones para añadir cliente y líneas al pedido](<../.gitbook/assets/image (373).png>)
@@ -83,7 +87,7 @@ Albarán con opciones de:
 
 3.- Enviarlo por email (el sistema lo convierte automáticamente en PDF, recoge los datos de la entidad rellenando su email e incluso se podría crear un cuerpo con un contenido predeterminado)
 
-4.- [Facturar](facturas\_tutoriales/factura-cambiar-contenido.md) (imprescindible para cobros)
+4.- [Facturar](facturas_tutoriales/factura-cambiar-contenido.md) (imprescindible para cobros)
 
 5.- Imprimir
 
@@ -91,4 +95,4 @@ Albarán con opciones de:
 
 7.- Impresión selectiva (muestra todas las opciones de impresión)
 
-8.- [Abono de línea o líneas](facturas\_tutoriales/factura-abono-de-lineas-o-completo.md) - enlace a abonos una vez facturado el albarán
+8.- [Abono de línea o líneas](facturas_tutoriales/factura-abono-de-lineas-o-completo.md) - enlace a abonos una vez facturado el albarán

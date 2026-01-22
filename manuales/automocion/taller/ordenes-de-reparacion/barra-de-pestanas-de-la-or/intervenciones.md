@@ -2,6 +2,10 @@
 
 Contiene la rejilla que comprende los campos técnico / imputación, intervención y duración. Su objetivo es mostrar en primer lugar todos los trabajos realizados por los operarios con fecha y duración, sobre qué intervención de las posibles de la orden de reparación y quién los realizó.
 
+<mark style="color:red;">**Vídeo fichaje de los mecánicos:**</mark>
+
+{% embed url="https://youtu.be/tJakqZndiS4" %}
+
 También es posible darlos de alta e imprimirlos mediante los botones "Nueva intervención" e "Imprimir"
 
 <figure><img src="../../../../../.gitbook/assets/imagen (170).png" alt=""><figcaption></figcaption></figure>

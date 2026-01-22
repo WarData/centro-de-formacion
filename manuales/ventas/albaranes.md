@@ -1,5 +1,9 @@
 # Albaranes
 
+<mark style="color:red;">**Vídeo sobre cómo dar de alta albaranes de ventas:**</mark>
+
+{% embed url="https://youtu.be/7PDRiTFo3uY" %}
+
 ALBARANES DE VENTA
 
 Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de venta que hemos realizado. Al entrar en ella, nos aparece un menú con calendario, filtros de facturación y cliente en el que se nos presentan hasta 4 opciones y una rejilla que nos muestra todos los albaranes que hemos realizado en el día seleccionado en el calendario tras pulsación de F5 o el botón Actualizar.

@@ -2,6 +2,10 @@
 
 ## Las [intervenciones](../manuales/automocion/taller/intervenciones.md) del operario (mecánico) puedo introducirlas en el panel de [intervenciones](../manuales/automocion/taller/intervenciones.md) mediante el carné de operario o de forma manual en la OR, al igual que las [operaciones de taller](../manuales/automocion/taller/operaciones-de-taller.md) \*
 
+<mark style="color:red;">**Vídeo fichaje de los mecánicos o intervenciones:**</mark>
+
+{% embed url="https://youtu.be/tJakqZndiS4" %}
+
 Panel de Intervenciones general activo
 
 ![](<../.gitbook/assets/image (136).png>)

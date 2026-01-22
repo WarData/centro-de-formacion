@@ -2,6 +2,10 @@
 
 ![](<../../../.gitbook/assets/image (12) (1).png>)
 
+<mark style="color:red;">**Vídeo fichaje de los mecánicos o intervenciones:**</mark>
+
+{% embed url="https://youtu.be/tJakqZndiS4" %}
+
 En el menú distinguimos 3 partes:
 
 \- La primera es un texto de edición donde leeremos el código de barras. Si no disponemos de código de barras, podremos teclear a través de teclado la información que vemos en el código de barras de la incidencia de la orden, el carné de operario, o el código de operación de taller.
