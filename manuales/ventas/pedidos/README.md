@@ -6,6 +6,10 @@
 
 {% embed url="https://youtu.be/KeO13XJtS1U" %}
 
+<mark style="color:red;">**Vídeo creación de cobro de anticipo de pedido de ventas:**</mark>
+
+{% embed url="https://youtu.be/80Me-_3Bnsg" %}
+
 Mediante este menú, podremos grabar, modificar o consultar todos los pedidos que han realizado nuestros clientes. Al entrar en ella, nos aparece un panel en el que se nos presentan opciones para crear un nuevo pedido, buscar uno ya creado, sacar listados de pedidos y consultar las unidades pendientes de recibir de un determinado artículo. Además de estas opciones, podemos ver una rejilla con todos los pedidos en curso y su situación, con al menos una referencia pendiente de entregar o recibir:
 
 <figure><img src="../../../.gitbook/assets/imagen (143).png" alt=""><figcaption></figcaption></figure>

@@ -2,6 +2,18 @@
 
 ¿Qué es un inventario?
 
+<mark style="color:red;">**Vídeo creación de inventario:**</mark>
+
+{% embed url="https://youtu.be/8lKncHTg6NU" %}
+
+<mark style="color:red;">**Vídeo crear inventario mediante archivo - pistola de inventario:**</mark>
+
+{% embed url="https://youtu.be/WYAPX520Ams" %}
+
+<mark style="color:red;">**Vídeo crear inventario desde listado de stock por almacén:**</mark>
+
+{% embed url="https://youtu.be/fi8FA02mtg4" %}
+
 **El inventario es una relación detallada, ordenada y valorada de los productos que tiene una empresa en stock.‌**
 
 **¿Qué sucede en cada artículo cuando se incluye en un inventario?‌**

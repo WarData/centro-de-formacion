@@ -2,9 +2,13 @@
 description: Método de traspaso desde la ficha del artículo
 ---
 
-# Traspaso del stock completo de un artículo
+# Traspaso del stock completo de un artículo -asignación y cambio de ubicación de un artículo
 
-Este cuarto método de traspaso está fuera del panel de partes de almacén,\*\* pero permite traspasar todo el stock de un artículo de una única ubicación a otra accediendo desde la ficha del artículo en cuestión:\*\*
+<mark style="color:red;">**Vídeo asignación y cambio de ubicación de un artículo:**</mark>
+
+{% embed url="https://youtu.be/nbBxuircgEw" %}
+
+Este cuarto método de traspaso está fuera del panel de partes de almacén, pero permite traspasar todo el stock de un artículo de una única ubicación a otra accediendo desde la ficha del artículo en cuestión:\*\*
 
 ![Ficha de artículo 45462-HR0-F00](<../../.gitbook/assets/image (142).png>)
 

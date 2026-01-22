@@ -1,5 +1,17 @@
 # Anticipos
 
+<mark style="color:red;">**Vídeo creación de anticipo asociado a pedido de ventas:**</mark>
+
+{% embed url="https://youtu.be/80Me-_3Bnsg" %}
+
+<mark style="color:red;">**Vídeo aplicación de anticipos asociados a la entidad:**</mark>
+
+{% embed url="https://youtu.be/8Oto5A_387w" %}
+
+<mark style="color:red;">**Vídeo crear anticipo de cobro a cliente sin pedido ni operación asociada:**</mark>
+
+{% embed url="https://youtu.be/5AMHxk_-yMo" %}
+
 Winmotor incorpora para la gestión administrativa de clientes un control sobre los anticipos recibidos. En resumen consiste en relacionar en el momento que se genera una factura a un cliente que nos ha entregado un anticipo la factura generada con el anticipo recibido previamente y controlarlo además en la contabilización.
 
 *   Datos base:

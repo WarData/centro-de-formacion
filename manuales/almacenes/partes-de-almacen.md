@@ -1,5 +1,9 @@
 # Partes de almacén
 
+<mark style="color:red;">**Vídeo partes de almacén - ajustes de stock:**</mark>
+
+{% embed url="https://youtu.be/zZEkRea1UOs" %}
+
 Los partes de almacén son los documentos de entrada y salida de un almacén que no han sido generados por una compra o venta (albarán).
 
 Existen 3 tipos de partes de almacén en función del tipo de movimiento y su origen / destino:

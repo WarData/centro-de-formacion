@@ -2,7 +2,7 @@
 
 Para dar de alta una nueva cuenta de tesorería desde el panel de Tesorería, debemos dar clic derecho _→_ Alta de ficha o dando doble clic en una zona sin datos de la rejilla
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 IMPORTANTE
@@ -14,7 +14,7 @@ Una vez configurada, el usuario debe <mark style="color:red;">cerrar y volver a 
 
 En el alta nos aparecerá una ventana emergente donde nos pide rellenar una serie de datos como el nombre de la cuenta, el tipo de cuenta o el número de cuenta
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Los tipos de cuentas básicas son <mark style="color:red;">**Caja**</mark> y <mark style="color:red;">**Banco**</mark> determinando cada una el tipo de cuenta.&#x20;
 
