@@ -1,5 +1,9 @@
 # Gestión de Precios y Tarifas de Ventas
 
+<mark style="color:red;">**Vídeo gestión de precios y tarifas de ventas:**</mark>
+
+{% embed url="https://youtu.be/0uoztLP8fxg" %}
+
 La gestión de precios en Winmotor está pensada de manera que el usuario final que graba documentos no tenga que tomar ninguna decisión en cuanto al cálculo del precio de compras ni de ventas de los productos.
 
 ![](<../../../../.gitbook/assets/image (15).png>)
