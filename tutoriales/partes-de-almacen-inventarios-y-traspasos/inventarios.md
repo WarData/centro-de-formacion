@@ -6,7 +6,7 @@
 
 {% embed url="https://youtu.be/8lKncHTg6NU" %}
 
-<mark style="color:red;">**Video crear inventario mediante archivo - pistola de inventario:**</mark>
+<mark style="color:red;">**Vídeo crear inventario mediante archivo - pistola de inventario:**</mark>
 
 {% embed url="https://youtu.be/WYAPX520Ams" %}
 
