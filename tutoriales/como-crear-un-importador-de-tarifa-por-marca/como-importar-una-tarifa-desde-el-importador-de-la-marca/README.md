@@ -2,6 +2,14 @@
 
 **Una vez hayamos creado o tengamos creado desde inicio un importador de una marca según el enlace en el pie de página (izquierda), ya sólo nos queda adaptar el archivo de la tarifa e importarlo según las siguientes instrucciones.**
 
+<mark style="color:red;">**MUY IMPORTANTE: En el importador de la marca, en el campo "Nombre de hoja", hay que indicar el nombre de la hoja de Excel. Si es muy grande o tiene algún carácter especial, sustituir por un nombre más sencillo:**</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**En Excel:**</mark>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 **\*\*\* Si ha seguido los pasos de "Crear un Importador de Tarifa de Marca" habrá introducido en observaciones qué ha modificado en el archivo Excel o Texto de la tarifa. En caso de que no lo tenga incluido, recomendamos incorporar las modificaciones y características de importación de la tarifa (columnas, qué se elimina, etc...) para poder importarla dentro del importador, en la pestaña "Observaciones".**
 
 **\*\*\*Al final de este tutorial encontrará claves fundamentales para un procedimiento correcto\*\*\***
@@ -12,7 +20,7 @@
 
 **\*\*\* Para importar archivos Excel es necesaria la instalación del siguiente componente redistribuible del motor de base de datos de Microsoft Access 2016:**
 
-[**https://www.microsoft.com/es-es/download/details.aspx?id=54920**](https://www.microsoft.com/es-es/download/details.aspx?id=54920) **(descargar y ejecutar versión x64)**
+[**https://www.microsoft.com/en-us/download/details.aspx?id=54920**](https://www.microsoft.com/en-us/download/details.aspx?id=54920) **(descargar y ejecutar versión x64)**
 
 **Tenemos 2 tipos de ficheros posibles a importar:**
 
@@ -56,5 +64,4 @@ Si tras comprobar los artículos importados, todo queda perfecto, repetir el pas
 
 **Tras finalizar el proceso, hay que actualizar los artículos existentes con los elementos de la tarifa de artículos nuevos desde la opción "Tarifa de Artículos" > botón "Actualizar Artículos"**
 
-**\*\*\* MUY IMPORTANTE: Recomendamos añadir a la pestaña "Observaciones", dentro del importador, todo lo modificado en el archivo Excel o texto de la tarifa a importar para que quede constancia del procedimiento, así cualquier usuario podrá actualizarla sin ningún inconveniente.**[\
-](https://winmotor.gitbook.io/project/~/drafts/-LUFfE7ntUBm_NjWthNB/primary/faq/es-posible-borrar-cualquier-factura-1)
+**\*\*\* MUY IMPORTANTE: Recomendamos añadir a la pestaña "Observaciones", dentro del importador, todo lo modificado en el archivo Excel o texto de la tarifa a importar para que quede constancia del procedimiento, así cualquier usuario podrá actualizarla sin ningún inconveniente.**[<br>](https://winmotor.gitbook.io/project/~/drafts/-LUFfE7ntUBm_NjWthNB/primary/faq/es-posible-borrar-cualquier-factura-1)

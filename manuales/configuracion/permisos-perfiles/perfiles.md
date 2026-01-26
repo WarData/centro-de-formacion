@@ -30,7 +30,7 @@ El pestaña "Especiales" muestra permisos especiales que permitirán activar opc
 
 Para aplicarle a un usuario un perfil, debemos ir a la ficha de usuario. Configuración → Usuarios. Dentro de la ficha del usuario elegir el perfil correspondiente.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La tabla de perfiles es "arbolada", por lo que podremos ordenar estos usando la nomenclatura del árbol como inicial y las ramas usarán dicha nomenclatura, añadiéndole como mínimo un carácter más.Permisos según el “Nivel del usuario”- **SUPERVISOR**
 
