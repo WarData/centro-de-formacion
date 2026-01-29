@@ -8,11 +8,11 @@ En función de la marca se define el tipo de garantía (sobre factura de venta o
 
 Pueden solicitar que el concesionario le haga una factura de venta, o bien emite la factura de venta la marca, en este caso se selecciona "Abono en compras", emitiendo el concesionario una factura de compras.
 
-<mark style="color:red;">**IMPORTANTE Y A TENER EN CUENTA:**</mark>
+<mark style="color:red;">**IMPORTANTE - CONFIGURAR:**</mark>
 
 1.- Que el vehículo tenga bien puesta la marca que en esta esté definido el proveedor (se rellena el código de entidad en el campo "Proveedor preferente"
 
-2.- Para facturas de venta (marcado en la imagen superior dentro la ficha de la marca y en la parte de Gestión de garantías) es fundamental que los operarios o en su defecto el tempario de mano de obra (MO generalmente) tenga el costo añadido. En operarios se añade en la pestaña "Operario"
+2.- Para facturas de venta (marcado en la imagen superior dentro la ficha de la marca y en la parte de Gestión de garantías) **es fundamental que los operarios o en su defecto el tempario de mano de obra (MO generalmente) tenga el costo añadido**. En operarios se añade en la pestaña "Operario"
 
 3.- Marcar si es necesario que los recambios se entregan a coste y el precio de la mano de obra para garantía a la marca
 
