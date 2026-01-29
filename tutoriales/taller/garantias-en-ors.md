@@ -1,20 +1,26 @@
 # Garantías en ORs
 
-En función de la marca se define el tipo de garantía.&#x20;
+En función de la marca se define el tipo de garantía (sobre factura de venta o abono en compra)
 
 **Puede ser de dos formas y es configurable desde la ficha de la marca:**
 
 <figure><img src="../../.gitbook/assets/imagen (265).png" alt=""><figcaption></figcaption></figure>
 
-Pueden solicitar que el concesionario le haga una factura de venta, o bien emitirla la factura de venta la marca, en este caso se selecciona "Abono en compras", emitiendo el concesionario una factura de compras.
+Pueden solicitar que el concesionario le haga una factura de venta, o bien emite la factura de venta la marca, en este caso se selecciona "Abono en compras", emitiendo el concesionario una factura de compras.
 
-Es importante que el vehículo tenga bien puesta la marca que en esta esté definido el proveedor (se rellena el código de entidad en el campo "Proveedor preferente"
+<mark style="color:red;">**IMPORTANTE Y A TENER EN CUENTA:**</mark>
 
-<mark style="color:yellow;">Veamos un ejemplo de cada caso:</mark>
+1.- Que el vehículo tenga bien puesta la marca que en esta esté definido el proveedor (se rellena el código de entidad en el campo "Proveedor preferente"
 
-<mark style="color:yellow;">El concesionario hace una venta:</mark>
+2.- Para facturas de venta (marcado en la imagen superior dentro la ficha de la marca y en la parte de Gestión de garantías) es fundamental que los operarios o en su defecto el tempario de mano de obra (MO generalmente) tenga el costo añadido. En operarios se añade en la pestaña "Operario"
 
-* Desde la opción de facturación en tanda del panel de ORs, habrá que seleccionar los filtros que queramos, indicando lógicamente el tipo de cargo "Garantia"
+3.- Marcar si es necesario que los recambios se entregan a coste y el precio de la mano de obra para garantía a la marca
+
+<mark style="color:red;">**Veamos un ejemplo de cada caso:**</mark>
+
+<mark style="color:yellow;">El concesionario hace una</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**factura de venta:**</mark>
+
+* Desde la opción de facturación en tanda del panel de ORs, habrá que seleccionar los filtros que queramos, indicando lógicamente el tipo de cargo "Garantía"
 
 <figure><img src="../../.gitbook/assets/imagen (268).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +36,7 @@ Es importante que el vehículo tenga bien puesta la marca que en esta esté defi
 
 <figure><img src="../../.gitbook/assets/imagen (271).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:yellow;">El concesionario hace una compra</mark>&#x20;
+<mark style="color:yellow;">El concesionario hace una</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**factura de compra:**</mark>
 
 * Hay que crear una factura de compra, grabar una línea con un servicio que tenga marcado "abono de garantías"
 
