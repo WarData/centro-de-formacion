@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Centro de Ayuda - Winmotor V7garanti](README.md)
+* [Centro de Ayuda - Winmotor V7](README.md)
 
 ## Manual <a href="#manuales" id="manuales"></a>
 
