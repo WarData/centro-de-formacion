@@ -1,4 +1,4 @@
-# Stock
+# Stock de productos
 
 <mark style="color:red;">**Vídeo sobre consulta de stock de un artículo:**</mark>
 
@@ -7,8 +7,6 @@
 <mark style="color:red;">**Vídeo sobre listar el stock de artículos:**</mark>
 
 {% embed url="https://youtu.be/4IlwQK6tUaQ" %}
-
-Refiere a la cantidad de **productos** que dispone la empresa para el cumplimiento de ciertos objetivos.
 
 En la pestaña podemos obtener los siguientes datos principales que conforman una suma lógica en el flujo de pedidos:
 
