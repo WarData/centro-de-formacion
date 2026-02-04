@@ -49,7 +49,7 @@
   * [Artículos](manuales/maestros/articulos/README.md)
     * [Ficha del artículo](manuales/maestros/articulos/ficha-del-articulo/README.md)
       * [Generales](manuales/maestros/articulos/ficha-del-articulo/generales.md)
-      * [Stock](manuales/maestros/articulos/ficha-del-articulo/stock.md)
+      * [Stock de productos](manuales/maestros/articulos/ficha-del-articulo/stock.md)
       * [Rotación / Consumos](manuales/maestros/articulos/ficha-del-articulo/rotacion-consumos.md)
       * [Histórico](manuales/maestros/articulos/ficha-del-articulo/historico.md)
       * [Propiedades](manuales/maestros/articulos/ficha-del-articulo/propiedades.md)
