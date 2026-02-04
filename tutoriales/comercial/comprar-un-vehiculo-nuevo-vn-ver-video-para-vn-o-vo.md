@@ -2,7 +2,11 @@
 description: Tutorial paso a paso para la compra de un VN
 ---
 
-# Comprar un vehículo nuevo VN
+# Comprar un vehículo nuevo VN (ver vídeo para VN o VO)
+
+<mark style="color:red;">**Vídeo sobre alta de un vehículo VN y VO desde el albarán de compras -**</mark> [<mark style="color:red;">**enlace a manual de texto**</mark>](https://winmotor.gitbook.io/winmotor-automocion/tutoriales/comercial/comprar-un-vehiculo-de-ocasion-vo)<mark style="color:red;">**:**</mark>
+
+{% embed url="https://youtu.be/Zj25pkzYOis" %}
 
 Hay una serie de **requisitos que deben estar bien configurados en su BBDD:**
 
@@ -48,6 +52,6 @@ Hay una serie de **requisitos que deben estar bien configurados en su BBDD:**
 
 <figure><img src="../../.gitbook/assets/imagen (16) (5).png" alt=""><figcaption></figcaption></figure>
 
-**En el menú **<mark style="color:yellow;">**Automoción > Comercial > Stock de vehículos**</mark>** podremos ver el vehículo añadido:**
+**En el menú&#x20;**<mark style="color:yellow;">**Automoción > Comercial > Stock de vehículos**</mark>**&#x20;podremos ver el vehículo añadido:**
 
 <figure><img src="../../.gitbook/assets/imagen (14) (7).png" alt=""><figcaption></figcaption></figure>

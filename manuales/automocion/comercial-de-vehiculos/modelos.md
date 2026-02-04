@@ -1,5 +1,13 @@
 # Modelos
 
+<mark style="color:red;">**1.- Vídeo sobre alta de un modelo con nueva marca y precios:**</mark>
+
+{% embed url="https://youtu.be/fPx-ZsnHpcc" %}
+
+<mark style="color:red;">**2.- Vídeo sobre alta de un vehículo VN y VO desde el albarán de compra:**</mark>
+
+{% embed url="https://youtu.be/Zj25pkzYOis" %}
+
 Esta opción permite dar de alta y gestionar las estructuras de modelo para operaciones comerciales. Dicha estructura se basa en:
 
 * Marca
