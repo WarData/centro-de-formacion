@@ -6,6 +6,10 @@ description: Campos Especiales en las Fichas de Servicios
 
 ![](<../../.gitbook/assets/image (519).png>)
 
+<mark style="color:red;">**Vídeo sobre servicios:**</mark>
+
+{% embed url="https://youtu.be/xGwCu2C4GN4" %}
+
 Dentro de la ficha de un servicio encontramos una serie de “checks” que tienen una utilidad específica dentro del programa. Pasamos a detallarlos:
 
 **o Pestaña Observaciones:**

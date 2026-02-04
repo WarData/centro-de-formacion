@@ -11,6 +11,10 @@ description: >-
 
 {% embed url="https://youtu.be/KeO13XJtS1U" %}
 
+<mark style="color:red;">**Creación de anticipo de cobro en anticipo de ventas:**</mark>
+
+{% embed url="https://youtu.be/80Me-_3Bnsg" %}
+
 En este apartado vamos a simular que entra un cliente a recambios y realiza un pedido de 2 artículos de los que no conocemos su stock:
 
 ![Vista del pedido de ventas - botones para añadir cliente y líneas al pedido](<../.gitbook/assets/image (373).png>)

@@ -2,13 +2,13 @@
 
 Panel donde se muestran las entidades por tipo y mediante la combinación o exclusión de varios tipos de entidad:
 
-![](<../../.gitbook/assets/image (466).png>)
+![](<../../../.gitbook/assets/image (466).png>)
 
 En el panel de entidades disponemos de las opciones:
 
 * **Nueva entidad** - Permite dar de alta una nueva entidad rellenando el siguiente formulario:
 
-![](<../../.gitbook/assets/image (467).png>)
+![](<../../../.gitbook/assets/image (467).png>)
 
 o Código: es un campo auto-numérico que nos servirá para identificar a cada entidad
 
@@ -38,17 +38,17 @@ o Dirección completa: es un campo multilínea en el que podremos anotar la dire
 
 o _Pestaña "Notas":_ añade observaciones internas a la ficha de la entidad (sólo se presentan en ella) y, en la pestaña "Aviso en Documentos", las observaciones añadidas aparecerán, al añadir la entidad que las contenga, al dar de alta un documento (albarán, factura, OR...) en la parte inferior del campo.
 
-![](<../../.gitbook/assets/image (471).png>)
+![](<../../../.gitbook/assets/image (471).png>)
 
 o Pestaña "Imagen": Añade una imagen a la entidad haciendo doble clic en el espacio en blanco y pegando la misma en el editor gráfico integrado
 
-![](<../../.gitbook/assets/image (472).png>)
+![](<../../../.gitbook/assets/image (472).png>)
 
-![Editor de imágenes integrado](<../../.gitbook/assets/image (473).png>)
+![Editor de imágenes integrado](<../../../.gitbook/assets/image (473).png>)
 
 * Buscar entidad permite localizar cualquier tipo de entidad independientemente de si pertenece a uno o más tipos
 
-![](<../../.gitbook/assets/image (468).png>)
+![](<../../../.gitbook/assets/image (468).png>)
 
 o Índices: localizador por diferentes opciones como alfabéticamente, trozos, código, teléfono, CIF - DNI, etc...
 
@@ -58,18 +58,18 @@ o Campo "Introduzca datos búsqueda": permite introducir los datos de búsqueda 
 
 o Filtro por tipo de entidad que permite la búsqueda combinando añadiendo (con alguno de los tipos seleccionados), combinando cruzando (con todos los tipos seleccionados) o presentando todas excepto las seleccionadas. También permite añadir por palabras a buscar.
 
-![](<../../.gitbook/assets/image (469).png>)
+![](<../../../.gitbook/assets/image (469).png>)
 
 o Filtros avanzados permiten especificar nuevos filtros añadidos a la búsqueda como tipos de pago, fechas, con datos como móvil o email...
 
-![](<../../.gitbook/assets/image (470).png>)
+![](<../../../.gitbook/assets/image (470).png>)
 
 * **Fusionar entidades**
 
-<figure><img src="../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Panel específico para localizar entidades con CIF o nombre similar (no tiene que ser idéntico, sirve con parte de los mismos) marcar las entidades a eliminar y las que se van a conservar, con checks que permiten respetar la cuenta contable en apuntes del ejercicio en curso y en anteriores y un sumatorio final del resultado.
 
 Si usamos en nuestra DEMO el nombre de MIGUEL nos aparecen 4 que podemos seleccionar para cada caso (conservar o eliminar, en esto caso como conservar):
 
-<figure><img src="../../.gitbook/assets/imagen (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagen (283).png" alt=""><figcaption></figcaption></figure>

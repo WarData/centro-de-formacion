@@ -11,7 +11,7 @@ En el siguiente listado, podemos comprobar todos los usuarios **incluyendo su no
 
 <figure><img src="../../.gitbook/assets/imagen (39).png" alt=""><figcaption></figcaption></figure>
 
-Entrando en la ficha, podremos completar los datos del usuario (DNI, NIF, dirección, emails...), así como asignarle nuevo tipos de entidad como "vendedor", "cliente", etc... [Véase Entidades](../maestros/entidades-1.md) y <mark style="color:yellow;">**en la botonera inferior podremos editar la ficha de la entidad, modificar la contraseña, bloquear el usuario y eliminarlo:**</mark>
+Entrando en la ficha, podremos completar los datos del usuario (DNI, NIF, dirección, emails...), así como asignarle nuevo tipos de entidad como "vendedor", "cliente", etc... [Véase Entidades](../maestros/entidades-1/) y <mark style="color:yellow;">**en la botonera inferior podremos editar la ficha de la entidad, modificar la contraseña, bloquear el usuario y eliminarlo:**</mark>
 
 <figure><img src="../../.gitbook/assets/imagen (37).png" alt=""><figcaption></figcaption></figure>
 

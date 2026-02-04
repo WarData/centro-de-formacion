@@ -1,5 +1,13 @@
 # Panel de artículos
 
+<mark style="color:red;">**Vídeo consultar y revisar movimientos de stock de un producto:**</mark>
+
+{% embed url="https://youtu.be/kBMAd639ISU" %}
+
+<mark style="color:red;">**Vídeo consulta de artículos - panel:**</mark>
+
+{% embed url="https://youtu.be/u8J3tVl81lI" %}
+
 El menú de artículos presenta un listado de ellos ordenados alfabéticamente por su código.
 
 Pasamos a mostrar el panel de artículos donde encontramos las habituales opciones de búsqueda y filtrado además de la rejilla que muestra los campos "referencia", "denominación", "familia", "precio neto", "stock físico" y "stock disponible" y los botones que explicaremos a continuación "imprimir tarifa", "Imprimir informe", "Filtrar", "Modificar artículos", "Incluir en tarifa" e "Incluir en oferta":
