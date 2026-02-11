@@ -341,6 +341,7 @@
   * [Mi configuración - Índices - Refresco - Estilo](faq/funciones-de-la-aplicacion/mi-configuracion-indices-refresco-estilo.md)
   * [Mi configuración - Barra de favoritos](faq/funciones-de-la-aplicacion/mi-configuracion-barra-de-favoritos.md)
   * [Paneles - Filtros y configuración por defecto](faq/funciones-de-la-aplicacion/paneles-filtros-y-configuracion-por-defecto.md)
+  * [Actualizar aplicación Winmotor](faq/funciones-de-la-aplicacion/actualizar-aplicacion-winmotor.md)
 * [Administración](faq/administracion/README.md)
   * [Facturas](faq/facturas/README.md)
     * [¿Es posible borrar / modificar / cambiar cabecera / abonar líneas o completa de cualquier factura?](faq/facturas/es-posible-borrar-cualquier-factura.md)
