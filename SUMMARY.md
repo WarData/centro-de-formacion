@@ -409,6 +409,7 @@
     * [Factura: cambiar contenido](tutoriales/facturas_tutoriales/factura-cambiar-contenido.md)
     * [Factura: Borrado (con y sin cobro asociado)](tutoriales/facturas_tutoriales/factura-borrado-con-y-sin-cobro-asociado.md)
     * [Factura: de gastos asociados a vehículos](tutoriales/facturas_tutoriales/factura-de-gastos-asociados-a-vehiculos.md)
+    * [Factura: casar con albarán o albaranes de compras](tutoriales/administracion/facturas_tutoriales/factura-casar-con-albaran-o-albaranes-de-compras.md)
   * [Anticipos](tutoriales/administracion/anticipos/README.md)
     * [Facturación automática de anticipos](tutoriales/administracion/anticipos/facturacion-automatica-de-anticipos.md)
 * [Pedidos: Recambios - OR](tutoriales/pedidos-recambios-or/README.md)
