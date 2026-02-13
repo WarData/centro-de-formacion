@@ -398,6 +398,7 @@
   * [Eliminar del stock un vehículo](tutoriales/eliminar-del-stock-un-vehiculo.md)
   * [Tramitaciones: Transferencia de vehículos](tutoriales/tramitaciones-transferencia-de-vehiculos.md)
   * [Pasos de una operación comercial básica](tutoriales/comercial/pasos-de-una-operacion-comercial-basica.md)
+  * [Asignar bastidores a operaciones comerciales](tutoriales/comercial/asignar-bastidores-a-operaciones-comerciales.md)
 * [Taller](tutoriales/taller/README.md)
   * [Garantías en ORs](tutoriales/taller/garantias-en-ors.md)
 * [Administración](tutoriales/administracion/README.md)
