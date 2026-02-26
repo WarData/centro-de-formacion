@@ -7,3 +7,5 @@
 {% hint style="info" %}
 Si un ticket ya está finalizado, puede reabrirlo en caso de que sea necesario continuar el seguimiento.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>
