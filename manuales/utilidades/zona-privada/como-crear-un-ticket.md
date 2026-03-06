@@ -16,7 +16,7 @@ Niveles de Prioridad de Incidencias
 
 3. Si lo necesita, adjunte archivos o imágenes mediante el botón “+”.
 
-<figure><img src="../../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Finalmente, pulse “Enviar ticket”.
 

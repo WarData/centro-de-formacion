@@ -54,6 +54,7 @@
       * [Histórico](manuales/maestros/articulos/ficha-del-articulo/historico.md)
       * [Propiedades](manuales/maestros/articulos/ficha-del-articulo/propiedades.md)
       * [Auxiliares](manuales/maestros/articulos/ficha-del-articulo/auxiliares.md)
+      * [Escandallo](manuales/maestros/articulos/ficha-del-articulo/escandallo.md)
       * [Idiomas](manuales/maestros/articulos/ficha-del-articulo/idiomas.md)
       * [Archivos](manuales/maestros/articulos/ficha-del-articulo/archivos.md)
       * [Web](manuales/maestros/articulos/ficha-del-articulo/web.md)
