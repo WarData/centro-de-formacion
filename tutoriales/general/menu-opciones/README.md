@@ -9,4 +9,4 @@ Contenido de OPCIONES en la barra del menú:
 
 <mark style="color:red;">**Vídeo sobre filtrar - partir - multipartir - listas virtuales:**</mark>
 
-{% embed url="https://youtu.be/tywZx069PAI" %}
+{% embed url="https://youtu.be/Sc97JwkvPsk" %}
