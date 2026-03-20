@@ -4,7 +4,7 @@ Existen **3** formas de trabajar sobre la versión para la compañía dentro de 
 
 <mark style="color:red;">**Vídeo gestión de siniestros:**</mark>
 
-{% embed url="https://youtu.be/dM6ufCr4cbg" %}
+{% embed url="https://youtu.be/um1A1NwBBSM" %}
 
 **1.- La compañía de seguros requiere factura antes de realizar los trabajos de reparación**
 
