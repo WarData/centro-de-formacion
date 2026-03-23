@@ -1,5 +1,9 @@
 # Factura: abono de líneas o completo
 
+<mark style="color:red;">**VÍDEO ABONAR FACTURAS DE VENTAS:**</mark>
+
+{% embed url="https://youtu.be/ME51X4g0tgc" %}
+
 El proceso para [abonar](../../manuales/submaestros/administracion-1/motivos-de-abono.md) líneas de una factura es el siguiente:
 
 1.- Abrimos la factura sobre la que vayamos a abonar una línea o parte de la línea.
