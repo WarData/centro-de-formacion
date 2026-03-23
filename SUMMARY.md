@@ -380,6 +380,7 @@
 ## Tutoriales
 
 * [General](tutoriales/general/README.md)
+  * [Copiar y pegar entre documentos](tutoriales/general/copiar-y-pegar-entre-documentos.md)
   * [Uso de los Filtros Rápidos](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/README.md)
     * [Creación de Lupas](tutoriales/general/uso-de-los-nuevos-filtros-rapidos/creacion-de-lupas.md)
   * [Uso del exportador avanzado junto con filtros de listados y plantillas](tutoriales/general/uso-del-exportador-avanzado-junto-con-filtros-de-listados-y-plantillas.md)
@@ -391,7 +392,6 @@
     * [Utilidades de lista > Guardar y recuperar lista virtual](tutoriales/general/menu-opciones/utilidades-de-lista-greater-than-guardar-y-recuperar-lista-virtual.md)
   * [Rejillas - Funciones Especiales - Rejillas avanzadas](tutoriales/general/rejillas-funciones-especiales.md)
   * [Notificaciones Emergentes](tutoriales/general/notificaciones-emergentes.md)
-  * [Copiar y pegar entre documentos](tutoriales/general/copiar-y-pegar-entre-documentos.md)
 * [Comercial](tutoriales/comercial/README.md)
   * [Comprar un vehículo nuevo VN (ver vídeo para VN o VO)](tutoriales/comercial/comprar-un-vehiculo-nuevo-vn-ver-video-para-vn-o-vo.md)
   * [Comprar un vehículo de ocasión VO (ver vídeo para VN o VO)](tutoriales/comercial/comprar-un-vehiculo-de-ocasion-vo-ver-video-para-vn-o-vo.md)
