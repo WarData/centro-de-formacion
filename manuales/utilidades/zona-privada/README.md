@@ -10,9 +10,11 @@ La Zona Privada es un panel desde el cual podrá comunicarse directamente con el
 * [Consejos de uso](consejos-de-uso.md)
 * [Cambio de usuario o contraseña de la Zona Privada](como-cambiar-credenciales-y-contrasena-de-acceso-a-zona-privada.md)
 
-<mark style="color:red;">**Vídeo Acceso Zona Privada - Estados - Seguimientos**</mark>
+<mark style="color:red;">**Vídeo Acceso Zona Privada - Estados - Seguimientos:**</mark>
 
-{% embed url="https://youtu.be/UNbzYD_5ROc" %}
+{% embed url="https://youtu.be/4l8PwzTnh1g" %}
+
+
 
 
 
