@@ -2,6 +2,10 @@
 
 #### Modularización
 
+<mark style="color:red;">**Vídeo modularización - parte de almacén automático:**</mark>
+
+{% embed url="https://youtu.be/XOszd6osZFE" %}
+
 La **modularización de artículos** permite gestionar productos compuestos de forma automática en el momento de su entrada en almacén.
 
 Con esta opción, es posible comprar un producto “padre” (por ejemplo, una caja de bujías) y que, al confirmar su entrada en stock, el sistema registre automáticamente la entrada de las unidades individuales que contiene (cada bujía), en lugar de almacenar la caja como una única unidad.
