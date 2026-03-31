@@ -1,5 +1,9 @@
 # Fabricaciones
 
+Vídeo fabricación de kits:
+
+{% embed url="https://youtu.be/vsuDdZL3qM4" %}
+
 Proceso para dar de alta packs de piezas que tengan que formarse a partir de piezas sueltas. Esto quiere decir que, si se realiza el pedido de una referencia A que esté formada por las referencias 1, 2 y 3, se vendería el pack como A. Sólo en el caso de no haber stock de A, podría fabricarse a partir de las referencias sueltas 1, 2 y 3.
 
 &#x20;El proceso de alta sería el siguiente:
