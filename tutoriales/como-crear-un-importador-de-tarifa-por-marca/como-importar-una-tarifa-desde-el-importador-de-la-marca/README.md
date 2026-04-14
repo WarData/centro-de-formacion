@@ -4,11 +4,11 @@
 
 <mark style="color:red;">**MUY IMPORTANTE: En el importador de la marca, en el campo "Nombre de hoja", hay que indicar el nombre de la hoja de Excel. Si es muy grande o tiene algún carácter especial, sustituir por un nombre más sencillo:**</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**En Excel:**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **\*\*\* Si ha seguido los pasos de "Crear un Importador de Tarifa de Marca" habrá introducido en observaciones qué ha modificado en el archivo Excel o Texto de la tarifa. En caso de que no lo tenga incluido, recomendamos incorporar las modificaciones y características de importación de la tarifa (columnas, qué se elimina, etc...) para poder importarla dentro del importador, en la pestaña "Observaciones".**
 

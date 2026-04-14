@@ -7,7 +7,13 @@ Al acceder, se mostrará la pantalla principal. En ella encontrará:
 * **Menú desplegable**: ofrece opciones para localizar tickets, imprimir información y definir filtros por defecto.
 * **Botón de recálculo**: permite refrescar la rejilla para visualizar datos actualizados.
 
-<figure><img src="../../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Al hacer doble clic en el icono situado a la izquierda de la fecha, se recalculará toda la tabla, provocando la recarga completa de los datos, desde el primer ticket hasta el último.
+
+No obstante, no es necesario utilizar este botón para realizar el recalculo, ya que por norma general debe de hacerse mediante el botón habitual destinado a esta función.
+{% endhint %}
 
 * **Filtros**: desde esta opción podrás localizar tickets según varios criterios como:
 
@@ -15,11 +21,11 @@ Al acceder, se mostrará la pantalla principal. En ella encontrará:
 
 <summary>Sub-estado</summary>
 
-Revisión
+Revisión: El ticket está siendo analizado para entender el problema o requerimiento.
 
-Desarrollo&#x20;
+Desarrollo: El ticket está en proceso de implementación o resolución técnica.
 
-Presupuesto
+Presupuesto: El ticket requiere una estimación económica antes de continuar.
 
 </details>
 
@@ -27,13 +33,13 @@ Presupuesto
 
 <summary>Tipo</summary>
 
-Incidencia
+Incidencia: Problema o error que afecta al funcionamiento normal del sistema.
 
-Solicitud
+Solicitud: Petición de mejora, nueva funcionalidad o cambio no urgente.
 
-Comercial
+Comercial: Relacionado con oportunidades de negocio, ventas o consultas comerciales.
 
-Administración
+Administración: Tareas internas, gestión documental, facturación u otros procesos administrativos.
 
 </details>
 
@@ -41,13 +47,13 @@ Administración
 
 <summary>Origen</summary>
 
-Manual
+Manual: Creado directamente por soporte dentro del programa.
 
-Email
+Email: Generado a partir de un correo electrónico recibido.
 
-Zona privada
+Zona privada: Creado desde el área privada o portal del cliente.
 
-Llamada
+Llamada: Registrado a partir de una comunicación telefónica.
 
 </details>
 
@@ -74,3 +80,6 @@ Critico
 </details>
 
 <figure><img src="../../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
+
+
+
