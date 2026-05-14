@@ -5,7 +5,7 @@ Cada ticket puede encontrarse en uno de los siguientes estados:
 * <mark style="color:red;">**Pendiente de Winmotor**</mark>: el ticket está a la espera de respuesta por parte del soporte de Winmotor.
 * <mark style="color:red;">**Pendiente de cliente**</mark>: Winmotor ha respondido y está esperando su contestación.
 * <mark style="color:red;">**Finalizado**</mark>: el ticket ha sido resuelto y cerrado.
-* <mark style="color:red;">**Pendiente de otros**</mark>: el ticket depende de un tercero (por ejemplo, un proveedor o una incidencia externa).
+* <mark style="color:red;">**Pendiente de otros**</mark>: el ticket depende de un tercero o de programacion. Para el caso de programacion debe tener un sub-estado de desarrollo o revision indicado en el ticket.
 * <mark style="color:red;">**Pendiente Yamaha**</mark>: el ticket esta a la espera de respuesta por parte de Yamaha
 
 <figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
