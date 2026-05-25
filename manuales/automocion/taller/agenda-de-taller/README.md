@@ -6,6 +6,10 @@ Se añade también información sobre [cómo dar de alta y baja eventos, vacacio
 
 Vídeos:
 
+<mark style="color:$danger;">**Agenda de taller y calendarios:**</mark>
+
+{% embed url="https://youtu.be/NODJ3-mUAQQ" %}
+
 <mark style="color:red;">**Cita con cliente y vehículo existentes:**</mark>
 
 {% embed url="https://youtu.be/00V2ruQBhZk" %}
