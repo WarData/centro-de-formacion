@@ -40,6 +40,8 @@ Pueden solicitar que el concesionario le haga una factura de venta, o bien emite
 
 <mark style="color:yellow;">El concesionario hace una</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**factura de compra:**</mark>
 
+{% embed url="https://youtu.be/fVeVNRsXjKA" %}
+
 * Hay que crear una factura de compra, grabar una línea con un servicio que tenga marcado "abono de garantías"
 
 <figure><img src="../../.gitbook/assets/imagen (267).png" alt=""><figcaption></figcaption></figure>
