@@ -20,6 +20,8 @@ Pueden solicitar que el concesionario le haga una factura de venta, o bien emite
 
 <mark style="color:yellow;">El concesionario hace una</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**factura de venta:**</mark>
 
+{% embed url="https://youtu.be/YurQNrzJW_4" %}
+
 * Desde la opción de facturación en tanda del panel de ORs, habrá que seleccionar los filtros que queramos, indicando lógicamente el tipo de cargo "Garantía"
 
 <figure><img src="../../.gitbook/assets/imagen (268).png" alt=""><figcaption></figcaption></figure>
