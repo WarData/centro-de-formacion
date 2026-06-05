@@ -433,6 +433,7 @@
   * [Criterios Contables](faq/criterios-contables.md)
   * [Obtener Libro Mayor](tutoriales/contabilidad/obtener-libro-mayor.md)
   * [Revisión del Balance de Situación](tutoriales/contabilidad/revision-del-balance-de-situacion.md)
+  * [Contabilización de facturas internas](tutoriales/contabilidad/contabilizacion-de-facturas-internas.md)
 * [Almacén](tutoriales/almacen/README.md)
   * [Partes de Almacén - Inventarios y Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/README.md)
     * [Traspasos](tutoriales/partes-de-almacen-inventarios-y-traspasos/traspasos.md)
