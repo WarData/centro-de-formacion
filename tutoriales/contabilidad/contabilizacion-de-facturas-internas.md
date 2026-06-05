@@ -9,7 +9,7 @@ Hasta ahora las facturas internas en Winmotor no se contabilizaban: era un docum
   * Activar el parámetro general “Contabilizar facturas internas” en parámetros - Administración - Contables - General:
   *
 
-      <img src="../../.gitbook/assets/unknown (6).png" alt="" height="148" width="356">
+      <figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
   * Marcar el campo “Contabilizar” en  las series de facturas que queramos que se contabilicen (lógicamente series de facturas internas)
   *
 
