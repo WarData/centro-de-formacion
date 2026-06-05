@@ -65,7 +65,7 @@ Hasta ahora las facturas internas en Winmotor no se contabilizaban: era un docum
 * Como se puede ver la parametrización de estas cuentas está montada en el formulario de cada una de las fichas a las que afectan (tipos de orden, tipos de producto, temparios y servicios); para facilitar la edición y la consulta de todas se ellas hemos añadido una nueva pestaña en parámetros donde las podemos ver en conjunto:
   *
 
-      <img src="../../.gitbook/assets/unknown (17).png" alt="" height="527" width="1880">
+      <figure><img src="../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
   * Tipos de albaranes
     * Los tipos de albaranes sólo se pueden configurar en esta pestaña de parametrización de las facturas internas. Su tratamiento es casi idéntico al de los tipos de órdenes con la excepción de que no se contemplan albaranes internos del tipo “Existencias”, serán siempre tipo “Gastos”.
 
