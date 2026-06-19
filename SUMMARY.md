@@ -404,6 +404,7 @@
   * [Pasos de una operación comercial básica](tutoriales/comercial/pasos-de-una-operacion-comercial-basica.md)
   * [Asignar bastidores a operaciones comerciales](tutoriales/comercial/asignar-bastidores-a-operaciones-comerciales.md)
   * [Gestión de accesorios en operaciones](tutoriales/comercial/gestion-de-accesorios-en-operaciones.md)
+  * [Pasos de una operación comercial con VO](tutoriales/comercial/pasos-de-una-operacion-comercial-con-vo.md)
 * [Taller](tutoriales/taller/README.md)
   * [Garantías en ORs](tutoriales/taller/garantias-en-ors.md)
 * [Administración](tutoriales/administracion/README.md)
