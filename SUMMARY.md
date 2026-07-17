@@ -59,6 +59,7 @@
       * [Archivos](manuales/maestros/articulos/ficha-del-articulo/archivos.md)
       * [Web](manuales/maestros/articulos/ficha-del-articulo/web.md)
       * [Auditoría](manuales/maestros/articulos/ficha-del-articulo/auditoria.md)
+      * [Criterio de sustitución](manuales/maestros/articulos/ficha-del-articulo/criterio-de-sustitucion.md)
     * [Panel de artículos](manuales/maestros/articulos/panel-de-articulos/README.md)
       * [Botones lateral izquierdo](manuales/maestros/articulos/panel-de-articulos/botones-lateral-izquierdo.md)
       * [Botones inferiores](manuales/maestros/articulos/panel-de-articulos/botones-inferiores.md)
