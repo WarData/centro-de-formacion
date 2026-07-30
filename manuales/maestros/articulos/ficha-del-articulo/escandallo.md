@@ -39,6 +39,29 @@ Este paso es obligatorio.\
 Si no se configura este campo, el programa no podrá generar el parte de almacén automáticamente al confirmar el albarán.
 {% endhint %}
 
+#### Confirmación de traspaso
+
+Existe un check **"Exigir preguntar al modularizar"** en las series de albaranes de compra. Debe marcarse la serie donde se quiera que se pregunte antes de realizar el traspaso.
+
+<figure><img src="../../../../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
+
+**Comportamiento según el check**
+
+**Check desmarcado:**\
+Al confirmar el albarán, si hay artículos que deban modularizarse, el traspaso de almacén correspondiente se genera automáticamente, sin preguntar nada al usuario.
+
+**Check marcado:**\
+Al confirmar el albarán, por cada artículo que deba modularizarse se pregunta al usuario si desea hacerlo:
+
+* Si responde que **sí**, se genera la modularización de esa referencia con normalidad, y se continúa con el resto del albarán.
+* Si responde que **no**, el programa vuelve a preguntar si está seguro de no querer crear el traspaso:
+  * Si confirma que **sí está seguro**, no se genera la modularización para esa referencia y se continúa con el resto del albarán.
+  * Si indica que **no está seguro**, se vuelve a preguntar desde el principio si desea modularizar esa referencia.
+
+{% hint style="info" %}
+Este proceso de confirmación se repite de forma independiente para cada artículo del albarán que requiera modularización.
+{% endhint %}
+
 ### Configuración del artículo padre
 
 En el artículo que actuará como producto padre y en la pestaña escandallo encontrarás una nueva opción llamada:

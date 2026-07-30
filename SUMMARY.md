@@ -82,6 +82,7 @@
     * [Panel de tarifas de artículos](manuales/maestros/tarifas-de-compras/panel-de-tarifas-de-articulos/README.md)
       * [Botones lateral izquierdo](manuales/maestros/tarifas-de-compras/panel-de-tarifas-de-articulos/botones-lateral-izquierdo.md)
       * [Botones inferiores](manuales/maestros/tarifas-de-compras/panel-de-tarifas-de-articulos/botones-inferiores.md)
+      * [Importador de Tarifa automático](manuales/maestros/tarifas-de-compras/panel-de-tarifas-de-articulos/importador-de-tarifa-automatico.md)
     * [Importador de Tarifa automático](manuales/maestros/tarifas-de-compras/importador-de-tarifa-automatico.md)
 * [Submaestros](manuales/submaestros/README.md)
   * [Administración](manuales/submaestros/administracion-1/README.md)

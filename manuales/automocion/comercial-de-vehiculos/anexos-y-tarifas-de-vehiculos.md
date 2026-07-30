@@ -1,7 +1,7 @@
 # Anexos y Tarifas de Vehículos
 
 \
-&#xNAN;_**Gestión de cargos impuestos por el concesionario - Documentación - Anexos**_
+_**Gestión de cargos impuestos por el concesionario - Documentación - Anexos**_
 
 **Criterios de aplicación**
 

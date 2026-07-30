@@ -47,4 +47,4 @@ Al pulsar <mark style="color:red;">**Aplicar**</mark>, el formulario mostrará e
 * Primera opción: Crea una **línea de franquicia en negativo**, que se descontará  \
   de la imputación del _siniestro_.
 * Segunda opción: Crea una **línea de franquicia en positivo**, imputada al  \
-  &#xNAN;_&#x63;liente_.
+  _&#x63;liente_.
