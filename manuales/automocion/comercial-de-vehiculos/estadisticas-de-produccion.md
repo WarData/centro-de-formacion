@@ -1,4 +1,8 @@
-# Estadísticas producción
+# Estadísticas producción + familias de servicios
+
+<mark style="color:$danger;">**Vídeo sobre agrupación de las familias de servicios en el informe de estadísticas de vehículos (gastos - ingresos)**</mark>
+
+{% embed url="https://youtu.be/sFyP_V3TbKw" %}
 
 En esta sección el programa presentará los vehículos vendidos en el período indicado detallando por cada vehículo los siguientes conceptos:
 
