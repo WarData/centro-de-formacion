@@ -1,5 +1,9 @@
 # Administración
 
+<mark style="color:$danger;">**Vídeo definición de cuentas contables en parámetros:**</mark>
+
+{% embed url="https://youtu.be/tP4fgGQXTZU" %}
+
 Dentro de la pestaña de Administración nos encontramos con 6 pestañas de configuración:
 
 * **Generales** (conceptos generales de cobro, apertura de caja...IVA y pago por defecto al crear entidades nuevas, etc...). **Es imprescindible darlos de alta en Submaestros > Administración** y, aunque haya distintos tipos, los indicados en estos campos serán los pre-definidos.
