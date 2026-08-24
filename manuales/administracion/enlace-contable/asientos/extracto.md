@@ -31,6 +31,10 @@ La búsqueda avanzada permite también presentar el extracto de una lista de cue
 
 <mark style="color:yellow;">**Mezclar en el extracto**</mark>
 
+<mark style="color:$danger;">**Vídeo sobre extractos combinados**</mark>
+
+{% embed url="https://youtu.be/7WJd9bPweLk" %}
+
 Esta es una opción muy interesante cuando queremos consultar el saldo y los movimientos de dos o más cuentas que no son correlativas: un caso muy común es consultar el saldo de un cliente que a la vez es proveedor.
 
 Si no está activo el filtro de “búsqueda avanzada” aparece abajo a la izquierda el botón “Mezclar en el extracto”
