@@ -6,6 +6,10 @@ description: >-
 
 # Revisión del Balance de Situación
 
+<mark style="color:$danger;">**Vídeo sobre visualizaciones del balance de situación y de la cuenta de pérdidas y ganancias**</mark>
+
+{% embed url="https://youtu.be/-sKtV2rDCAU" %}
+
 Excepto el balance de sumas y saldos el resto de informes de Winmotor son parametrizados, es decir para cada partida que presentan se calcula el saldo de una serie de cuentas definidas por nosotros. Todas las cuentas que se entregan en el plan contable de Winmotor están incluidas en sus correspondientes informes.
 
 Por otro lado en el informe relativo al Balance de Situación hace un cálculo especial para la partida del resultado del Ejercicio (129) que no es el saldo de esta cuenta puesto que el programa tiene que poder calcularlo aunque no se haya cerrado el ejercicio sino que es el cálculo de la diferencia entre todas las cuentas que afectan al balance de situación (grupos 1 al 5) y las que afectan al informe de pérdidas y ganancias (grupos 6 y 7)
