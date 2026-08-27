@@ -72,6 +72,8 @@ Para poder actualizar el stock de uno o varios artículos en la web, estos deben
 
 **IMPORTANTE:** _**No será necesario utilizar manualmente estas opciones**_ (los 2 botones antes mencionados: Act. Stock o Sincronización stock arts. en Prestashop) una vez estén sincronizados (Enlazados) los artículos. Cuando se recalcule el stock en Winmotor, la información se trasladará **automáticamente** al artículo correspondiente en la web. Es decir, una vez que el artículo entre en la pila, se ejecutará también su sincronización de stock en la web. Se puede ver que está en la pila en la parte inferior de la ficha de un artículo:
 
+<figure><img src="../../../../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+
 
 
 #### Información extra
