@@ -1,5 +1,5 @@
 # Prestashop
 
-[Información básica](informacion-basica-prestashop/)
+[Información básica Prestashop](informacion-basica-prestashop/)
 
 [Documentación Prestashop](documentacion-prestashop/)

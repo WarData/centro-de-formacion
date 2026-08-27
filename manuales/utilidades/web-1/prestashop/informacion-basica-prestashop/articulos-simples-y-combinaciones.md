@@ -71,3 +71,5 @@ El sistema intenta localizarlo automáticamente por el nombre y, si lo encuentra
 | El artículo hijo tiene su padre correctamente indicado | Ficha del artículo en Winmotor                                                                        |
 | Cada color usado tiene su código de la web guardado    | Ficha de colores en Winmotor (consultable en ficha de artículos) / Catálogo → Atributos en PrestaShop |
 | Cada talla usada tiene su código de la web guardado    | Ficha de tallas en Winmotor / Catálogo → Atributos en PrestaShop                                      |
+
+Si alguno de estos puntos falla, el producto no se podrá crear correctamente en la tienda como combinación, aunque el resto de sus datos (precio, stock, referencia) estén bien.
