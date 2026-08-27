@@ -70,6 +70,8 @@ El funcionamiento es similar al proceso de alta de artículos. La actualización
 
 Para poder actualizar el stock de uno o varios artículos en la web, estos deben estar **enlazados**. Esto significa que el estado de sincronización del artículo en Winmotor debe ser **"Enlazado"**.
 
+**IMPORTANTE:** _**No será necesario utilizar manualmente estas opciones**_ (los 2 botones antes mencionados: Act. Stock o Sincronización stock arts. en Prestashop) una vez estén sincronizados (Enlazados) los artículos. Cuando se recalcule el stock en Winmotor, la información se trasladará **automáticamente** al artículo correspondiente en la web. Es decir, una vez que el artículo entre en la pila, se ejecutará también su sincronización de stock en la web. Se puede ver que está en la pila en la parte inferior de la ficha de un artículo:
+
 
 
 #### Información extra
@@ -85,3 +87,8 @@ Para poder actualizar el stock de uno o varios artículos en la web, estos deben
 **Presentar en web:** Los productos solamente se enviarán a la web siempre y cuando estén marcados de esa forma en Winmotor. La opción está dentro de los artículos > Pestaña Web > Presentar en Web.
 
 **Imágenes:** Si el artículo tiene imagen asociada también se dará de alta en la web. La imagen que se sube a la web será la imagen localizada dentro del artículo > Web > Imagen (Imagen ampliada). Solamente se subirá una sola y en caso de querer poner habrá que hacerlo desde la propia web.
+
+
+
+
+
