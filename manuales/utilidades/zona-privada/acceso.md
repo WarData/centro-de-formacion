@@ -10,4 +10,4 @@ Para acceder a la zona privada debes seguir los siguientes pasos:
 Si no dispone de credenciales, póngase en contacto con el departamento de soporte de Winmotor.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

@@ -7,7 +7,7 @@ Al acceder, se mostrará la pantalla principal. En ella encontrará:
 * **Menú desplegable**: ofrece opciones para localizar tickets, imprimir información y definir filtros por defecto.
 * **Botón de recálculo**: permite refrescar la rejilla para visualizar datos actualizados.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Al hacer doble clic en el icono situado a la izquierda de la fecha, se recalculará toda la tabla, provocando la recarga completa de los datos, desde el primer ticket hasta el último.
