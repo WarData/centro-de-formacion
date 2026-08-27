@@ -4,3 +4,7 @@
 
 [API de compras](api-de-compras.md)
 
+[Información básica](informacion-basica/)
+
+[Documentación](documentacion/)
+
