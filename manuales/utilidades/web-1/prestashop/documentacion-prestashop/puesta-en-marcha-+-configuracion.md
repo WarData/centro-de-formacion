@@ -28,7 +28,7 @@
 
     * Habrá que configurarlo:
 
-    <figure><img src="../../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
     * \[Opcional] Activar proceso en API en Winmotor: PRE\_REC\_PED\_WEB
 * Configurar serie por defecto en Parámetros > Web > Serie de pedido boutique. Habrá que rellenar el dato con alguna serie de pedido de ventas.
