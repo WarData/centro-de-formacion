@@ -33,15 +33,3 @@
     * \[Opcional] Activar proceso en API en Winmotor: PRE\_REC\_PED\_WEB
 * Configurar serie por defecto en Parámetros > Web > Serie de pedido boutique. Habrá que rellenar el dato con alguna serie de pedido de ventas.
 * Configurar apache en el servidor del cliente para que se pueda acceder al proceso PRE\_REC\_PED\_WEB (tendrá que estar SIEMPRE activo apache).
-
-
-
-### PEC:
-
-* Activar el módulo en Distribución: Prestashop
-
-<figure><img src="../../../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
-
-* Añadir en el campo Web Prestashop el enlace de la web a la que apuntará (tendrá que acabar en /api/) y el API Key.
-
-<figure><img src="../../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
