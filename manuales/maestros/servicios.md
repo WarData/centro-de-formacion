@@ -50,7 +50,7 @@ Dentro de la ficha de un servicio encontramos una serie de “checks” que tien
 
 * **Acumular coste en ventas**
 
-&#x20;         o El check marcado implica que al imputar líneas de ingresos con este servicio al vehículo el coste de la línea no se le repercutirá puesto que vendrá luego reflejado en una factura de gastos. Solamente aplicable en caso de estar marcada la opción 'Aplicable a vehículos'.
+&#x20;         o Para servicios 'aplicables a vehículos' en caso de NO estar marcado supondrá que el coste vendrá por una factura de gastos y no se imputará en el vehículo. En caso de estar marcado aplicará a la estadística de producción del vehículo como gasto.
 
 &#x20;         o Se utiliza en el caso de que el servicio definido se utilice en documentos de ventas y queramos además imputar el coste del servicio al vehículo.
 
