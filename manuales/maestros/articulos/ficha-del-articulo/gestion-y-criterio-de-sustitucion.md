@@ -2,7 +2,11 @@
 description: Criterio de asignación de referencias de sustitución
 ---
 
-# Criterio de sustitución
+# Gestión y criterio de sustitución
+
+<mark style="color:$danger;">**Vídeo sobre la gestión de las sustituciones**</mark>
+
+{% embed url="https://youtu.be/9HvQY4oTDcA" %}
 
 El criterio de asignación consiste en aplicar la referencia que disponga de stock, independientemente de que sea anterior o posterior a la referencia introducida.
 
