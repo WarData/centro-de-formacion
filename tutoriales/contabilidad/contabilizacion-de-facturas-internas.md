@@ -1,8 +1,4 @@
----
-description: Órdenes de reparación internas
----
-
-# Contabilización de facturas internas de taller
+# Contabilización de facturas internas
 
 Hasta ahora las facturas internas en Winmotor no se contabilizaban: era un documento que quedaba en gestión y afectaba por lo tanto a las estadísticas y al stock. A partir de ahora se podrán contabilizar las facturas internas utilizando cuentas del grupo “0” (con una excepción que explicaremos más adelante). Además, sólo se podían hacer facturas internas desde órdenes de reparación, ahora también se pueden hacer albaranes internos y facturarlos.
 
