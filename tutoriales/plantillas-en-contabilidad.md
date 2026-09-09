@@ -12,7 +12,7 @@ La opción la encontramos en Administración > Contabilidad > Maestros > Plantil
 
 Mostrará la rejilla con todas las plantillas disponibles y que se podrán editar desde aquí una vez dadas de **alta**:
 
-1.- La manera más fácil de grabar una plantailla es desde un asiento completo y antes de aceptar, mediante el botón **"Opciones" > "Generar plantilla de asiento":**
+1.- La manera más fácil de grabar una plantilla es usando un asiento ya relleno y antes de aceptar, mediante el botón <mark style="color:$primary;">**"Opciones" > "Generar plantilla de asiento":**</mark>
 
 <figure><img src="../.gitbook/assets/imagen (124) (1).png" alt=""><figcaption></figcaption></figure>
 
