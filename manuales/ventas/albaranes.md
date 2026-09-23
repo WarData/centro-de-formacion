@@ -6,17 +6,9 @@
 
 ALBARANES DE VENTA
 
-Mediante esta opción, podremos grabar, modificar o consultar todos los albaranes de venta que hemos realizado. Al entrar en ella, nos aparece un menú con calendario, filtros de facturación y cliente en el que se nos presentan hasta 4 opciones y una rejilla que nos muestra todos los albaranes que hemos realizado en el día seleccionado en el calendario tras pulsación de F5 o el botón Actualizar.
+Abre el menú de albaranes de venta, donde podremos grabar, modificar o consultarlos según los filtros que apliquemos en el panel.
 
-**AÑADIDO NUEVO MENÚ 2.0 DE ALBARANES DE VENTAS**
-
-Se ha hecho un cambio visual y operativo al menú de albaranes de ventas para que sea más intuitivo y con nuevas utilidades para mejorar la navegación del usuario en el programa.
-
-Sustituye el anterior panel de albaranes de ventas, por lo que el acceso es el mismo VENTAS > ALBARANES
-
-![](<../../.gitbook/assets/imagen (7) (2) (1) (1).png>)
-
-El nuevo diseño del panel:
+Diseño del panel:
 
 ![](<../../.gitbook/assets/imagen (9) (2) (1).png>)
 

@@ -1,12 +1,27 @@
 # Menú OR
 
-Los siguientes atajos se encuentran en el panel izquierdo del menú principal de las órdenes de reparación. Estas opciones estarán disponibles dependiendo el tipo de perfil que tenga el usuario. Para más información sobre perfiles siga este [enlace](../../../configuracion/permisos-perfiles/).
+El menú de órdenes de reparación está diseñado como en la siguiente imagen:
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="234"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
 
-* F1 Nueva OR
+Hay distintos filtros con los que podremos ir presentando las órdenes que nos vayan interesando. Los filtros disponibles son:
 
-Opción para dar de alta una OR. Para más información siga este [enlace](alta-de-una-or.md).
+* Por fecha
+* Cliente
+* Serie de orden de reparación
+* Vehículo
+* Tipos de OR
+* Situaciones de OR
+
+Las opciones disponibles en la botonera del panel son
+
+* Más filtros: presenta y oculta la lista de filtros disponibles menos usados
+* Nueva orden: pción para dar de alta una OR. Para más información siga este [enlace](alta-de-una-or.md).
+* Recalcular: recalcula el listado de ORs según los filtros aplicados en ese momento
+* Opciones: presenta un listado de opciones a realizar
+  *
+
+
 
 * F2 Buscar OR
 

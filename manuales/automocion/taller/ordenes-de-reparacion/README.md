@@ -1,8 +1,6 @@
 # Órdenes de Reparación
 
-Mediante este menú, podremos grabar, modificar o consultar todas los ordenes de reparación que hemos realizado. Al entrar en ella, nos aparecen varios filtros con calendario, vehículo y cliente, por tipo de OR y por situación de la OR y de los recambios asociados a ella:
-
-<figure><img src="../../../../.gitbook/assets/imagen (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Las órdenes de reparación son los documentos donde se gestionan las reparaciones que se hacen sobre los vehículos. En una orden de reparación podremos recoger los servicios, mano de obra y recambios que se necesitan. A cada orden a su vez se le podrán imputar los tiempos dedicados a la reparación del vehículo por parte de cada mecánico ([intervenciones](../intervenciones.md)). Todo lo que carguemos a cada orden se podrá clasificar entre distintos tipos de cargo (cliente, siniestro, garantía o interno).
 
 Algo característico de los documentos orden de reparación son el campo [tipo de OR](../tipos-or.md), la situación de la OR y sus recambios y disponer de 4 a 5 (en Honda) imputaciones distintas como siniestro, cliente, garantía e interno. Los tipos de OR sirven tanto para identificar y clasificar las OR como para un alta más ligera, al permitir que, al indicar un tipo en el alta, se rellene automáticamente un tipo de imputación y un [tempario](../temparios.md).
 
