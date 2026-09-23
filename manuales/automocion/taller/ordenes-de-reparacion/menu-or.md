@@ -19,36 +19,29 @@ Las opciones disponibles en la botonera del panel son
 * Nueva orden: pción para dar de alta una OR. Para más información siga este [enlace](alta-de-una-or.md).
 * Recalcular: recalcula el listado de ORs según los filtros aplicados en ese momento
 * Opciones: presenta un listado de opciones a realizar
-  *
+  * Buscar OR
+    * Localizador de OR por Nº de Documento, Fecha, Referencia, Nombre Entidad, Matrícula o Bastidor.
+  * Listados de taller
+    * [Listar OR](listados-ordenes-de-reparacion.md)
+    * Material pendiente de recepcionar
+    * Material pendiente de instalar
+  * Facturación de órdenes
+    * Opción para facturación en tanda de órdenes
+  * Estadísticas de taller (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
+    * Estadísticas
+    * Intervenciones
+    * Producción de taller
+    * Tiempos facturados por operario
+    * Temparios por OR
+    * KPI - producción de taller (exclusivo Yamaha)
+    * DSR (exclusivo Yamaha)
+  * Vehículos en taller
+    * Presenta los vehículos que actualmente hay en el taller. Un vehículo se considera que está en taller cuando su última orden está en situación parcialmente facturada, en curso o pte de facturar, y se ha marcado el vehiculo como "recepcionado". Que un vehículo se marque como recepcionado se puede parametrizar en la serie de la orden para que se haga automáticamente en la apertura. Cuando se facture dejará de estar en taller.
+  * Imprimir
+    * Imprime el listado de órdenes presentadas en el panel. El impreso es configurable.
+  * Cambiar vista (cita) y Cambiar vista (bloc)
+    * Presenta el listado de órdenes con distinto formato.
+  * Establecer filtro por defecto
+    * Guarda los filtros aplicados en el panel para que sean esos por defecto. La próxima vez que entremos en el menú de órdenes con nuestro usuario se aplicarán estos mismos filtros.&#x20;
+    * Nos sirve por ejemplo por si queremos ver siempre de inicio las órdenes en curso.
 
-
-
-* F2 Buscar OR
-
-Localizador de OR por: Nº de Documento, Fecha, Referencia, Nombre Entidad, Matrícula o Bastidor.
-
-* F3 Listados
-
-| Tipo de listado                   | Descripción                                                                                                                                                                        |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Listar OR                         | Listado de OR en base a unos criterios dados. En este listado aparece: Código, Fecha, Tipo de OR, Cliente, Vehículo, Situación                                                     |
-| Material pendiente de recepcionar | Listado de líneas de órdenes de reparación que están pendientes de recibir y recepcionar. En este listado aparecen los datos relativos a las líneas del pedido de compras generado |
-| Material pendiente de instalar    | Listado de líneas de órdenes de reparación que están pendientes de instalar.                                                                                                       |
-
-* F4 Facturación
-
-Opción para facturación en tanda.
-
-* F6 Estadísticas (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
-
-| Tipo de listado                 | Descripción                                                                                                                                     |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Estadísticas                    | Listado de OR en el que se presentan las estadísticas de ingresos, costo y beneficio por orden de reparación y la estadística total del listado |
-| Intervenciones                  | Listado estadístico de las intervenciones realizadas por operarios                                                                              |
-| Producción de taller            | Listado estadístico de la producción de taller                                                                                                  |
-| Tiempos facturados por operario | Listado que muestra la estadística de tiempos facturados por operarios                                                                          |
-| Temparios por OR                | Listado de estadísticas de beneficio por temparios                                                                                              |
-
-* F7 Vehículos en taller
-
-Listado de vehículos que están actualmente en taller.
