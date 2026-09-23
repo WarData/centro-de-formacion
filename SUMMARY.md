@@ -371,6 +371,7 @@
   * [Asignar nuevos vehículos a nuevos clientes, existentes o asignar vehículo existente a otro cliente](faq/taller/asignar-nuevos-vehiculos-a-nuevos-clientes-existentes-o-asignar-vehiculo-existente-a-otro-cliente.md)
   * [¿Cómo uso las Intervenciones y Operaciones de Taller?](faq/intervenciones-y-operaciones-de-taller.md)
   * [Cambiar la imputación de una partida en OR](faq/cambiar-la-imputacion-de-una-partida-en-or.md)
+  * [Órdenes de taller internas](faq/taller/ordenes-de-taller-internas.md)
 * [Recambios](faq/recambios/README.md)
   * [Pedidos](faq/pedidos/README.md)
     * [Flujo de Pedidos (Ventas / Compras)](faq/pedidos/flujo-de-pedidos-ventas-compras.md)
