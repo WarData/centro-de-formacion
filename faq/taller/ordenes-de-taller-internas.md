@@ -1,10 +1,6 @@
----
-description: Factura no reglada
----
-
 # Órdenes de taller internas
 
-**Sistema general de tratamiento para las órdenes de taller internas**
+**Sistema general de tratamiento para las órdenes de taller internas - Factura no reglada**
 
 
 
