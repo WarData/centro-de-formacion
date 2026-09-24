@@ -21,13 +21,13 @@ Las opciones disponibles en la botonera del panel son
 * Opciones: presenta un listado de opciones a realizar
   * Buscar OR
     * Localizador de OR por Nº de Documento, Fecha, Referencia, Nombre Entidad, Matrícula o Bastidor.
-  * [Listados de taller](listados-ordenes-de-reparacion.md)
+  * [Listados de taller](listados-ordenes-de-reparacion/)
     * Listar OR
     * Material pendiente de recepcionar
     * Material pendiente de instalar
   * Facturación de órdenes
     * Opción para facturación en tanda de órdenes
-  * [Estadísticas de taller](listados-ordenes-de-reparacion.md) (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
+  * [Estadísticas de taller](listados-ordenes-de-reparacion/) (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
     * Estadísticas
     * Intervenciones
     * Producción de taller
