@@ -21,13 +21,13 @@ Las opciones disponibles en la botonera del panel son
 * Opciones: presenta un listado de opciones a realizar
   * Buscar OR
     * Localizador de OR por Nº de Documento, Fecha, Referencia, Nombre Entidad, Matrícula o Bastidor.
-  * Listados de taller
-    * [Listar OR](listados-ordenes-de-reparacion.md)
+  * [Listados de taller](listados-ordenes-de-reparacion.md)
+    * Listar OR
     * Material pendiente de recepcionar
     * Material pendiente de instalar
   * Facturación de órdenes
     * Opción para facturación en tanda de órdenes
-  * Estadísticas de taller (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
+  * [Estadísticas de taller](listados-ordenes-de-reparacion.md) (\*se necesita el permiso especial  'Ver estadísticas de taller' en el perfil)
     * Estadísticas
     * Intervenciones
     * Producción de taller
@@ -36,7 +36,7 @@ Las opciones disponibles en la botonera del panel son
     * KPI - producción de taller (exclusivo Yamaha)
     * DSR (exclusivo Yamaha)
   * Vehículos en taller
-    * Presenta los vehículos que actualmente hay en el taller. Un vehículo se considera que está en taller cuando su última orden está en situación parcialmente facturada, en curso o pte de facturar, y se ha marcado el vehiculo como "recepcionado". Que un vehículo se marque como recepcionado se puede parametrizar en la serie de la orden para que se haga automáticamente en la apertura. Cuando se facture dejará de estar en taller.
+    * Presenta los vehículos que actualmente hay en el taller. Un vehículo se considera que está en taller cuando su última orden está en situación parcialmente facturada, en curso o pte de facturar, y se ha marcado el vehículo como "recepcionado". Que un vehículo se marque como recepcionado se puede parametrizar en la serie de la orden para que se haga automáticamente en la apertura. Cuando se facture dejará de estar en taller.
   * Imprimir
     * Imprime el listado de órdenes presentadas en el panel. El impreso es configurable.
   * Cambiar vista (cita) y Cambiar vista (bloc)
