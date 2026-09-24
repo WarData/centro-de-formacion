@@ -36,11 +36,11 @@ _**Estadísticas**_
 * Listado de ORs en el que se presenta por cada OR/cargo los ingresos, costes y beneficio separados por material, mano de obra y servicios.
 * Inicialmente podremos filtrar por los criterios que se observan en la siguiente imagen
 
-<figure><img src="/broken/files/8GALTrow8cbeCCVL7Oug" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (739).png" alt=""><figcaption></figcaption></figure>
 
 * Si seleccionamos ORs facturadas, solo nos presentará los cargos facturados de cada orden. Por ejemplo, si una misma orden tiene el cargo a cliente pendiente de facturar y el cargo a siniestro facturado, en este listado cuando pedimos lo facturado, solo nos devolverá la estadística del cargo a siniestro.
 
-<figure><img src="/broken/files/X9xapJjrMFaVtHp9xON4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
 
 * En la parte inferior de la rejilla tenemos varios botones para:
   * Imprimir Detalle: presenta un informe personalizable con el detalle de lo que vemos en pantalla.
@@ -56,11 +56,11 @@ _**Intervenciones**_
 * Listado estadístico de las intervenciones realizadas por operarios
 * Podremos filtrar por los siguientes criterios
 
-<figure><img src="/broken/files/QoxNdfDByJ0eM4tZ90TL" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (741).png" alt=""><figcaption></figcaption></figure>
 
 * Presenta una línea por cada mecánico / trabajo con la fecha/hora de inicio y fin, el tiempo total empleado y el coste de esa intervención. El coste se calcula multiplicando el tiempo de la intervención por el coste definido en la ficha del mecánico en el momento en que se creó dicha intervención. Es decir, si cuando se creó una intervención el coste del mecánico era 10 €/hora, y ahora lo hemos cambiado a 20, el coste de dicha internvención se presenta en este listado multiplicado por 10, no por 20.
 
-<figure><img src="/broken/files/Z3Obyl8VJ4OuUPsAEz49" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
 
 _**Producción de taller**_
 
