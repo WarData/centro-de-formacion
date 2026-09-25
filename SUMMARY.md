@@ -396,6 +396,7 @@
   * [Número máximo de familias a presentar en las estadísticas de producción](faq/numero-maximo-de-familias-a-presentar-en-las-estadisticas-de-produccion.md)
   * [¿Cómo vuelvo una operación facturada a iniciada?](faq/comercial/como-vuelvo-una-operacion-facturada-a-iniciada.md)
   * [Operación Promo Caixa](faq/comercial/operacion-promo-caixa.md)
+  * [Operación Display](faq/comercial/operacion-display.md)
 * [General](faq/general/README.md)
   * [Alta de vehículo en OR de taller - alta de VO en albarán de compras - alta VN / VN en cesiones](faq/general/alta-de-vehiculo-en-or-de-taller-alta-de-vo-en-albaran-de-compras-alta-vn-vn-en-cesiones.md)
   * [Convertir un bastidor a unidad demo](faq/general/convertir-un-bastidor-a-unidad-demo.md)
