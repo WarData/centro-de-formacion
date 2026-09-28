@@ -7,9 +7,17 @@ Para dar de alta una nueva cuenta de tesorería desde el panel de Tesorería, de
 {% hint style="info" %}
 IMPORTANTE
 
-Para que un usuario pueda hacer uso de una cuenta de tesorería, es necesario que dicha cuenta esté configurada en el <mark style="color:red;">perfil</mark> de usuario correspondiente (al final, en pestañas comunes, se explica cómo realizar esta configuración).&#x20;
+Para que un usuario pueda hacer uso de una cuenta de tesorería, es necesario que dicha cuenta esté configurada en el <mark style="color:red;">perfil</mark> de usuario correspondiente (al final, en pestañas comunes, se explica cómo realizar esta configuración), aunque recomendamos el siguiente proceso:
 
-Una vez configurada, el usuario debe <mark style="color:red;">cerrar y volver a abrir el programa</mark> para que los cambios en el perfil se apliquen correctamente.
+1.- Justo al dar de alta la cuenta de tesorería entrar en ella con doble clic:
+
+![](<../../../.gitbook/assets/image (755).png>)
+
+2.- Ir a la pestaña **"Perfiles" y seleccionar perfiles a la derecha y enviar a la izquierda para activar en esos perfiles la cuenta creada:**
+
+<img src="../../../.gitbook/assets/image (758).png" alt="" data-size="original">
+
+3.-  Una vez configurada, el usuario debe <mark style="color:red;">cerrar y volver a abrir el programa</mark> para que los cambios en el perfil se apliquen correctamente.
 {% endhint %}
 
 En el alta nos aparecerá una ventana emergente donde nos pide rellenar una serie de datos como el nombre de la cuenta, el tipo de cuenta o el número de cuenta
