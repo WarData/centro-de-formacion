@@ -1,5 +1,9 @@
 # Cuentas de tesorería
 
+<mark style="color:$danger;">**Vídeo sobre alta de una nueva cuenta de tesorería:**</mark>
+
+{% embed url="https://youtu.be/Y36AsanSAqM" %}
+
 Para dar de alta una nueva cuenta de tesorería desde el panel de Tesorería, debemos dar clic derecho _→_ Alta de ficha o dando doble clic en una zona sin datos de la rejilla
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
